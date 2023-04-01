@@ -73,12 +73,20 @@ for (i in 1:nrow(posts)) {
       html_element('.author') %>%
       html_text()
     
+    # Extract post comment count
+    post_comments = post_html %>%
+      html_element('article.post footer section.post-actions li.meta-item .meta-text') %>%
+      html_text() %>%
+      {sub(' Comments', '', .)} %>%
+      as.numeric()
+    
     # Save table of post metadata
     tibble(
       id = post_id,
       time = post_time,
       title = post_title,
-      author = post_author
+      author = post_author,
+      comments = post_comments
     ) %>%
       write_csv(paste0(post_dir, '/metadata.csv'))
     

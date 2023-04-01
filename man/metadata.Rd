@@ -12,6 +12,7 @@ Data frame with columns
 \item{time}{Post publication time}
 \item{title}{Post title}
 \item{author}{Post author}
+\item{comments}{Post comment count}
 }
 }
 \source{
