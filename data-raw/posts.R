@@ -41,7 +41,7 @@ for (i in 1:nrow(posts)) {
   if (is.na(post_metadata_mtime) | posts$lastmod[i] > post_metadata_mtime) {
     
     # Wait
-    Sys.sleep(1)
+    Sys.sleep(2)
     
     # Read post HTML
     post_url = paste0(BLOG_URL, post_path)

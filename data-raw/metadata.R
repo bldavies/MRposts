@@ -22,7 +22,11 @@ source('data-raw/globals.R')
 replace_non_ascii = function(x) {
   subfun = function(x, pattern, y) gsub(pattern, y, x)
   x %>%
+    subfun('ć', 'c') %>%
+    subfun('é', 'e') %>%
+    subfun('ë', 'e') %>%
     subfun('í', 'i') %>%
+    subfun('ó', 'o') %>%
     subfun('õ', 'o') %>%
     subfun('ô', 'o') %>%
     subfun('ú', 'u') %>%
@@ -63,8 +67,7 @@ for (year_dir in year_dirs) {
                res = map(file, vroom, show_col_types = F)) %>%
         select(-file) %>%
         unnest('res') %>%
-        arrange(time) %>%
-        mutate(title = replace_non_ascii(title))
+        arrange(time)
       
       # Save table
       write_csv(dat, cache_file)
@@ -77,7 +80,8 @@ for (year_dir in year_dirs) {
 cache_files = list.files(cache_dir, full.names = T)
 metadata = cache_files %>%
   vroom(show_col_types = F) %>%
-  filter(date(time) %in% DATE_RANGE)
+  filter(date(time) %in% DATE_RANGE) %>%
+  mutate(title = replace_non_ascii(title))
 
 # Assert IDs are unique
 if (max(count(metadata, id)$n) > 1) {
