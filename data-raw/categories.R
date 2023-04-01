@@ -9,6 +9,7 @@
 # Load packages
 library(dplyr)
 library(readr)
+library(usethis)
 library(vroom)
 
 # Import globals
@@ -25,6 +26,7 @@ categories = list.files(POSTS_DIR, 'categories[.]csv', full.names = T, recursive
 
 # Save table
 write_csv(categories, 'data-raw/categories.csv')
+use_data(categories, overwrite = T)
 
 # Save session info
 if ('bldr' %in% rownames(installed.packages())) {

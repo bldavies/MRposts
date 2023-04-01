@@ -12,6 +12,7 @@ library(lubridate)
 library(purrr)
 library(readr)
 library(tidyr)
+library(usethis)
 library(vroom)
 
 # Import globals
@@ -53,6 +54,7 @@ if (max(count(metadata, id)$n) > 1) {
 
 # Save table
 write_csv(metadata, 'data-raw/metadata.csv')
+use_data(metadata, overwrite = T)
 
 # Save session info
 if ('bldr' %in% rownames(installed.packages())) {

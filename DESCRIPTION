@@ -1,0 +1,17 @@
+Package: MRposts
+Type: Package
+Title: Marginal Revolution Posts
+Version: 1.2.1
+Authors@R:
+  person(given = "Benjamin",
+         family = "Davies",
+         email = "dev@bldavies.com",
+         role = c("aut", "cre"),
+         comment = c(ORCID = "0000-0002-1749-4567"))
+Description: Data on Marginal Revolution blog posts.
+Depends: R (>= 2.10)
+Suggests: dplyr
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
