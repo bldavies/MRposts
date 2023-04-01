@@ -4,10 +4,11 @@
 # It must be run after data-raw/posts.R.
 #
 # Ben Davies
-# March 2023
+# April 2023
 
 # Load packages
 library(dplyr)
+library(lubridate)
 library(purrr)
 library(readr)
 library(tidyr)
@@ -20,6 +21,10 @@ source('data-raw/globals.R')
 replace_non_ascii = function(x) {
   subfun = function(x, pattern, y) gsub(pattern, y, x)
   x %>%
+    subfun('í', 'i') %>%
+    subfun('õ', 'o') %>%
+    subfun('ô', 'o') %>%
+    subfun('ú', 'u') %>%
     subfun('‘', '\'') %>%
     subfun('’', '\'') %>%
     subfun('“', '"') %>%
@@ -32,10 +37,13 @@ replace_non_ascii = function(x) {
 # Create table
 metadata = tibble(file = list.files(POSTS_DIR, 'metadata[.]csv', full.names = T, recursive = T)) %>%
   mutate(path = sub(paste0(POSTS_DIR, '/(.*)/metadata.csv'), '\\1', file),
-         res = map(file, vroom, show_col_types = F)) %>%
-  select(-file) %>%
+         month = as_date(paste0(substr(path, 1, 8), '01'))) %>%
+  filter(month %in% unique(floor_date(DATE_RANGE, 'months'))) %>%
+  mutate(res = map(file, vroom, show_col_types = F)) %>%
+  select(-file, -month) %>%
   unnest('res') %>%
   arrange(time) %>%
+  filter(as_date(time) %in% DATE_RANGE) %>%
   mutate(title = replace_non_ascii(title))
 
 # Assert IDs are unique
