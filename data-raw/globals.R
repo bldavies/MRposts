@@ -7,6 +7,6 @@
 
 BLOG_URL = 'https://marginalrevolution.com/marginalrevolution/'
 
-DATE_RANGE = seq(as.Date('2023-01-01'), as.Date('2023-01-31'), by = 'days')
+DATE_RANGE = seq(as.Date('2023-01-01'), as.Date('2023-02-28'), by = 'days')
 
 POSTS_DIR = 'data-raw/posts/'
