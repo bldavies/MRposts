@@ -1,6 +1,6 @@
 all: data
 
-data: sitemap posts
+data: sitemap posts metadata
 
 sitemap:
 	Rscript data-raw/sitemap.R
@@ -8,4 +8,7 @@ sitemap:
 posts:
 	Rscript data-raw/posts.R
 
-.PHONY: all data sitemap posts
+metadata:
+	Rscript data-raw/metadata.R
+
+.PHONY: all data sitemap posts metadata
