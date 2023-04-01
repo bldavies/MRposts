@@ -4,7 +4,7 @@
 # It must be run after data-raw/sitemap.R.
 #
 # Ben Davies
-# March 2023
+# April 2023
 
 # Load packages
 library(dplyr)
@@ -41,10 +41,10 @@ for (i in 1:nrow(posts)) {
   if (is.na(post_metadata_mtime) | posts$lastmod[i] > post_metadata_mtime) {
     
     # Wait
-    Sys.sleep(2)
+    Sys.sleep(3)
     
     # Read post HTML
-    post_url = paste0(BLOG_URL, post_path)
+    post_url = paste0(BLOG_URL, post_path, '.html')
     post_html = read_html(post_url)
     
     # Extract post ID

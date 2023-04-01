@@ -28,6 +28,7 @@ replace_non_ascii = function(x) {
     subfun('í', 'i') %>%
     subfun('ó', 'o') %>%
     subfun('õ', 'o') %>%
+    subfun('ö', 'o') %>%
     subfun('ô', 'o') %>%
     subfun('ú', 'u') %>%
     subfun('‘', '\'') %>%
