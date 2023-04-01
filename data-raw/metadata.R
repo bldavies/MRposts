@@ -35,17 +35,49 @@ replace_non_ascii = function(x) {
     subfun('…', '...')
 }
 
-# Create table
-metadata = tibble(file = list.files(POSTS_DIR, 'metadata[.]csv', full.names = T, recursive = T)) %>%
-  mutate(path = sub(paste0(POSTS_DIR, '/(.*)/metadata.csv'), '\\1', file),
-         month = as_date(paste0(substr(path, 1, 8), '01'))) %>%
-  filter(month %in% unique(floor_date(DATE_RANGE, 'months'))) %>%
-  mutate(res = map(file, vroom, show_col_types = F)) %>%
-  select(-file, -month) %>%
-  unnest('res') %>%
-  arrange(time) %>%
-  filter(as_date(time) %in% DATE_RANGE) %>%
-  mutate(title = replace_non_ascii(title))
+# Initialize cache directory
+cache_dir = 'data-raw/metadata'
+if (!dir.exists(cache_dir)) dir.create(cache_dir)
+
+# Iterate over years
+year_dirs = list.dirs(POSTS_DIR, recursive = F)
+for (year_dir in year_dirs) {
+  
+  # Iterate over months
+  month_dirs = list.dirs(year_dir, recursive = F)
+  for (month_dir in month_dirs) {
+    
+    # List post-specific files
+    files = list.files(month_dir, 'metadata[.]csv', full.names = T, recursive = T)
+  
+    # Construct cache file path
+    month_ext = sub(paste0(POSTS_DIR, '/'), '', month_dir)
+    cache_file = sub('(.*)/(.*)', paste0(cache_dir, '/\\1-\\2.csv'), month_ext)
+    
+    # Create/update cache file
+    if (!file.exists(cache_file) | max(file.mtime(files)) > file.mtime(cache_file)) {
+      
+      # Create table
+      dat = tibble(file = files) %>%
+        mutate(path = sub(paste0(POSTS_DIR, '/(.*)/metadata.csv'), '\\1', file),
+               res = map(file, vroom, show_col_types = F)) %>%
+        select(-file) %>%
+        unnest('res') %>%
+        arrange(time) %>%
+        mutate(title = replace_non_ascii(title))
+      
+      # Save table
+      write_csv(dat, cache_file)
+      
+    }
+  }
+}
+
+# Combine cached files into single table
+cache_files = list.files(cache_dir, full.names = T)
+metadata = cache_files %>%
+  vroom(show_col_types = F) %>%
+  filter(date(time) %in% DATE_RANGE)
 
 # Assert IDs are unique
 if (max(count(metadata, id)$n) > 1) {
