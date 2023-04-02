@@ -23,10 +23,13 @@ replace_non_ascii = function(x) {
   subfun = function(x, pattern, y) gsub(pattern, y, x)
   x %>%
     subfun('á', 'a') %>%
+    subfun('ã', 'a') %>%
     subfun('ä', 'a') %>%
     subfun('ć', 'c') %>%
+    subfun('ç', 'c') %>%
     subfun('c̶', 'c') %>%
     subfun('é', 'e') %>%
+    subfun('è', 'e') %>%
     subfun('ë', 'e') %>%
     subfun('í', 'i') %>%
     subfun('L̶', 'L') %>%
