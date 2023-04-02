@@ -1,7 +1,7 @@
 Package: MRposts
 Type: Package
 Title: Marginal Revolution Posts
-Version: 1.2.1
+Version: 0.1.0
 Authors@R:
   person(given = "Benjamin",
          family = "Davies",
