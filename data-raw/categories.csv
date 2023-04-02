@@ -1,21 +1,3955 @@
 id,category
+65287,Data Source
+65287,Economics
+65502,Books
+65502,Economics
+67008,Books
+67008,Education
+67008,History
+67008,Philosophy
+67119,Economics
+67172,Data Source
+67172,Economics
+67344,Data Source
+67344,Economics
+67344,History
+67344,Science
+67364,Economics
+67367,Current Affairs
+67367,Economics
+67367,Education
+67367,Law
+67367,Political Science
+67392,Current Affairs
+67392,Economics
+67392,Political Science
+67409,Data Source
+67409,Economics
+67409,Law
+67409,Political Science
+67413,Current Affairs
+67413,Economics
+67415,Current Affairs
+67415,Science
+67415,Travel
+67417,Data Source
+67417,Economics
+67417,Medicine
+67419,Current Affairs
+67419,History
+67419,Political Science
+67420,Books
+67420,Economics
+67420,History
+67420,Political Science
+67421,Science
+67421,The Arts
+67421,Web/Tech
+67424,Current Affairs
+67424,Economics
+67424,Food and Drink
+67424,History
+67428,Current Affairs
+67428,Data Source
+67428,Economics
+67428,Law
+67430,Data Source
+67430,Economics
+67430,Religion
+67434,Current Affairs
+67434,Law
+67434,Political Science
+67435,Books
+67435,Film
+67435,Law
+67435,Philosophy
+67436,Economics
+67440,Economics
+67441,Current Affairs
+67441,Economics
+67441,Law
+67441,Medicine
+67442,Data Source
+67442,Economics
+67442,History
+67443,Current Affairs
+67443,Economics
+67445,Data Source
+67445,Education
+67445,Science
+67446,Current Affairs
+67446,Science
+67449,Data Source
+67449,Economics
+67449,Science
+67451,Books
+67451,Economics
+67451,Web/Tech
+67453,Books
+67453,Current Affairs
+67453,History
+67453,Political Science
+67454,Data Source
+67454,Education
+67454,Law
+67454,Political Science
+67455,Current Affairs
+67455,Data Source
+67455,Economics
+67456,Books
+67456,Science
+67458,Economics
+67459,Data Source
+67459,Games
+67459,Science
+67459,Sports
+67462,Current Affairs
+67462,Economics
+67463,Economics
+67463,Education
+67463,Law
+67463,Political Science
+67465,Current Affairs
+67465,Economics
+67468,Economics
+67468,Education
+67468,Political Science
+67471,Books
+67471,Data Source
+67471,Web/Tech
+67472,Books
+67472,Economics
+67472,Education
+67472,History
+67472,Philosophy
+67472,Science
+67473,Current Affairs
+67473,Economics
+67473,Education
+67473,History
+67475,Data Source
+67475,Medicine
+67475,Philosophy
+67475,Web/Tech
+67476,Data Source
+67476,Economics
+67478,Current Affairs
+67478,Economics
+67478,Law
+67478,Political Science
+67481,Current Affairs
+67481,History
+67481,Law
+67481,Political Science
+67482,Current Affairs
+67482,Economics
+67485,Current Affairs
+67486,Current Affairs
+67486,Economics
+67487,Current Affairs
+67487,Economics
+67487,Political Science
+67488,Data Source
+67488,Economics
+67488,History
+67491,Current Affairs
+67491,Data Source
+67491,Economics
+67492,Economics
+67492,Education
+67492,History
+67494,Books
+67494,Data Source
+67494,Education
+67494,Philosophy
+67494,Science
+67496,Economics
+67496,Law
+67496,Medicine
+67497,Data Source
+67497,Travel
+67497,Web/Tech
+67500,Current Affairs
+67500,Data Source
+67500,Economics
+67502,Education
+67502,Law
+67502,Science
+67504,Economics
+67504,Film
+67504,Television
+67506,Books
+67507,Data Source
+67507,Economics
+67507,History
+67507,Law
+67508,Current Affairs
+67508,Political Science
+67510,Books
+67510,Current Affairs
+67510,Economics
+67512,Current Affairs
+67512,Economics
+67512,Education
+67512,Law
+67513,Film
+67513,History
+67513,Philosophy
+67513,Political Science
+67514,Current Affairs
+67514,Economics
+67515,Food and Drink
+67518,Books
+67518,Current Affairs
+67518,Economics
+67518,History
+67518,Law
+67518,Philosophy
+67518,Political Science
+67521,Current Affairs
+67521,Data Source
+67521,Economics
+67523,Data Source
+67523,History
+67523,Political Science
+67525,Economics
+67528,Current Affairs
+67528,Law
+67528,Medicine
+67532,Current Affairs
+67532,Data Source
+67532,Science
+67533,Current Affairs
+67533,Data Source
+67533,Medicine
+67535,Current Affairs
+67535,Economics
+67535,History
+67535,Law
+67536,Current Affairs
+67536,Data Source
+67536,Economics
+67541,Economics
+67541,Law
+67541,Religion
+67547,Current Affairs
+67547,Economics
+67550,Data Source
+67550,Economics
+67550,Education
+67550,Philosophy
+67550,Political Science
+67551,Economics
+67551,Law
+67551,Science
+67551,Web/Tech
+67553,Economics
+67553,Web/Tech
+67554,Economics
+67554,Education
+67556,Current Affairs
+67556,Economics
+67556,Law
+67560,Current Affairs
+67560,Data Source
+67560,History
+67560,Law
+67560,Political Science
+67562,Books
+67564,Books
+67567,Books
+67567,Current Affairs
+67568,Books
+67568,Current Affairs
+67568,Political Science
+67569,Current Affairs
+67569,Economics
+67570,Books
+67570,Philosophy
+67572,Books
+67572,Current Affairs
+67572,Economics
+67572,Education
+67572,History
+67572,Philosophy
+67572,Science
+67572,Web/Tech
+67575,Current Affairs
+67575,Education
+67575,Medicine
+67575,Political Science
+67575,Television
+67579,Economics
+67579,Education
+67579,Political Science
+67582,Data Source
+67582,Economics
+67583,Economics
+67583,Education
+67583,History
+67583,Music
+67583,Philosophy
+67583,Sports
+67586,Economics
+67586,Weblogs
+67587,Data Source
+67587,Economics
+67587,Travel
+67589,Books
+67589,Economics
+67590,Economics
+67590,Education
+67592,Books
+67592,Economics
+67592,Education
+67592,History
+67593,Current Affairs
+67593,Economics
+67593,Political Science
+67595,Current Affairs
+67595,Economics
+67596,Books
+67596,Economics
+67596,History
+67596,Philosophy
+67596,Political Science
+67599,Food and Drink
+67599,Law
+67599,Medicine
+67601,Economics
+67601,Philosophy
+67604,Economics
+67604,Games
+67604,Science
+67607,Data Source
+67607,Economics
+67607,Science
+67607,Web/Tech
+67609,Data Source
+67609,Education
+67609,Games
+67609,Science
+67609,Web/Tech
+67611,Economics
+67611,Law
+67612,Economics
+67612,Education
+67612,Web/Tech
+67613,Books
+67613,Economics
+67613,Philosophy
+67615,Current Affairs
+67615,Data Source
+67615,Economics
+67617,Data Source
+67617,Food and Drink
+67617,History
+67617,Political Science
+67619,Economics
+67619,Education
+67620,Economics
+67620,Education
+67620,History
+67620,Philosophy
+67623,Books
+67623,Economics
+67623,History
+67623,Science
+67625,History
+67625,Science
+67626,Books
+67626,Current Affairs
+67626,Film
+67626,Music
+67626,The Arts
+67628,Economics
+67628,Law
+67628,Medicine
+67630,Books
+67630,History
+67630,Law
+67630,Political Science
+67630,Religion
+67630,Science
+67631,Current Affairs
+67631,Data Source
+67631,History
+67631,Political Science
+67632,Current Affairs
+67632,Education
+67632,Music
+67632,Philosophy
+67632,Political Science
+67632,Science
+67634,Economics
+67634,Law
+67634,Web/Tech
+67635,Economics
+67638,Books
+67638,Current Affairs
+67638,Data Source
+67638,Political Science
+67639,Books
+67640,Law
+67640,Science
+67640,Web/Tech
+67642,Data Source
+67642,Economics
+67642,Political Science
+67644,Books
+67644,Religion
+67645,Education
+67645,History
+67645,Medicine
+67647,Current Affairs
+67647,Economics
+67647,Law
+67648,Books
+67648,Current Affairs
+67648,Economics
+67648,Education
+67648,Film
+67648,History
+67648,Music
+67648,Philosophy
+67648,Political Science
+67648,Religion
+67648,Sports
+67648,The Arts
+67653,Books
+67653,Economics
+67653,Education
+67654,Books
+67654,Current Affairs
+67654,Economics
+67655,Data Source
+67655,Economics
+67655,Games
+67655,Sports
+67656,Economics
+67656,Education
+67658,Books
+67658,Data Source
+67658,Economics
+67658,History
+67659,Science
+67659,Web/Tech
+67660,Data Source
+67660,Economics
+67660,Education
+67666,Books
+67666,Economics
+67666,History
+67668,Current Affairs
+67668,Economics
+67668,Sports
+67673,Current Affairs
+67673,Economics
+67673,Web/Tech
+67675,History
+67675,Philosophy
+67675,Science
+67676,Current Affairs
+67676,Economics
+67676,Web/Tech
+67677,Food and Drink
+67680,Film
+67682,Books
+67682,History
+67682,Law
+67682,Political Science
+67683,Science
+67683,Travel
+67683,Web/Tech
+67684,Film
+67685,Books
+67685,Education
+67685,Philosophy
+67686,Economics
+67686,Law
+67686,Medicine
+67688,Current Affairs
+67688,Economics
+67689,Current Affairs
+67689,Data Source
+67689,Economics
+67690,Economics
+67690,Philosophy
+67690,Religion
+67691,Current Affairs
+67691,Political Science
+67691,Web/Tech
+67693,Economics
+67693,Education
+67696,Current Affairs
+67696,Economics
+67698,Current Affairs
+67698,Economics
+67699,Data Source
+67699,Economics
+67700,Current Affairs
+67700,Economics
+67702,Current Affairs
+67702,Economics
+67702,Web/Tech
+67703,Political Science
+67703,Web/Tech
+67703,Weblogs
+67706,Economics
+67706,Travel
+67707,Data Source
+67707,Economics
+67707,History
+67707,Science
+67711,Books
+67711,Education
+67712,Books
+67716,Books
+67716,Data Source
+67716,Economics
+67719,Current Affairs
+67719,Economics
+67722,Data Source
+67722,Economics
+67722,History
+67722,Law
+67722,Science
+67723,Economics
+67723,Law
+67723,Political Science
+67724,Current Affairs
+67724,Economics
+67726,Economics
+67726,Education
+67729,Economics
+67729,Law
+67729,Political Science
+67730,Television
+67730,Web/Tech
+67732,Current Affairs
+67732,Economics
+67734,Current Affairs
+67734,Economics
+67734,Law
+67734,Philosophy
+67734,Political Science
+67736,Economics
+67736,Law
+67737,Current Affairs
+67737,Data Source
+67737,Economics
+67738,Education
+67738,Science
+67738,Web/Tech
+67739,Music
+67739,Philosophy
+67739,Science
+67741,Current Affairs
+67741,Economics
+67743,Economics
+67743,Television
+67749,Current Affairs
+67749,Economics
+67750,Books
+67750,Current Affairs
+67750,History
+67753,Data Source
+67753,Economics
+67753,Education
+67754,Current Affairs
+67754,Data Source
+67754,Economics
+67756,Economics
+67756,Law
+67756,Medicine
+67758,Current Affairs
+67758,Economics
+67762,The Arts
+67764,Data Source
+67764,Economics
+67765,Current Affairs
+67765,Economics
+67766,Books
+67766,Education
+67766,Web/Tech
+67766,Weblogs
+67767,Current Affairs
+67767,Data Source
+67767,History
+67767,Political Science
+67768,Economics
+67768,Games
+67769,Economics
+67769,Education
+67769,Science
+67771,Books
+67772,Current Affairs
+67772,Economics
+67776,Current Affairs
+67776,Economics
+67776,Political Science
+67776,Television
+67777,Current Affairs
+67777,Data Source
+67777,Medicine
+67777,Political Science
+67780,Travel
+67781,Data Source
+67781,Economics
+67782,Books
+67782,History
+67784,Web/Tech
+67789,Current Affairs
+67789,Education
+67789,Political Science
+67794,Economics
+67794,Medicine
+67795,Economics
+67795,Law
+67795,Medicine
+67796,Economics
+67796,Philosophy
+67796,Political Science
+67796,Science
+67799,Books
+67799,Economics
+67799,Web/Tech
+67800,Education
+67800,Philosophy
+67800,Political Science
+67800,Science
+67801,Current Affairs
+67801,Economics
+67802,Books
+67803,Books
+67803,Economics
+67803,History
+67804,Current Affairs
+67804,Economics
+67804,Law
+67804,Music
+67804,Political Science
+67804,Science
+67804,Sports
+67804,Travel
+67804,Web/Tech
+67807,Economics
+67807,Law
+67808,Data Source
+67808,Economics
+67808,Law
+67810,Current Affairs
+67810,Data Source
+67810,Economics
+67812,Data Source
+67812,Philosophy
+67812,Political Science
+67812,Television
+67814,Current Affairs
+67814,Economics
+67815,Books
+67815,History
+67815,Sports
+67816,Current Affairs
+67816,Law
+67816,Political Science
+67818,Data Source
+67818,Economics
+67821,Books
+67822,Economics
+67822,Science
+67824,Current Affairs
+67824,History
+67824,Law
+67824,Political Science
+67825,Books
+67825,Current Affairs
+67825,History
+67825,Law
+67825,Political Science
+67827,Books
+67828,Economics
+67828,Law
+67828,Medicine
+67829,Current Affairs
+67829,Data Source
+67829,Economics
+67830,Economics
+67830,Law
+67831,Current Affairs
+67831,Law
+67832,Books
+67832,Current Affairs
+67832,Law
+67832,Political Science
+67835,Food and Drink
+67835,Science
+67835,Web/Tech
+67836,Books
+67838,Economics
+67838,Law
+67839,Current Affairs
+67839,Education
+67839,Political Science
+67839,Religion
+67842,Books
+67842,Current Affairs
+67842,Education
+67842,Political Science
+67843,Current Affairs
+67843,Economics
+67843,Law
+67843,Political Science
+67844,Data Source
+67844,History
+67844,Religion
+67846,Economics
+67846,Web/Tech
+67848,Data Source
+67848,Economics
+67848,Music
+67849,Current Affairs
+67849,Data Source
+67849,Law
+67850,Economics
+67852,Economics
+67852,Travels
+67854,Current Affairs
+67854,Education
+67854,Sports
+67859,Economics
+67859,Education
+67860,Current Affairs
+67860,Education
+67860,Political Science
+67861,Current Affairs
+67861,Economics
+67862,Books
+67864,Books
+67864,Education
+67865,Current Affairs
+67865,Data Source
+67865,Economics
+67865,Science
+67867,Current Affairs
+67867,Economics
+67867,Law
+67868,Data Source
+67868,Economics
+67868,Science
+67869,Data Source
+67869,Economics
+67869,Sports
+67870,Current Affairs
+67870,Political Science
+67870,Travel
+67871,Data Source
+67871,Economics
+67871,Education
+67871,Philosophy
+67871,Political Science
+67873,Current Affairs
+67873,Economics
+67873,Law
+67873,Political Science
+67875,Data Source
+67875,Economics
+67875,Web/Tech
+67877,Data Source
+67877,Economics
+67877,Web/Tech
+67879,Education
+67879,Philosophy
+67879,Political Science
+67879,Religion
+67879,Science
+67880,Economics
+67881,Current Affairs
+67881,Economics
+67881,Law
+67881,Political Science
+67882,Data Source
+67882,Education
+67884,Data Source
+67884,Education
+67885,Current Affairs
+67885,Economics
+67885,Political Science
+67888,Current Affairs
+67888,Economics
+67888,Law
+67888,Web/Tech
+67894,Economics
+67894,Web/Tech
+67895,Economics
+67896,Economics
+67896,Education
+67896,Philosophy
+67897,Current Affairs
+67897,History
+67897,Law
+67897,Political Science
+67899,Economics
+67901,Economics
+67901,Philosophy
+67901,Science
+67904,Economics
+67905,Economics
+67907,Economics
+67907,Law
+67909,Current Affairs
+67909,Economics
+67909,Law
+67909,Political Science
+67910,Economics
+67913,Current Affairs
+67913,Economics
+67913,Political Science
+67913,Weblogs
+67914,Economics
+67914,Sports
+67914,Television
+67915,Current Affairs
+67915,Political Science
+67915,Religion
+67916,Books
+67916,Current Affairs
+67916,History
+67916,Law
+67916,Political Science
+67918,Economics
+67918,Food and Drink
+67920,Economics
+67920,Law
+67922,Current Affairs
+67922,Law
+67924,Economics
+67924,Medicine
+67925,Economics
+67927,Data Source
+67927,Economics
+67927,Education
+67927,Philosophy
+67927,Political Science
+67927,Science
+67928,Economics
+67928,Travel
+67928,Web/Tech
+67931,Travel
+67932,Books
+67932,Current Affairs
+67932,Political Science
+67933,Books
+67933,Data Source
+67933,Education
+67934,Data Source
+67934,Economics
+67934,Education
+67934,Web/Tech
+67934,Weblogs
+67936,Current Affairs
+67936,Economics
+67936,Education
+67936,Political Science
+67937,Economics
+67937,Medicine
+67937,Travel
+67938,Books
+67938,Economics
+67938,History
+67938,Philosophy
+67938,Political Science
+67940,Books
+67940,Data Source
+67940,Economics
+67942,Books
+67942,Data Source
+67942,Education
+67943,Current Affairs
+67943,Economics
+67944,Books
+67944,Economics
+67944,History
+67947,Current Affairs
+67947,Data Source
+67947,Economics
+67949,Current Affairs
+67949,Data Source
+67949,Economics
+67949,Education
+67949,Political Science
+67950,Economics
+67950,Education
+67950,Science
+67951,Current Affairs
+67951,Economics
+67951,Food and Drink
+67956,Economics
+67958,Current Affairs
+67958,Data Source
+67958,Economics
+67958,Education
+67958,Medicine
+67958,Political Science
+67960,Current Affairs
+67960,Political Science
+67963,Books
+67963,Current Affairs
+67963,Education
+67963,Film
+67963,History
+67963,Music
+67963,Philosophy
+67963,Political Science
+67963,Religion
+67963,Television
+67963,The Arts
+67966,Economics
+67966,Political Science
+67967,Economics
+67967,Film
+67967,Music
+67967,Television
+67968,Current Affairs
+67968,Economics
+67968,Law
+67968,Political Science
+67969,Education
+67969,History
+67969,Science
+67969,Travel
+67970,Education
+67970,History
+67970,Philosophy
+67970,Political Science
+67971,Economics
+67976,Data Source
+67976,Sports
+67976,Web/Tech
+67977,Books
+67977,History
+67977,Sports
+67978,Current Affairs
+67978,Law
+67978,Political Science
+67980,Data Source
+67980,Education
+67983,Books
+67983,Economics
+67983,Film
+67983,History
+67983,Music
+67983,The Arts
+67984,Current Affairs
+67984,Data Source
+67984,Economics
+67984,Political Science
+67986,Current Affairs
+67986,Food and Drink
+67986,Law
+67986,Medicine
+67986,Political Science
+67991,Film
+67991,Music
+67991,Television
+67991,Web/Tech
+67992,Current Affairs
+67992,Economics
+67992,Games
+67995,Current Affairs
+67995,Economics
+67995,Political Science
+67996,Current Affairs
+67996,Economics
+67996,Political Science
+67997,Current Affairs
+67997,Economics
+67997,Political Science
+67999,Economics
+67999,Law
+67999,Web/Tech
+68000,Books
+68000,Economics
+68000,Philosophy
+68003,Books
+68003,History
+68003,Philosophy
+68003,Religion
+68003,Travel
+68006,Current Affairs
+68006,Economics
+68007,Economics
+68007,Food and Drink
+68007,Law
+68009,Current Affairs
+68009,Economics
+68009,Games
+68009,Law
+68009,Political Science
+68011,Current Affairs
+68011,Economics
+68011,Education
+68011,History
+68011,Law
+68011,Political Science
+68011,Religion
+68012,Current Affairs
+68012,Data Source
+68012,Economics
+68012,Law
+68015,Current Affairs
+68015,Economics
+68015,Education
+68015,Law
+68015,Travel
+68016,Current Affairs
+68016,Games
+68018,Data Source
+68018,History
+68018,Political Science
+68020,Current Affairs
+68020,Economics
+68020,Law
+68020,Political Science
+68021,Current Affairs
+68021,Economics
+68021,Political Science
+68024,Current Affairs
+68024,Law
+68026,Current Affairs
+68026,Law
+68026,Travel
+68027,Current Affairs
+68027,Education
+68027,Philosophy
+68027,Political Science
+68027,Religion
+68027,Science
+68028,Economics
+68028,Education
+68029,Current Affairs
+68029,Economics
+68030,Data Source
+68030,Economics
+68031,Books
+68031,Economics
+68031,Education
+68034,Current Affairs
+68034,Economics
+68034,Law
+68036,Books
+68036,Film
+68036,History
+68036,Music
+68036,Television
+68036,The Arts
+68042,Economics
+68042,History
+68042,Law
+68043,Economics
+68043,Education
+68043,Philosophy
+68045,Books
+68045,Economics
+68045,History
+68050,Books
+68050,Film
+68050,Music
+68050,Television
+68050,The Arts
+68052,Current Affairs
+68052,Economics
+68052,Law
+68053,Data Source
+68053,Economics
+68053,Web/Tech
+68055,Current Affairs
+68055,Economics
+68055,Education
+68055,Law
+68056,Economics
+68056,Medicine
+68060,Current Affairs
+68060,History
+68060,Law
+68060,Philosophy
+68060,Political Science
+68061,Economics
+68061,History
+68061,Philosophy
+68062,Data Source
+68062,Education
+68062,Law
+68062,Philosophy
+68062,Political Science
+68062,Religion
+68062,Science
+68063,Books
+68063,Current Affairs
+68063,Political Science
+68063,Religion
+68063,Weblogs
+68066,Current Affairs
+68066,Law
+68066,Web/Tech
+68070,Food and Drink
+68070,Science
+68072,Film
+68072,History
+68072,Political Science
+68073,Current Affairs
+68073,Data Source
+68073,Economics
+68073,Education
+68073,Political Science
+68074,Books
+68074,Current Affairs
+68074,Economics
+68074,History
+68074,Political Science
+68077,Economics
+68079,Economics
+68079,Law
+68081,Books
+68081,Film
+68081,History
+68081,Music
+68081,Religion
+68081,The Arts
+68081,Travel
+68084,Books
+68084,Education
+68084,Philosophy
+68084,Political Science
+68085,Books
+68085,History
+68085,Political Science
+68086,Current Affairs
+68086,Economics
+68086,Law
+68086,Travel
+68088,Data Source
+68088,Economics
+68088,Education
+68090,Economics
+68090,History
+68092,Current Affairs
+68092,Economics
+68092,History
+68092,Medicine
+68092,Political Science
+68092,Science
+68093,Current Affairs
+68093,Data Source
+68093,Economics
+68093,Education
+68094,Economics
+68094,Education
+68094,Travel
+68095,Current Affairs
+68095,Data Source
+68095,Political Science
+68095,Web/Tech
+68098,Education
+68098,History
+68098,Science
+68103,Economics
+68103,Law
+68105,Current Affairs
+68105,Economics
+68105,Law
+68105,Web/Tech
+68106,Economics
+68106,Education
+68108,Current Affairs
+68108,Economics
+68108,Law
+68108,Philosophy
+68109,Books
+68109,Economics
+68109,Political Science
+68111,Film
+68111,History
+68111,Political Science
+68111,Travel
+68113,Education
+68113,History
+68114,Law
+68114,Medicine
+68115,Books
+68116,Economics
+68118,Current Affairs
+68118,Music
+68118,Philosophy
+68118,Sports
+68119,Economics
+68119,Education
+68119,Law
+68119,Political Science
+68121,Current Affairs
+68121,Economics
+68121,Law
+68121,Political Science
+68122,Books
+68122,Education
+68122,Web/Tech
+68126,Books
+68126,Economics
+68126,History
+68126,Law
+68127,Economics
+68131,Current Affairs
+68131,Economics
+68131,Web/Tech
+68131,Weblogs
+68132,Current Affairs
+68132,Law
+68132,Political Science
+68134,Books
+68135,Data Source
+68135,Medicine
+68139,Current Affairs
+68139,Economics
+68139,Law
+68140,Economics
+68140,Science
+68140,Travel
+68142,Books
+68142,History
+68142,Religion
+68143,Current Affairs
+68143,Data Source
+68143,Economics
+68143,Law
+68145,Economics
+68145,Education
+68146,Current Affairs
+68146,Economics
+68146,Law
+68148,Data Source
+68149,Books
+68149,History
+68149,Music
+68149,Philosophy
+68149,Religion
+68149,The Arts
+68150,Current Affairs
+68150,Science
+68150,Travel
+68155,Economics
+68155,Law
+68155,Web/Tech
+68158,Economics
+68158,Education
+68158,Web/Tech
+68160,Economics
+68161,Education
+68161,Philosophy
+68163,Books
+68163,Economics
+68163,Education
+68163,Film
+68164,Current Affairs
+68164,Economics
+68165,Current Affairs
+68165,Data Source
+68165,Education
+68165,Philosophy
+68165,Political Science
+68165,Science
+68166,Economics
+68166,Medicine
+68167,Data Source
+68167,Education
+68167,Law
+68167,Medicine
+68167,Philosophy
+68168,Data Source
+68168,Economics
+68168,Political Science
+68168,Science
+68172,Food and Drink
+68172,Philosophy
+68172,Sports
+68173,Science
+68174,Economics
+68174,Education
+68174,Science
+68174,Web/Tech
+68175,Economics
+68178,Current Affairs
+68178,Economics
+68178,Law
+68181,Economics
+68181,Education
+68183,Economics
+68183,Law
+68186,Economics
+68187,Books
+68187,Economics
+68187,History
+68191,Current Affairs
+68191,Law
+68191,Science
+68194,Books
+68194,Food and Drink
+68196,Economics
+68196,Religion
+68198,Education
+68198,Political Science
+68200,Economics
+68200,Food and Drink
+68201,Economics
+68201,Law
+68201,Science
+68202,Economics
+68205,History
+68205,Medicine
+68208,Economics
+68208,Education
+68208,History
+68209,Music
+68214,Data Source
+68214,Science
+68214,Travel
+68214,Web/Tech
+68217,Books
+68218,Science
+68219,Economics
+68219,Web/Tech
+68219,Weblogs
+68221,Current Affairs
+68221,Data Source
+68221,Economics
+68221,Law
+68222,Education
+68222,Film
+68222,Food and Drink
+68222,History
+68222,Music
+68222,Philosophy
+68222,Religion
+68222,Television
+68222,The Arts
+68222,Travel
+68222,Web/Tech
+68223,Books
+68223,Economics
+68223,Education
+68223,Web/Tech
+68224,Books
+68224,Current Affairs
+68224,History
+68224,Political Science
+68224,Science
+68225,Web/Tech
+68227,Current Affairs
+68227,Economics
+68227,Law
+68228,Economics
+68228,Education
+68228,Science
+68229,Current Affairs
+68229,Law
+68229,Political Science
+68230,Books
+68230,History
+68230,Science
+68230,Web/Tech
+68232,Current Affairs
+68232,Economics
+68232,Education
+68236,Economics
+68236,Law
+68239,Economics
+68239,Television
+68243,Economics
+68243,Law
+68243,Medicine
+68244,Education
+68244,Political Science
+68245,Economics
+68245,Political Science
+68246,Economics
+68246,Philosophy
+68248,Current Affairs
+68248,Economics
+68249,Economics
+68249,Music
+68254,Economics
+68254,Law
+68254,Sports
+68259,Current Affairs
+68259,Data Source
+68259,Law
+68259,Political Science
+68261,Current Affairs
+68261,Economics
+68261,Law
+68265,Data Source
+68265,Economics
+68265,History
+68268,Books
+68268,Philosophy
+68270,Economics
+68270,Food and Drink
+68273,Data Source
+68273,Economics
+68273,History
+68273,Political Science
+68274,Current Affairs
+68274,Data Source
+68274,Economics
+68276,Current Affairs
+68276,Data Source
+68276,Economics
+68277,Books
+68277,Economics
+68277,Law
+68277,Philosophy
+68277,Political Science
+68280,Economics
+68280,Science
+68281,Data Source
+68281,Economics
+68281,Music
+68283,History
+68283,Law
+68283,Web/Tech
+68284,Economics
+68284,Education
+68288,Current Affairs
+68288,Economics
+68288,Science
+68288,Web/Tech
+68289,Data Source
+68289,Medicine
+68289,Science
+68290,Data Source
+68290,Economics
+68290,History
+68292,Current Affairs
+68292,Economics
+68292,Law
+68292,Political Science
+68296,Economics
+68296,Law
+68297,Economics
+68297,Philosophy
+68297,Political Science
+68298,Current Affairs
+68298,Economics
+68298,Science
+68298,Travel
+68298,Web/Tech
+68300,Books
+68300,Current Affairs
+68300,History
+68300,Law
+68300,Political Science
+68304,Books
+68305,Current Affairs
+68305,Data Source
+68305,Science
+68306,Current Affairs
+68306,Data Source
+68306,Economics
+68306,Political Science
+68308,Economics
+68308,Education
+68308,Science
+68308,Web/Tech
+68310,Data Source
+68310,Economics
+68311,Current Affairs
+68311,Data Source
+68311,Economics
+68311,Food and Drink
+68311,Law
+68314,Economics
+68314,Travel
+68317,Current Affairs
+68317,Political Science
+68322,Current Affairs
+68322,Education
+68322,Political Science
+68324,Economics
+68324,History
+68325,Economics
+68329,Current Affairs
+68329,Economics
+68329,Law
+68330,Books
+68330,Data Source
+68330,Food and Drink
+68330,History
+68331,Data Source
+68331,Education
+68331,Political Science
+68334,Books
+68334,History
+68334,Political Science
+68334,Web/Tech
+68336,Books
+68336,Economics
+68336,History
+68337,Current Affairs
+68337,Law
+68337,Philosophy
+68337,Political Science
+68344,Economics
+68344,Religion
+68346,Data Source
+68346,Economics
+68346,Law
+68346,Medicine
+68347,Religion
+68349,Education
+68349,Web/Tech
+68351,Current Affairs
+68351,Education
+68351,Law
+68351,Medicine
+68351,Web/Tech
+68352,Current Affairs
+68352,Economics
+68352,Law
+68352,Political Science
+68353,Current Affairs
+68353,Economics
+68353,Education
+68353,Web/Tech
+68354,Data Source
+68354,Economics
+68354,Medicine
+68357,Books
+68357,Education
+68357,Science
+68357,Web/Tech
+68359,Education
+68359,Philosophy
+68359,Political Science
+68360,Books
+68360,Current Affairs
+68360,Data Source
+68360,Political Science
+68364,Economics
+68364,Web/Tech
+68365,Data Source
+68365,Economics
+68365,History
+68365,Law
+68365,Religion
+68365,Science
+68366,Economics
+68366,Education
+68368,Books
+68369,Books
+68369,Education
+68369,Web/Tech
+68371,Law
+68371,Political Science
+68371,Travel
+68371,Travels
+68371,Web/Tech
+68372,Books
+68372,Economics
+68372,Law
+68373,Books
+68373,Education
+68373,History
+68373,Political Science
+68375,Books
+68376,Economics
+68376,Political Science
+68377,Current Affairs
+68377,Data Source
+68377,Economics
+68378,Data Source
+68378,Economics
+68378,Law
+68380,Current Affairs
+68380,Economics
+68380,Food and Drink
+68380,Law
+68381,Science
+68381,Travel
+68382,Economics
+68382,Law
+68385,Economics
+68388,Books
+68388,Economics
+68388,Education
+68393,Current Affairs
+68393,Economics
+68393,Political Science
+68394,Data Source
+68394,Games
+68394,Web/Tech
+68396,Books
+68396,Web/Tech
+68397,Web/Tech
+68400,Books
+68400,Data Source
+68400,Economics
+68400,Education
+68400,Science
+68406,Current Affairs
+68406,Economics
+68406,Political Science
+68408,Economics
+68408,Law
+68408,Medicine
+68409,Current Affairs
+68409,Law
+68409,Political Science
+68410,Economics
+68410,Education
+68410,Food and Drink
+68417,Current Affairs
+68417,Economics
+68417,Law
+68418,Education
+68418,Philosophy
+68418,Science
+68420,Economics
+68420,Political Science
+68426,Current Affairs
+68426,Data Source
+68426,Education
+68426,Food and Drink
+68426,Political Science
+68426,Web/Tech
+68430,Economics
+68430,Education
+68430,Science
+68435,Economics
+68435,History
+68435,Political Science
+68435,Religion
+68437,Economics
+68439,Data Source
+68439,Economics
+68439,Education
+68442,Food and Drink
+68442,Travel
+68447,History
+68447,Law
+68449,Economics
+68450,Data Source
+68450,Economics
+68450,Education
+68452,Data Source
+68452,Travel
+68462,Economics
+68462,Philosophy
+68464,Economics
+68466,Books
+68466,Law
+68466,Political Science
+68467,History
+68467,Travels
+68469,Current Affairs
+68469,Economics
+68469,Food and Drink
+68469,Travel
+68478,Current Affairs
+68478,Data Source
+68478,Economics
+68478,Political Science
+68479,Education
+68479,Philosophy
+68480,Current Affairs
+68480,Economics
+68480,History
+68480,Law
+68480,Philosophy
+68480,Political Science
+68483,Economics
+68483,Education
+68487,Books
+68487,Economics
+68487,Political Science
+68487,Religion
+68487,Science
+68487,Web/Tech
+68488,Current Affairs
+68488,Economics
+68488,Education
+68488,History
+68488,Philosophy
+68488,Political Science
+68489,Data Source
+68489,Economics
+68494,Books
+68497,Economics
+68499,Current Affairs
+68499,Economics
+68499,Film
+68499,Law
+68501,Current Affairs
+68501,Economics
+68502,History
+68502,Law
+68507,Economics
+68507,Medicine
+68508,Data Source
+68508,Economics
+68508,Law
+68508,Travel
+68509,Current Affairs
+68509,Law
+68509,Political Science
+68510,Economics
+68510,Education
+68510,History
+68511,Economics
+68513,Current Affairs
+68513,Travel
+68516,Economics
+68517,Books
+68517,Philosophy
+68517,Religion
+68517,Science
+68518,Economics
+68518,Education
+68518,Political Science
+68520,Current Affairs
+68520,Political Science
+68524,Current Affairs
+68524,Economics
+68524,History
+68524,Political Science
+68526,Current Affairs
+68526,Data Source
+68526,Economics
+68528,Books
+68529,Data Source
+68529,Economics
+68529,Law
+68532,Economics
+68532,History
+68532,Law
+68538,Economics
+68538,Education
+68541,Economics
+68541,Science
+68541,Web/Tech
+68542,Economics
+68542,History
+68542,Law
+68547,Current Affairs
+68547,Law
+68547,Political Science
+68548,Current Affairs
+68548,History
+68548,Philosophy
+68548,Political Science
+68550,Economics
+68550,History
+68551,History
+68551,Law
+68551,Sports
+68554,Current Affairs
+68554,Education
+68554,History
+68554,Philosophy
+68554,Political Science
+68555,Current Affairs
+68555,Economics
+68555,Law
+68557,Current Affairs
+68557,History
+68557,Political Science
+68562,Economics
+68562,History
+68562,Law
+68562,Political Science
+68564,Books
+68564,Current Affairs
+68564,Law
+68564,Political Science
+68568,Economics
+68568,Law
+68568,Travel
+68572,Books
+68572,Economics
+68572,The Arts
+68573,Current Affairs
+68573,Data Source
+68573,Economics
+68573,Law
+68573,Web/Tech
+68574,Data Source
+68574,Law
+68575,Economics
+68577,Travel
+68578,Books
+68578,History
+68580,Economics
+68580,Education
+68585,Economics
+68587,Education
+68587,Web/Tech
+68589,Current Affairs
+68589,Economics
+68589,Law
+68590,Economics
+68590,Medicine
+68593,Data Source
+68593,Medicine
+68595,Books
+68595,Music
+68595,Television
+68595,Web/Tech
+68596,Current Affairs
+68596,Economics
+68596,Food and Drink
+68596,Law
+68600,Books
+68600,Current Affairs
+68600,Economics
+68600,Political Science
+68601,Current Affairs
+68601,Law
+68601,Medicine
+68603,Current Affairs
+68603,Political Science
+68604,Current Affairs
+68604,Economics
+68604,Law
+68607,Data Source
+68607,Law
+68607,Political Science
+68611,Economics
+68611,Law
+68611,Travel
+68614,Current Affairs
+68614,Economics
+68614,Web/Tech
+68615,Science
+68615,Web/Tech
+68617,Books
+68617,Law
+68617,Medicine
+68617,Philosophy
+68617,Science
+68617,Web/Tech
+68619,History
+68619,Science
+68619,Travel
+68621,Books
+68621,Economics
+68623,Current Affairs
+68623,Economics
+68623,Law
+68623,Medicine
+68626,Data Source
+68626,Economics
+68626,Education
+68627,Economics
+68627,Law
+68630,Economics
+68632,Current Affairs
+68632,Economics
+68632,Law
+68633,Law
+68633,Web/Tech
+68635,Current Affairs
+68635,Political Science
+68636,Current Affairs
+68636,Law
+68636,Political Science
+68637,Data Source
+68637,Economics
+68637,Education
+68640,Current Affairs
+68640,Data Source
+68640,Education
+68640,Law
+68642,Current Affairs
+68642,Economics
+68642,Law
+68643,Data Source
+68643,Education
+68643,Law
+68643,Philosophy
+68643,Political Science
+68643,Religion
+68644,Economics
+68644,Education
+68645,Food and Drink
+68645,Travel
+68646,Books
+68646,Education
+68646,Web/Tech
+68648,Data Source
+68648,Economics
+68648,Law
+68654,Current Affairs
+68654,Law
+68655,Economics
+68656,Books
+68657,Current Affairs
+68657,Data Source
+68657,Economics
+68658,Economics
+68658,Film
+68658,History
+68658,Law
+68658,Philosophy
+68658,Television
+68659,Film
+68659,Food and Drink
+68659,Music
+68659,Television
+68659,The Arts
+68660,Data Source
+68660,History
+68660,The Arts
+68661,Current Affairs
+68661,Data Source
+68661,Law
+68662,Books
+68662,History
+68662,Philosophy
+68662,Science
+68662,Web/Tech
+68664,Data Source
+68664,Economics
+68664,Science
+68667,Food and Drink
+68667,Law
+68667,Travel
+68671,Economics
+68671,Law
+68677,Books
+68677,Current Affairs
+68677,Political Science
+68677,Religion
+68678,Current Affairs
+68678,Data Source
+68678,Law
+68679,Books
+68679,Economics
+68680,Current Affairs
+68680,Data Source
+68680,Sports
+68681,Current Affairs
+68681,Economics
+68683,Current Affairs
+68683,Data Source
+68683,Economics
+68685,Current Affairs
+68685,Economics
+68685,Law
+68687,Economics
+68687,Law
+68689,Books
+68689,Film
+68689,History
+68689,Law
+68689,Music
+68689,Philosophy
+68689,Political Science
+68689,The Arts
+68691,Economics
+68691,Law
+68694,Data Source
+68694,Economics
+68696,Current Affairs
+68696,Economics
+68697,Current Affairs
+68697,Economics
+68697,Law
+68699,Current Affairs
+68699,Food and Drink
+68699,Travel
+68702,Current Affairs
+68702,Law
+68702,Political Science
+68703,Current Affairs
+68703,History
+68703,Philosophy
+68705,Law
+68705,Philosophy
+68705,Travel
+68709,Current Affairs
+68709,History
+68709,Law
+68709,Philosophy
+68709,Political Science
+68711,Current Affairs
+68711,Economics
+68712,Books
+68712,Economics
+68713,Current Affairs
+68713,Economics
+68714,Data Source
+68714,Economics
+68714,Education
+68715,Current Affairs
+68715,Economics
+68715,Games
+68715,Political Science
+68717,Current Affairs
+68717,History
+68717,Law
+68717,Political Science
+68719,Current Affairs
+68719,Data Source
+68719,Political Science
+68719,Travel
+68720,Data Source
+68720,Economics
+68720,Games
+68720,Philosophy
+68722,Books
+68722,History
+68722,Science
+68723,Food and Drink
+68724,Current Affairs
+68724,Education
+68724,History
+68724,Political Science
+68730,Economics
+68730,Education
+68730,Games
+68731,Current Affairs
+68731,Economics
+68731,History
+68731,Law
+68731,Political Science
+68733,Current Affairs
+68733,Economics
+68733,Political Science
+68734,Current Affairs
+68734,Law
+68734,Political Science
+68735,Current Affairs
+68735,Law
+68738,Current Affairs
+68738,Data Source
+68738,Economics
+68739,Books
+68739,Current Affairs
+68739,History
+68739,Law
+68739,Political Science
+68740,Economics
+68740,Science
+68740,Web/Tech
+68743,Books
+68745,Current Affairs
+68745,Law
+68745,Music
+68746,Current Affairs
+68746,Data Source
+68746,Economics
+68747,Current Affairs
+68747,Economics
+68750,Books
+68750,Education
+68750,Science
+68750,The Arts
+68752,Current Affairs
+68752,Data Source
+68752,Economics
+68754,Current Affairs
+68754,Economics
+68755,Food and Drink
+68755,Travels
+68756,Current Affairs
+68756,Political Science
+68757,History
+68757,Music
+68760,Current Affairs
+68760,History
+68760,Philosophy
+68760,Political Science
+68760,Travel
+68762,Games
+68762,Science
+68763,Current Affairs
+68763,Economics
+68763,History
+68765,Current Affairs
+68765,Economics
+68765,Law
+68765,Political Science
+68766,Current Affairs
+68766,Economics
+68770,Current Affairs
+68770,Games
+68770,Law
+68770,Political Science
+68773,Books
+68773,Current Affairs
+68773,History
+68773,Law
+68773,Political Science
+68776,Current Affairs
+68776,Economics
+68776,Political Science
+68777,Current Affairs
+68777,Economics
+68777,Science
+68780,Current Affairs
+68780,Economics
+68781,Current Affairs
+68781,Economics
+68783,Current Affairs
+68783,Economics
+68783,Education
+68787,Books
+68787,Current Affairs
+68787,History
+68787,Philosophy
+68790,Books
+68790,Education
+68790,History
+68793,Books
+68793,Economics
+68793,History
+68796,Economics
+68796,Education
+68796,Law
+68796,Medicine
+68796,Science
+68799,Law
+68799,Philosophy
+68799,Web/Tech
+68800,Current Affairs
+68800,Education
+68800,Film
+68800,Food and Drink
+68800,Law
+68800,Political Science
+68801,Current Affairs
+68801,Education
+68801,History
+68801,Philosophy
+68802,Current Affairs
+68802,History
+68802,Law
+68802,Medicine
+68802,Philosophy
+68802,Political Science
+68805,Current Affairs
+68805,Education
+68805,History
+68805,Philosophy
+68805,Science
+68807,Data Source
+68807,Economics
+68807,History
+68807,Law
+68809,Current Affairs
+68809,Economics
+68809,History
+68812,Books
+68812,Economics
+68812,Food and Drink
+68813,Current Affairs
+68813,Education
+68813,Political Science
+68814,Books
+68814,Current Affairs
+68814,Economics
+68815,Medicine
+68815,Philosophy
+68815,Science
+68817,Current Affairs
+68817,Education
+68817,Religion
+68820,Economics
+68820,Education
+68820,Food and Drink
+68820,Web/Tech
+68821,Current Affairs
+68821,Education
+68821,Law
+68822,Current Affairs
+68822,Economics
+68822,Law
+68822,Political Science
+68823,Current Affairs
+68823,Economics
+68823,Political Science
+68825,Current Affairs
+68825,Economics
+68830,Economics
+68830,Law
+68830,Medicine
+68830,Web/Tech
+68831,Books
+68831,Current Affairs
+68831,History
+68831,Political Science
+68833,Current Affairs
+68833,Data Source
+68833,Economics
+68833,History
+68833,Political Science
+68835,Economics
+68835,Medicine
+68837,Books
+68840,Economics
+68840,Law
+68840,Medicine
+68842,Current Affairs
+68842,Education
+68842,Political Science
+68842,Science
+68844,Books
+68845,Current Affairs
+68845,History
+68845,Political Science
+68847,Current Affairs
+68847,History
+68847,Political Science
+68848,Current Affairs
+68848,Economics
+68848,Political Science
+68848,Web/Tech
+68849,Current Affairs
+68849,Data Source
+68849,History
+68849,Law
+68849,Political Science
+68851,Economics
+68851,Games
+68851,The Arts
+68851,Web/Tech
+68853,Current Affairs
+68853,Law
+68853,Medicine
+68853,Science
+68854,Current Affairs
+68854,Economics
+68856,Current Affairs
+68856,Data Source
+68856,History
+68856,Political Science
+68858,Current Affairs
+68858,Games
+68858,Law
+68858,Political Science
+68859,Current Affairs
+68859,Economics
+68859,Law
+68859,Political Science
+68860,Current Affairs
+68860,Economics
+68860,History
+68861,Data Source
+68861,Economics
+68861,History
+68861,Philosophy
+68861,Religion
+68862,Data Source
+68862,History
+68862,Political Science
+68864,Data Source
+68864,Economics
+68864,Web/Tech
+68867,Current Affairs
+68867,Economics
+68867,Political Science
+68868,Data Source
+68868,Economics
+68868,Law
+68868,Sports
+68869,Economics
+68869,Education
+68870,Current Affairs
+68873,Economics
+68873,Education
+68873,History
+68873,Science
+68874,Data Source
+68874,Economics
+68876,Current Affairs
+68876,Religion
+68876,Television
+68878,Data Source
+68878,Sports
+68880,Current Affairs
+68880,Film
+68880,Law
+68880,Sports
+68880,Television
+68882,Current Affairs
+68882,Economics
+68883,Data Source
+68883,Economics
+68884,Current Affairs
+68884,Economics
+68884,Political Science
+68886,Current Affairs
+68887,Books
+68887,Current Affairs
+68887,Economics
+68887,Law
+68887,Political Science
+68888,Current Affairs
+68888,Law
+68888,Political Science
+68890,Current Affairs
+68890,Economics
+68890,Political Science
+68894,Current Affairs
+68894,Education
+68894,Political Science
+68895,Current Affairs
+68895,Economics
+68895,Law
+68895,Political Science
+68897,Economics
+68897,Science
+68901,Current Affairs
+68901,Data Source
+68901,Economics
+68904,Economics
+68904,Law
+68906,Economics
+68906,Law
+68906,Television
+68906,Travel
+68908,Current Affairs
+68908,Law
+68908,Medicine
+68908,Science
+68909,Current Affairs
+68909,Economics
+68910,Books
+68910,Current Affairs
+68910,Philosophy
+68911,Books
+68911,Economics
+68911,History
+68915,Books
+68917,Current Affairs
+68917,Economics
+68918,Economics
+68918,Education
+68918,Web/Tech
+68919,Books
+68919,Education
+68919,History
+68919,Philosophy
+68919,The Arts
+68922,Current Affairs
+68922,Economics
+68922,Science
+68927,Books
+68927,Economics
+68927,History
+68928,Current Affairs
+68928,History
+68928,Law
+68928,Political Science
+68929,Current Affairs
+68929,Economics
+68929,Law
+68929,Political Science
+68930,Economics
+68932,Books
+68932,Data Source
+68932,Travel
+68934,Economics
+68934,Web/Tech
+68935,Current Affairs
+68935,Sports
+68935,Travel
+68936,Current Affairs
+68936,Economics
+68936,Political Science
+68938,Law
+68938,Medicine
+68939,Current Affairs
+68939,Political Science
+68939,Religion
+68942,Current Affairs
+68942,History
+68942,Law
+68942,Philosophy
+68942,Political Science
+68944,Current Affairs
+68944,Economics
+68948,Books
+68948,Current Affairs
+68948,Economics
+68950,Economics
+68950,Education
+68951,Current Affairs
+68951,Science
+68951,Web/Tech
+68952,Economics
+68953,Books
+68953,Economics
+68953,History
+68953,Philosophy
+68953,Political Science
+68957,Economics
+68960,Data Source
+68960,Economics
+68960,Law
+68960,Music
+68961,Economics
+68962,Economics
+68963,Data Source
+68963,Economics
+68963,Education
+68964,Current Affairs
+68964,Science
+68964,Web/Tech
+68965,Books
+68965,History
+68965,Philosophy
+68965,Political Science
+68966,Data Source
+68966,Economics
+68966,Science
+68967,Data Source
+68967,Economics
+68967,Political Science
+68970,Economics
+68970,Law
+68976,Economics
+68976,Science
+68977,Books
+68977,Economics
+68977,Education
+68977,Philosophy
+68978,Data Source
+68978,Economics
+68978,Law
+68979,Economics
+68979,Law
+68982,Books
+68982,Education
+68982,History
+68982,Law
+68983,Current Affairs
+68983,Economics
+68983,Food and Drink
+68983,Political Science
+68985,Current Affairs
+68985,Economics
+68985,Law
+68985,Medicine
+68989,Food and Drink
+68989,Travel
+68991,Current Affairs
+68991,Games
+68991,History
+68991,Law
+68991,Political Science
+68994,Books
+68994,Current Affairs
+68994,Education
+68994,Religion
+68995,Books
+68995,History
+68995,The Arts
+68996,Economics
+68996,Law
+68996,Medicine
+68999,Current Affairs
+68999,Data Source
+68999,Law
+69001,Current Affairs
+69001,Economics
+69001,Law
+69002,Books
+69002,History
+69002,Political Science
+69002,Religion
+69004,Economics
+69008,Current Affairs
+69008,Economics
+69008,Law
+69008,Medicine
+69009,Data Source
+69009,Economics
+69009,Education
+69009,Philosophy
+69010,Data Source
+69010,Economics
+69013,Economics
+69013,Law
+69014,Economics
+69014,Education
+69014,Food and Drink
+69016,Current Affairs
+69016,Economics
+69016,Law
+69016,Political Science
+69018,Books
+69018,Education
+69018,The Arts
+69018,Web/Tech
+69022,Current Affairs
+69022,Economics
+69022,Political Science
+69023,Current Affairs
+69023,Economics
+69023,Food and Drink
+69023,Web/Tech
+69024,Data Source
+69024,Economics
+69024,Education
+69030,Economics
+69030,Education
+69030,Film
+69033,History
+69033,Music
+69035,Current Affairs
+69035,Economics
+69035,Law
+69037,Current Affairs
+69037,Economics
+69037,History
+69037,Political Science
+69037,Travel
+69038,Economics
+69038,Law
+69038,Political Science
+69040,Economics
+69044,Data Source
+69044,Economics
+69044,Law
+69044,Political Science
+69045,Current Affairs
+69045,Data Source
+69045,Economics
+69045,Political Science
+69048,Books
+69049,Economics
+69051,Current Affairs
+69051,Economics
+69051,Political Science
+69051,Sports
+69053,Books
+69053,Economics
+69053,History
+69053,Law
+69053,Medicine
+69053,Political Science
+69054,Books
+69054,Economics
+69054,Education
+69057,Economics
+69057,History
+69057,Philosophy
+69059,Books
+69059,Philosophy
+69061,Current Affairs
+69061,Economics
+69061,Political Science
+69063,Economics
+69063,History
+69067,Data Source
+69067,Economics
+69067,Political Science
+69070,Food and Drink
+69070,Travel
+69072,Current Affairs
+69072,Data Source
+69073,Economics
+69073,History
+69074,Current Affairs
+69074,Economics
+69074,Political Science
+69075,Books
+69075,Current Affairs
+69075,Data Source
+69075,Economics
+69075,Education
+69075,History
+69075,Political Science
+69078,Current Affairs
+69078,Food and Drink
+69078,History
+69078,Law
+69078,Political Science
+69078,Travel
+69084,Data Source
+69084,Travel
+69086,Current Affairs
+69086,Law
+69086,Medicine
+69088,Economics
+69088,Law
+69090,Current Affairs
+69090,Law
+69090,Science
+69090,Travel
+69090,Web/Tech
+69092,Current Affairs
+69092,Economics
+69092,History
+69092,Political Science
+69093,Economics
+69093,Film
+69095,Economics
+69095,Law
+69095,Medicine
+69097,Current Affairs
+69097,Law
+69097,Medicine
+69097,Philosophy
+69097,Political Science
+69099,Current Affairs
+69099,Economics
+69099,Political Science
+69100,Economics
+69100,Political Science
+69102,Economics
+69102,Education
+69102,Film
+69102,Sports
+69103,Economics
+69105,Current Affairs
+69105,Data Source
+69105,Economics
+69106,Books
+69106,History
+69106,Law
+69107,Economics
+69107,Law
+69108,Economics
+69108,Law
+69109,Economics
+69112,Books
+69112,Current Affairs
+69112,History
+69112,Philosophy
+69112,The Arts
+69114,Current Affairs
+69114,Economics
+69114,History
+69114,Law
+69114,Political Science
+69115,Books
+69115,Current Affairs
+69115,Education
+69116,Current Affairs
+69116,Science
+69116,Travel
+69116,Web/Tech
+69118,Economics
+69121,Economics
+69121,History
+69121,The Arts
+69123,Books
+69124,Education
+69124,Food and Drink
+69129,Data Source
+69129,Economics
+69129,Science
+69130,Economics
+69130,History
+69130,Law
+69130,Medicine
+69132,Economics
+69132,Law
+69132,Web/Tech
+69135,Economics
+69135,Web/Tech
+69136,Economics
+69136,Law
+69137,Economics
+69137,Education
+69138,Books
+69138,Education
+69138,Film
+69138,History
+69138,Law
+69138,Music
+69138,Political Science
+69138,Religion
+69138,Science
+69138,The Arts
+69139,Food and Drink
+69139,Travel
+69143,The Arts
+69147,Books
+69148,Books
+69148,Economics
+69148,Education
+69148,Philosophy
+69149,Economics
+69149,Education
+69149,Political Science
+69149,Television
+69152,Science
+69154,Data Source
+69154,History
+69154,Law
+69154,Political Science
+69155,Economics
+69155,Law
+69158,Economics
+69158,Medicine
+69160,Current Affairs
+69160,Economics
+69160,Law
+69160,Political Science
+69162,Economics
+69162,Law
+69162,Medicine
+69170,Books
+69170,Current Affairs
+69170,Data Source
+69170,History
+69170,Law
+69171,Data Source
+69171,Economics
+69171,Education
+69175,Economics
+69175,Law
+69175,Medicine
+69176,Data Source
+69176,Film
+69176,Television
+69178,Books
+69178,Education
+69178,History
+69178,Science
+69181,Economics
+69181,Education
+69181,Film
+69183,Education
+69183,Law
+69183,Sports
+69183,Travel
+69183,Web/Tech
+69188,Economics
+69188,Education
+69188,Science
+69188,Web/Tech
+69189,History
+69189,Science
+69191,Current Affairs
+69191,Economics
+69191,Education
+69192,Education
+69192,Medicine
+69192,Philosophy
+69196,Books
+69196,History
+69196,Political Science
+69196,Religion
+69198,Current Affairs
+69198,Data Source
+69198,Economics
+69198,Law
+69198,Political Science
+69200,Books
+69200,Data Source
+69200,Web/Tech
+69202,Data Source
+69202,Economics
+69202,Education
+69203,Current Affairs
+69203,Economics
+69203,Religion
+69204,Books
+69204,Economics
+69207,Current Affairs
+69207,Data Source
+69207,Economics
+69207,Political Science
+69208,Books
+69208,Education
+69208,History
+69208,Philosophy
+69208,Political Science
+69211,Books
+69213,Data Source
+69213,Economics
+69213,Travel
+69214,Economics
+69214,History
+69214,Political Science
+69215,Data Source
+69215,Economics
+69216,Science
+69218,Current Affairs
+69218,Economics
+69218,Science
+69226,Books
+69226,Economics
+69226,Education
+69226,History
+69226,Philosophy
+69226,Political Science
+69228,Economics
+69231,Current Affairs
+69231,Film
+69231,Food and Drink
+69231,History
+69234,Data Source
+69234,Economics
+69234,Medicine
+69234,Web/Tech
+69235,Current Affairs
+69235,Economics
+69238,Economics
+69240,Economics
+69240,History
+69240,Science
+69240,Web/Tech
+69241,Current Affairs
+69241,Economics
+69243,Economics
+69245,Books
+69246,Books
+69246,Science
+69247,Data Source
+69247,Economics
+69247,History
+69248,Data Source
+69248,Economics
+69248,Philosophy
+69249,Economics
+69250,Current Affairs
+69250,Economics
+69254,Current Affairs
+69254,Economics
+69254,Film
+69254,Web/Tech
+69255,Current Affairs
+69255,Economics
+69256,Current Affairs
+69256,Education
+69256,Political Science
+69257,History
+69257,Music
+69257,The Arts
+69258,Economics
+69258,Education
+69263,Economics
+69265,Current Affairs
+69265,Law
+69265,Political Science
+69266,Data Source
+69266,Economics
+69266,Education
+69266,Web/Tech
+69266,Weblogs
+69270,Economics
+69270,Education
+69270,Philosophy
+69271,Current Affairs
+69271,Data Source
+69271,Economics
+69274,Data Source
+69274,Economics
+69274,History
+69274,Sports
+69275,Economics
+69275,Games
+69275,Television
+69275,The Arts
+69275,Web/Tech
+69276,Books
+69276,Economics
+69276,Games
+69276,Philosophy
+69280,Film
+69282,Books
+69286,Current Affairs
+69286,Economics
+69286,Education
+69286,Political Science
+69286,Sports
+69287,Current Affairs
+69287,Economics
+69290,Economics
+69290,History
+69290,Political Science
+69291,Philosophy
+69291,Political Science
+69291,Television
+69291,Weblogs
+69294,History
+69294,Law
+69294,Political Science
+69294,Religion
+69297,Economics
+69300,Current Affairs
+69300,Law
+69301,Current Affairs
+69301,Economics
+69301,Food and Drink
+69301,Law
+69303,Economics
+69303,History
+69303,Law
+69303,Political Science
+69304,Economics
+69304,Education
+69304,Philosophy
+69305,Economics
+69309,Current Affairs
+69309,Economics
+69309,Law
+69312,Data Source
+69312,Education
+69312,Science
+69315,Web/Tech
+69316,Economics
+69316,Web/Tech
+69317,Current Affairs
+69317,Economics
+69317,Science
+69320,Current Affairs
+69320,Data Source
+69320,Economics
+69320,Political Science
+69321,Economics
+69323,Current Affairs
+69323,History
+69323,Political Science
+69326,Data Source
+69326,Travels
+69328,Books
+69329,Economics
+69329,Law
+69330,Current Affairs
+69331,Medicine
+69331,Religion
+69331,Science
+69334,Books
+69334,History
+69334,Political Science
+69336,Current Affairs
+69336,Economics
+69336,Political Science
+69340,Data Source
+69340,Web/Tech
+69341,Current Affairs
+69341,Economics
+69341,Law
+69342,Economics
+69342,Medicine
+69345,Economics
+69345,History
+69347,Economics
+69347,Science
+69348,Economics
+69348,Political Science
+69351,Current Affairs
+69351,Web/Tech
+69354,Books
+69354,Economics
+69354,History
+69355,Data Source
+69355,Law
+69355,Travel
+69356,Current Affairs
+69356,Political Science
+69357,Current Affairs
+69357,Economics
+69357,Travel
+69360,Current Affairs
+69360,Economics
+69360,History
+69360,Music
+69360,Political Science
+69360,Religion
+69360,Web/Tech
+69362,Current Affairs
+69362,Economics
+69362,Political Science
+69363,Books
+69363,Economics
+69363,History
+69365,Science
+69365,Web/Tech
+69366,Current Affairs
+69366,Law
+69369,Economics
+69371,Economics
+69371,Education
+69373,Current Affairs
+69373,Economics
+69373,Travel
+69373,Web/Tech
+69375,Data Source
+69375,Economics
+69375,Political Science
+69380,Current Affairs
+69380,Data Source
+69380,Economics
+69380,Political Science
+69381,Current Affairs
+69381,Data Source
+69381,Economics
+69381,Political Science
+69382,Economics
+69382,Web/Tech
+69383,Data Source
+69383,Economics
+69383,History
+69383,Law
+69384,Current Affairs
+69384,Data Source
+69384,Economics
+69384,Political Science
+69387,Books
+69388,Books
+69388,Economics
+69388,Education
+69391,Data Source
+69391,Religion
+69393,Current Affairs
+69393,Political Science
+69394,Economics
+69394,Law
+69398,Current Affairs
+69398,History
+69398,Political Science
+69399,Current Affairs
+69399,Economics
+69399,Law
+69399,Political Science
+69400,Economics
+69401,Current Affairs
+69401,Education
+69401,Philosophy
+69401,Political Science
+69402,Data Source
+69402,Economics
+69402,Music
+69404,Economics
+69404,Education
+69404,Television
+69407,Data Source
+69407,Economics
+69409,Economics
+69409,Political Science
+69410,Books
+69410,Economics
+69410,Education
+69410,Philosophy
+69410,Science
+69413,Current Affairs
+69413,Economics
+69413,The Arts
+69414,Economics
+69414,Film
+69414,Travel
+69415,Economics
+69415,Web/Tech
+69417,Current Affairs
+69417,Economics
+69417,Law
+69420,Economics
+69420,Law
+69420,Travel
+69422,Current Affairs
+69422,Economics
+69422,Film
+69422,Food and Drink
+69422,History
+69422,Medicine
+69422,Music
+69422,Philosophy
+69422,Political Science
+69422,Sports
+69422,Travel
+69422,Web/Tech
+69422,Weblogs
+69423,Data Source
+69423,Economics
+69423,Education
+69423,Political Science
+69424,Current Affairs
+69424,Economics
+69428,Current Affairs
+69428,History
+69428,Political Science
+69431,Books
+69431,History
+69431,Philosophy
+69431,Science
+69434,Current Affairs
+69434,Data Source
+69434,Economics
+69434,Medicine
+69437,Economics
+69440,Current Affairs
+69440,The Arts
+69443,Economics
+69445,Books
+69446,Current Affairs
+69446,Economics
+69446,Political Science
+69448,Food and Drink
+69448,The Arts
+69451,Current Affairs
+69451,Economics
+69451,Political Science
+69455,Economics
+69457,Economics
+69458,Economics
+69463,Economics
+69464,Economics
+69464,History
+69464,Law
+69464,Political Science
+69466,Economics
+69468,Current Affairs
+69468,Economics
+69468,Political Science
+69471,Books
+69471,Film
+69471,Television
+69475,Current Affairs
+69475,Economics
+69475,Law
+69476,Film
+69476,Religion
+69480,Current Affairs
+69480,Philosophy
+69480,Political Science
+69481,Law
+69481,Political Science
+69483,Current Affairs
+69483,Law
+69483,Political Science
+69485,Education
+69485,Film
+69486,Current Affairs
+69486,Economics
+69486,Food and Drink
+69487,Data Source
+69487,Economics
+69487,Web/Tech
+69489,Books
+69489,Music
+69491,Economics
+69494,Education
+69494,Sports
+69495,Data Source
+69495,Economics
+69498,Science
+69506,Economics
+69508,Books
+69509,Current Affairs
+69509,Games
+69509,Political Science
+69510,Current Affairs
+69510,Law
+69510,Political Science
+69512,Sports
+69512,Television
+69513,Economics
+69513,Political Science
+69513,Religion
+69515,Books
+69515,Food and Drink
+69519,Economics
+69519,Law
+69519,Medicine
+69520,Current Affairs
+69520,History
+69520,Political Science
+69523,Current Affairs
+69523,Data Source
+69523,Law
+69523,Travel
+69524,Current Affairs
+69524,Data Source
+69524,Political Science
+69526,Economics
+69526,The Arts
+69529,Current Affairs
+69529,Economics
+69529,Law
+69529,Political Science
+69531,Current Affairs
+69531,Economics
+69531,Political Science
+69533,Data Source
+69533,Economics
+69535,Economics
+69535,Food and Drink
+69536,Current Affairs
+69536,Economics
+69537,Current Affairs
+69537,Data Source
+69537,Economics
+69537,Political Science
+69538,Economics
+69538,Film
+69540,Economics
+69540,Political Science
+69541,Current Affairs
+69541,History
+69541,Political Science
+69542,Current Affairs
+69542,Economics
+69542,Law
+69544,Books
+69544,History
+69544,Travel
+69546,Food and Drink
+69546,History
+69546,Philosophy
+69547,Current Affairs
+69547,Economics
+69547,Law
+69547,Political Science
+69549,Food and Drink
+69552,Current Affairs
+69552,Economics
+69552,Law
+69552,Medicine
+69553,Books
+69553,Economics
+69553,History
+69553,Political Science
+69555,Data Source
+69555,The Arts
+69556,Economics
+69556,History
+69556,Music
+69557,Economics
+69557,History
+69559,Economics
+69559,Film
+69559,Law
+69559,Television
+69559,Web/Tech
+69562,Economics
+69562,Education
+69562,Law
+69562,Medicine
+69562,Music
+69563,Law
+69563,Web/Tech
+69566,Economics
+69568,Data Source
+69568,Education
+69568,Web/Tech
+69570,Current Affairs
+69570,Economics
+69573,Current Affairs
+69573,Political Science
+69575,Economics
+69575,Film
+69575,Law
+69575,Television
+69577,Economics
+69577,History
+69577,Law
+69577,Political Science
+69577,Religion
+69577,Science
+69580,Economics
+69583,Games
+69583,Sports
+69585,Current Affairs
+69585,Economics
+69586,Economics
+69587,Books
+69587,Film
+69587,Philosophy
+69587,The Arts
+69591,Data Source
+69591,Medicine
+69592,Current Affairs
+69592,Data Source
+69592,Political Science
+69593,Current Affairs
+69593,Economics
+69597,Books
+69597,Economics
+69598,Food and Drink
+69598,Law
+69602,Current Affairs
+69602,Web/Tech
+69603,Data Source
+69603,Education
+69603,Political Science
+69606,Data Source
+69606,Economics
+69606,Political Science
+69607,Current Affairs
+69607,Political Science
+69609,Law
+69609,Sports
+69609,Web/Tech
+69611,Food and Drink
+69611,Science
+69616,Current Affairs
+69616,Economics
+69616,History
+69616,Law
+69616,Political Science
+69618,Current Affairs
+69618,Economics
+69618,Education
+69620,Data Source
+69620,Economics
+69621,Current Affairs
+69621,Law
+69621,Medicine
+69621,Science
+69623,Current Affairs
+69623,Economics
+69623,Law
+69623,Political Science
+69624,Economics
+69627,Data Source
+69627,Economics
+69628,Data Source
+69628,Economics
+69630,Current Affairs
+69630,Data Source
+69630,Economics
+69632,Books
+69632,Current Affairs
+69632,Economics
+69632,Political Science
+69633,Data Source
+69633,Economics
+69633,Education
+69633,History
+69633,Political Science
+69634,Current Affairs
+69634,Economics
+69634,Political Science
+69635,Economics
+69638,Current Affairs
+69638,History
+69638,Philosophy
+69638,Political Science
+69638,Science
+69638,The Arts
+69640,Data Source
+69640,Economics
+69640,Law
+69641,Current Affairs
+69641,Games
+69641,Law
+69641,Political Science
+69643,Current Affairs
+69643,Economics
+69644,Economics
+69644,Medicine
+69646,Philosophy
+69646,Political Science
+69649,Data Source
+69649,Political Science
+69651,Data Source
+69651,Law
+69651,Political Science
+69652,Data Source
+69652,Sports
+69654,Economics
+69654,Political Science
+69658,Current Affairs
+69658,Games
+69658,Sports
+69661,Books
+69661,History
+69661,The Arts
+69661,Travel
+69664,Data Source
+69664,Economics
+69664,History
+69667,Current Affairs
+69667,Economics
+69667,Education
+69668,Books
+69669,Data Source
+69669,Economics
+69669,Law
 69670,Current Affairs
 69670,Economics
 69670,Medicine
 69670,Web/Tech
+69672,Data Source
+69672,Law
+69672,Political Science
+69673,Books
+69673,Current Affairs
+69673,Data Source
+69673,History
+69673,Law
+69673,Political Science
+69675,Economics
+69677,Data Source
+69677,Economics
+69677,History
+69679,Current Affairs
+69679,Political Science
+69679,Web/Tech
+69682,Current Affairs
+69682,Law
+69682,Political Science
+69682,Sports
+69686,Current Affairs
+69686,History
+69686,Political Science
+69687,Current Affairs
+69687,Economics
+69687,Political Science
+69689,Current Affairs
+69689,Economics
+69691,Current Affairs
+69691,Education
+69696,Current Affairs
+69696,Political Science
+69697,Current Affairs
+69697,Economics
+69697,Law
+69697,Political Science
+69699,Current Affairs
+69699,Political Science
+69700,Current Affairs
+69700,Political Science
+69702,Current Affairs
+69702,Data Source
+69703,Current Affairs
+69704,Current Affairs
+69704,Economics
+69704,Law
+69705,Current Affairs
+69705,Philosophy
+69705,Political Science
+69706,Current Affairs
+69706,Political Science
+69707,Books
+69708,Current Affairs
+69708,Economics
+69710,Current Affairs
+69710,History
+69710,Philosophy
+69710,Political Science
+69714,The Arts
+69717,Economics
+69720,Books
+69722,Books
+69723,Data Source
+69723,Economics
+69723,Education
+69725,Film
+69725,Philosophy
+69725,Religion
+69726,Current Affairs
+69726,Economics
+69726,Political Science
+69729,Economics
+69729,Law
+69732,Books
+69732,Economics
+69732,Education
+69732,Philosophy
+69733,Music
+69733,Web/Tech
+69734,Current Affairs
+69734,Economics
+69735,Economics
+69735,Political Science
+69736,Current Affairs
+69736,Economics
+69737,Current Affairs
+69737,Economics
+69737,Political Science
+69738,Economics
+69738,Law
+69738,Medicine
+69739,Current Affairs
+69739,Law
+69739,Science
+69741,Books
+69741,Philosophy
+69745,Current Affairs
+69745,Education
+69745,Political Science
+69745,Web/Tech
+69746,Current Affairs
+69746,Law
+69746,Political Science
+69749,Data Source
+69749,Economics
+69750,Economics
+69754,Books
+69754,Food and Drink
+69754,History
+69754,Philosophy
+69754,Travel
+69756,Current Affairs
+69756,Education
+69756,History
+69756,Political Science
+69760,Current Affairs
+69760,Economics
+69760,Travel
+69762,Education
+69762,Law
+69764,Current Affairs
+69764,Economics
+69764,Political Science
+69765,Current Affairs
+69765,History
+69765,Political Science
+69767,Economics
+69769,Economics
+69770,Economics
+69770,Education
+69771,Current Affairs
+69771,Games
+69776,Economics
+69776,Political Science
+69779,Economics
+69779,Web/Tech
+69780,Current Affairs
+69780,Economics
+69780,Political Science
+69782,Economics
+69784,Economics
+69784,Medicine
+69786,Data Source
+69786,Medicine
+69786,Science
+69789,Current Affairs
+69789,Economics
+69789,Law
+69790,Economics
+69790,Political Science
+69793,Books
+69794,Data Source
+69794,Education
+69794,Web/Tech
+69796,Law
+69796,Philosophy
+69796,Political Science
+69798,Current Affairs
+69798,Law
+69799,Books
+69799,Economics
+69799,Web/Tech
+69801,Current Affairs
+69801,Education
+69803,Food and Drink
+69803,History
+69803,Philosophy
+69803,Religion
+69803,Science
+69805,Current Affairs
+69805,Economics
+69806,Data Source
+69806,Economics
+69806,Food and Drink
+69807,Economics
+69807,Education
+69807,Science
+69810,Economics
+69810,Law
+69812,Economics
+69812,Law
+69815,Economics
+69815,History
+69817,Economics
+69817,History
+69817,Law
+69819,Economics
+69819,Food and Drink
+69823,Books
+69823,Economics
+69823,History
+69823,Law
+69825,Current Affairs
+69825,Economics
+69825,Political Science
+69826,Current Affairs
+69826,Economics
+69826,Travel
+69830,Data Source
+69830,Economics
+69830,Education
+69830,Law
+69831,Economics
+69833,Current Affairs
+69833,Data Source
+69833,Political Science
+69835,Economics
+69838,Philosophy
+69838,Science
+69838,Web/Tech
+69840,Economics
+69842,Data Source
+69842,Economics
+69843,Economics
+69843,Education
+69843,Science
+69846,Data Source
+69846,Economics
+69846,Education
+69846,Law
+69846,Political Science
+69848,Current Affairs
+69848,Education
+69849,Current Affairs
+69849,Economics
+69849,Law
+69853,Economics
+69853,History
+69853,Law
+69855,Travel
+69856,Data Source
+69856,Law
+69858,Economics
+69858,Law
+69858,Medicine
+69861,Games
+69862,Current Affairs
+69862,Economics
+69862,Law
+69862,Medicine
+69863,Current Affairs
+69863,Web/Tech
+69864,Books
+69866,Science
+69866,Web/Tech
+69867,Philosophy
+69867,Political Science
+69868,Current Affairs
+69868,Philosophy
+69868,Political Science
+69871,Economics
+69874,Philosophy
+69874,Travel
+69876,Current Affairs
+69876,Political Science
+69879,Economics
+69879,Education
+69879,Medicine
+69881,Current Affairs
+69881,Data Source
+69881,Economics
+69882,Music
+69882,Travel
+69884,Current Affairs
+69884,Economics
+69884,Religion
+69885,History
+69885,Religion
+69885,Television
+69888,Current Affairs
+69888,Economics
+69888,Education
+69888,Political Science
+69892,Current Affairs
+69892,Economics
+69892,Political Science
+69892,The Arts
+69894,Current Affairs
+69894,History
+69894,Philosophy
+69894,Travel
+69898,Current Affairs
+69898,Law
+69898,Political Science
+69900,Current Affairs
+69900,Economics
+69900,History
+69900,Law
+69900,Political Science
+69901,Current Affairs
+69901,Games
+69901,Law
+69902,Economics
+69902,Law
+69902,Medicine
+69902,Political Science
+69902,Travel
+69903,Economics
+69903,History
+69903,Political Science
+69907,Data Source
+69907,Economics
+69910,Economics
+69910,History
+69910,Travel
+69912,Data Source
+69912,Education
+69913,Current Affairs
+69913,Economics
+69913,Law
+69914,Data Source
+69914,Economics
+69914,History
+69918,Current Affairs
+69918,Economics
+69918,Law
+69918,Political Science
+69919,Music
+69921,Books
+69921,Current Affairs
+69921,Economics
+69921,Law
+69923,Books
+69924,Data Source
+69924,Political Science
+69927,Books
+69927,Economics
+69927,History
+69930,Current Affairs
+69930,Political Science
+69931,Economics
+69931,Law
+69933,Food and Drink
+69933,Political Science
+69933,Science
+69934,Music
+69943,Economics
+69943,Science
+69943,Web/Tech
+69945,Current Affairs
+69945,Data Source
+69945,Economics
+69946,Current Affairs
+69946,Economics
+69946,Political Science
+69947,Current Affairs
+69947,Economics
+69947,Law
+69949,Economics
+69949,History
+69949,Philosophy
+69949,Political Science
+69949,Religion
+69949,Science
+69949,Travel
+69950,Books
+69950,History
+69951,Books
+69951,History
+69951,Music
+69953,Food and Drink
+69953,Science
+69955,Economics
+69955,Law
+69956,Economics
+69956,Games
+69956,History
+69956,Philosophy
+69956,Political Science
+69958,Food and Drink
+69958,Travel
+69958,Travels
+69959,Books
+69959,Education
+69959,Science
+69961,Current Affairs
+69961,Economics
+69963,Current Affairs
+69963,Economics
+69964,Economics
+69964,Travel
+69965,Current Affairs
+69965,Economics
+69966,Current Affairs
+69966,Film
+69966,Television
+69966,The Arts
+69968,Current Affairs
+69968,Economics
+69969,Current Affairs
+69969,Political Science
+69971,Books
+69971,Science
+69972,Books
+69972,Economics
+69972,Science
+69974,Books
+69974,Education
+69974,Film
+69978,History
+69978,Music
+69980,Film
+69982,Data Source
+69982,Economics
+69983,Economics
+69983,Science
+69983,Web/Tech
+69990,Current Affairs
+69993,Current Affairs
+69993,History
+69993,Law
+69993,Music
+69993,Political Science
+69995,Current Affairs
+69995,History
+69995,Law
+69995,Political Science
+69998,Film
+69998,Science
+69998,Television
+69998,The Arts
+69998,Web/Tech
+70000,Books
+70000,History
+70000,Law
+70000,Philosophy
+70000,Political Science
+70001,Data Source
+70001,Economics
+70001,Education
+70002,Books
+70002,Film
+70002,Food and Drink
+70002,Music
+70002,Sports
+70002,The Arts
+70002,Travel
+70005,Books
+70005,Current Affairs
+70005,Economics
+70005,Education
+70005,History
+70005,Philosophy
+70005,Religion
+70008,Economics
+70009,Current Affairs
+70009,Political Science
+70011,Economics
+70011,Education
+70011,Science
+70013,Current Affairs
+70013,Philosophy
+70015,Current Affairs
+70015,Data Source
+70015,Economics
+70016,Books
+70016,Current Affairs
+70016,Economics
+70016,Education
+70016,Science
+70019,Economics
+70019,History
+70019,Political Science
+70021,Economics
+70023,Economics
+70023,Education
+70025,Economics
+70025,Food and Drink
+70028,Current Affairs
+70028,Economics
+70028,History
+70028,Political Science
+70030,Current Affairs
+70030,Education
+70030,Philosophy
+70030,Religion
+70032,Data Source
+70032,Economics
+70032,Sports
+70032,Travel
+70035,Current Affairs
+70035,Economics
+70036,Economics
+70039,Law
+70039,Medicine
+70039,Science
+70040,Data Source
+70040,Economics
+70040,Law
+70042,Current Affairs
+70042,Economics
+70042,Philosophy
+70042,Political Science
+70042,Religion
+70045,Food and Drink
+70045,Law
 70047,Books
 70047,History
 70047,Science
 70047,The Arts
+70048,Film
+70048,History
+70049,Current Affairs
+70049,Law
+70049,Political Science
+70050,History
+70050,Music
+70052,History
+70052,Religion
+70052,The Arts
+70053,Books
+70053,History
+70053,Music
+70053,The Arts
+70053,Travel
+70054,Data Source
+70054,Education
+70054,Science
 70055,Books
 70055,Economics
 70055,Education
+70056,Current Affairs
+70056,Economics
+70057,Current Affairs
+70057,Games
+70057,History
+70057,Political Science
+70059,Food and Drink
+70059,Law
+70060,History
+70060,Religion
+70060,The Arts
+70065,Current Affairs
+70065,Religion
+70065,Travel
+70069,Current Affairs
+70069,Travel
+70070,Economics
+70070,Law
 70075,Economics
+70076,Current Affairs
+70076,Economics
+70077,Current Affairs
+70077,Law
+70077,Political Science
+70078,Current Affairs
+70078,Economics
+70078,Political Science
+70079,Food and Drink
+70079,Web/Tech
+70080,Economics
+70080,Film
+70080,Food and Drink
+70080,Travel
+70083,Current Affairs
+70083,Law
+70083,Web/Tech
 70084,Food and Drink
 70084,Travel
 70085,Economics
 70085,Education
 70085,Travel
+70086,Economics
+70086,Philosophy
+70086,Travel
+70088,Current Affairs
+70088,Economics
+70088,History
+70088,Political Science
+70090,Food and Drink
+70093,Current Affairs
+70093,Economics
+70093,History
+70093,Law
+70093,Political Science
 70098,Economics
 70098,Food and Drink
 70100,Books

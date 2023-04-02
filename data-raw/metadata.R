@@ -52,7 +52,8 @@ replace_non_ascii = function(x) {
     subfun('‐', '-') %>%
     subfun('–', '-') %>%
     subfun('—', '-') %>%
-    subfun('…', '...')
+    subfun('…', '...') %>%
+    subfun('™', '')
 }
 
 # Initialize cache directory
