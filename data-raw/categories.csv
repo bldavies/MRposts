@@ -1,10 +1,3437 @@
 id,category
+69670,Current Affairs
+69670,Economics
+69670,Medicine
+69670,Web/Tech
+70047,Books
+70047,History
+70047,Science
+70047,The Arts
+70055,Books
+70055,Economics
+70055,Education
+70075,Economics
+70084,Food and Drink
+70084,Travel
+70085,Economics
+70085,Education
+70085,Travel
+70098,Economics
+70098,Food and Drink
+70100,Books
+70100,Current Affairs
+70100,Law
+70100,Political Science
+70104,Current Affairs
+70104,Economics
+70104,Law
+70107,Economics
+70107,Games
+70107,Travel
+70111,Books
+70111,Philosophy
+70112,Current Affairs
+70112,Economics
+70112,Political Science
+70113,Economics
+70113,Film
+70114,Current Affairs
+70114,Law
+70114,Political Science
+70114,Web/Tech
+70115,Current Affairs
+70115,History
+70115,Law
+70115,Political Science
+70115,Religion
+70115,Travel
+70115,Travels
+70119,Economics
+70120,Web/Tech
+70123,Books
+70123,Web/Tech
+70124,Economics
+70125,Economics
+70126,Economics
+70127,Economics
+70134,Economics
+70134,Film
+70134,History
+70134,The Arts
+70138,Current Affairs
+70138,Data Source
+70138,Economics
+70142,Law
+70142,Medicine
+70142,Web/Tech
+70145,Education
+70145,Law
+70146,Books
+70146,History
+70146,Travel
+70149,Current Affairs
+70149,Economics
+70150,Weblogs
+70151,Current Affairs
+70151,Economics
+70151,Law
+70152,Current Affairs
+70152,Economics
+70152,Law
+70154,Economics
+70154,Law
+70154,Web/Tech
+70156,Current Affairs
+70156,Political Science
+70158,Data Source
+70158,Economics
+70160,Music
+70163,Web/Tech
+70164,History
+70164,Web/Tech
+70165,Web/Tech
+70166,Economics
+70166,Law
+70166,Political Science
+70168,Current Affairs
+70168,Education
+70168,Philosophy
+70168,Political Science
+70169,Food and Drink
+70169,Law
+70169,Medicine
+70172,Books
+70172,Education
+70172,History
+70172,Music
+70172,Philosophy
+70172,The Arts
+70172,Travel
+70173,Current Affairs
+70173,Data Source
+70173,Economics
+70173,Law
+70178,Education
+70178,Science
+70179,Current Affairs
+70179,Law
+70180,Current Affairs
+70180,Economics
+70182,Current Affairs
+70182,Law
+70182,Political Science
+70184,Current Affairs
+70184,Economics
+70184,Law
+70184,Political Science
+70188,Current Affairs
+70188,Economics
+70189,Economics
+70189,Education
+70189,History
+70191,Current Affairs
+70191,Economics
+70191,Law
+70191,Philosophy
+70191,Political Science
+70194,Current Affairs
+70194,Economics
+70194,Law
+70194,Web/Tech
+70197,Economics
+70197,The Arts
+70198,Books
+70200,Economics
+70200,Education
+70200,Science
+70201,Current Affairs
+70201,History
+70201,Political Science
+70202,Economics
+70202,Religion
+70203,Economics
+70203,Political Science
+70208,Economics
+70208,Travel
+70211,Economics
+70211,Science
+70214,Food and Drink
+70214,Travel
+70214,Travels
+70215,Economics
+70215,Law
+70215,Political Science
+70216,Economics
+70216,History
+70216,Law
+70216,Science
+70217,Data Source
+70217,Economics
+70217,Education
+70217,Law
+70218,Economics
+70218,History
+70218,Political Science
+70220,Economics
+70220,Law
+70220,Political Science
+70220,Web/Tech
+70221,Current Affairs
+70221,Economics
+70221,History
+70224,Books
+70224,Economics
+70224,Science
+70227,Books
+70227,Economics
+70227,History
+70227,Political Science
+70228,Current Affairs
+70228,Economics
+70228,Law
+70228,Philosophy
+70228,Political Science
+70229,Current Affairs
+70229,Law
+70229,Political Science
+70231,Books
+70231,Economics
+70231,Political Science
+70232,Books
+70232,Science
+70233,Books
+70233,Economics
+70233,Education
+70233,History
+70236,Current Affairs
+70236,Education
+70236,Law
+70236,Travel
+70237,Current Affairs
+70237,Political Science
+70238,Economics
+70238,Education
+70238,Medicine
+70238,Political Science
+70243,Current Affairs
+70243,Data Source
+70243,Economics
+70244,Current Affairs
+70244,Economics
+70244,Political Science
+70245,Data Source
+70245,Economics
+70245,Political Science
+70245,Web/Tech
+70247,Current Affairs
+70247,Economics
+70247,Law
+70247,Medicine
+70250,Education
+70250,Political Science
+70251,Data Source
+70251,Economics
+70251,History
+70251,Science
+70255,Film
+70260,Current Affairs
+70260,Data Source
+70260,Education
+70262,Education
+70262,Food and Drink
+70263,Books
+70263,History
+70266,Data Source
+70266,Medicine
+70266,Science
+70268,Economics
+70268,Law
+70268,Medicine
+70269,Economics
+70269,Education
+70271,Current Affairs
+70271,Economics
+70271,Law
+70274,Economics
+70274,Law
+70274,Medicine
+70275,Current Affairs
+70275,Political Science
+70277,Economics
+70278,Books
+70278,Current Affairs
+70278,Economics
+70278,History
+70278,Philosophy
+70278,Political Science
+70278,Television
+70278,Web/Tech
+70279,Economics
+70280,Education
+70280,Philosophy
+70280,Political Science
+70280,Religion
+70280,Science
+70281,Food and Drink
+70284,Economics
+70284,Political Science
+70288,Economics
+70288,Food and Drink
+70288,History
+70288,Science
+70288,Travel
+70288,Travels
+70290,Current Affairs
+70297,Law
+70297,Science
+70297,Web/Tech
+70298,Current Affairs
+70298,Economics
+70298,Political Science
+70301,Food and Drink
+70303,Current Affairs
+70303,Economics
+70306,Current Affairs
+70306,Economics
+70306,Law
+70306,Political Science
+70307,Current Affairs
+70307,History
+70307,Law
+70307,Religion
+70308,Books
+70308,History
+70308,Political Science
+70308,Science
+70308,Travel
+70310,Current Affairs
+70310,Law
+70312,Economics
+70312,Law
+70312,Travel
+70313,Law
+70313,Science
+70313,Travel
+70313,Web/Tech
+70314,Books
+70316,Economics
+70316,Education
+70316,Law
+70319,Books
+70319,History
+70320,Books
+70320,Economics
+70320,Law
+70323,Education
+70324,Current Affairs
+70324,Economics
+70325,Current Affairs
+70325,Economics
+70325,Travel
+70327,Data Source
+70327,Economics
+70327,Education
+70327,Philosophy
+70327,Political Science
+70328,Economics
+70328,The Arts
+70330,Books
+70330,History
+70330,Political Science
+70332,Data Source
+70332,Economics
+70332,History
+70333,Economics
+70333,History
+70333,Law
+70335,Current Affairs
+70335,Data Source
+70335,Law
+70335,Political Science
+70336,Economics
+70337,Data Source
+70337,Law
+70337,Medicine
+70338,Current Affairs
+70338,Food and Drink
+70338,Political Science
+70340,Books
+70340,History
+70341,Education
+70341,Games
+70345,Economics
+70346,Books
+70346,History
+70346,Philosophy
+70346,Political Science
+70347,Books
+70347,Current Affairs
+70347,Economics
+70347,Education
+70347,History
+70347,Political Science
+70347,Science
+70347,Sports
+70348,Current Affairs
+70348,Economics
+70348,Law
+70350,Data Source
+70350,History
+70350,Political Science
+70351,Current Affairs
+70351,Economics
+70351,Political Science
+70351,Television
+70352,Economics
+70352,Law
+70352,Medicine
+70353,Current Affairs
+70353,History
+70354,Film
+70355,History
+70355,Philosophy
+70355,Science
+70357,Current Affairs
+70357,Data Source
+70357,Economics
+70357,Law
+70359,Current Affairs
+70359,Law
+70359,Travel
+70360,Data Source
+70360,Economics
+70362,Current Affairs
+70362,Philosophy
+70362,Sports
+70365,Books
+70365,History
+70365,Philosophy
+70366,Current Affairs
+70366,Economics
+70367,Education
+70367,Political Science
+70367,Web/Tech
+70369,Books
+70370,Current Affairs
+70370,Data Source
+70370,Political Science
+70371,Books
+70371,Economics
+70371,Medicine
+70371,Political Science
+70373,Economics
+70373,Law
+70373,Travels
+70375,Economics
+70376,Economics
+70376,Philosophy
+70377,Current Affairs
+70377,Law
+70377,Political Science
+70379,Current Affairs
+70379,Law
+70379,Sports
+70380,Books
+70380,Education
+70381,Current Affairs
+70381,Economics
+70383,Current Affairs
+70383,Economics
+70383,Political Science
+70385,Economics
+70386,Economics
+70386,Education
+70386,Medicine
+70387,Economics
+70387,History
+70387,Political Science
+70390,Books
+70390,Economics
+70390,The Arts
+70391,Books
+70393,Education
+70393,Food and Drink
+70393,Philosophy
+70393,Political Science
+70393,Religion
+70394,Education
+70394,Philosophy
+70396,Books
+70396,History
+70396,Law
+70396,Political Science
+70398,Books
+70398,Current Affairs
+70398,Economics
+70398,History
+70398,Law
+70398,Philosophy
+70398,Political Science
+70398,Religion
+70400,Data Source
+70400,Music
+70401,Current Affairs
+70401,Economics
+70401,Education
+70401,Religion
+70402,Current Affairs
+70402,Data Source
+70402,Economics
+70402,Political Science
+70405,Travel
+70407,Current Affairs
+70407,History
+70407,Political Science
+70409,Economics
+70409,Education
+70409,Film
+70410,Current Affairs
+70410,Economics
+70412,Books
+70412,History
+70412,Philosophy
+70412,Religion
+70419,Economics
+70419,Law
+70419,Medicine
+70421,Books
+70421,Current Affairs
+70421,Education
+70421,History
+70421,Law
+70421,Philosophy
+70421,Political Science
+70421,Religion
+70421,Travel
+70422,Current Affairs
+70422,Law
+70422,Political Science
+70422,Web/Tech
+70425,Books
+70425,Economics
+70425,Film
+70425,Law
+70425,Political Science
+70425,Television
+70425,The Arts
+70427,Current Affairs
+70427,Economics
+70427,History
+70427,Web/Tech
+70429,Economics
+70429,Political Science
+70429,Web/Tech
+70431,Current Affairs
+70431,Economics
+70431,Political Science
+70432,Economics
+70432,Education
+70434,Current Affairs
+70434,Political Science
+70435,Books
+70435,Current Affairs
+70435,Economics
+70435,History
+70435,Philosophy
+70435,Political Science
+70440,Current Affairs
+70440,Law
+70441,Data Source
+70441,Sports
+70442,Economics
+70442,Education
+70446,Economics
+70446,Education
+70446,Science
+70447,Books
+70447,Economics
+70447,Education
+70447,History
+70447,Philosophy
+70449,Current Affairs
+70449,History
+70449,Political Science
+70450,Current Affairs
+70450,Data Source
+70450,Law
+70451,Economics
+70451,The Arts
+70453,Books
+70453,Economics
+70453,Education
+70453,Law
+70453,Medicine
+70453,Philosophy
+70453,Political Science
+70453,Religion
+70453,The Arts
+70456,Current Affairs
+70456,Economics
+70457,Books
+70457,Current Affairs
+70458,Economics
+70458,Education
+70458,Games
+70458,Medicine
+70458,Philosophy
+70460,Current Affairs
+70460,Law
+70460,Political Science
+70461,Current Affairs
+70461,History
+70461,Law
+70461,Political Science
+70463,Current Affairs
+70463,Philosophy
+70463,Political Science
+70463,Travel
+70464,Current Affairs
+70465,Economics
+70468,Books
+70469,The Arts
+70470,Economics
+70470,Web/Tech
+70471,Current Affairs
+70471,Web/Tech
+70473,Current Affairs
+70473,Political Science
+70473,Travel
+70474,Current Affairs
+70474,Economics
+70474,Travel
+70477,History
+70477,Law
+70477,Political Science
+70478,Current Affairs
+70478,Economics
+70479,Current Affairs
+70479,Data Source
+70479,Law
+70481,Data Source
+70481,Medicine
+70483,Current Affairs
+70486,History
+70486,Music
+70487,Books
+70487,Economics
+70487,Film
+70487,History
+70487,Music
+70487,The Arts
+70488,Books
+70488,Web/Tech
+70491,Economics
+70492,Current Affairs
+70492,Data Source
+70492,Political Science
+70493,Food and Drink
+70495,Economics
+70495,Political Science
+70496,Education
+70497,Education
+70497,Political Science
+70498,Books
+70498,Web/Tech
+70499,Current Affairs
+70499,Data Source
+70499,Economics
+70500,Books
+70500,Current Affairs
+70500,Philosophy
+70502,Books
+70502,Travel
+70508,Books
+70508,History
+70510,Books
+70510,History
+70513,Books
+70513,Religion
+70515,Data Source
+70515,Economics
+70515,Medicine
+70517,Current Affairs
+70517,Economics
+70520,Current Affairs
+70520,Economics
+70520,Law
+70522,Data Source
+70522,Economics
+70527,Economics
+70527,Law
+70529,Current Affairs
+70529,Education
+70530,Current Affairs
+70530,History
+70530,Law
+70530,Political Science
+70532,Books
+70532,Economics
+70532,History
+70532,Law
+70536,Economics
+70536,Law
+70541,Economics
+70541,Music
+70543,Books
+70544,Economics
+70544,Law
+70544,Web/Tech
+70546,Education
+70546,Philosophy
+70547,Books
+70547,Film
+70547,Music
+70547,Television
+70547,The Arts
+70550,Books
+70550,Economics
+70550,Law
+70552,Travel
+70554,Current Affairs
+70554,Data Source
+70554,Economics
+70555,Books
+70555,Philosophy
+70556,Current Affairs
+70556,History
+70556,Political Science
+70557,Economics
+70557,History
+70557,Science
+70557,Web/Tech
+70560,Philosophy
+70563,Current Affairs
+70563,Law
+70563,Medicine
+70565,Data Source
+70565,Economics
+70566,Current Affairs
+70566,Economics
+70566,Law
+70567,Economics
+70569,Books
+70569,Education
+70569,Science
+70572,Current Affairs
+70572,Political Science
+70575,Current Affairs
+70575,Data Source
+70575,Film
+70575,History
+70576,Economics
+70577,Current Affairs
+70577,Economics
+70577,Political Science
+70579,Current Affairs
+70579,Economics
+70579,Medicine
+70581,Current Affairs
+70581,Economics
+70581,Law
+70581,Political Science
+70583,Philosophy
+70583,Political Science
+70584,Economics
+70585,Food and Drink
+70587,Current Affairs
+70587,Law
+70587,Medicine
+70587,Political Science
+70588,Books
+70588,Science
+70592,Economics
+70592,Law
+70592,Medicine
+70593,Economics
+70593,Philosophy
+70595,Current Affairs
+70595,Political Science
+70599,Books
+70599,Current Affairs
+70599,Economics
+70599,Education
+70599,History
+70599,Law
+70599,Philosophy
+70599,Political Science
+70599,Sports
+70599,Television
+70601,Current Affairs
+70601,History
+70601,Law
+70601,Political Science
+70605,Books
+70605,Education
+70605,Philosophy
+70606,The Arts
+70606,Web/Tech
+70609,Current Affairs
+70609,Games
+70609,Political Science
+70609,Web/Tech
+70611,Current Affairs
+70611,Economics
+70611,Science
+70612,Books
+70612,Economics
+70612,History
+70614,Travel
+70618,Philosophy
+70623,Current Affairs
+70623,Political Science
+70623,Religion
+70624,Economics
+70624,Law
+70624,Political Science
+70629,Books
+70629,Economics
+70629,Political Science
+70631,Books
+70631,History
+70632,Education
+70632,History
+70632,Philosophy
+70632,Science
+70633,Books
+70633,Economics
+70633,History
+70636,Economics
+70636,History
+70636,Travel
+70638,Political Science
+70639,Current Affairs
+70639,Economics
+70640,Current Affairs
+70640,Law
+70640,Medicine
+70640,Television
+70640,Web/Tech
+70644,Data Source
+70644,Economics
+70644,History
+70645,Current Affairs
+70645,Economics
+70645,Education
+70646,Education
+70646,History
+70646,Sports
+70647,Data Source
+70647,Economics
+70649,Books
+70649,Economics
+70649,History
+70649,Science
+70652,Current Affairs
+70652,Economics
+70652,Political Science
+70654,Data Source
+70654,Economics
+70654,History
+70655,Science
+70656,Current Affairs
+70656,Economics
+70656,History
+70656,Law
+70656,Medicine
+70656,Political Science
+70657,Education
+70657,Philosophy
+70657,Travel
+70658,Current Affairs
+70658,History
+70658,Political Science
+70659,Economics
+70660,Books
+70660,Current Affairs
+70661,Books
+70661,Philosophy
+70662,Web/Tech
+70663,Data Source
+70663,History
+70664,Economics
+70664,Web/Tech
+70671,Data Source
+70671,Medicine
+70671,Web/Tech
+70674,Games
+70674,History
+70674,Sports
+70674,Web/Tech
+70676,Economics
+70676,Travel
+70680,Law
+70680,Travel
+70681,Current Affairs
+70684,Economics
+70684,Law
+70684,Medicine
+70685,Current Affairs
+70685,Data Source
+70685,Education
+70688,Economics
+70688,Web/Tech
+70689,Data Source
+70689,Economics
+70689,History
+70691,Books
+70691,Philosophy
+70691,Political Science
+70693,Data Source
+70693,Education
+70693,Science
+70694,Books
+70694,Economics
+70694,Education
+70695,Economics
+70695,Law
+70695,Travel
+70697,Current Affairs
+70697,Economics
+70697,Education
+70697,Food and Drink
+70697,History
+70697,Philosophy
+70697,Political Science
+70697,The Arts
+70697,Travel
+70697,Web/Tech
+70700,Food and Drink
+70700,Music
+70700,Philosophy
+70701,Current Affairs
+70701,History
+70701,Law
+70701,Political Science
+70703,Data Source
+70703,Economics
+70704,Current Affairs
+70704,Law
+70704,Web/Tech
+70705,Current Affairs
+70705,Economics
+70705,Law
+70710,Current Affairs
+70710,Economics
+70710,Political Science
+70712,Current Affairs
+70712,Law
+70712,Web/Tech
+70714,Current Affairs
+70714,Education
+70717,Current Affairs
+70717,Law
+70717,Political Science
+70720,Economics
+70720,Law
+70720,The Arts
+70720,Travel
+70726,Philosophy
+70727,Current Affairs
+70727,Economics
+70727,Education
+70727,Film
+70727,Philosophy
+70727,Religion
+70727,Science
+70727,Television
+70727,The Arts
+70727,Travel
+70727,Web/Tech
+70728,Current Affairs
+70728,Economics
+70728,Television
+70731,Economics
+70731,Web/Tech
+70733,Current Affairs
+70733,Economics
+70733,Law
+70733,Science
+70739,Economics
+70739,Education
+70739,Law
+70740,Law
+70740,Medicine
+70742,Books
+70742,Current Affairs
+70742,History
+70742,Political Science
+70743,Books
+70743,Economics
+70743,History
+70745,Books
+70745,Economics
+70746,Books
+70746,Economics
+70746,History
+70746,Web/Tech
+70747,Economics
+70748,Current Affairs
+70748,History
+70748,Philosophy
+70748,Political Science
+70749,Books
+70750,Books
+70750,Current Affairs
+70750,Economics
+70750,Political Science
+70752,Economics
+70752,Web/Tech
+70754,Books
+70761,Current Affairs
+70761,History
+70761,Religion
+70762,Web/Tech
+70764,Food and Drink
+70764,Medicine
+70767,Economics
+70767,Food and Drink
+70767,Law
+70767,Travel
+70770,Books
+70770,Education
+70770,Political Science
+70771,Economics
+70771,Law
+70771,Travel
+70773,Current Affairs
+70773,Economics
+70775,Current Affairs
+70775,Economics
+70777,Food and Drink
+70777,Music
+70779,History
+70779,Philosophy
+70779,The Arts
+70780,Data Source
+70780,Economics
+70780,History
+70780,Philosophy
+70780,Political Science
+70781,Books
+70781,History
+70782,Books
+70782,History
+70782,Philosophy
+70786,Economics
+70786,Law
+70786,Religion
+70786,Travel
+70790,Current Affairs
+70790,Economics
+70790,Travel
+70791,Books
+70791,Medicine
+70791,Philosophy
+70792,Economics
+70792,Education
+70795,Books
+70795,Data Source
+70795,Economics
+70795,Web/Tech
+70796,Current Affairs
+70796,Travel
+70801,Current Affairs
+70801,Economics
+70801,Law
+70801,Travel
+70805,Current Affairs
+70805,Economics
+70805,Food and Drink
+70805,History
+70805,Philosophy
+70805,Political Science
+70805,Religion
+70805,The Arts
+70805,Travel
+70805,Web/Tech
+70805,Weblogs
+70809,Current Affairs
+70809,Law
+70809,Travel
+70810,Web/Tech
+70811,Books
+70811,Economics
+70811,History
+70811,Political Science
+70812,Economics
+70812,History
+70812,Political Science
+70813,Economics
+70813,Law
+70814,Current Affairs
+70814,Economics
+70814,Travel
+70815,Economics
+70815,Law
+70815,Web/Tech
+70817,Books
+70817,Games
+70817,Science
+70817,Web/Tech
+70818,Law
+70818,Travel
+70820,Current Affairs
+70820,Education
+70820,History
+70820,Law
+70820,Religion
+70822,Books
+70822,History
+70822,Philosophy
+70823,Current Affairs
+70823,Data Source
+70823,Economics
+70823,Web/Tech
+70824,Data Source
+70824,Economics
+70824,Law
+70825,Economics
+70825,History
+70828,Current Affairs
+70828,Economics
+70828,Political Science
+70829,Books
+70830,Books
+70830,Web/Tech
+70833,Books
+70833,Current Affairs
+70833,History
+70834,Current Affairs
+70834,Economics
+70834,Law
+70837,Film
+70837,History
+70837,Political Science
+70839,Economics
+70839,Law
+70839,Travel
+70845,Economics
+70845,Travel
+70845,Web/Tech
+70847,Current Affairs
+70847,Data Source
+70847,Education
+70847,Film
+70847,Philosophy
+70847,Political Science
+70849,Current Affairs
+70849,Law
+70849,Political Science
+70852,Economics
+70852,Law
+70852,Medicine
+70854,Current Affairs
+70854,Economics
+70855,Data Source
+70855,Economics
+70855,Political Science
+70856,Economics
+70856,Political Science
+70858,Economics
+70858,Education
+70858,Music
+70858,The Arts
+70859,Economics
+70859,Film
+70859,Law
+70860,Current Affairs
+70860,Political Science
+70861,Data Source
+70861,Education
+70862,Current Affairs
+70863,Economics
+70863,Sports
+70864,Economics
+70864,Games
+70864,Web/Tech
+70866,Current Affairs
+70866,Political Science
+70869,Current Affairs
+70869,Economics
+70871,Education
+70871,Food and Drink
+70871,Philosophy
+70873,Economics
+70873,Philosophy
+70873,Political Science
+70874,Current Affairs
+70874,Economics
+70874,Law
+70874,Sports
+70875,Current Affairs
+70875,Economics
+70877,Current Affairs
+70877,Data Source
+70877,Law
+70877,Political Science
+70880,Web/Tech
+70881,Data Source
+70881,Economics
+70881,Education
+70884,Economics
+70884,Political Science
+70884,Science
+70885,Books
+70885,Economics
+70885,History
+70885,Political Science
+70886,Economics
+70886,Religion
+70887,Education
+70887,Political Science
+70887,Web/Tech
+70889,Books
+70889,Music
+70890,Data Source
+70890,History
+70890,Political Science
+70891,Economics
+70893,Current Affairs
+70893,Web/Tech
+70894,Economics
+70894,Political Science
+70896,Books
+70899,Economics
+70900,Education
+70905,Economics
+70905,History
+70907,Film
+70907,Web/Tech
+70909,Economics
+70911,History
+70915,Books
+70915,Economics
+70915,Food and Drink
+70916,Books
+70916,Film
+70916,Philosophy
+70917,Current Affairs
+70917,Economics
+70919,Books
+70919,History
+70922,Economics
+70922,Education
+70923,Law
+70923,Medicine
+70924,History
+70924,Political Science
+70924,Science
+70926,Current Affairs
+70926,Political Science
+70926,Science
+70929,Education
+70929,Food and Drink
+70931,Economics
+70931,Sports
+70931,The Arts
+70934,Music
+70935,Economics
+70935,Web/Tech
+70936,Books
+70936,Economics
+70936,Education
+70936,Music
+70937,Books
+70939,Current Affairs
+70939,Education
+70939,Medicine
+70939,Philosophy
+70939,Political Science
+70939,Religion
+70939,Science
+70940,Data Source
+70940,Education
+70940,Political Science
+70941,Data Source
+70941,Economics
+70941,Education
+70941,Political Science
+70943,Economics
+70943,Law
+70943,Political Science
+70943,Science
+70944,Travel
+70949,Economics
+70950,Economics
+70952,Current Affairs
+70952,Law
+70952,Medicine
+70952,Political Science
+70956,Books
+70956,Current Affairs
+70956,Medicine
+70956,Philosophy
+70957,Data Source
+70957,Political Science
+70959,Economics
+70960,Current Affairs
+70960,Economics
+70960,Law
+70960,Medicine
+70960,Web/Tech
+70963,Economics
+70963,Sports
+70963,Television
+70965,Current Affairs
+70965,Medicine
+70965,Political Science
+70967,Music
+70969,Economics
+70969,Education
+70969,The Arts
+70971,Economics
+70972,Books
+70972,Economics
+70972,Education
+70972,History
+70972,Music
+70974,Economics
+70974,Law
+70974,Religion
+70974,Travel
+70978,Books
+70979,Current Affairs
+70979,Political Science
+70981,Data Source
+70981,Law
+70982,Books
+70982,History
+70982,Law
+70982,Political Science
+70983,Current Affairs
+70983,Economics
+70985,Books
+70985,Current Affairs
+70985,Economics
+70985,Education
+70985,Religion
+70985,The Arts
+70985,Web/Tech
+70986,Economics
+70988,Economics
+70988,History
+70992,Current Affairs
+70992,Economics
+70992,Political Science
+70997,Economics
+71001,Books
+71001,Current Affairs
+71001,Economics
+71001,Education
+71001,Film
+71001,Games
+71001,History
+71001,Philosophy
+71001,Political Science
+71001,The Arts
+71001,Web/Tech
+71002,Books
+71002,Education
+71002,Science
+71004,Food and Drink
+71004,Web/Tech
+71009,Books
+71009,Science
+71011,Current Affairs
+71011,Economics
+71011,Law
+71011,Medicine
+71018,Economics
+71018,Law
+71021,Law
+71021,Medicine
+71022,Current Affairs
+71022,Economics
+71027,Economics
+71027,History
+71027,Law
+71027,Political Science
+71031,Economics
+71031,Law
+71031,Web/Tech
+71032,Books
+71033,Books
+71033,History
+71039,Current Affairs
+71039,Economics
+71040,Economics
+71040,Food and Drink
+71040,Political Science
+71041,Philosophy
+71041,Web/Tech
+71043,History
+71043,Political Science
+71044,Current Affairs
+71044,Data Source
+71044,Economics
+71044,Political Science
+71045,Economics
+71045,Law
+71045,Medicine
+71046,Current Affairs
+71046,Law
+71046,Web/Tech
+71048,Economics
+71048,Law
+71048,Medicine
+71049,Books
+71049,Data Source
+71051,Economics
+71051,Law
+71051,Medicine
+71052,Economics
+71052,Law
+71052,Sports
+71054,Current Affairs
+71056,Current Affairs
+71057,Economics
+71057,Law
+71058,Data Source
+71058,Political Science
+71058,Science
+71059,Books
+71060,Economics
+71060,Education
+71060,Science
+71063,Food and Drink
+71065,Economics
+71065,Education
+71065,History
+71065,Law
+71065,Philosophy
+71065,Political Science
+71065,Religion
+71067,Data Source
+71067,Economics
+71075,Economics
+71075,Law
+71076,Philosophy
+71076,Religion
+71078,Current Affairs
+71078,Data Source
+71079,Data Source
+71079,Economics
+71080,Economics
+71080,Law
+71080,Web/Tech
+71082,Books
+71083,Books
+71083,Economics
+71083,The Arts
+71086,Economics
+71086,Travel
+71087,Education
+71087,History
+71088,Current Affairs
+71088,Education
+71088,Philosophy
+71091,Current Affairs
+71091,Data Source
+71091,Economics
+71095,Education
+71096,Data Source
+71096,Economics
+71096,Medicine
+71097,History
+71097,Law
+71097,Political Science
+71101,Current Affairs
+71101,Economics
+71103,Philosophy
+71103,Religion
+71108,Current Affairs
+71108,Economics
+71109,Education
+71109,Science
+71110,Books
+71110,Political Science
+71110,Science
+71111,Economics
+71111,Education
+71111,Political Science
+71111,Science
+71113,Economics
+71113,Law
+71113,Medicine
+71114,Economics
+71114,History
+71115,Data Source
+71115,Economics
+71115,Travel
+71116,Data Source
+71116,Economics
+71116,Law
+71119,Film
+71119,Music
+71124,Music
+71124,The Arts
+71124,Web/Tech
+71125,Current Affairs
+71125,Economics
+71125,Political Science
+71129,Current Affairs
+71129,Economics
+71130,Philosophy
+71133,Books
+71133,Economics
+71133,History
+71133,The Arts
+71135,Economics
+71135,Food and Drink
+71135,Travel
+71136,Economics
+71136,Political Science
+71138,Economics
+71139,Data Source
+71139,Economics
+71141,Economics
+71141,Law
+71143,Current Affairs
+71143,Political Science
+71144,Philosophy
+71144,Travel
+71145,Education
+71145,Web/Tech
+71148,History
+71148,Law
+71148,Political Science
+71150,Current Affairs
+71150,Education
+71150,History
+71150,Law
+71150,Political Science
+71151,Economics
+71151,Law
+71152,Education
+71152,Philosophy
+71152,Science
+71154,Books
+71154,Economics
+71157,Economics
+71157,Education
+71157,Games
+71159,Economics
+71159,Law
+71159,Political Science
+71159,Science
+71161,Economics
+71161,Education
+71164,Books
+71164,Current Affairs
+71164,History
+71164,Philosophy
+71165,Books
+71165,Current Affairs
+71165,History
+71165,Philosophy
+71165,Political Science
+71167,Current Affairs
+71167,Political Science
+71167,Science
+71168,Current Affairs
+71168,Political Science
+71169,Data Source
+71169,Travel
+71170,Books
+71170,Philosophy
+71173,Books
+71174,Books
+71174,Web/Tech
+71176,Books
+71176,History
+71176,Law
+71176,Political Science
+71178,Film
+71179,History
+71179,Religion
+71179,Science
+71180,Current Affairs
+71180,Economics
+71182,Data Source
+71182,Travel
+71184,Travel
+71185,Current Affairs
+71185,History
+71185,Political Science
+71185,Religion
+71186,Current Affairs
+71186,Games
+71186,Political Science
+71187,Economics
+71187,Education
+71188,Books
+71188,Current Affairs
+71188,History
+71189,Current Affairs
+71189,Political Science
+71193,Books
+71194,Current Affairs
+71194,Economics
+71194,Law
+71199,Data Source
+71199,Economics
+71201,Current Affairs
+71202,Books
+71203,History
+71203,Philosophy
+71205,Current Affairs
+71205,Political Science
+71205,Web/Tech
+71206,Economics
+71208,Web/Tech
+71210,Current Affairs
+71210,History
+71210,Political Science
+71212,Books
+71212,Food and Drink
+71212,Science
+71214,Current Affairs
+71214,History
+71214,Political Science
+71215,Economics
+71215,Philosophy
+71215,Political Science
+71216,Economics
+71216,Education
+71217,Books
+71217,Economics
+71217,History
+71218,Data Source
+71218,Economics
+71218,History
+71220,History
+71220,Law
+71223,Books
+71223,Current Affairs
+71223,History
+71224,Economics
+71225,Current Affairs
+71225,History
+71225,Philosophy
+71227,Data Source
+71227,Economics
+71227,Travel
+71228,Food and Drink
+71228,Travel
+71231,Economics
+71231,History
+71232,Film
+71232,History
+71234,Education
+71235,Economics
+71235,Film
+71237,Data Source
+71237,Economics
+71238,Books
+71238,Economics
+71240,Current Affairs
+71240,Political Science
+71241,Current Affairs
+71241,History
+71241,Political Science
+71243,Books
+71243,History
+71245,Books
+71245,Current Affairs
+71245,Education
+71245,Film
+71245,History
+71245,Philosophy
+71245,Political Science
+71245,Religion
+71245,Television
+71245,The Arts
+71245,Travel
+71246,Economics
+71247,Economics
+71247,Education
+71251,Current Affairs
+71252,Current Affairs
+71252,Law
+71252,Medicine
+71252,Science
+71253,Current Affairs
+71253,Economics
+71253,Education
+71253,Philosophy
+71254,Current Affairs
+71254,Economics
+71254,Education
+71254,Philosophy
+71257,Current Affairs
+71257,Food and Drink
+71257,Web/Tech
+71260,Economics
+71260,Food and Drink
+71260,History
+71261,Science
+71262,Current Affairs
+71262,Economics
+71262,Travel
+71264,Economics
+71264,Sports
+71266,Books
+71266,Economics
+71266,Education
+71267,Current Affairs
+71267,Data Source
+71268,Economics
+71268,Music
+71270,Books
+71271,Food and Drink
+71271,Travel
+71272,Books
+71272,History
+71273,Books
+71273,Education
+71274,Economics
+71274,Education
+71274,History
+71276,Books
+71276,Data Source
+71276,Economics
+71276,Education
+71277,Books
+71277,Economics
+71278,Economics
+71278,Food and Drink
+71278,Web/Tech
+71281,Economics
+71281,Travel
+71282,Economics
+71290,Current Affairs
+71290,History
+71290,Law
+71290,Political Science
+71290,The Arts
+71293,Current Affairs
+71293,Economics
+71294,Books
+71294,Current Affairs
+71294,History
+71294,Political Science
+71296,Current Affairs
+71296,Economics
+71296,Sports
+71296,Travel
+71304,Books
+71304,Food and Drink
+71304,History
+71304,Science
+71306,Current Affairs
+71306,Food and Drink
+71306,Games
+71306,Political Science
+71307,Current Affairs
+71307,Philosophy
+71307,Political Science
+71309,Economics
+71311,Current Affairs
+71311,Law
+71311,Science
+71312,Economics
+71312,History
+71313,Current Affairs
+71313,Law
+71313,Medicine
+71315,Education
+71315,Law
+71317,Science
+71317,Web/Tech
+71318,Data Source
+71318,Economics
+71318,Medicine
+71319,Economics
+71319,Sports
+71320,Food and Drink
+71320,History
+71320,Travel
+71323,Science
+71326,Economics
+71326,Law
+71326,Medicine
+71327,Economics
+71330,Economics
+71332,Economics
+71332,Law
+71332,The Arts
+71344,Current Affairs
+71344,Economics
+71344,Food and Drink
+71346,Law
+71346,Web/Tech
+71349,Books
+71349,History
+71349,Web/Tech
+71350,Current Affairs
+71350,Economics
+71350,Education
+71350,History
+71350,Law
+71350,Philosophy
+71350,Political Science
+71350,Religion
+71350,Sports
+71350,The Arts
+71350,Travel
+71353,Data Source
+71353,Economics
+71353,Education
+71353,Law
+71356,Economics
+71366,Current Affairs
+71366,History
+71366,Law
+71366,Political Science
+71376,History
+71376,Political Science
+71376,Science
+71380,Current Affairs
+71380,Economics
+71381,Current Affairs
+71381,Data Source
+71381,Political Science
+71382,Books
+71382,History
+71382,Law
+71382,Philosophy
+71383,Education
+71383,Law
+71385,Economics
+71387,Economics
+71391,Economics
+71391,Travel
+71393,Economics
+71393,Law
+71393,Web/Tech
+71396,Books
+71397,Current Affairs
+71397,Economics
+71397,Political Science
+71398,Current Affairs
+71398,Data Source
+71400,History
+71400,Philosophy
+71400,Science
+71401,Current Affairs
+71401,Web/Tech
+71403,Economics
+71403,Law
+71404,Economics
+71404,Food and Drink
+71405,Economics
+71406,Economics
+71406,History
+71406,Law
+71406,Political Science
+71408,Data Source
+71408,Education
+71410,History
+71411,Education
+71413,Economics
+71413,Law
+71413,Medicine
 71415,Books
 71415,Education
 71415,History
+71416,Data Source
+71416,Science
+71418,Current Affairs
+71418,Economics
+71420,Current Affairs
+71420,Economics
+71421,Law
+71421,Travel
+71422,Education
+71423,Current Affairs
+71423,Political Science
+71424,Philosophy
+71424,Religion
+71425,Economics
+71427,Current Affairs
+71427,History
+71427,Political Science
+71434,The Arts
+71436,Games
+71436,Sports
+71439,Current Affairs
+71439,Political Science
+71441,Current Affairs
+71443,Film
+71443,Religion
+71443,Travel
+71444,Current Affairs
+71444,History
+71444,Political Science
+71444,Science
+71445,Economics
+71447,Books
+71447,Travel
+71450,Law
+71450,Medicine
+71450,Science
+71452,Data Source
+71452,Political Science
+71454,Current Affairs
+71454,History
+71454,Political Science
+71456,Economics
+71456,Law
+71457,Economics
+71460,Current Affairs
+71460,Economics
+71460,Education
+71460,Medicine
+71460,Philosophy
+71460,Science
+71462,Food and Drink
+71462,Travel
+71466,Economics
+71466,Food and Drink
+71469,Economics
+71469,Political Science
+71470,Economics
+71470,Education
+71471,Economics
+71471,Education
+71471,History
+71471,Law
+71471,Music
+71471,Political Science
+71475,Law
+71475,Web/Tech
+71477,Books
+71477,Religion
+71478,Books
+71478,History
+71478,Science
+71480,Books
+71480,The Arts
+71481,Web/Tech
+71482,Books
+71483,Food and Drink
+71483,Travel
+71483,Travels
+71486,Current Affairs
+71486,Economics
+71486,Law
+71486,Medicine
+71487,Current Affairs
+71487,Economics
+71488,Economics
+71488,Education
+71488,History
+71488,Philosophy
+71488,Political Science
+71488,Science
+71490,Books
+71490,Current Affairs
+71490,Economics
+71491,Education
+71491,Web/Tech
+71493,Science
+71496,Economics
+71497,Current Affairs
+71497,Economics
+71498,Economics
+71498,Education
+71501,Current Affairs
+71501,Political Science
+71503,Books
+71503,Economics
+71503,Film
+71503,History
+71503,Music
+71503,The Arts
+71503,Travel
+71506,Economics
+71506,History
+71506,Political Science
+71506,Religion
+71507,Current Affairs
+71507,Law
+71508,Current Affairs
+71508,Law
+71510,Current Affairs
+71510,Philosophy
+71510,Religion
+71510,Science
+71511,Data Source
+71511,Economics
+71511,Medicine
+71516,Law
+71519,Economics
+71519,Law
+71519,Political Science
+71520,Current Affairs
+71520,History
+71520,Law
+71520,Political Science
+71522,Current Affairs
+71522,Philosophy
+71524,Current Affairs
+71524,Data Source
+71526,Medicine
+71526,Sports
+71527,Books
+71527,Education
+71528,Books
+71530,Current Affairs
+71530,Political Science
+71532,History
+71532,Law
+71532,Political Science
+71533,Data Source
+71533,Web/Tech
+71535,Data Source
+71535,Economics
+71535,Law
+71536,Food and Drink
+71537,Data Source
+71537,Economics
+71538,Economics
+71538,Medicine
+71539,Data Source
+71539,Science
+71539,Sports
+71541,Economics
+71541,History
+71545,Economics
+71545,Web/Tech
+71547,Data Source
+71547,Economics
+71548,Economics
+71548,Education
+71549,Music
+71550,Food and Drink
+71550,History
+71550,Science
+71551,Current Affairs
+71551,Economics
+71551,Law
+71552,Books
+71552,Philosophy
+71553,Travel
+71555,Travel
+71557,Data Source
+71557,Education
+71561,Music
+71561,Web/Tech
+71565,Data Source
+71565,History
+71565,Law
+71565,Political Science
+71566,Data Source
+71566,Medicine
+71568,Books
+71568,History
+71568,Law
+71568,Political Science
+71569,Current Affairs
+71569,Law
+71570,Books
+71570,Economics
+71570,History
+71571,Books
+71571,Economics
+71571,History
+71572,Books
+71573,Books
+71573,History
+71575,Books
+71575,History
+71575,The Arts
+71576,History
+71576,Music
+71577,Data Source
+71577,Web/Tech
+71579,Data Source
+71579,Education
+71579,Law
+71579,Medicine
+71582,Data Source
+71582,Food and Drink
+71582,History
+71583,Data Source
+71583,Education
+71583,Political Science
+71584,Data Source
+71584,Political Science
+71587,Economics
+71587,Law
+71588,Religion
+71588,Travel
+71589,Economics
+71589,History
+71589,Law
+71590,Economics
+71590,History
+71590,Science
+71590,Web/Tech
+71593,Law
+71594,Current Affairs
+71594,Philosophy
+71594,Television
+71594,The Arts
+71594,Web/Tech
+71596,History
+71596,Music
+71597,Music
+71600,Data Source
+71600,Economics
+71600,History
+71603,Current Affairs
+71603,Law
+71603,Web/Tech
+71605,Economics
+71605,Web/Tech
+71608,Economics
+71608,Law
+71609,Data Source
+71609,Music
+71610,Data Source
+71610,Education
+71610,Science
+71612,Education
+71612,The Arts
+71614,Current Affairs
+71614,Political Science
+71615,Current Affairs
+71615,Law
+71618,Food and Drink
+71618,History
+71618,The Arts
+71618,Travels
+71619,Data Source
+71619,Economics
+71620,Books
+71620,Economics
+71620,Philosophy
+71622,Current Affairs
+71622,Economics
+71622,Law
+71624,Education
+71626,Economics
+71626,Law
+71627,Economics
+71627,Law
+71628,Current Affairs
+71628,Law
+71628,Web/Tech
+71631,Economics
+71631,Science
+71641,Books
+71641,Philosophy
+71643,Current Affairs
+71643,History
+71643,Law
+71643,Political Science
+71644,Economics
+71644,Law
+71646,Data Source
+71646,Law
+71647,Economics
+71647,Religion
+71649,Current Affairs
+71649,Economics
+71652,Current Affairs
+71652,Economics
+71652,Law
+71652,Political Science
+71653,Books
+71654,Economics
+71654,Law
+71656,Film
+71656,History
+71660,Economics
+71660,Education
+71662,Current Affairs
+71662,Economics
+71662,Political Science
+71663,Economics
+71663,Law
+71664,Education
+71664,Film
+71664,Music
+71664,Philosophy
+71664,Television
+71664,The Arts
+71665,Current Affairs
+71665,Law
+71665,Web/Tech
+71667,Books
+71669,Current Affairs
+71669,Economics
+71669,Medicine
+71671,Current Affairs
+71671,Economics
+71671,Philosophy
+71674,Data Source
+71674,Sports
+71679,Current Affairs
+71679,Web/Tech
+71681,Books
+71681,History
+71681,Philosophy
+71681,Science
+71682,Economics
+71682,Food and Drink
+71682,Web/Tech
+71683,Books
+71683,Food and Drink
+71683,History
+71683,Medicine
+71683,Philosophy
+71683,Science
+71683,Travel
+71685,Current Affairs
+71690,Law
+71690,Music
+71690,Web/Tech
+71692,Economics
+71692,Law
+71692,Religion
+71693,Books
+71693,Philosophy
+71695,Science
+71696,Current Affairs
+71696,History
+71696,Political Science
+71696,The Arts
+71697,Books
+71697,Current Affairs
+71697,Philosophy
+71697,Political Science
+71700,Books
+71700,Economics
+71700,History
+71700,Science
+71700,Web/Tech
+71702,Economics
+71702,Law
+71702,Medicine
+71704,Data Source
+71704,Education
+71704,Political Science
+71705,Economics
+71705,Political Science
+71708,Film
+71708,Television
+71709,Education
+71709,Philosophy
+71709,Political Science
+71712,Data Source
+71712,Travel
+71716,Data Source
+71716,Economics
+71716,History
+71716,Law
+71718,Books
+71718,Current Affairs
+71718,Philosophy
+71718,Political Science
+71719,Books
+71719,History
+71719,Political Science
+71721,Education
+71721,Web/Tech
+71722,Education
+71724,History
+71724,Music
+71726,Current Affairs
+71726,Law
+71726,Web/Tech
+71728,Economics
+71728,Education
+71729,Economics
+71734,Current Affairs
+71734,Political Science
+71735,History
+71735,Political Science
+71738,Current Affairs
+71738,Economics
+71738,Web/Tech
+71739,Economics
+71739,Law
+71739,Travel
+71740,Economics
+71742,Current Affairs
+71742,Education
+71742,Philosophy
+71742,Science
+71745,Economics
+71746,Economics
+71748,Economics
+71748,Web/Tech
+71749,Economics
+71749,Law
+71751,Books
+71751,Economics
+71751,History
+71751,Religion
+71754,Books
+71754,Law
+71754,Political Science
+71754,Web/Tech
+71757,Law
+71757,Medicine
+71758,Economics
+71758,Education
+71759,Books
+71759,History
+71759,Religion
+71761,Data Source
+71761,Economics
+71761,Medicine
+71763,Economics
+71763,Medicine
+71764,Books
+71764,Travel
+71770,Current Affairs
+71770,Economics
+71770,Law
+71772,Economics
+71772,Education
+71772,History
+71773,Food and Drink
+71773,Law
+71775,Current Affairs
+71775,Economics
+71775,Law
+71779,Food and Drink
+71779,Web/Tech
+71780,Economics
+71780,Law
+71781,Current Affairs
+71781,Law
+71783,Economics
+71785,History
+71786,Data Source
+71786,Economics
+71787,Economics
+71787,Education
+71790,History
+71790,Political Science
+71791,Data Source
+71791,History
+71791,Science
+71793,Current Affairs
+71793,Economics
+71793,Law
+71796,Current Affairs
+71796,Economics
+71796,History
+71796,Law
+71799,Books
+71799,Economics
+71799,Philosophy
+71800,Economics
+71800,Education
+71801,Political Science
+71801,Television
+71802,Economics
+71803,Data Source
+71803,Economics
+71803,History
+71803,Science
+71806,Economics
+71806,Travel
+71808,Economics
+71808,Science
+71809,Books
+71810,Education
+71810,History
+71810,Political Science
+71811,Books
+71811,Philosophy
+71812,Law
+71813,Economics
+71813,Law
+71813,Travel
+71815,Books
+71815,History
+71815,Religion
+71816,Books
+71816,Economics
+71817,Economics
+71817,Web/Tech
+71819,Current Affairs
+71819,Data Source
+71819,Economics
+71819,Law
+71824,Economics
+71826,Economics
+71826,Web/Tech
+71828,Economics
+71828,Travels
+71831,Books
+71831,Religion
+71832,Current Affairs
+71832,Economics
+71833,Current Affairs
+71833,Data Source
+71833,Political Science
+71835,Data Source
+71835,Economics
+71835,Medicine
+71837,Food and Drink
+71837,Science
+71838,Travel
+71839,Current Affairs
+71839,The Arts
+71841,Economics
+71841,History
+71841,Medicine
+71841,Science
+71842,Economics
+71842,Education
+71843,Books
+71843,History
+71844,Current Affairs
+71844,Games
+71844,Political Science
+71848,Economics
+71848,Travel
+71849,Current Affairs
+71849,Economics
+71849,Education
+71852,Books
+71852,Economics
+71852,History
+71852,Law
+71853,Current Affairs
+71853,Economics
+71855,Education
+71855,Web/Tech
+71860,Economics
+71860,Education
+71860,Science
+71861,Current Affairs
+71862,Economics
+71862,Law
+71869,Education
+71869,History
+71870,Data Source
+71870,Economics
+71870,Education
+71871,Political Science
+71871,Science
+71872,Data Source
+71872,Economics
+71874,Economics
+71874,Science
+71875,Economics
+71876,Education
+71876,Web/Tech
+71878,Current Affairs
+71878,Medicine
+71880,Economics
+71880,Law
+71880,Medicine
+71882,Current Affairs
+71882,Data Source
+71882,Economics
+71883,Data Source
+71883,Food and Drink
+71883,Law
+71884,Economics
+71886,Books
+71887,Data Source
+71887,Sports
+71888,Current Affairs
+71888,Data Source
+71888,Political Science
+71891,Data Source
+71891,Education
+71891,History
+71891,Science
+71894,Economics
+71894,Law
+71894,Religion
+71897,Economics
+71897,Film
+71897,History
+71897,Television
+71898,Books
+71898,Economics
+71898,History
+71899,Economics
+71902,Economics
+71902,Law
+71902,Web/Tech
+71906,Education
+71907,Economics
+71907,Law
+71907,Medicine
+71912,Economics
+71914,Current Affairs
+71914,Data Source
+71914,Education
+71914,Food and Drink
+71916,Current Affairs
+71916,Economics
+71916,Education
+71916,Political Science
+71916,Sports
+71918,Law
+71918,Medicine
+71919,Economics
+71919,Education
+71919,Food and Drink
+71921,Economics
+71923,Data Source
+71923,Education
+71923,History
+71924,Data Source
+71924,Science
+71926,Current Affairs
+71926,Education
+71926,Web/Tech
+71927,Data Source
+71927,Film
+71927,Music
+71927,The Arts
+71928,Economics
+71928,Law
+71929,Books
+71931,Books
+71931,Economics
+71931,Education
+71931,History
+71931,Law
+71932,Economics
+71932,Philosophy
+71934,Current Affairs
+71934,Law
+71935,Economics
+71935,Law
+71935,Science
+71936,Current Affairs
+71936,Economics
+71936,Medicine
+71937,Current Affairs
+71937,Law
+71937,Travel
+71938,Food and Drink
+71938,Web/Tech
+71939,Current Affairs
+71939,Law
+71939,Medicine
+71940,Current Affairs
+71940,Economics
+71940,Law
+71942,Books
+71942,Current Affairs
+71943,Current Affairs
+71943,Data Source
+71943,Economics
+71945,Current Affairs
+71945,Political Science
+71946,Data Source
+71946,Economics
+71946,Education
+71947,Economics
+71949,Economics
+71950,Economics
+71950,History
+71950,Law
+71952,Current Affairs
+71952,History
+71952,Music
+71952,Political Science
+71953,Economics
+71953,Web/Tech
+71954,Economics
+71957,Current Affairs
+71957,Law
+71957,Political Science
+71958,Current Affairs
+71958,Economics
+71958,History
+71958,Political Science
+71959,Current Affairs
+71959,Economics
+71959,Education
+71959,Food and Drink
+71959,History
+71959,Philosophy
+71959,Political Science
+71959,The Arts
+71959,Travel
+71959,Web/Tech
+71962,Current Affairs
+71962,Economics
+71964,Current Affairs
+71964,Economics
+71966,Education
+71966,Philosophy
+71966,Web/Tech
+71967,Current Affairs
+71967,Economics
+71967,Political Science
+71969,Books
+71969,Economics
+71969,History
+71969,Philosophy
+71969,Political Science
+71971,Economics
+71972,Economics
+71973,Current Affairs
+71973,History
+71973,Political Science
+71974,Current Affairs
+71974,Economics
+71974,Law
+71976,Current Affairs
+71976,Law
+71977,Data Source
+71977,Education
+71977,History
+71980,Books
+71981,Current Affairs
+71981,Economics
+71984,Data Source
+71984,Economics
+71984,Sports
+71987,Economics
+71987,Philosophy
+71989,Current Affairs
+71989,Law
+71989,Philosophy
+71989,Political Science
+71991,Data Source
+71991,Economics
+71991,Web/Tech
+71992,Current Affairs
+71992,Education
+71992,Law
+71992,Political Science
+71993,Data Source
+71993,Economics
+71993,Education
+71995,Books
+71995,History
+71995,Law
+71995,Philosophy
+71995,Political Science
+71995,Religion
+71996,Current Affairs
+71996,Economics
+71996,Law
+71999,Current Affairs
+71999,Economics
+71999,Political Science
+72000,Current Affairs
+72000,Political Science
+72002,Travel
+72005,Data Source
+72005,Economics
+72006,Economics
+72006,Education
+72011,Economics
+72013,Current Affairs
+72013,Economics
+72014,Books
+72014,Food and Drink
+72014,History
+72014,Religion
+72015,Education
+72015,Science
+72015,Web/Tech
+72016,Current Affairs
+72016,Economics
+72016,Political Science
+72017,Economics
+72021,Books
+72021,Current Affairs
+72021,Economics
+72021,Law
+72021,Political Science
+72023,Current Affairs
+72023,Law
+72023,Political Science
+72025,Current Affairs
+72025,Political Science
+72027,Current Affairs
+72027,Education
+72027,Political Science
+72032,Current Affairs
+72032,Economics
+72034,Economics
+72034,Education
+72034,Science
+72036,Books
+72036,History
+72038,Data Source
+72038,Economics
+72038,Education
+72039,Current Affairs
+72039,Economics
+72041,Current Affairs
+72041,Economics
+72041,History
+72041,Law
+72043,Economics
+72043,Law
+72043,Science
+72045,Economics
+72047,Economics
+72047,Law
+72047,Sports
+72047,Television
+72050,Current Affairs
+72052,Economics
+72054,Current Affairs
+72054,Economics
+72054,Web/Tech
+72056,Current Affairs
+72056,Economics
+72056,Law
+72056,Web/Tech
+72058,Books
+72059,Current Affairs
+72059,Economics
+72059,Law
+72062,Current Affairs
+72062,Economics
+72063,Economics
+72063,Law
+72063,Medicine
+72065,Data Source
+72065,Economics
+72065,History
+72065,Science
+72070,Current Affairs
+72070,Economics
+72070,Law
+72071,Current Affairs
+72071,Law
+72071,Medicine
+72072,Books
+72072,Economics
+72072,History
+72072,Law
+72072,Political Science
+72074,Current Affairs
+72074,History
+72078,Current Affairs
+72078,Economics
+72078,Political Science
+72080,Data Source
+72080,Education
+72081,Film
+72081,Religion
+72083,Film
+72083,Science
+72084,Books
+72084,Education
+72086,Books
+72086,Economics
+72086,History
+72087,Books
+72088,Economics
+72088,Law
+72091,Current Affairs
+72091,Law
+72091,Political Science
+72094,Economics
+72096,Sports
+72096,Weblogs
+72097,Data Source
+72097,Economics
+72102,Current Affairs
+72102,Economics
+72103,Current Affairs
+72103,Games
+72103,Political Science
+72105,Books
+72105,Education
+72105,Food and Drink
+72105,Medicine
+72105,Philosophy
+72105,Religion
+72105,Science
+72105,Travel
+72106,Books
+72106,Economics
+72106,History
+72107,Books
+72107,History
+72107,The Arts
+72111,Books
+72111,History
+72111,Medicine
+72111,Science
+72112,Books
+72112,Economics
+72112,History
+72112,Law
+72112,Religion
+72114,Current Affairs
+72116,Current Affairs
+72116,Economics
+72116,Political Science
+72117,Economics
+72118,Current Affairs
+72118,Economics
+72118,Political Science
+72121,Economics
+72124,Economics
+72124,Medicine
+72124,Religion
+72124,Science
+72126,Economics
+72126,Sports
+72128,Books
+72128,History
+72128,Political Science
+72130,Film
+72130,Food and Drink
+72130,Travel
+72132,Economics
+72132,Law
+72133,Economics
+72133,Law
+72134,Books
+72134,History
+72134,The Arts
+72138,Economics
+72138,Law
+72140,Books
+72140,Education
+72143,Film
+72143,History
+72144,Economics
+72144,Law
+72145,Books
+72146,Data Source
+72146,Economics
+72146,Political Science
+72146,Religion
+72150,Data Source
+72150,Economics
+72151,Economics
+72151,Music
+72151,Television
+72151,The Arts
+72152,Economics
+72152,Education
+72153,Current Affairs
+72153,Economics
+72153,Political Science
+72154,Books
+72156,Data Source
+72156,Philosophy
+72156,Religion
+72158,Current Affairs
+72158,Law
+72161,Economics
+72161,Education
+72162,Economics
+72167,Current Affairs
+72167,Education
+72167,Political Science
+72167,Travel
+72169,Data Source
+72169,Economics
+72170,Books
+72170,Political Science
+72171,Economics
+72172,Economics
+72172,Science
+72175,Current Affairs
+72175,Law
+72175,Political Science
+72176,Data Source
+72176,Law
+72176,Web/Tech
+72178,Economics
+72178,Law
+72179,Books
+72180,Economics
+72180,Science
+72181,Film
+72185,Education
+72185,The Arts
+72185,Travel
+72188,Economics
+72188,History
+72189,Books
+72189,Education
+72189,History
+72189,Law
+72189,Philosophy
+72189,Political Science
+72189,Religion
+72189,Travel
+72190,Current Affairs
+72190,History
+72190,Web/Tech
+72192,Current Affairs
+72192,Political Science
+72193,Current Affairs
+72193,Economics
+72193,Law
+72195,Web/Tech
+72196,Economics
+72196,Law
+72197,Current Affairs
+72197,Economics
+72201,Books
+72201,History
+72201,Law
+72201,Political Science
+72202,Books
+72202,Education
+72202,Film
+72202,Philosophy
+72202,Science
+72202,Travel
+72202,Web/Tech
+72203,Economics
+72203,Law
+72203,Web/Tech
+72205,Books
+72205,Current Affairs
+72205,Economics
+72205,Education
+72205,History
+72205,Law
+72205,Philosophy
+72205,Political Science
+72211,Current Affairs
+72211,Law
+72211,Political Science
+72211,Web/Tech
+72213,Current Affairs
+72213,Economics
+72216,Books
+72216,Current Affairs
+72216,Economics
+72216,Education
+72216,History
+72216,Law
+72216,Philosophy
+72216,Political Science
+72216,Television
+72219,Food and Drink
+72220,Current Affairs
+72220,Economics
+72220,Law
+72221,Data Source
+72221,Economics
+72221,Law
+72221,Medicine
+72221,Science
+72222,Current Affairs
+72222,History
+72226,Current Affairs
+72226,Economics
+72226,Law
+72226,Political Science
+72228,Current Affairs
+72228,Education
+72228,Law
+72228,Political Science
+72228,Religion
+72229,Books
+72233,Data Source
+72233,Law
+72234,Economics
+72234,Education
+72234,Law
+72236,Books
+72236,History
+72236,Religion
+72237,Film
+72240,Economics
+72240,Education
+72240,Law
+72241,Current Affairs
+72241,History
+72241,Law
+72241,Political Science
+72242,Education
+72242,Sports
+72242,Web/Tech
+72243,Current Affairs
+72243,Economics
+72243,Law
+72247,Current Affairs
+72250,Economics
+72251,Film
+72253,Education
+72253,History
+72253,Law
+72253,Political Science
+72256,Economics
+72256,Education
+72257,Books
+72257,History
+72257,Science
+72258,Economics
+72258,History
+72259,Current Affairs
+72259,Economics
+72259,Law
+72259,Political Science
+72262,Books
+72262,Travel
+72265,Economics
+72265,Education
+72266,Current Affairs
+72266,Economics
+72266,Law
+72267,Food and Drink
+72269,Books
+72269,Economics
+72269,Education
+72270,Data Source
+72270,Political Science
+72270,Travel
+72271,Economics
+72271,Web/Tech
+72273,Current Affairs
+72274,Current Affairs
+72274,Economics
+72279,Current Affairs
+72279,Law
+72279,Political Science
+72282,Books
+72282,Education
+72285,Data Source
+72285,Economics
+72287,Economics
+72290,Books
+72290,Current Affairs
+72290,History
+72290,Political Science
+72291,Economics
+72291,Education
+72291,Sports
+72292,Data Source
+72292,Economics
+72292,History
+72292,Law
+72292,Political Science
+72293,Data Source
+72293,Economics
+72293,History
+72295,Economics
+72295,Law
+72295,The Arts
+72296,Books
+72296,Economics
+72296,Education
+72297,Books
+72297,Current Affairs
+72297,Economics
+72297,Education
+72297,Food and Drink
+72297,History
+72297,Law
+72297,Music
+72297,Philosophy
+72297,Political Science
+72297,Religion
+72297,The Arts
+72297,Travel
+72299,Current Affairs
+72299,Economics
+72299,Law
+72299,Political Science
+72300,Current Affairs
+72300,Economics
+72303,Books
+72303,Law
+72303,Web/Tech
+72304,Books
+72304,Current Affairs
+72304,History
+72304,Law
+72304,Political Science
+72308,History
+72308,Web/Tech
+72309,Books
+72309,Economics
+72309,History
+72309,Law
+72311,Economics
+72313,Current Affairs
+72313,Economics
+72313,Law
+72313,The Arts
+72316,Data Source
+72316,Economics
+72316,Law
+72318,Economics
+72319,Data Source
+72319,Law
+72323,Books
+72323,Economics
+72323,Philosophy
+72323,Political Science
+72325,Books
+72325,Education
+72327,Economics
+72327,Education
+72327,Law
+72330,Economics
+72330,Law
+72330,Web/Tech
+72334,Economics
+72334,Law
+72334,Medicine
+72336,History
+72336,Medicine
+72336,Science
+72339,Books
+72339,Current Affairs
+72339,Education
+72339,Film
+72339,History
+72339,Music
+72339,Philosophy
+72339,Political Science
+72339,Religion
+72339,Television
+72339,The Arts
+72341,Current Affairs
+72341,Law
+72341,Web/Tech
+72344,Economics
+72345,Economics
+72345,Law
+72345,Web/Tech
+72349,Data Source
+72349,Economics
+72349,Law
+72350,Food and Drink
+72350,The Arts
+72357,Data Source
+72357,Medicine
+72358,Data Source
+72358,Economics
+72359,Current Affairs
+72359,Economics
+72359,Law
+72359,Web/Tech
+72363,Current Affairs
+72363,Economics
+72363,Political Science
+72363,Web/Tech
+72364,Education
+72364,Philosophy
+72366,Economics
+72366,Education
+72368,Economics
+72369,Economics
+72369,Education
+72369,Law
+72370,Current Affairs
+72370,Medicine
+72372,Books
+72374,Data Source
+72374,Medicine
+72375,Economics
+72375,Science
+72378,Data Source
+72378,Education
+72378,Science
+72379,Economics
+72379,Web/Tech
+72380,Books
+72380,History
+72380,Science
+72380,Web/Tech
+72381,Books
+72381,Economics
+72381,Film
+72381,History
+72381,Law
+72381,Political Science
+72381,Web/Tech
+72382,Education
+72382,Law
+72383,Data Source
+72383,History
+72383,Medicine
+72383,Science
+72384,Data Source
+72384,Economics
+72384,Law
+72385,Law
+72388,History
+72388,Medicine
+72391,Books
+72391,Economics
+72391,History
+72391,Law
+72391,Political Science
+72394,Economics
+72394,Web/Tech
+72397,Current Affairs
+72397,Economics
+72397,Law
+72397,Political Science
+72400,Economics
+72401,Current Affairs
+72401,Economics
+72401,History
+72403,Data Source
+72403,Economics
+72403,Law
+72403,Medicine
+72405,Books
+72408,Economics
+72408,Political Science
+72410,Current Affairs
+72410,Economics
+72411,Music
+72412,Education
+72412,Web/Tech
+72414,Data Source
+72414,Economics
+72414,Education
+72414,Science
+72414,The Arts
+72416,Current Affairs
+72416,Data Source
+72416,Education
+72417,Data Source
+72417,Education
+72419,Economics
+72419,Law
+72419,Medicine
+72421,Current Affairs
+72421,Economics
+72421,Law
+72421,Political Science
+72422,Economics
+72422,Travel
+72423,Economics
+72426,Economics
+72434,Economics
+72434,History
+72437,Music
+72439,Games
+72439,Web/Tech
+72440,Economics
+72440,Law
+72442,Current Affairs
+72442,Economics
+72442,Law
+72442,Religion
+72446,Books
+72446,Religion
+72446,The Arts
+72447,Economics
+72447,History
+72449,Data Source
+72449,Education
+72449,Science
+72450,Economics
+72450,Food and Drink
+72452,Books
+72452,History
+72452,The Arts
+72454,Medicine
+72454,Philosophy
+72454,Political Science
+72454,Science
+72456,Books
+72456,History
+72456,Science
+72459,Current Affairs
+72459,Economics
+72460,Books
+72460,Education
+72460,History
+72460,Science
+72461,Current Affairs
+72461,Data Source
+72461,Economics
+72461,Law
+72465,Data Source
+72465,Economics
+72465,Travel
+72466,Data Source
+72466,Economics
+72466,Law
+72466,Travel
+72468,Economics
+72468,Web/Tech
+72469,Data Source
+72469,Economics
+72469,Science
+72469,Web/Tech
+72470,Data Source
+72470,Economics
+72470,Education
+72470,Science
+72470,Web/Tech
+72473,Economics
+72473,Travel
+72478,Economics
+72478,Science
+72480,Current Affairs
+72480,Economics
+72480,Web/Tech
+72483,Books
+72483,Data Source
+72483,Education
+72484,Books
+72484,Education
+72484,History
+72484,Philosophy
+72484,Religion
+72484,The Arts
+72486,Current Affairs
+72486,Political Science
+72486,Web/Tech
+72488,Current Affairs
+72491,Economics
+72493,Data Source
+72493,Economics
+72493,History
+72493,The Arts
+72496,Film
+72497,Economics
+72497,Web/Tech
+72498,Current Affairs
+72498,Philosophy
+72498,Science
+72501,Current Affairs
+72501,Education
+72503,Food and Drink
+72503,History
+72503,Religion
+72503,The Arts
+72503,Travel
+72503,Travels
+72505,Economics
+72506,Data Source
+72506,Education
+72506,Sports
+72507,Current Affairs
+72507,Education
+72507,Political Science
+72507,Science
+72510,Current Affairs
+72510,Data Source
+72510,Law
+72512,Books
+72512,Education
+72512,History
+72512,The Arts
+72516,History
+72516,Religion
+72518,Music
+72519,Film
+72519,Web/Tech
+72522,Economics
+72522,Medicine
+72522,Science
+72523,Economics
+72523,Law
+72525,Data Source
+72525,Economics
+72525,History
+72527,Games
+72527,Science
+72527,Web/Tech
+72529,Economics
+72529,Food and Drink
+72529,Medicine
+72533,Current Affairs
+72533,Science
+72533,Web/Tech
+72536,Current Affairs
+72536,History
+72536,Political Science
+72536,Sports
+72537,Education
+72537,History
+72537,Television
+72541,Economics
+72541,Web/Tech
+72542,Data Source
+72542,Philosophy
+72544,Books
+72544,Current Affairs
+72544,Film
+72544,History
+72544,Philosophy
+72544,Political Science
+72544,Science
+72544,Travel
+72544,Web/Tech
+72545,Economics
+72545,Education
+72545,Science
+72546,Current Affairs
+72546,Web/Tech
+72547,Current Affairs
+72547,Economics
+72547,Philosophy
+72550,Current Affairs
+72550,Economics
+72550,Education
+72553,Data Source
+72553,Economics
+72553,Education
+72553,History
+72553,Science
+72554,Current Affairs
+72554,Data Source
+72554,Religion
+72557,Political Science
+72557,Travel
+72560,Religion
+72564,Medicine
+72564,Travel
+72565,Data Source
+72565,Law
+72565,Medicine
+72566,Economics
+72566,Web/Tech
+72567,Science
+72569,Education
+72569,Philosophy
+72569,Political Science
+72571,Books
+72571,Law
+72571,The Arts
 72573,Current Affairs
 72573,Education
 72573,Web/Tech
+72575,Television
+72575,The Arts
+72579,History
+72579,Science
+72579,The Arts
+72581,Current Affairs
+72581,Law
+72581,Political Science
+72581,Science
+72581,Web/Tech
+72582,Current Affairs
+72583,Economics
+72586,Economics
+72588,Economics
+72591,Current Affairs
+72591,Economics
+72591,History
+72591,Political Science
+72591,Travel
+72591,Travels
+72593,Current Affairs
+72593,Economics
+72595,Data Source
+72595,Economics
+72595,Law
+72597,Economics
+72597,Film
 72598,Books
 72601,Economics
 72601,Political Science
