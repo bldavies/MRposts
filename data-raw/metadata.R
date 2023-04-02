@@ -22,15 +22,25 @@ source('data-raw/globals.R')
 replace_non_ascii = function(x) {
   subfun = function(x, pattern, y) gsub(pattern, y, x)
   x %>%
+    subfun('á', 'a') %>%
+    subfun('ä', 'a') %>%
     subfun('ć', 'c') %>%
+    subfun('c̶', 'c') %>%
     subfun('é', 'e') %>%
     subfun('ë', 'e') %>%
     subfun('í', 'i') %>%
+    subfun('L̶', 'L') %>%
+    subfun('n̶', 'n') %>%
+    subfun('Ö', 'O') %>%
     subfun('ó', 'o') %>%
     subfun('õ', 'o') %>%
     subfun('ö', 'o') %>%
     subfun('ô', 'o') %>%
     subfun('ú', 'u') %>%
+    subfun('ü', 'u') %>%
+    subfun('u̶', 'u') %>%
+    subfun('Ž', 'Z') %>%
+    subfun('ž', 'z') %>%
     subfun('‘', '\'') %>%
     subfun('’', '\'') %>%
     subfun('“', '"') %>%

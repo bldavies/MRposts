@@ -1,9 +1,3170 @@
 id,category
 74562,Current Affairs
 74562,Economics
+77303,Books
+77334,Political Science
+77338,Economics
+77344,Books
+77349,Books
+77349,Current Affairs
+77349,Economics
+77349,Education
+77349,Law
+77349,Medicine
+77349,Political Science
+77349,Science
+77349,The Arts
+77349,Travel
+77349,Web/Tech
+77374,Books
+77374,Economics
+77374,Education
+77380,Data Source
+77380,Economics
+77382,Current Affairs
+77382,Economics
+77382,History
+77382,Law
+77382,Philosophy
+77382,Political Science
+77382,Science
+77382,Web/Tech
+77384,Economics
+77384,History
+77386,Books
+77386,Current Affairs
+77386,Economics
+77386,History
+77386,Travel
+77387,Economics
+77387,Law
+77394,Books
+77394,Economics
+77397,Economics
+77397,Education
+77399,Economics
+77402,Current Affairs
+77402,Political Science
+77405,Law
+77407,Food and Drink
+77407,Law
+77408,Current Affairs
+77408,Economics
+77408,Education
+77410,Data Source
+77410,Education
+77410,Science
+77411,Current Affairs
+77411,History
+77413,The Arts
+77415,Books
+77415,Economics
+77415,Education
+77415,Travel
+77417,History
+77417,Web/Tech
+77419,Current Affairs
+77419,Games
+77419,Law
+77419,Political Science
+77421,Current Affairs
+77421,Economics
+77422,Current Affairs
+77422,Political Science
+77424,History
+77425,Books
+77425,Current Affairs
+77425,Economics
+77425,Education
+77425,Film
+77425,History
+77425,Music
+77425,Philosophy
+77425,Political Science
+77425,Religion
+77425,The Arts
+77425,Travel
+77427,Economics
+77427,Political Science
+77428,Economics
+77428,Science
+77428,Web/Tech
+77429,Web/Tech
+77430,Economics
+77430,Political Science
+77432,Current Affairs
+77432,Economics
+77432,History
+77434,Current Affairs
+77434,Food and Drink
+77436,Data Source
+77436,History
+77436,Medicine
+77437,Economics
+77437,Political Science
+77442,Music
+77445,Current Affairs
+77445,Games
+77445,Political Science
+77446,Data Source
+77446,History
+77446,Political Science
+77447,Travel
+77447,Travels
+77448,Current Affairs
+77448,Economics
+77450,Current Affairs
+77450,Data Source
+77450,Political Science
+77451,Current Affairs
+77451,Data Source
+77452,Law
+77452,Philosophy
+77456,Economics
+77456,Science
+77458,Current Affairs
+77458,Games
+77458,Law
+77458,Political Science
+77462,Data Source
+77462,Education
+77462,Music
+77462,The Arts
+77463,Data Source
+77463,Economics
+77463,Law
+77465,Data Source
+77465,Economics
+77465,Law
+77465,Political Science
+77466,Books
+77467,Economics
+77467,Education
+77467,Law
+77467,Medicine
+77468,Education
+77470,Economics
+77470,Medicine
+77472,Current Affairs
+77472,Economics
+77472,Education
+77472,Games
+77472,History
+77472,Philosophy
+77472,Political Science
+77472,Religion
+77472,The Arts
+77472,Web/Tech
+77474,Economics
+77474,Education
+77474,Science
+77475,Current Affairs
+77475,Education
+77475,Law
+77476,Books
+77476,Current Affairs
+77476,Education
+77476,History
+77476,Music
+77476,Philosophy
+77478,Books
+77478,Current Affairs
+77478,Economics
+77478,Film
+77478,History
+77478,Law
+77478,Philosophy
+77478,Political Science
+77478,Religion
+77478,Science
+77478,The Arts
+77480,Current Affairs
+77480,Economics
+77480,Law
+77483,Medicine
+77483,Philosophy
+77484,Current Affairs
+77484,History
+77484,The Arts
+77485,Data Source
+77485,Economics
+77488,Current Affairs
+77488,Economics
+77491,Current Affairs
+77491,Law
+77493,Film
+77494,Data Source
+77494,Music
+77494,Political Science
+77495,Education
+77500,Data Source
+77500,Education
+77501,Data Source
+77501,Philosophy
+77503,Data Source
+77503,Economics
+77503,Science
+77504,Economics
+77506,Current Affairs
+77509,Data Source
+77509,Economics
+77509,Political Science
+77510,Education
+77515,Economics
+77515,History
+77521,Economics
+77521,Education
+77521,History
+77521,Science
+77530,Data Source
+77530,Education
+77530,Web/Tech
+77533,Economics
+77533,Law
+77533,Medicine
+77534,Current Affairs
+77534,Data Source
+77534,Political Science
+77536,Current Affairs
+77536,Education
+77536,Sports
+77537,History
+77537,Medicine
+77537,Science
+77538,Books
+77538,Current Affairs
+77538,Political Science
+77540,Data Source
+77540,History
+77540,Law
+77540,Political Science
+77542,Books
+77542,Philosophy
+77542,Political Science
+77542,Religion
+77543,Current Affairs
+77543,Law
+77546,Data Source
+77546,Philosophy
+77546,Political Science
+77548,Current Affairs
+77548,Economics
+77549,Current Affairs
+77549,Economics
+77549,Food and Drink
+77549,Law
+77549,Philosophy
+77549,Travel
+77549,Web/Tech
+77550,Economics
+77550,Television
+77553,Current Affairs
+77553,Medicine
+77555,Web/Tech
+77557,Data Source
+77557,Medicine
+77557,Political Science
+77558,Education
+77559,Economics
+77559,Education
+77559,Web/Tech
+77560,Education
+77562,Data Source
+77562,History
+77562,Medicine
+77567,Economics
+77567,Education
+77569,Economics
+77569,Law
+77569,Medicine
+77571,Economics
+77571,Medicine
+77575,Data Source
+77575,Economics
+77575,History
+77575,Law
+77576,Current Affairs
+77576,Education
+77576,Law
+77576,Science
+77577,Education
+77577,Science
+77578,Data Source
+77580,Economics
+77580,Food and Drink
+77580,Law
+77581,Web/Tech
+77583,Data Source
+77583,Economics
+77583,Education
+77584,Data Source
+77584,History
+77584,Medicine
+77588,Economics
+77588,Film
+77589,Books
+77590,Books
+77590,History
+77590,Political Science
+77593,Law
+77593,Travel
+77597,Economics
+77597,Law
+77598,Books
+77598,History
+77598,Science
+77600,Current Affairs
+77600,Medicine
+77600,Political Science
+77601,Economics
+77601,Education
+77605,Education
+77605,Philosophy
+77606,Economics
+77606,Law
+77606,Medicine
+77608,Current Affairs
+77608,Medicine
+77608,Web/Tech
+77613,Current Affairs
+77613,Medicine
+77617,Economics
+77617,Food and Drink
+77619,Medicine
+77620,Science
+77620,Television
+77620,Travel
+77621,History
+77621,Political Science
+77622,Medicine
+77622,Travel
+77625,Economics
+77625,Medicine
+77625,Political Science
+77628,Economics
+77628,History
+77628,Medicine
+77632,Current Affairs
+77632,Economics
+77632,Medicine
+77636,Current Affairs
+77636,Political Science
+77638,Economics
+77638,Education
+77638,Travel
+77641,Current Affairs
+77641,Economics
+77641,Medicine
+77644,Data Source
+77644,Education
+77644,Science
+77645,Education
+77646,Economics
+77646,Games
+77647,Books
+77647,Philosophy
+77648,Food and Drink
+77648,Law
+77648,Travel
+77649,History
+77649,Philosophy
+77651,Data Source
+77651,Medicine
+77654,Current Affairs
+77654,Law
+77654,Science
+77655,Law
+77655,Medicine
+77656,Data Source
+77656,Law
+77657,Economics
+77657,Education
+77659,Political Science
+77660,Books
+77660,Web/Tech
+77661,Political Science
+77662,Current Affairs
+77662,Law
+77662,Medicine
+77662,Political Science
+77663,Books
+77663,Current Affairs
+77663,Economics
+77663,Education
+77663,Food and Drink
+77663,Games
+77663,Music
+77663,Philosophy
+77663,Political Science
+77663,Science
+77663,Television
+77663,The Arts
+77663,Web/Tech
+77665,Economics
+77665,History
+77665,Law
+77665,Medicine
+77666,Current Affairs
+77666,Education
+77666,Law
+77669,Economics
+77669,Games
+77670,Current Affairs
+77670,Law
+77671,Current Affairs
+77671,Economics
+77675,Games
+77675,The Arts
+77675,Web/Tech
+77677,The Arts
+77677,Weblogs
+77678,Economics
+77678,Law
+77678,Web/Tech
+77679,Food and Drink
+77682,Economics
+77682,Science
+77686,Web/Tech
+77689,Music
+77692,Economics
+77692,Medicine
+77697,Current Affairs
+77698,Law
+77698,Web/Tech
+77700,Data Source
+77701,Current Affairs
+77702,Web/Tech
+77708,Data Source
+77708,Education
+77708,Science
+77710,Current Affairs
+77715,Web/Tech
+77718,Data Source
+77718,Education
+77719,History
+77719,Law
+77719,Political Science
+77724,Books
+77725,Books
+77725,The Arts
+77730,Economics
+77730,Web/Tech
+77731,Books
+77731,History
+77731,Law
+77733,Data Source
+77733,Economics
+77733,Medicine
+77736,Law
+77737,Travel
+77741,Food and Drink
+77741,Travel
+77742,History
+77742,Law
+77742,Medicine
+77744,Current Affairs
+77744,Law
+77744,Medicine
+77745,Current Affairs
+77745,Economics
+77748,Data Source
+77748,Economics
+77749,Law
+77750,Data Source
+77750,Economics
+77752,Economics
+77752,Medicine
+77753,Current Affairs
+77753,Economics
+77755,Current Affairs
+77755,Medicine
+77760,Books
+77760,Current Affairs
+77760,Economics
+77760,Education
+77760,History
+77760,Law
+77760,Political Science
+77760,Religion
+77760,The Arts
+77760,Travel
+77761,Current Affairs
+77761,Data Source
+77761,Political Science
+77762,Economics
+77764,Books
+77764,Economics
+77764,Law
+77765,Data Source
+77765,Web/Tech
+77769,Current Affairs
+77769,Medicine
+77769,Science
+77769,Web/Tech
+77772,Data Source
+77772,Economics
+77772,Education
+77772,Philosophy
+77772,Political Science
+77774,Books
+77776,Current Affairs
+77776,Law
+77776,Medicine
+77777,Current Affairs
+77777,Economics
+77777,Law
+77777,Medicine
+77778,Current Affairs
+77778,Economics
+77778,Education
+77778,Law
+77778,Medicine
+77778,Science
+77778,Travel
+77779,Data Source
+77779,Economics
+77779,Education
+77782,Current Affairs
+77789,Data Source
+77791,Current Affairs
+77791,Economics
+77791,Medicine
+77792,Books
+77793,Current Affairs
+77793,Medicine
+77795,Current Affairs
+77795,Data Source
+77795,Economics
+77797,Economics
+77797,Political Science
+77802,Data Source
+77802,Economics
+77803,Current Affairs
+77803,Law
+77803,Medicine
+77805,Current Affairs
+77807,Economics
+77807,Education
+77809,Data Source
+77809,Economics
+77809,History
+77810,Medicine
+77812,Economics
+77812,Education
+77812,Television
+77815,Current Affairs
+77817,Books
+77817,The Arts
+77823,Medicine
+77823,Music
+77825,Economics
+77825,Education
+77825,The Arts
+77827,Data Source
+77827,Economics
+77830,Books
+77830,Economics
+77830,Philosophy
+77831,Current Affairs
+77831,Data Source
+77831,Medicine
+77833,Books
+77833,Data Source
+77833,Education
+77833,Science
+77836,Current Affairs
+77836,Law
+77836,Medicine
+77842,Economics
+77842,Food and Drink
+77843,Philosophy
+77847,Current Affairs
+77847,Economics
+77847,History
+77847,Medicine
+77857,Current Affairs
+77857,Economics
+77857,Law
+77857,Medicine
+77863,Current Affairs
+77863,Political Science
+77866,Current Affairs
+77866,Medicine
+77868,Books
+77868,Education
+77869,Current Affairs
+77869,Economics
+77869,Law
+77869,Medicine
+77873,Political Science
+77874,Data Source
+77874,History
+77874,Political Science
+77875,Current Affairs
+77875,History
+77875,Medicine
+77876,Current Affairs
+77877,Current Affairs
+77877,Medicine
+77879,Current Affairs
+77879,Economics
+77879,Medicine
+77883,Current Affairs
+77883,Economics
+77883,Medicine
+77888,Economics
+77890,Books
+77890,Current Affairs
+77890,Education
+77890,Music
+77890,Philosophy
+77890,Political Science
+77890,The Arts
+77890,Travel
+77893,Web/Tech
+77895,Current Affairs
+77895,Economics
+77896,Current Affairs
+77896,Economics
+77896,Medicine
+77897,Food and Drink
+77897,Medicine
+77904,Economics
+77904,Education
+77904,Law
+77904,Medicine
+77905,Current Affairs
+77905,Medicine
+77906,Data Source
+77906,History
+77907,Current Affairs
+77907,Economics
+77907,Law
+77907,Medicine
+77909,Data Source
+77909,Economics
+77909,Education
+77911,Current Affairs
+77911,Economics
+77912,Economics
+77912,Law
+77912,Medicine
+77916,Current Affairs
+77916,Medicine
+77917,Economics
+77917,Law
+77917,Medicine
+77918,Film
+77918,Medicine
+77918,The Arts
+77920,Economics
+77924,Current Affairs
+77924,Data Source
+77924,Medicine
+77926,Current Affairs
+77926,Medicine
+77926,Science
+77927,Economics
+77927,Medicine
+77930,Current Affairs
+77930,Medicine
+77931,Current Affairs
+77931,Economics
+77931,Education
+77934,Current Affairs
+77934,Law
+77934,Medicine
+77935,Current Affairs
+77935,Film
+77935,Games
+77935,Medicine
+77935,Television
+77935,The Arts
+77935,Web/Tech
+77939,Books
+77939,Economics
+77939,Web/Tech
+77940,Books
+77941,Data Source
+77942,Current Affairs
+77942,Medicine
+77943,Current Affairs
+77943,Medicine
+77945,Current Affairs
+77945,Economics
+77945,Medicine
+77947,Current Affairs
+77947,Economics
+77947,Medicine
+77949,Data Source
+77949,Economics
+77949,Law
+77950,Current Affairs
+77950,Medicine
+77950,Political Science
+77951,Current Affairs
+77951,Medicine
+77952,Economics
+77954,Current Affairs
+77954,Economics
+77954,Medicine
+77959,Current Affairs
+77959,Economics
+77959,Medicine
+77961,Current Affairs
+77961,Economics
+77961,Medicine
+77962,Current Affairs
+77962,Economics
+77962,Medicine
+77963,Current Affairs
+77963,Economics
+77963,Law
+77963,Medicine
+77969,Current Affairs
+77969,Law
+77969,Medicine
+77971,Current Affairs
+77971,Medicine
+77972,Current Affairs
+77972,Medicine
+77977,Economics
+77977,History
+77978,Current Affairs
+77978,Medicine
+77980,Law
+77980,Medicine
+77980,Science
+77980,Web/Tech
+77981,Law
+77981,Medicine
+77982,Current Affairs
+77982,Economics
+77982,Medicine
+77983,Current Affairs
+77983,Medicine
+77989,Current Affairs
+77989,Data Source
+77989,Medicine
+77991,Current Affairs
+77991,Economics
+77992,Current Affairs
+77992,Economics
+77992,Education
+77992,Food and Drink
+77992,Law
+77992,Medicine
+77992,Political Science
+77993,Current Affairs
+77993,Economics
+77993,Medicine
+77994,Current Affairs
+77994,Medicine
+77995,Current Affairs
+77995,Economics
+77997,Data Source
+77997,Medicine
+77997,Science
+77998,Current Affairs
+77998,Law
+77998,Medicine
+77998,Philosophy
+77998,Political Science
+77999,History
+77999,Medicine
+78000,Current Affairs
+78000,Economics
+78001,Education
+78001,Law
+78001,Medicine
+78001,Science
+78003,Books
+78007,Current Affairs
+78007,Data Source
+78007,Law
+78007,Medicine
+78007,Political Science
+78009,Current Affairs
+78009,Economics
+78011,Current Affairs
+78011,Economics
+78011,Law
+78011,Medicine
+78012,Economics
+78017,Economics
+78018,Current Affairs
+78018,Economics
+78018,Law
+78020,Law
+78020,Medicine
+78023,Current Affairs
+78025,Current Affairs
+78025,Economics
+78025,Medicine
+78030,Data Source
+78030,Economics
+78030,History
+78030,Medicine
+78032,Current Affairs
+78032,Philosophy
+78032,Religion
+78033,Current Affairs
+78033,Economics
+78040,Current Affairs
+78040,Economics
+78040,Law
+78040,Medicine
+78042,Medicine
+78042,Travel
+78043,Economics
+78043,Education
+78045,Current Affairs
+78045,Law
+78045,Medicine
+78046,Current Affairs
+78046,Medicine
+78050,Law
+78050,Medicine
+78052,Economics
+78053,Economics
+78054,Current Affairs
+78054,Law
+78054,Medicine
+78059,Books
+78059,Current Affairs
+78059,Film
+78059,History
+78059,Law
+78059,Medicine
+78059,Philosophy
+78059,Political Science
+78059,Religion
+78059,The Arts
+78059,Web/Tech
+78061,Current Affairs
+78061,Data Source
+78061,Economics
+78061,History
+78062,Education
+78062,Games
+78062,Medicine
+78064,Current Affairs
+78064,Law
+78064,Medicine
+78066,Current Affairs
+78067,Current Affairs
+78067,Data Source
+78067,Medicine
+78069,Current Affairs
+78069,Data Source
+78069,Medicine
+78075,Economics
+78075,History
+78076,Economics
+78076,History
+78076,Medicine
+78079,Books
+78079,Education
+78079,Medicine
+78079,Science
+78079,Web/Tech
+78081,Current Affairs
+78081,Economics
+78083,Current Affairs
+78083,Data Source
+78083,Medicine
+78085,Current Affairs
+78085,Economics
+78089,Current Affairs
+78089,Economics
+78089,Medicine
+78091,Medicine
+78091,Web/Tech
+78092,Current Affairs
+78092,Economics
+78092,Medicine
+78093,Current Affairs
+78093,Economics
+78096,Data Source
+78096,Economics
+78096,History
+78097,Data Source
+78097,Law
+78097,Medicine
+78102,Current Affairs
+78102,Law
+78102,Medicine
+78104,Current Affairs
+78104,Medicine
+78105,Current Affairs
+78105,Economics
+78105,Medicine
+78106,Current Affairs
+78106,Economics
+78106,Law
+78106,Medicine
+78106,Web/Tech
+78108,Food and Drink
+78108,Medicine
+78109,Books
+78110,Economics
+78110,Law
+78110,Medicine
+78111,Current Affairs
+78111,Law
+78111,Medicine
+78113,Economics
+78113,Law
+78113,Medicine
+78117,Current Affairs
+78117,Medicine
+78117,Web/Tech
+78120,Current Affairs
+78120,Data Source
+78120,Medicine
+78122,Economics
+78122,Games
+78122,Medicine
+78123,Law
+78123,Medicine
+78124,Current Affairs
+78124,Economics
+78126,Current Affairs
+78126,Law
+78127,Current Affairs
+78127,Medicine
+78128,Current Affairs
+78128,Data Source
+78128,Law
+78128,Medicine
+78128,Web/Tech
+78134,History
+78134,Web/Tech
+78139,Current Affairs
+78139,Economics
+78148,Current Affairs
+78148,Economics
+78148,Medicine
+78149,Books
+78149,History
+78149,Law
+78149,Medicine
+78149,The Arts
+78150,Current Affairs
+78150,Economics
+78150,Law
+78150,Medicine
+78151,Current Affairs
+78151,Economics
+78151,Medicine
+78152,Current Affairs
+78152,Medicine
+78154,Data Source
+78154,Economics
+78155,Books
+78157,Film
+78157,Television
+78159,Current Affairs
+78159,Law
+78159,Medicine
+78164,Current Affairs
+78164,Economics
+78164,History
+78164,Law
+78165,Current Affairs
+78168,Economics
+78170,Current Affairs
+78170,Medicine
+78173,Current Affairs
+78173,Medicine
+78173,Web/Tech
+78174,Data Source
+78174,Economics
+78175,Books
+78175,History
+78175,Religion
+78177,Books
+78177,Education
+78177,History
+78178,Current Affairs
+78178,Medicine
+78179,Current Affairs
+78179,Medicine
+78180,Current Affairs
+78180,Economics
+78180,Medicine
+78184,Current Affairs
+78184,Education
+78184,Medicine
+78184,Science
+78189,Current Affairs
+78189,Economics
+78189,Education
+78194,Books
+78196,Current Affairs
+78196,Economics
+78196,Law
+78196,Medicine
+78200,Data Source
+78200,Economics
+78201,Current Affairs
+78201,Economics
+78202,Current Affairs
+78202,Medicine
+78202,Science
+78202,Web/Tech
+78206,Medicine
+78206,Web/Tech
+78207,Current Affairs
+78207,Economics
+78207,Medicine
+78209,Current Affairs
+78209,Economics
+78210,Current Affairs
+78210,Data Source
+78213,Current Affairs
+78213,Medicine
+78213,Sports
+78214,Current Affairs
+78214,Medicine
+78214,Political Science
+78214,Science
+78216,Current Affairs
+78216,Data Source
+78216,Medicine
+78219,Books
+78219,Current Affairs
+78219,Economics
+78219,History
+78219,Political Science
+78219,Science
+78223,Data Source
+78223,Political Science
+78225,Medicine
+78225,Science
+78226,Data Source
+78226,Economics
+78226,Medicine
+78226,Science
+78228,Current Affairs
+78228,Medicine
+78230,Current Affairs
+78230,Economics
+78233,Economics
+78233,Education
+78233,Medicine
+78233,Science
+78236,Current Affairs
+78236,Data Source
+78236,Medicine
+78236,Science
+78239,Data Source
+78239,Medicine
+78239,Web/Tech
+78240,Economics
+78240,Medicine
+78242,Economics
+78242,Medicine
+78242,Science
+78243,Current Affairs
+78243,Data Source
+78243,Political Science
+78245,Economics
+78245,Medicine
+78247,Current Affairs
+78247,Economics
+78247,Education
+78249,Current Affairs
+78249,Data Source
+78249,Medicine
+78253,Current Affairs
+78253,Medicine
+78253,Political Science
+78254,Medicine
+78256,Current Affairs
+78256,Medicine
+78257,Medicine
+78258,Current Affairs
+78258,Economics
+78261,Food and Drink
+78261,Law
+78264,Economics
+78264,Law
+78267,Current Affairs
+78267,Economics
+78269,Data Source
+78269,Economics
+78269,Political Science
+78271,Current Affairs
+78271,Medicine
+78271,Science
+78274,Medicine
+78274,Web/Tech
+78275,Current Affairs
+78275,Medicine
+78275,Science
+78278,Current Affairs
+78278,Economics
+78278,Education
+78278,Medicine
+78278,Science
+78278,Web/Tech
+78279,Current Affairs
+78279,Data Source
+78279,Medicine
+78281,Medicine
+78281,Political Science
+78284,Data Source
+78284,Medicine
+78285,Current Affairs
+78285,Economics
+78285,Law
+78285,Medicine
+78289,Economics
+78289,Science
+78290,Current Affairs
+78290,Data Source
+78290,Economics
+78290,Medicine
+78290,Science
+78291,Current Affairs
+78292,Current Affairs
+78292,Medicine
+78293,Current Affairs
+78293,Law
+78293,Medicine
+78297,Economics
+78299,Current Affairs
+78299,Data Source
+78299,Medicine
+78299,The Arts
+78300,Current Affairs
+78300,Economics
+78300,Medicine
+78303,Current Affairs
+78303,Economics
+78304,Current Affairs
+78304,Data Source
+78304,Medicine
+78304,Travel
+78306,Medicine
+78308,Current Affairs
+78308,Medicine
+78308,Science
+78308,Web/Tech
+78315,Current Affairs
+78315,Data Source
+78315,Medicine
+78315,Science
+78317,Current Affairs
+78317,Law
+78317,Political Science
+78320,Current Affairs
+78320,Economics
+78320,Medicine
+78322,Books
+78322,Current Affairs
+78322,Data Source
+78322,Education
+78322,History
+78322,Medicine
+78322,Philosophy
+78322,Political Science
+78322,Science
+78323,Current Affairs
+78323,Data Source
+78323,Medicine
+78325,Data Source
+78325,Medicine
+78327,Current Affairs
+78327,Medicine
+78330,Current Affairs
+78330,Economics
+78331,Current Affairs
+78331,Data Source
+78331,Medicine
+78332,Current Affairs
+78332,Law
+78332,Medicine
+78332,Web/Tech
+78336,Current Affairs
+78336,Law
+78336,Medicine
+78338,Data Source
+78338,Economics
+78338,Education
+78339,Medicine
+78339,Science
+78340,Medicine
+78340,Science
+78342,Current Affairs
+78342,Economics
+78343,Books
+78344,Medicine
+78344,Science
+78345,Current Affairs
+78345,Data Source
+78345,Law
+78345,Medicine
+78347,Books
+78347,Current Affairs
+78347,Food and Drink
+78350,Current Affairs
+78350,Economics
+78350,Web/Tech
+78351,Current Affairs
+78351,Law
+78351,Medicine
+78353,Current Affairs
+78353,Economics
+78353,History
+78353,Law
+78353,Medicine
+78355,Current Affairs
+78355,Travel
+78356,Current Affairs
+78356,Food and Drink
+78356,Law
+78356,Medicine
+78358,Books
+78358,Economics
+78358,Food and Drink
+78358,The Arts
+78360,Economics
+78360,The Arts
+78364,Medicine
+78364,Science
+78366,Medicine
+78366,Science
+78367,Music
+78368,Philosophy
+78368,Science
+78368,Travel
+78370,Economics
+78370,Games
+78370,Web/Tech
+78372,Economics
+78372,Education
+78372,History
+78373,Medicine
+78373,Philosophy
+78375,Medicine
+78375,Science
+78375,Web/Tech
+78378,Data Source
+78378,Medicine
+78381,Current Affairs
+78381,Economics
+78381,Medicine
+78382,Current Affairs
+78382,Economics
+78382,Education
+78382,Film
+78382,Law
+78382,Medicine
+78382,Philosophy
+78382,Science
+78382,Travel
+78382,Web/Tech
+78383,Current Affairs
+78383,Medicine
+78383,Science
+78383,Web/Tech
+78384,Philosophy
+78384,Political Science
+78386,Law
+78386,Medicine
+78386,Travel
+78397,Economics
+78397,Education
+78400,Medicine
+78400,Web/Tech
+78402,Data Source
+78402,Education
+78404,Law
+78404,Medicine
+78406,Data Source
+78406,Medicine
+78410,Current Affairs
+78410,Medicine
+78410,Science
+78413,Current Affairs
+78413,Economics
+78413,Political Science
+78415,Current Affairs
+78415,Economics
+78416,Current Affairs
+78416,Education
+78416,Philosophy
+78416,Science
+78419,Current Affairs
+78419,Economics
+78419,Education
+78424,Data Source
+78424,Law
+78424,Medicine
+78429,Current Affairs
+78429,Medicine
+78429,Political Science
+78430,Current Affairs
+78430,Economics
+78430,Law
+78430,Medicine
+78434,Current Affairs
+78434,Economics
+78434,Law
+78434,Medicine
+78437,Current Affairs
+78437,Medicine
+78437,Travel
+78439,Data Source
+78439,Economics
+78441,Current Affairs
+78441,Political Science
+78443,Books
+78443,Education
+78443,Science
+78444,Data Source
+78444,Medicine
+78444,Science
+78446,Data Source
+78446,Economics
+78446,History
+78446,Law
+78446,Medicine
+78447,Economics
+78447,Education
+78449,Books
+78451,Economics
+78453,Current Affairs
+78453,Economics
+78453,Law
+78453,Medicine
+78454,Books
+78454,Current Affairs
+78454,Economics
+78454,History
+78454,Medicine
+78454,Political Science
+78454,The Arts
+78454,Travel
+78454,Web/Tech
+78461,Current Affairs
+78461,Medicine
+78461,Science
+78461,Web/Tech
+78462,Medicine
+78462,Science
+78463,Current Affairs
+78463,Economics
+78463,Food and Drink
+78463,Sports
+78464,Current Affairs
+78464,Data Source
+78464,Economics
+78467,Games
+78467,Sports
+78468,Current Affairs
+78468,Law
+78468,Medicine
+78469,Science
+78469,Travel
+78470,Current Affairs
+78470,Law
+78470,Medicine
+78472,Economics
+78472,Food and Drink
+78473,Film
+78477,Current Affairs
+78477,Economics
+78478,Current Affairs
+78478,Economics
+78478,Education
+78478,Law
+78478,Philosophy
+78478,Political Science
+78478,Web/Tech
+78479,Law
+78479,Medicine
+78479,Political Science
+78480,Economics
+78480,Law
+78480,Medicine
+78483,Travel
+78483,Travels
+78485,History
+78485,Sports
+78485,Television
+78487,Current Affairs
+78487,Law
+78487,Medicine
+78491,Current Affairs
+78491,Medicine
+78492,Books
+78492,Economics
+78492,Education
+78492,History
+78492,Philosophy
+78492,Political Science
+78493,Current Affairs
+78493,Law
+78493,Medicine
+78497,Current Affairs
+78497,Law
+78497,Medicine
+78497,Philosophy
+78499,Law
+78499,Medicine
+78499,Web/Tech
+78503,Current Affairs
+78503,Economics
+78503,Medicine
+78503,Political Science
+78505,Education
+78505,History
+78505,Music
+78505,Philosophy
+78505,Science
+78505,The Arts
+78506,Current Affairs
+78506,Law
+78506,Medicine
+78507,Food and Drink
+78510,Books
+78511,Current Affairs
+78511,Medicine
+78512,Law
+78512,Medicine
+78513,Medicine
+78514,Economics
+78514,Games
+78520,Food and Drink
+78520,Law
+78521,Web/Tech
+78523,Law
+78523,Medicine
+78525,Economics
+78525,Food and Drink
+78527,Education
+78528,Current Affairs
+78528,Medicine
+78528,Philosophy
+78531,Data Source
+78531,Medicine
+78531,Political Science
+78531,Science
+78533,Data Source
+78533,Economics
+78536,Current Affairs
+78536,Law
+78536,Political Science
+78537,Law
+78537,Medicine
+78537,Science
+78538,Medicine
+78544,Current Affairs
+78544,Economics
+78544,Food and Drink
+78544,Medicine
+78545,Education
+78546,Economics
+78546,Games
+78550,Current Affairs
+78550,Economics
+78550,History
+78550,Law
+78550,Medicine
+78550,Philosophy
+78550,Political Science
+78550,Religion
+78550,Science
+78552,Current Affairs
+78552,Economics
+78552,Medicine
+78554,Education
+78555,Economics
+78555,Law
+78556,Economics
+78556,Education
+78557,Current Affairs
+78557,Law
+78557,Medicine
+78565,Economics
+78566,Medicine
+78566,Sports
+78573,Data Source
+78573,Medicine
+78577,Economics
+78578,Current Affairs
+78578,Data Source
+78578,Medicine
+78582,Current Affairs
+78582,Medicine
+78584,Books
+78584,History
+78584,Music
+78585,Data Source
+78585,Law
+78585,Political Science
+78586,Education
+78587,Film
+78587,History
+78587,Law
+78590,Law
+78590,Medicine
+78590,Travel
+78591,Economics
+78592,Current Affairs
+78592,Science
+78595,Books
+78595,Economics
+78597,Economics
+78597,Law
+78597,Medicine
+78600,Books
+78600,Philosophy
+78604,Books
+78604,Law
+78604,Political Science
+78607,Books
+78607,Games
+78607,Philosophy
+78607,Science
+78608,Economics
+78609,Current Affairs
+78609,Law
+78609,Medicine
+78609,Political Science
+78614,Current Affairs
+78614,Economics
+78614,Medicine
+78615,Medicine
+78615,Travel
+78617,Current Affairs
+78617,History
+78617,Law
+78617,Political Science
+78619,Current Affairs
+78619,Law
+78619,Music
+78619,Religion
+78621,Current Affairs
+78621,Education
+78624,Law
+78624,Travel
+78625,Food and Drink
+78625,Medicine
+78627,Medicine
+78636,Data Source
+78636,Economics
+78636,Political Science
+78637,Economics
+78641,Current Affairs
+78641,Law
+78644,Law
+78644,Political Science
+78646,Data Source
+78646,Economics
+78647,Current Affairs
+78648,Current Affairs
+78648,Law
+78648,Medicine
+78649,Books
+78649,Economics
+78649,Food and Drink
+78649,Music
+78649,The Arts
+78650,Education
+78650,Law
+78650,Political Science
+78651,Books
+78651,History
+78652,Travel
+78655,Data Source
+78656,Current Affairs
+78656,Games
+78656,Medicine
+78661,Data Source
+78661,Economics
+78661,Education
+78662,Books
+78662,Economics
+78665,Books
+78665,History
+78666,Current Affairs
+78666,Medicine
+78668,Current Affairs
+78669,Current Affairs
+78669,History
+78672,Current Affairs
+78672,Law
+78672,Political Science
+78673,Current Affairs
+78673,Data Source
+78673,Law
+78673,Political Science
+78675,Current Affairs
+78675,Medicine
+78675,Science
+78682,Current Affairs
+78682,Medicine
+78685,Economics
+78685,Political Science
+78686,Economics
+78688,Current Affairs
+78689,Data Source
+78689,Law
+78691,Law
+78695,Current Affairs
+78700,Data Source
+78700,Medicine
+78704,Economics
+78704,Science
+78706,Economics
+78706,Web/Tech
+78709,Film
+78709,History
+78709,Law
+78712,Current Affairs
+78712,Law
+78714,Economics
+78714,History
+78717,Education
+78720,History
+78720,Law
+78720,Religion
+78722,Law
+78724,Philosophy
+78725,Books
+78725,Economics
+78725,History
+78725,Science
+78735,Travel
+78737,Current Affairs
+78737,Medicine
+78737,Science
+78742,Data Source
+78742,Medicine
+78743,Current Affairs
+78743,Sports
+78746,Medicine
+78747,Economics
+78749,Economics
+78754,Current Affairs
+78754,Economics
+78754,Medicine
+78758,Religion
+78759,Books
+78759,History
+78759,The Arts
+78760,Data Source
+78760,Medicine
+78762,Medicine
+78762,Travel
+78764,Current Affairs
+78764,Law
+78764,Political Science
+78770,History
+78774,History
+78775,Data Source
+78775,Economics
+78775,Medicine
+78777,Current Affairs
+78777,Data Source
+78777,Medicine
+78781,Books
+78781,History
+78782,Law
+78782,Travel
+78783,Law
+78783,Travel
+78785,Economics
+78785,Web/Tech
+78791,Food and Drink
+78791,Travel
+78791,Travels
+78792,Books
+78795,Education
+78801,Economics
+78801,History
+78801,Law
+78802,Data Source
+78802,Medicine
+78804,Data Source
+78804,Medicine
+78805,Current Affairs
+78805,Music
+78805,The Arts
+78806,Books
+78806,History
+78806,The Arts
+78809,Medicine
+78809,Science
+78812,Current Affairs
+78814,Current Affairs
+78817,Political Science
+78818,Current Affairs
+78822,Data Source
+78825,Science
+78826,Medicine
+78827,Economics
+78830,Economics
+78830,History
+78830,Political Science
+78831,Data Source
+78831,Economics
+78831,Medicine
+78832,Current Affairs
+78832,History
+78835,Current Affairs
+78835,Medicine
+78836,Current Affairs
+78836,History
+78836,Law
+78836,Philosophy
+78836,Political Science
+78836,The Arts
+78837,Current Affairs
+78837,Food and Drink
+78839,Philosophy
+78843,Political Science
+78843,Science
+78844,Medicine
+78845,Travel
+78847,Current Affairs
+78847,Economics
+78847,Medicine
+78848,Data Source
+78848,Law
+78848,Travel
+78850,Education
+78850,Sports
+78850,Travel
+78857,Economics
+78857,Religion
+78858,Current Affairs
+78858,Data Source
+78858,Medicine
+78862,Medicine
+78862,Science
+78863,Current Affairs
+78867,Economics
+78867,History
+78868,Education
+78868,Science
+78869,Medicine
+78869,Political Science
+78871,Books
+78871,Current Affairs
+78871,Economics
+78871,Games
+78871,Philosophy
+78871,Political Science
+78871,Television
+78873,Medicine
+78875,Economics
+78875,Medicine
+78876,Current Affairs
+78876,Law
+78877,Economics
+78877,Travel
+78879,Economics
+78879,Science
+78881,The Arts
+78881,Travels
+78883,Current Affairs
+78883,Web/Tech
+78885,Books
+78887,Economics
+78887,Travel
+78890,Data Source
+78890,Science
+78891,Food and Drink
+78891,Medicine
+78893,Political Science
+78899,Books
+78899,Science
+78900,Economics
+78900,Education
+78902,Current Affairs
+78902,Medicine
+78904,Medicine
+78905,Medicine
+78908,Current Affairs
+78908,Philosophy
+78908,Political Science
+78909,Current Affairs
+78909,Economics
+78909,Education
+78909,Medicine
+78909,Web/Tech
+78916,Web/Tech
+78916,Weblogs
+78917,Philosophy
+78918,Law
+78920,Science
+78921,Food and Drink
+78921,History
+78923,Current Affairs
+78923,Data Source
+78927,Books
+78927,History
+78927,Philosophy
+78929,Books
+78932,Law
+78932,Medicine
+78934,Current Affairs
+78934,Data Source
+78935,Law
+78935,Medicine
+78937,Current Affairs
+78937,Philosophy
+78937,Political Science
+78937,Web/Tech
+78938,Books
+78938,Current Affairs
+78938,Philosophy
+78938,Political Science
+78938,Web/Tech
+78938,Weblogs
+78940,Philosophy
+78940,Religion
+78940,Science
+78943,Data Source
+78943,Economics
+78944,Books
+78944,Law
+78946,Film
+78946,History
+78947,Education
+78947,Sports
+78948,Current Affairs
+78948,Political Science
+78950,Education
+78951,Law
+78951,Sports
+78952,Data Source
+78952,Education
+78953,Economics
+78953,History
+78953,Law
+78953,Political Science
+78955,Current Affairs
+78955,Medicine
+78961,History
+78961,Law
+78961,Political Science
+78962,Medicine
+78968,Current Affairs
+78968,Data Source
+78968,Law
+78969,Political Science
+78970,Current Affairs
+78970,Law
+78972,Web/Tech
+78974,Economics
+78974,Music
+78974,The Arts
+78977,Medicine
+78979,Books
+78979,History
+78981,Economics
+78981,Education
+78981,Philosophy
+78981,Travel
+78984,Current Affairs
+78984,Economics
+78985,Political Science
+78989,Science
+78989,Web/Tech
+78990,Books
+78991,Books
+78992,Medicine
+78992,Science
+79000,Books
+79000,History
+79002,Current Affairs
+79002,Data Source
+79004,Medicine
+79006,History
+79008,Books
+79008,History
+79008,Music
+79008,Philosophy
+79008,Political Science
+79009,Current Affairs
+79010,Data Source
+79014,Books
+79014,History
+79016,Current Affairs
+79016,Law
+79017,Current Affairs
+79017,Law
+79019,Books
+79019,Science
+79020,Food and Drink
+79021,Books
+79021,Food and Drink
+79021,Science
+79023,Data Source
+79025,Economics
+79027,Science
+79029,History
+79029,Religion
+79029,Travels
+79034,Education
+79034,Law
+79035,Current Affairs
+79035,Education
+79036,Current Affairs
+79036,Web/Tech
+79037,Books
+79037,Economics
+79037,Science
+79038,Current Affairs
+79040,Current Affairs
+79040,Economics
+79040,History
+79040,Political Science
+79040,Religion
+79040,Travel
+79041,Current Affairs
+79041,Medicine
+79047,Data Source
+79049,Economics
+79049,History
+79051,History
+79051,Political Science
+79052,Medicine
+79053,Law
+79053,Web/Tech
+79054,Books
+79054,History
+79054,The Arts
+79058,Economics
+79058,Sports
+79060,Data Source
+79060,Economics
+79061,Economics
+79061,Law
+79068,Books
+79068,History
+79068,Law
+79068,Political Science
+79069,Current Affairs
+79069,Food and Drink
+79070,Medicine
+79071,Data Source
+79072,Current Affairs
+79072,Data Source
+79072,Economics
+79074,Medicine
+79074,Philosophy
+79076,Books
+79079,Books
+79079,History
+79082,Economics
+79083,Economics
+79083,Law
+79083,Medicine
+79084,Philosophy
+79084,Political Science
+79086,Current Affairs
+79087,Current Affairs
+79087,Medicine
+79091,Data Source
+79091,Medicine
+79094,Current Affairs
+79094,Economics
+79100,Current Affairs
+79100,Law
+79101,Economics
+79101,Education
+79101,Science
+79102,Current Affairs
+79102,Medicine
+79103,Data Source
+79103,Medicine
+79107,Current Affairs
+79107,Data Source
+79107,Political Science
+79110,Books
+79110,History
+79110,Travel
+79117,Medicine
+79117,Science
+79118,Law
+79122,Current Affairs
+79122,Medicine
+79126,Film
+79127,Film
+79128,Current Affairs
+79128,Medicine
+79129,Current Affairs
+79129,Economics
+79132,Medicine
+79132,Science
+79133,Medicine
+79134,Data Source
+79134,Economics
+79134,Education
+79135,Current Affairs
+79135,Economics
+79135,Education
+79135,Science
+79135,Web/Tech
+79136,Film
+79136,Television
+79136,The Arts
+79137,Books
+79141,Education
+79142,Books
+79142,Current Affairs
+79142,Religion
+79142,The Arts
+79142,Travel
+79144,Current Affairs
+79144,Data Source
+79145,Books
+79145,History
+79145,Music
+79151,Medicine
+79151,Science
+79155,Current Affairs
+79155,Law
+79156,Data Source
+79156,Medicine
+79156,Sports
+79158,Medicine
+79159,Law
+79163,Economics
+79164,Books
+79164,History
+79165,Economics
+79165,Web/Tech
+79166,Law
+79167,Law
+79167,Political Science
+79168,Food and Drink
+79168,Web/Tech
+79174,Education
+79175,Weblogs
+79177,Food and Drink
+79177,Law
+79178,Education
+79178,Medicine
+79180,Web/Tech
+79183,Games
+79183,Sports
+79186,Books
+79188,Books
+79188,Science
+79188,Travel
+79190,Books
+79190,Music
+79191,Education
+79191,Sports
+79192,Current Affairs
+79192,Medicine
+79193,Economics
+79193,Education
+79197,Data Source
+79197,Economics
+79197,History
+79197,Medicine
+79198,Economics
+79198,Web/Tech
+79203,Current Affairs
+79204,Current Affairs
+79204,Medicine
+79204,Science
+79206,Sports
+79207,Data Source
+79207,Economics
+79207,Medicine
+79208,Current Affairs
+79208,Data Source
+79208,Medicine
+79209,Data Source
+79209,Medicine
+79215,Current Affairs
+79220,Current Affairs
+79220,Law
+79221,Books
+79221,Economics
+79221,Education
+79221,Law
+79221,Political Science
+79221,Web/Tech
+79223,Books
+79224,Current Affairs
+79224,Economics
+79230,Political Science
+79232,Science
+79235,History
+79235,Political Science
+79235,Religion
+79237,Religion
+79237,Web/Tech
+79238,Music
+79239,Food and Drink
+79242,Books
+79242,Economics
+79244,History
+79244,Science
+79250,Economics
+79250,Travel
+79253,Economics
+79253,Education
+79256,Data Source
+79256,Economics
+79256,Law
+79257,Philosophy
+79257,Science
+79260,Books
+79260,History
+79260,Political Science
+79266,Current Affairs
+79266,Education
+79266,Web/Tech
+79267,Books
+79268,Books
+79268,Current Affairs
+79268,Philosophy
+79268,Political Science
+79272,Current Affairs
+79272,Political Science
+79273,Current Affairs
+79273,Law
+79273,Medicine
+79273,Science
+79274,History
+79274,Medicine
+79274,Science
+79275,Current Affairs
+79275,Political Science
+79277,Books
+79278,Current Affairs
+79278,Economics
+79278,Medicine
+79280,Current Affairs
+79280,Data Source
+79280,Medicine
+79282,Economics
+79282,Web/Tech
+79282,Weblogs
+79283,Current Affairs
+79283,Medicine
+79283,Political Science
+79283,Science
+79286,Current Affairs
+79286,Law
+79286,Sports
+79287,Medicine
+79290,Current Affairs
+79290,Data Source
+79290,Education
+79290,Law
+79290,Medicine
+79291,Current Affairs
+79291,Data Source
+79291,Medicine
+79292,Data Source
+79292,Economics
+79294,Economics
+79295,Political Science
+79297,Economics
+79297,Web/Tech
+79298,Books
+79299,Economics
+79299,Food and Drink
+79302,Film
+79302,Philosophy
+79304,Books
+79304,Economics
+79304,Philosophy
+79305,Data Source
+79313,Books
+79313,History
+79313,Science
+79313,Web/Tech
+79318,Current Affairs
+79318,Science
+79318,Web/Tech
+79319,Data Source
+79319,Economics
+79319,Science
+79320,Books
+79320,Current Affairs
+79320,Economics
+79320,Law
+79320,Music
+79320,Philosophy
+79320,Political Science
+79320,Religion
+79320,Science
+79320,Sports
+79320,The Arts
+79320,Travel
+79320,Weblogs
+79321,Books
+79322,Economics
+79322,Religion
+79322,Sports
+79323,Books
+79330,Education
+79330,Web/Tech
+79331,Data Source
+79331,Economics
+79331,History
+79333,Economics
+79333,Science
+79333,Web/Tech
+79334,Current Affairs
+79336,Current Affairs
+79336,Data Source
+79336,Medicine
+79340,History
+79340,Political Science
+79341,Current Affairs
+79341,Medicine
+79348,Travel
+79349,History
+79349,Music
+79350,Film
+79350,Music
+79350,Television
+79350,The Arts
+79352,Current Affairs
+79352,Philosophy
+79355,Economics
+79355,Education
+79355,Travel
+79357,Data Source
+79357,Medicine
+79359,Law
+79359,Science
+79360,Data Source
+79360,Science
+79361,Data Source
+79361,Economics
+79361,Science
+79364,Medicine
+79365,Science
+79365,Travel
+79370,Law
+79370,Sports
+79371,Current Affairs
+79371,Data Source
+79373,Education
+79374,Economics
+79374,Medicine
+79375,Education
+79379,Books
+79382,Economics
+79382,Law
+79382,Medicine
+79383,Economics
+79383,Education
+79385,Medicine
+79385,Science
+79389,Data Source
+79389,Medicine
+79394,Current Affairs
+79396,Current Affairs
+79396,Data Source
+79396,Political Science
+79397,Medicine
+79398,Current Affairs
+79398,Web/Tech
+79399,Data Source
+79399,Law
+79399,Medicine
+79400,Data Source
+79400,Economics
+79400,Law
+79407,Law
+79407,Web/Tech
+79409,Current Affairs
+79409,Medicine
+79413,Current Affairs
+79413,Political Science
+79414,Current Affairs
+79414,Games
+79414,Political Science
+79415,Web/Tech
+79416,Books
+79416,Current Affairs
+79416,Education
+79416,Film
+79416,History
+79416,Music
+79416,Philosophy
+79416,The Arts
+79418,The Arts
+79418,Web/Tech
+79425,Data Source
+79425,History
+79425,Political Science
+79425,The Arts
+79428,Food and Drink
+79428,Sports
+79430,Current Affairs
+79430,Data Source
+79430,Medicine
+79432,Current Affairs
+79432,Economics
+79434,Economics
+79434,Education
+79434,Science
+79436,Books
+79437,Books
+79437,Education
+79437,History
+79440,Economics
+79441,Medicine
+79441,Science
+79445,Current Affairs
+79445,Economics
+79445,Medicine
+79445,Philosophy
+79448,Books
+79448,History
+79448,Philosophy
+79453,Economics
+79453,Web/Tech
+79454,Economics
+79454,Political Science
+79455,Data Source
+79455,Political Science
+79460,Data Source
+79460,Economics
+79460,Medicine
+79461,Data Source
+79461,Economics
+79461,History
+79462,Science
+79463,Current Affairs
+79463,Medicine
+79465,Medicine
+79466,Science
+79475,Current Affairs
+79475,Data Source
+79475,Medicine
+79476,Economics
+79476,Education
+79478,Current Affairs
+79478,Food and Drink
+79478,The Arts
+79478,Travel
+79480,Economics
+79480,Education
+79480,History
+79481,Current Affairs
+79484,Current Affairs
+79484,Law
+79484,Medicine
+79485,Medicine
+79485,Science
+79486,Medicine
+79486,Science
+79489,Current Affairs
+79489,Medicine
+79492,Current Affairs
+79492,Medicine
+79492,Science
+79494,Books
+79494,History
+79495,Data Source
+79495,Medicine
+79496,Current Affairs
+79496,Economics
+79496,Medicine
+79496,Science
+79501,Data Source
+79501,Medicine
+79502,Current Affairs
+79502,Education
+79502,Food and Drink
+79502,History
+79502,Law
+79502,Medicine
+79502,Philosophy
+79502,Political Science
+79502,Religion
+79502,The Arts
+79502,Travel
+79502,Web/Tech
+79503,Current Affairs
+79503,History
+79503,Philosophy
+79503,Web/Tech
+79504,Education
+79508,Books
+79510,Current Affairs
+79510,Medicine
+79512,Data Source
+79512,Education
+79512,History
+79512,Law
+79512,Political Science
+79512,Religion
+79513,Economics
+79513,Education
+79513,Web/Tech
+79515,Current Affairs
+79515,Law
+79515,Medicine
+79520,Economics
+79520,Web/Tech
+79523,Current Affairs
+79523,Data Source
+79523,Sports
+79524,Education
+79524,Science
+79524,Web/Tech
+79525,Books
+79525,History
+79525,Political Science
+79528,Economics
+79528,Education
+79528,Philosophy
+79528,Science
+79529,Data Source
+79529,Political Science
+79532,Current Affairs
+79532,Law
+79532,Medicine
+79534,Current Affairs
+79534,Medicine
+79535,Data Source
+79535,Economics
+79536,Books
+79536,Economics
+79536,History
+79536,Philosophy
+79538,Economics
+79538,Science
+79538,Web/Tech
+79540,Books
+79540,Science
+79543,Economics
+79545,Economics
+79545,Games
+79548,Books
+79548,Current Affairs
+79548,Economics
+79548,History
+79548,Philosophy
+79550,Web/Tech
+79552,Current Affairs
+79552,Data Source
+79552,Medicine
+79552,Science
+79553,Current Affairs
+79553,Medicine
+79553,Science
+79557,Data Source
+79557,Games
+79559,Books
+79559,History
+79559,Philosophy
+79559,The Arts
+79560,Education
+79560,Medicine
+79563,Current Affairs
+79563,Law
+79563,Medicine
+79564,Economics
+79567,Current Affairs
+79567,Philosophy
+79567,Political Science
+79567,The Arts
+79568,Education
+79570,Current Affairs
+79570,Law
+79570,Medicine
+79570,Philosophy
+79570,Political Science
+79570,Science
+79573,Data Source
+79573,Medicine
+79574,Books
+79574,Economics
+79574,Education
+79574,History
+79574,Political Science
+79574,Science
+79574,The Arts
+79577,Philosophy
+79577,Science
+79577,Web/Tech
+79579,Education
+79579,Law
+79579,Travel
+79582,Current Affairs
+79582,Law
+79582,Medicine
+79583,Medicine
+79588,Music
+79588,Web/Tech
+79589,Current Affairs
+79589,Law
+79589,Medicine
+79589,Web/Tech
+79591,Books
+79591,Current Affairs
+79591,History
+79591,Political Science
+79591,Religion
+79592,Law
+79592,Medicine
+79592,Web/Tech
+79593,Books
+79593,Economics
+79593,History
+79594,Current Affairs
+79594,Economics
+79594,History
+79594,Philosophy
+79595,Economics
+79595,Education
+79598,Education
+79598,Philosophy
+79598,Web/Tech
+79601,Current Affairs
+79601,Medicine
+79601,Political Science
+79603,Current Affairs
+79603,Economics
+79603,Food and Drink
+79603,Law
+79603,Political Science
+79603,Travel
+79606,Medicine
+79606,Science
+79607,Data Source
+79607,Economics
+79607,Religion
+79608,Economics
+79608,Law
+79608,Web/Tech
+79613,Economics
+79613,History
+79613,Law
+79616,Current Affairs
+79616,Games
+79616,Medicine
+79619,Medicine
+79620,Law
+79620,Medicine
+79621,Medicine
+79621,Philosophy
+79623,Books
+79623,History
+79623,The Arts
+79625,Education
+79626,Medicine
+79626,Science
+79637,Books
+79638,Current Affairs
+79638,Data Source
+79641,Economics
+79641,Law
+79641,Medicine
+79642,Economics
+79643,Law
+79643,Political Science
+79645,Data Source
+79645,Film
+79645,Medicine
+79648,Web/Tech
+79651,Current Affairs
+79655,Education
+79655,Philosophy
+79656,Economics
+79656,Education
+79657,Current Affairs
+79657,Medicine
+79657,Philosophy
+79657,Political Science
+79662,Current Affairs
+79662,Law
+79664,Data Source
+79664,Medicine
+79664,Science
+79665,Current Affairs
+79665,Economics
+79665,Law
+79668,Economics
+79668,Education
+79668,History
+79670,Books
+79672,Medicine
+79672,Web/Tech
+79678,History
+79678,Medicine
+79680,Books
+79680,Science
+79681,Economics
+79682,Economics
+79682,Web/Tech
+79683,Law
+79683,Medicine
+79685,Books
+79685,History
+79685,Science
+79689,Current Affairs
+79692,Economics
+79694,Medicine
+79694,Science
+79695,Current Affairs
+79695,Medicine
+79695,Philosophy
+79695,Political Science
+79695,Science
+79697,Web/Tech
+79697,Weblogs
+79698,Books
+79702,Current Affairs
+79705,Economics
+79705,History
+79708,Medicine
+79708,Travel
+79710,Science
+79711,Data Source
+79711,Medicine
+79711,Web/Tech
+79712,Current Affairs
+79713,Books
+79713,Education
+79713,Film
+79713,Food and Drink
+79713,History
+79713,Music
+79713,Political Science
+79713,Religion
+79713,The Arts
+79713,Travel
+79716,Economics
+79717,Data Source
+79717,Economics
+79717,Food and Drink
+79717,Law
+79719,Current Affairs
+79719,Medicine
+79720,Law
+79720,Medicine
+79720,Travel
+79723,The Arts
+79723,Travel
+79724,Current Affairs
+79724,Data Source
+79724,Education
+79724,Religion
+79726,Data Source
+79726,Law
+79727,Current Affairs
+79727,Political Science
+79730,Economics
+79731,Current Affairs
+79732,Current Affairs
+79732,Data Source
+79732,Medicine
+79734,Economics
+79734,Medicine
+79735,Current Affairs
+79735,Medicine
+79737,Current Affairs
+79737,Medicine
+79738,Current Affairs
+79738,Economics
+79738,Medicine
+79745,Education
+79746,Books
+79748,Medicine
+79748,Science
+79748,Weblogs
+79750,Current Affairs
+79750,Political Science
+79751,Film
+79753,Books
+79753,Religion
+79756,Current Affairs
+79756,Political Science
+79757,Current Affairs
+79757,History
+79757,Medicine
+79757,Philosophy
+79759,Data Source
+79759,Economics
+79759,Law
+79759,Medicine
+79760,Medicine
+79760,Science
+79761,Current Affairs
+79761,Data Source
+79761,Medicine
+79766,Current Affairs
+79766,Medicine
+79766,Travel
+79767,Economics
+79767,History
+79767,Law
+79769,Political Science
+79769,Web/Tech
+79770,Law
+79770,Medicine
+79770,Music
+79773,Weblogs
+79774,Education
+79774,Science
+79774,Web/Tech
+79779,Current Affairs
+79779,Economics
+79779,Medicine
+79781,Books
+79781,Economics
+79781,Education
+79784,Games
+79784,Television
+79787,Current Affairs
+79787,Political Science
+79788,Economics
+79788,Food and Drink
+79788,Science
+79790,Economics
+79790,Medicine
+79790,Science
+79791,Economics
+79791,Medicine
+79793,Data Source
+79793,Economics
+79793,Law
+79794,Economics
+79794,Education
+79797,Economics
+79797,Education
+79800,Sports
+79801,Law
+79801,Medicine
+79802,Current Affairs
+79802,Economics
+79802,Law
+79803,Current Affairs
+79803,History
+79803,Political Science
+79803,Science
+79803,Web/Tech
+79806,Data Source
+79806,Economics
+79807,Books
+79807,History
+79807,Philosophy
+79807,Science
+79808,Education
+79808,Web/Tech
+79811,Books
+79811,Economics
+79811,Education
+79811,Religion
+79812,Education
+79814,Current Affairs
+79814,Economics
+79814,Web/Tech
+79815,Food and Drink
+79815,Travel
+79817,Current Affairs
+79817,Medicine
+79818,Law
+79818,Medicine
+79819,Data Source
+79819,Medicine
+79819,Political Science
+79821,History
+79821,Political Science
+79822,Books
+79824,Economics
+79825,Current Affairs
+79825,Data Source
+79825,Medicine
+79829,Economics
+79829,Medicine
+79830,Current Affairs
+79830,Economics
+79830,Medicine
+79832,Current Affairs
+79832,Law
+79832,Medicine
+79833,Law
+79833,Web/Tech
+79837,Economics
+79837,Medicine
+79841,Current Affairs
+79841,Data Source
+79841,Economics
+79841,Medicine
+79842,Data Source
+79842,Science
+79844,Data Source
+79844,Medicine
+79845,Current Affairs
+79845,Medicine
+79846,Economics
+79846,Education
+79846,History
+79847,Economics
+79850,Current Affairs
+79850,Economics
+79850,Medicine
+79852,Books
+79852,Economics
+79852,Education
+79852,Science
+79852,Television
+79852,The Arts
+79852,Travel
+79853,Economics
+79854,Philosophy
+79854,Television
+79857,Books
+79857,Economics
+79857,Education
+79858,Science
+79859,Economics
+79859,Science
+79861,Law
+79861,Religion
+79867,Law
+79867,Political Science
+79868,Economics
+79868,Medicine
+79869,Medicine
+79869,Science
+79872,Law
+79872,Medicine
+79873,History
+79873,Law
+79873,Political Science
+79874,Current Affairs
+79874,Medicine
+79875,Current Affairs
+79875,Economics
+79875,Science
+79879,Data Source
+79879,Economics
+79879,Education
+79881,Current Affairs
+79883,Economics
+79884,Economics
+79885,Data Source
+79885,Economics
+79889,Economics
+79889,Education
+79889,Film
+79890,Current Affairs
+79891,Books
+79891,Education
+79892,Current Affairs
+79894,Economics
+79894,Education
+79894,Science
+79894,Web/Tech
+79899,Food and Drink
+79899,Science
+79900,Current Affairs
+79900,Law
+79900,Medicine
+79901,Medicine
+79902,Books
+79902,Economics
+79902,History
+79902,Law
+79902,Music
+79902,Philosophy
+79902,Political Science
+79902,The Arts
+79904,Current Affairs
+79904,Economics
+79905,Economics
+79905,Travel
+79906,Current Affairs
+79906,Economics
+79906,Education
+79909,Science
+79909,Travel
+79911,Education
+79911,Science
+79913,Current Affairs
+79913,Science
+79914,Data Source
+79914,Education
+79916,History
+79916,Law
+79918,Data Source
+79918,Economics
+79918,Medicine
+79922,Books
+79922,Philosophy
+79924,Current Affairs
+79924,Religion
+79924,Science
+79925,Data Source
+79928,Current Affairs
+79928,Science
+79931,Science
+79931,Web/Tech
+79933,Current Affairs
+79933,Law
+79933,Medicine
+79934,Current Affairs
+79934,Law
+79934,Medicine
+79937,Current Affairs
+79937,History
+79937,Medicine
+79937,Science
+79938,Medicine
+79938,Science
+79938,Web/Tech
+79940,Science
+79940,The Arts
+79943,Books
+79943,Science
+79943,Web/Tech
+79944,Economics
+79944,Law
+79944,Medicine
+79948,Medicine
+79949,Economics
+79949,Medicine
+79952,Data Source
+79952,Economics
+79952,Political Science
+79953,Economics
+79953,Law
+79953,Medicine
+79956,Books
+79957,Economics
+79957,Law
+79957,Medicine
+79959,Current Affairs
+79961,Current Affairs
+79961,Economics
+79961,Law
+79961,Medicine
+79965,Philosophy
+79966,Books
+79966,Economics
+79966,History
+79966,Medicine
+79966,Web/Tech
+79968,Books
+79969,Law
+79971,Medicine
+79971,Science
+79972,Current Affairs
+79972,Economics
+79972,Medicine
+79974,Data Source
+79974,Medicine
+79974,Science
+79976,Current Affairs
+79976,Law
+79976,Web/Tech
+79977,Data Source
+79977,Law
+79977,Political Science
+79978,Medicine
+79978,Science
+79979,Current Affairs
+79979,Law
+79979,Political Science
+79981,Science
+79982,Current Affairs
+79982,Economics
+79982,Medicine
+79991,Current Affairs
+79991,Philosophy
+79991,Travel
+79992,Medicine
+79992,Science
+79992,The Arts
+79995,Current Affairs
+79995,Law
+79995,Medicine
+79995,Philosophy
+79996,Books
+79996,History
+79996,Science
+79999,Philosophy
+80001,Books
+80001,Music
+80002,Current Affairs
+80002,Economics
+80002,Law
+80002,Medicine
+80005,Economics
+80005,Web/Tech
+80009,Current Affairs
+80009,Law
+80009,Medicine
+80011,Law
+80013,Current Affairs
+80013,Law
+80013,Political Science
+80017,Data Source
+80017,Economics
+80020,Current Affairs
+80020,History
+80020,Law
+80020,Philosophy
+80020,Political Science
+80020,The Arts
+80020,Travel
+80020,Web/Tech
+80021,Law
+80021,Travel
+80022,Current Affairs
+80022,Law
+80025,Science
+80025,Web/Tech
+80026,Economics
+80026,Law
+80026,Medicine
+80029,Current Affairs
+80029,Economics
+80030,Economics
+80030,Travel
+80031,Current Affairs
+80031,Data Source
+80031,Medicine
+80038,History
+80038,Political Science
+80039,Economics
+80039,Law
+80039,Medicine
+80041,Books
+80041,Education
+80041,History
+80042,Medicine
+80043,Travel
+80043,Web/Tech
+80044,Economics
+80044,Medicine
+80046,Music
+80046,The Arts
+80049,Books
+80049,History
+80049,Medicine
+80049,Science
+80050,Medicine
+80052,Current Affairs
+80052,Economics
+80052,Science
+80055,Current Affairs
+80055,Law
+80055,Medicine
+80056,Books
+80056,Food and Drink
+80056,History
+80056,Law
+80056,Political Science
+80059,Current Affairs
+80059,Economics
+80059,Law
+80059,Medicine
+80060,Food and Drink
+80060,Law
+80064,Education
+80064,History
+80064,Medicine
+80065,Television
+80066,Travel
+80066,Web/Tech
+80070,Current Affairs
+80070,Law
+80070,The Arts
+80071,Current Affairs
+80071,Law
+80071,Political Science
+80073,Current Affairs
+80073,Law
+80075,Medicine
+80075,Science
+80076,Medicine
+80076,Science
+80077,Law
+80077,Web/Tech
+80078,Current Affairs
+80080,Medicine
+80080,Science
+80080,Web/Tech
+80085,Medicine
+80085,Science
+80087,Science
+80087,Travel
+80088,Medicine
+80088,The Arts
+80093,Economics
+80093,Medicine
+80094,Philosophy
+80097,Books
+80097,History
+80097,Political Science
+80098,Books
+80098,Current Affairs
+80098,Economics
+80099,Current Affairs
+80099,Economics
+80099,Education
+80099,Medicine
+80099,Weblogs
+80100,Books
+80103,Current Affairs
+80103,Medicine
+80105,Data Source
+80105,Medicine
+80106,Economics
+80106,Law
+80106,Medicine
+80106,Philosophy
+80107,Current Affairs
+80107,Economics
+80109,Film
+80109,History
+80111,Data Source
+80111,Medicine
+80113,Current Affairs
+80113,Law
+80113,Medicine
+80115,Economics
+80115,Medicine
+80117,Economics
+80117,Web/Tech
 80118,Books
+80119,Economics
+80119,Television
+80120,Data Source
+80120,Political Science
+80122,Current Affairs
+80122,Medicine
+80125,Science
+80127,Current Affairs
+80127,Economics
+80127,Medicine
 80128,Books
 80128,Web/Tech
+80129,Books
+80129,Current Affairs
+80129,Economics
+80129,Education
+80129,Film
+80129,Food and Drink
+80129,Medicine
+80129,Science
+80129,Travel
+80129,Web/Tech
 80133,Economics
 80133,Web/Tech
 80134,Economics

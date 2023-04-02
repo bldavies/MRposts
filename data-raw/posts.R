@@ -80,6 +80,11 @@ for (i in 1:nrow(posts)) {
       {sub(' Comments', '', .)} %>%
       as.numeric()
     
+    # Manually fix parsing failures
+    if (post_id == 77456) {
+      post_title = 'Big Data+Small Bias << Small Data+Zero Bias'
+    }
+    
     # Save table of post metadata
     tibble(
       id = post_id,
