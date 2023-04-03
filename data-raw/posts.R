@@ -18,10 +18,14 @@ source('data-raw/globals.R')
 # Import sitemap
 sitemap = read_csv('data-raw/sitemap.csv')
 
-# Restrict to posts in date range
+# Import list of errant paths
+errant_paths = read_csv('data-raw/errant-paths.csv')
+
+# Restrict to posts in date range with non-errant paths
 posts = sitemap %>%
   mutate(month = as_date(paste0(substr(path, 1, 8), '01'))) %>%
-  filter(month %in% unique(floor_date(DATE_RANGE, 'months')))
+  filter(month %in% unique(floor_date(DATE_RANGE, 'months'))) %>%
+  anti_join(errant_paths, by = 'path')
 
 # Iterate over posts in date range
 for (i in 1:nrow(posts)) {
@@ -45,79 +49,85 @@ for (i in 1:nrow(posts)) {
     
     # Read post HTML
     post_url = paste0(BLOG_URL, post_path, '.html')
-    post_html = read_html(post_url)
+    post_html = tryCatch(read_html(post_url), error = function(e) NULL)
     
-    # Extract post ID
-    post_id = post_html %>%
-      html_elements('article.post') %>%
-      html_attr('id') %>%
-      {as.integer(sub('post-', '', .))}
-    
-    # Parse post header
-    post_header = post_html %>%
-      html_elements('article.post header')
-    
-    # Extract post publication time
-    post_time = post_header %>%
-      html_element('.byline time') %>%
-      html_attr('datetime') %>%
-      as_datetime()
-    
-    # Extract post title
-    post_title = post_header %>%
-      html_element('.entry-title') %>%
-      html_text()
-    
-    # Extract post author
-    post_author = post_header %>%
-      html_element('.author') %>%
-      html_text()
-    
-    # Extract post comment count
-    post_comments = post_html %>%
-      html_element('article.post footer section.post-actions li.meta-item .meta-text') %>%
-      html_text() %>%
-      {sub(' Comments', '', .)} %>%
-      as.numeric()
-    
-    # Manually fix parsing failures
-    if (post_id == 77456) {
-      post_title = 'Big Data+Small Bias << Small Data+Zero Bias'
-    }
-    
-    # Save table of post metadata
-    tibble(
-      id = post_id,
-      time = post_time,
-      title = post_title,
-      author = post_author,
-      comments = post_comments
-    ) %>%
-      write_csv(paste0(post_dir, '/metadata.csv'))
-    
-    # Extract post categories
-    post_categories = post_header %>%
-      html_elements('.entry-tags li') %>%
-      html_text()
-    
-    # Save table of post ID-category pairs
-    if (length(post_categories) > 0) {
+    # Process post HTML
+    if (!is.null(post_html)) {
+      
+      # Extract post ID
+      post_id = post_html %>%
+        html_elements('article.post') %>%
+        html_attr('id') %>%
+        {as.integer(sub('post-', '', .))}
+      
+      # Parse post header
+      post_header = post_html %>%
+        html_elements('article.post header')
+      
+      # Extract post publication time
+      post_time = post_header %>%
+        html_element('.byline time') %>%
+        html_attr('datetime') %>%
+        as_datetime()
+      
+      # Extract post title
+      post_title = post_header %>%
+        html_element('.entry-title') %>%
+        html_text()
+      
+      # Extract post author
+      post_author = post_header %>%
+        html_element('.author') %>%
+        html_text()
+      
+      # Extract post comment count
+      post_comments = post_html %>%
+        html_element('article.post footer section.post-actions li.meta-item .meta-text') %>%
+        html_text() %>%
+        {sub(' Comments', '', .)} %>%
+        as.numeric()
+      
+      # Manually fix parsing failures
+      if (post_id == 9061) {
+        post_title = 'Confusions about the multiplier < 1 (me defending fiscal policy, sort of)'
+      }
+      if (post_id == 77456) {
+        post_title = 'Big Data+Small Bias << Small Data+Zero Bias'
+      }
+      
+      # Save table of post metadata
       tibble(
         id = post_id,
-        category = post_categories
+        time = post_time,
+        title = post_title,
+        author = post_author,
+        comments = post_comments
       ) %>%
-        write_csv(paste0(post_dir, '/categories.csv'))
+        write_csv(paste0(post_dir, '/metadata.csv'))
+      
+      # Extract post categories
+      post_categories = post_header %>%
+        html_elements('.entry-tags li') %>%
+        html_text()
+      
+      # Save table of post ID-category pairs
+      if (length(post_categories) > 0) {
+        tibble(
+          id = post_id,
+          category = post_categories
+        ) %>%
+          write_csv(paste0(post_dir, '/categories.csv'))
+      }
+      
+      # Save post content
+      post_html %>%
+        html_elements('article.post .entry-content') %>%
+        html_children() %>%
+        as.character() %>%
+        {unlist(strsplit(., '\n'))} %>%
+        trimws() %>%
+        write_lines(paste0(post_dir, '/content.html'))
     }
-    
-    # Save post content
-    post_html %>%
-      html_elements('article.post .entry-content') %>%
-      html_children() %>%
-      as.character() %>%
-      {unlist(strsplit(., '\n'))} %>%
-      trimws() %>%
-      write_lines(paste0(post_dir, '/content.html'))
-    
   }
 }
 
