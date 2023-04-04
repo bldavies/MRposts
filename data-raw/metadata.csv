@@ -1,4 +1,1768 @@
 path,id,time,title,author,comments
+2008/01/los-angeles-fac,14061,2008-01-01T01:13:17Z,Los Angeles fact of the day,Tyler Cowen,9
+2008/01/racial-mortalit,14060,2008-01-01T05:55:00Z,Racial mortality gaps,Tyler Cowen,11
+2008/01/assorted-links,14059,2008-01-01T15:57:00Z,Assorted links,Tyler Cowen,3
+2008/01/daniel-kahneman,14058,2008-01-01T23:21:56Z,Daniel Kahneman on happiness and wealth,Tyler Cowen,14
+2008/01/the-economic-ph,14057,2008-01-01T23:47:15Z,The economic philosophies of Hillary and Obama,Tyler Cowen,7
+2008/01/planes-to-nowhe,14056,2008-01-02T08:10:00Z,Planes to Nowhere,Alex Tabarrok,30
+2008/01/the-return-of-h,14055,2008-01-02T09:03:00Z,The return of Hayek?,Tyler Cowen,19
+2008/01/the-economics-o,14054,2008-01-02T12:23:50Z,The Economics of Religious Innovation,Alex Tabarrok,9
+2008/01/sentences-of-sa,14053,2008-01-02T13:39:00Z,Sentences of sadness,Tyler Cowen,16
+2008/01/new-money-does,14052,2008-01-03T04:15:00Z,New money does not have to enter the loanable funds market,Tyler Cowen,35
+2008/01/how-well-do-the,14051,2008-01-03T06:13:00Z,How well do they feed the Marines?,Tyler Cowen,25
+2008/01/san-agustin-oap,14050,2008-01-04T00:06:52Z,"San Agustin Oapan, update",Tyler Cowen,5
+2008/01/what-i-am-nearl,14049,2008-01-04T06:07:00Z,What I think I am nearly certain about,Tyler Cowen,32
+2008/01/the-candidate-d,14048,2008-01-04T10:59:25Z,The Candidate Doesn't Matter,Alex Tabarrok,14
+2008/01/what-ive-been-r,14047,2008-01-04T13:01:00Z,What I've been reading,Tyler Cowen,5
+2008/01/sentences-of-gr,14046,2008-01-04T15:37:26Z,Sentences of Great Sadness,Alex Tabarrok,28
+2008/01/costco-chic,14045,2008-01-05T05:21:00Z,Costco chic,Tyler Cowen,34
+2008/01/jesus-corpos-al,14044,2008-01-05T13:55:00Z,Jesus Corpos Aliberto,Tyler Cowen,5
+2008/01/huckabees-fair,14043,2008-01-05T21:02:30Z,"Huckabee's ""Fair Tax""",Tyler Cowen,27
+2008/01/a-few-thoughts,14042,2008-01-06T07:08:00Z,A Few Thoughts on the Democratic Debate,Alex Tabarrok,21
+2008/01/critique-of-mar,14041,2008-01-06T07:50:00Z,Critique of Marty Weitzman on uncertainty,Tyler Cowen,18
+2008/01/hmm,14040,2008-01-06T08:56:25Z,Department of hmm....,Tyler Cowen,9
+2008/01/museo-interacti,14039,2008-01-07T07:19:00Z,Museo Interactivo de Economia,Tyler Cowen,9
+2008/01/betting-markets,14038,2008-01-07T07:51:23Z,Prediction markets at Google,Tyler Cowen,9
+2008/01/uk-science,14037,2008-01-07T12:48:00Z,"UK science is becoming ""normal""",Tyler Cowen,9
+2008/01/markets-in-ever,14036,2008-01-07T14:16:00Z,"Markets in everything?, self-constraint edition",Tyler Cowen,4
+2008/01/prophets-of-the,14035,2008-01-07T22:11:18Z,"Prophets of the Marginal Revolution, a continuing series",Tyler Cowen,5
+2008/01/what-is-the-rig,14034,2008-01-08T05:23:00Z,What is the right rate of capital gains taxation for art?,Tyler Cowen,10
+2008/01/against-fiscal,14033,2008-01-08T07:23:00Z,Against Fiscal Stimulus,Alex Tabarrok,19
+2008/01/markets-in-ev-1,14032,2008-01-08T07:48:37Z,"Markets in everything, Freakonomics style",Tyler Cowen,6
+2008/01/foreclosures-by,14031,2008-01-08T11:43:48Z,"Foreclosures, by county",Tyler Cowen,15
+2008/01/vaccines-dont-c,14030,2008-01-08T15:48:37Z,"Vaccines don't cause autism, in case you had residual doubts",Tyler Cowen,18
+2008/01/my-micro-credit,14029,2008-01-09T07:28:00Z,My micro-credit essay with Karol Boudreaux,Tyler Cowen,13
+2008/01/gang-leader-for,14028,2008-01-09T08:19:37Z,Gang Leader for a Day,Tyler Cowen,16
+2008/01/assorted-link-1,14027,2008-01-09T12:18:00Z,Assorted links,Tyler Cowen,3
+2008/01/which-sectors-w,14026,2008-01-09T15:07:16Z,Which sectors will prove technologically stagnant?,Tyler Cowen,28
+2008/01/what-ive-been-1,14025,2008-01-10T07:06:42Z,What I've Been Reading,Tyler Cowen,7
+2008/01/the-most-cited,14024,2008-01-10T07:18:00Z,The most cited economics articles in the last five years,Tyler Cowen,9
+2008/01/updated-numbers,14023,2008-01-10T07:51:49Z,Updated numbers on violent deaths in Iraq,Tyler Cowen,35
+2008/01/no-immunity-for,14022,2008-01-10T12:51:46Z,No Immunity for the Telecoms,Alex Tabarrok,20
+2008/01/18-stunning-bri,14021,2008-01-10T17:09:47Z,18 stunning bridges,Tyler Cowen,10
+2008/01/the-diving-bell,14020,2008-01-11T06:55:09Z,The Diving Bell and the Butterfly,Tyler Cowen,5
+2008/01/another-way-to,14019,2008-01-11T07:05:00Z,Another way to limit draws in chess,Tyler Cowen,5
+2008/01/the-division-of,14018,2008-01-11T07:16:00Z,The Division of Personality is Limited by the Division of Labor,Alex Tabarrok,15
+2008/01/book-forum-remi,14017,2008-01-11T11:11:46Z,Book Forum reminder - The Logic of Life,Tyler Cowen,4
+2008/01/the-health-care,14016,2008-01-11T17:17:00Z,The health care graph,Tyler Cowen,21
+2008/01/markets-in-ev-2,14015,2008-01-12T06:53:00Z,"Markets in everything, food fight edition",Tyler Cowen,15
+2008/01/why-isnt-legali,14014,2008-01-12T09:44:33Z,Why isn't legalized prostitution more popular?,Tyler Cowen,16
+2008/01/if-i-were-ezra,14013,2008-01-12T22:12:00Z,If I were Ezra Klein,Tyler Cowen,20
+2008/01/what-have-econo,14012,2008-01-13T07:29:00Z,What have economists learned in the last year?,Tyler Cowen,15
+2008/01/cassorted-links,14011,2008-01-13T12:13:00Z,Assorted links,Tyler Cowen,6
+2008/01/globalization-b,14010,2008-01-13T21:24:36Z,"*Globalization*, by Don Boudreaux",Tyler Cowen,10
+2008/01/how-economicall,14009,2008-01-14T07:41:47Z,How economically important is an inspirational president?,Tyler Cowen,7
+2008/01/which-countries,14008,2008-01-14T07:47:00Z,Which countries have the best and worst flags?,Tyler Cowen,48
+2008/01/markets-in-ev-3,14007,2008-01-14T10:18:27Z,Markets in everything,Tyler Cowen,6
+2008/01/assorted-link-2,14006,2008-01-14T13:13:00Z,Assorted links,Tyler Cowen,7
+2008/01/beethoven-for-5,14005,2008-01-14T21:21:51Z,All of Beethoven for $125,Tyler Cowen,8
+2008/01/brains-minus-th,14004,2008-01-14T21:41:50Z,"Brains, minus the vat",Tyler Cowen,7
+2008/01/wining-about-ne,14003,2008-01-15T07:32:00Z,Wining about Neuroeconomics,Alex Tabarrok,19
+2008/01/lane-kenworthys,14002,2008-01-15T07:49:29Z,Lane Kenworthy's blog,Tyler Cowen,5
+2008/01/keeping-your-ey,14001,2008-01-15T11:35:00Z,Keeping your eye on the electoral ball,Tyler Cowen,10
+2008/01/who-has-the-bes,14000,2008-01-15T15:11:08Z,Who has the best fiscal stimulus plan?,Tyler Cowen,9
+2008/01/objective-vs-su,13999,2008-01-16T06:17:00Z,Objective vs. subjective globalization,Tyler Cowen,3
+2008/01/my-law-and-lite,13998,2008-01-16T06:32:00Z,My Law and Literature reading list,Tyler Cowen,8
+2008/01/congestion-pric,13997,2008-01-16T07:39:00Z,Congestion Pricing on the Road and in the Air,Alex Tabarrok,19
+2008/01/reasons-to-be-o,13996,2008-01-16T10:04:11Z,Reasons to be Optimistic,Alex Tabarrok,31
+2008/01/the-education-o,13995,2008-01-16T13:08:04Z,The Education of Ben Bernanke,Tyler Cowen,23
+2008/01/my-email-to-don,13994,2008-01-16T22:45:00Z,My email to Don Boudreaux and David Henderson,Tyler Cowen,13
+2008/01/larry-kotlikoff,13993,2008-01-17T05:59:00Z,Larry Kotlikoff defends the Fair Tax,Tyler Cowen,17
+2008/01/football-games,13992,2008-01-17T08:12:00Z,Football games make us angry,Tyler Cowen,10
+2008/01/assorted-link-3,13991,2008-01-17T11:16:00Z,Assorted links,Tyler Cowen,8
+2008/01/review-of-john,13990,2008-01-17T15:21:15Z,Review of John Gray's *Black Mass*,Tyler Cowen,5
+2008/01/china-fact-of-t,13989,2008-01-17T17:16:33Z,China fact of the day,Tyler Cowen,9
+2008/01/what-do-you-owe,13988,2008-01-18T07:42:00Z,"What do you owe the world, and what does the world owe you?",Tyler Cowen,18
+2008/01/markets-in-mark,13987,2008-01-18T07:59:00Z,Markets in Markets in Everything,Tyler Cowen,4
+2008/01/bobby-fischer-d,13986,2008-01-18T08:03:16Z,Bobby Fischer dies at age 64,Tyler Cowen,4
+2008/01/how-would-tight,13985,2008-01-18T11:29:00Z,How would tighter regulation affect mortgage origination?,Tyler Cowen,9
+2008/01/in-defense-of-s,13984,2008-01-18T14:06:05Z,In defense of (some) neuroeconomics,Alex Tabarrok,6
+2008/01/tax-rebates-don,13983,2008-01-18T21:37:03Z,Tax rebates don't always work,Tyler Cowen,8
+2008/01/results-to-shoc,13982,2008-01-19T06:39:00Z,Results I do not believe,Tyler Cowen,14
+2008/01/hackers-extort,13980,2008-01-19T12:52:48Z,Hackers Extort Cities?,Alex Tabarrok,16
+2008/01/markets-in-ev-4,13979,2008-01-19T14:57:00Z,Markets in everything: buy put options on your gadgets,Tyler Cowen,5
+2008/01/cloverfield,13978,2008-01-19T22:01:25Z,Cloverfield,Tyler Cowen,22
+2008/01/department-of-w,13977,2008-01-20T04:41:00Z,"Department of ""Whatever""",Tyler Cowen,12
+2008/01/is-2008-like-19,13976,2008-01-20T05:46:00Z,Is 2008 like 1971?,Tyler Cowen,8
+2008/01/plus-a-change-p,13975,2008-01-20T09:46:12Z,"Plus ca change, plus c'est la meme chose",Alex Tabarrok,16
+2008/01/justin-lin,13974,2008-01-20T21:46:48Z,Justin Lin,Tyler Cowen,9
+2008/01/are-african-wag,13973,2008-01-21T05:42:00Z,Are African wages too high?,Tyler Cowen,6
+2008/01/how-are-liberta,13972,2008-01-21T06:36:00Z,How are libertarians different from social democrats?,Tyler Cowen,19
+2008/01/the-dialetic-at,13971,2008-01-21T07:10:00Z,The Dialectic at Work?,Alex Tabarrok,5
+2008/01/investment-tax,13970,2008-01-21T07:40:00Z,Investment tax credit as fiscal stimulus,Alex Tabarrok,21
+2008/01/my-wilson-quart,13969,2008-01-21T13:01:00Z,My Wilson Quarterly essay on invisible competition,Tyler Cowen,4
+2008/01/the-concise-enc,13968,2008-01-21T20:01:50Z,The Concise Encyclopedia of Economics,Tyler Cowen,6
+2008/01/if-ezra-klein-w,13967,2008-01-21T20:33:25Z,If Ezra Klein were Tyler Cowen,Tyler Cowen,10
+2008/01/todays-good-new,13966,2008-01-22T06:17:00Z,Today's good news?,Tyler Cowen,12
+2008/01/bananas,13965,2008-01-22T07:07:15Z,"Banana, by Dan Koeppel",Tyler Cowen,16
+2008/01/rambo-inflation,13964,2008-01-22T07:28:00Z,Rambo Inflation,Alex Tabarrok,22
+2008/01/thomas-schellin,13963,2008-01-22T10:49:00Z,Thomas Schelling in action,Tyler Cowen,5
+2008/01/very-good-parts,13962,2008-01-22T12:40:00Z,Very good parts of very good sentences,Tyler Cowen,6
+2008/01/new-issue-of-ec,13961,2008-01-22T17:17:09Z,New issue of Econ Journal Watch,Tyler Cowen,4
+2008/01/suing-your-real,13960,2008-01-23T06:01:00Z,Suing your real estate agent,Tyler Cowen,25
+2008/01/markets-in-ev-5,13959,2008-01-23T07:15:00Z,Markets in Everything - Relief Pitcher Earnings,Alex Tabarrok,18
+2008/01/the-lively-and,13958,2008-01-23T07:41:00Z,The Lively and Logical Logic of Life,Bryan Caplan,29
+2008/01/why-are-so-many,13956,2008-01-23T18:14:00Z,Why are so many lawyers politicians?,Tyler Cowen,49
+2008/01/bargaining-theo,13955,2008-01-24T06:39:00Z,Bargaining theory,Tyler Cowen,18
+2008/01/the-law-of-unin,13954,2008-01-24T07:47:00Z,The Law of Unintended Consequences,Alex Tabarrok,57
+2008/01/why-is-tide-so,13953,2008-01-24T13:45:00Z,Why is Tide so popular?,Tyler Cowen,34
+2008/01/michael-shermer,13952,2008-01-24T20:47:00Z,Michael Shermer's Mind of the Market,Tyler Cowen,7
+2008/01/liberal-fascism,13951,2008-01-25T06:58:00Z,Liberal Fascism,Tyler Cowen,35
+2008/01/book-forum,13950,2008-01-25T07:11:22Z,Book forum,Tyler Cowen,2
+2008/01/the-best-captio,13949,2008-01-25T08:00:27Z,The best caption I read this morning,Tyler Cowen,11
+2008/01/prediction-mark,13948,2008-01-25T16:09:52Z,Prediction markets as bribery?,Tyler Cowen,8
+2008/01/john-mccain-on,13947,2008-01-26T07:46:16Z,John McCain on the economy,Tyler Cowen,13
+2008/01/assorted-link-4,13946,2008-01-26T11:10:38Z,Assorted links,Tyler Cowen,9
+2008/01/what-ive-been-2,13945,2008-01-26T16:32:00Z,What I've been reading,Tyler Cowen,8
+2008/01/assorted-link-5,13944,2008-01-27T05:54:00Z,John DiNardo against Freakonomics,Tyler Cowen,18
+2008/01/where-is-the-wo,13943,2008-01-27T07:17:00Z,Where is the world's largest swimming pool?,Tyler Cowen,15
+2008/01/fairfax-public,13942,2008-01-27T17:10:24Z,Fairfax City Public Library,Tyler Cowen,17
+2008/01/an-angry-mob-is,13940,2008-01-27T20:30:07Z,An angry mob is protesting MarginalRevolution,Tyler Cowen,6
+2008/01/simple-thoughts,13939,2008-01-28T06:45:00Z,Simple thoughts about stimulus,Tyler Cowen,13
+2008/01/logic-of-life,13938,2008-01-28T07:04:00Z,Logic of Life - Chapter 2: Game Theory isn't Always about the Games We Play,Fabio Rojas,31
+2008/01/code-red,13937,2008-01-28T13:43:00Z,Code Red,Tyler Cowen,9
+2008/01/mark-bittman-on,13936,2008-01-28T18:11:00Z,Mark Bittman on the economics of meat,Tyler Cowen,17
+2008/01/animal-spirits,13935,2008-01-28T19:44:57Z,Animal Spirits,Alex Tabarrok,22
+2008/01/why-are-there-s,13934,2008-01-29T06:54:00Z,Why are there so many co-authored papers?,Tyler Cowen,19
+2008/01/columbia-busine,13933,2008-01-29T09:54:35Z,Columbia Business School has a blog,Tyler Cowen,12
+2008/01/the-copenhagen,13932,2008-01-29T11:38:00Z,The Copenhagen Consensus and its critics,Tyler Cowen,24
+2008/01/markets-in-ev-6,13931,2008-01-29T13:26:16Z,"Markets in everything, German style",Tyler Cowen,9
+2008/01/what-influences,13930,2008-01-29T14:52:00Z,What influences your social interactions?,Tyler Cowen,12
+2008/01/what-if-you-alw,13929,2008-01-30T05:48:00Z,What if you always get the same outcome?,Tyler Cowen,12
+2008/01/haiti-food-fact,13928,2008-01-30T10:01:00Z,Haiti food fact of the day,Tyler Cowen,14
+2008/01/second-sad-thou,13927,2008-01-30T10:25:41Z,Second sad thought for the day,Tyler Cowen,11
+2008/01/should-we-aboli,13926,2008-01-30T13:47:00Z,Should we abolish trays?,Tyler Cowen,20
+2008/01/the-mercatus-ma,13925,2008-01-30T16:41:51Z,The Mercatus Masters Fellowship,Tyler Cowen,0
+2008/01/book-forum-cont,13924,2008-01-30T16:50:51Z,Book forum continues,Tyler Cowen,7
+2008/01/didnt-bob-tolli,13923,2008-01-31T04:00:00Z,Didn't Bob Tollison write a paper on this once?,Tyler Cowen,9
+2008/01/john-edwards,13922,2008-01-31T06:57:00Z,John Edwards and the virtues and limits of democracy,Tyler Cowen,30
+2008/01/markets-in-ev-7,13921,2008-01-31T11:44:00Z,Markets in everything,Tyler Cowen,8
+2008/01/the-best-questi,13920,2008-01-31T14:23:00Z,The best question I read yesterday,Tyler Cowen,9
+2008/02/blog-what-you-k,13919,2008-02-01T07:55:00Z,Blog what you know,Tyler Cowen,16
+2008/02/tyler-whines-to,13918,2008-02-01T08:01:00Z,Tyler whines to an Indian readership,Tyler Cowen,7
+2008/02/do-influentials,13917,2008-02-01T08:02:00Z,"Do ""influentials"" drive The Tipping Point?",Tyler Cowen,9
+2008/02/i-dont-quite-ag,13916,2008-02-01T11:07:00Z,I don't quite agree with Jason Furman today,Tyler Cowen,10
+2008/02/the-greenspan-c,13915,2008-02-01T14:37:13Z,The Greenspan Children,Alex Tabarrok,8
+2008/02/tim-harford-on,13914,2008-02-01T16:36:55Z,Tim Harford on video,Tyler Cowen,4
+2008/02/chapter-2-of-lo,13913,2008-02-02T00:03:57Z,"Chapter 3 of Logic of Life: Many Could Have Been Mrs. Rojas, but There is Only One Mrs. Rojas",Fabio Rojas,37
+2008/02/what-would-it-c,13912,2008-02-02T06:48:00Z,What would it cost to cover the uninsured?,Tyler Cowen,22
+2008/02/scatterplot,13911,2008-02-02T11:42:55Z,Scatterplot,Tyler Cowen,7
+2008/02/six-degrees,13910,2008-02-03T06:11:00Z,Six Degrees,Tyler Cowen,12
+2008/02/betting-markets,13909,2008-02-03T06:58:47Z,"Betting markets in everything, Super Bowl edition",Tyler Cowen,3
+2008/02/predictably-irr,13908,2008-02-03T11:35:00Z,"Predictably Irrational, by Dan Ariely",Tyler Cowen,27
+2008/02/is-divorce-bad,13907,2008-02-03T21:10:40Z,Is divorce bad for the children?,Tyler Cowen,28
+2008/02/squaring-the-ci,13906,2008-02-04T06:51:00Z,Squaring the circle on trade,Tyler Cowen,3
+2008/02/the-silence-of,13905,2008-02-04T07:15:55Z,The silence of the pundits,Tyler Cowen,8
+2008/02/dont-assume-tha,13904,2008-02-04T09:45:18Z,Don't assume that mandates are cheaper,Tyler Cowen,12
+2008/02/antitrust-prote,13903,2008-02-04T15:48:24Z,Antitrust Protectionism,Alex Tabarrok,35
+2008/02/assorted-links,13902,2008-02-04T15:50:00Z,Assorted links,Tyler Cowen,5
+2008/02/bill-traylor,13901,2008-02-05T06:19:00Z,Bill Traylor,Tyler Cowen,11
+2008/02/does-the-qualit,13900,2008-02-05T06:49:00Z,Does the quality of blog comments deteriorate?,Tyler Cowen,29
+2008/02/what-credit-cru,13899,2008-02-05T08:18:37Z,What Credit Crunch?,Alex Tabarrok,17
+2008/02/hansonian-norma,13898,2008-02-05T13:32:00Z,Hansonian Normality,Alex Tabarrok,9
+2008/02/can-larry-summe,13897,2008-02-05T14:06:33Z,Can Larry Summers talk me into the stimulus package?,Tyler Cowen,8
+2008/02/if-youre-not-lo,13896,2008-02-05T19:31:42Z,If you're not looking at the betting markets...,Tyler Cowen,8
+2008/02/tim-harford-o-1,13895,2008-02-06T05:06:00Z,"Tim Harford on CEO pay, book forum continues",Tyler Cowen,1
+2008/02/what-makes-an-e,13894,2008-02-06T06:39:00Z,What makes an entrepreneur?,Tyler Cowen,7
+2008/02/words-of-wisdom,13893,2008-02-06T06:52:00Z,Words of wisdom,Tyler Cowen,34
+2008/02/do-we-undervalu,13892,2008-02-06T09:33:00Z,Do we undervalue routine?,Tyler Cowen,16
+2008/02/department-of-y,13891,2008-02-06T13:02:16Z,Department of Yikes,Tyler Cowen,7
+2008/02/how-clinton-oba,13890,2008-02-06T19:43:00Z,"How Clinton, Obama, and McCain have voted on free trade issues",Tyler Cowen,9
+2008/02/mature-ceos,13889,2008-02-07T06:26:00Z,Mature CEO looks are correlated with company performance,Tyler Cowen,8
+2008/02/what-to-do-abou,13888,2008-02-07T07:01:00Z,What to do about climate change?,Tyler Cowen,13
+2008/02/a-real-stimulus,13887,2008-02-07T07:40:00Z,A Real Stimulus Plan,Alex Tabarrok,24
+2008/02/sentences-of-pr,13886,2008-02-07T13:44:00Z,Sentences of provocation,Tyler Cowen,3
+2008/02/book-forum-cont,13885,2008-02-07T14:52:17Z,"Book Forum continues, Megan McArdle on CEO pay",Tyler Cowen,4
+2008/02/energy-policy-f,13884,2008-02-07T22:55:00Z,Energy policy fact of the day,Tyler Cowen,22
+2008/02/david-cutler-on,13883,2008-02-08T05:42:00Z,David Cutler on mandates,Tyler Cowen,11
+2008/02/who-are-the-fiv,13882,2008-02-08T07:59:00Z,Who are the five best Baroque composers?,Tyler Cowen,33
+2008/02/assorted-link-1,13881,2008-02-08T11:57:00Z,Assorted links,Tyler Cowen,16
+2008/02/what-ive-been-r,13879,2008-02-09T06:32:00Z,What I've Been Reading,Tyler Cowen,10
+2008/02/should-we-consi,13878,2008-02-09T07:13:00Z,Should we consider a gold standard?,Tyler Cowen,32
+2008/02/robbery-fact-of,13877,2008-02-09T13:38:00Z,Robbery fact of the day,Tyler Cowen,19
+2008/02/winter-reading,13876,2008-02-10T06:57:00Z,Winter reading,Tyler Cowen,2
+2008/02/interview-with,13875,2008-02-10T07:54:00Z,Interview with Paul Romer on Mauritius,Tyler Cowen,8
+2008/02/buy-hold-and-sl,13873,2008-02-10T09:30:15Z,"Buy, hold, and slow down too!",Tyler Cowen,5
+2008/02/settling,13872,2008-02-10T14:24:05Z,Settling,Tyler Cowen,20
+2008/02/tim-harford-o-2,13871,2008-02-11T06:11:00Z,Book forum: Tim Harford's chapter six on Schelling's segregation model,Tyler Cowen,9
+2008/02/china-fact-of-t,13870,2008-02-11T08:23:52Z,China fact of the day,Tyler Cowen,5
+2008/02/the-costs-and-b,13869,2008-02-11T12:43:15Z,The costs and benefits of long-distance relationships,Tyler Cowen,7
+2008/02/please-do-your,13868,2008-02-11T12:47:43Z,Please do your calculations in the margins,Tyler Cowen,26
+2008/02/why-is-competit,13867,2008-02-12T06:39:00Z,Why is competition between health insurance companies useful?,Tyler Cowen,32
+2008/02/department-of-u,13866,2008-02-12T07:26:00Z,"Department of Unintended Consequences, a continuing series",Tyler Cowen,18
+2008/02/who-won-the-wri,13865,2008-02-12T08:16:31Z,Who won the Writers' Strike?,Tyler Cowen,11
+2008/02/free-trade-webs,13864,2008-02-12T12:29:22Z,Free trade websites,Tyler Cowen,13
+2008/02/how-off-is-intr,13863,2008-02-12T19:20:07Z,How off is InTrade?,Tyler Cowen,12
+2008/02/consumption-vs,13862,2008-02-13T06:39:00Z,"Consumption vs. income inequality, revisited",Tyler Cowen,18
+2008/02/was-there-a-hou,13861,2008-02-13T07:45:00Z,Was there a Housing Bubble?,Alex Tabarrok,65
+2008/02/know-thyself,13860,2008-02-13T11:35:21Z,Know Thyself,Alex Tabarrok,6
+2008/02/claims-to-dispu,13859,2008-02-13T17:20:00Z,"Department of ""No""!",Tyler Cowen,28
+2008/02/book-forum-harf,13858,2008-02-14T07:46:43Z,Book Forum: Harford and Caplan on Statistical Discrimination,Alex Tabarrok,39
+2008/02/what-an-economi,13857,2008-02-14T07:49:33Z,What an Economist gets his Wife for Valentines,Alex Tabarrok,7
+2008/02/valentines-day,13856,2008-02-14T08:09:23Z,Valentine's Day in Saudi Arabia,Tyler Cowen,5
+2008/02/two-sides-of-th,13855,2008-02-14T12:30:06Z,Cryonics: both sides of the story,Tyler Cowen,8
+2008/02/strange-bloggin,13854,2008-02-14T12:53:00Z,Strange Bloggingheads episodes,Tyler Cowen,4
+2008/02/simple-theories,13853,2008-02-15T02:34:00Z,Simple theories of the business cycle,Tyler Cowen,15
+2008/02/what-ive-been-1,13852,2008-02-15T09:12:00Z,What I've been reading,Tyler Cowen,7
+2008/02/johannes-fedder,13851,2008-02-15T11:36:00Z,Johannes Fedderke and the importance of good governance,Tyler Cowen,8
+2008/02/dont-burn-it,13850,2008-02-16T01:49:00Z,Don't burn it,Tyler Cowen,22
+2008/02/claims-my-russi,13849,2008-02-16T06:50:00Z,Claims my Russian wife won't even deign to laugh at,Tyler Cowen,11
+2008/02/china-fact-of-1,13848,2008-02-16T12:55:00Z,China fact of the day,Tyler Cowen,7
+2008/02/its-an-election,13847,2008-02-17T03:35:00Z,"It's an Election, not a Revolution",Tyler Cowen,21
+2008/02/marginal-revolu,13846,2008-02-17T11:55:49Z,Marginal Revolution?,Alex Tabarrok,23
+2008/02/envy-me,13845,2008-02-17T15:57:00Z,London,Tyler Cowen,10
+2008/02/markets-in-ever,13844,2008-02-18T02:55:17Z,Markets in everything: Canine edition,Tyler Cowen,1
+2008/02/assorted-link-2,13843,2008-02-18T03:51:00Z,Assorted links,Tyler Cowen,3
+2008/02/the-power-of-vo,13842,2008-02-18T07:46:00Z,The Power of Vouchers,Alex Tabarrok,31
+2008/02/book-forum-ha-1,13841,2008-02-18T10:01:00Z,Book Forum: Harford and Kevin Grier on Cities,Alex Tabarrok,20
+2008/02/northern-rock-h,13840,2008-02-18T12:07:00Z,Northern Rock has been nationalized,Tyler Cowen,7
+2008/02/what-i-really-t,13839,2008-02-19T07:20:00Z,What I really think of the new popular economics books,Tyler Cowen,12
+2008/02/a-simple-ethica,13838,2008-02-19T08:28:00Z,A simple ethical conundrum,Tyler Cowen,24
+2008/02/why-no-industri,13837,2008-02-19T12:56:00Z,Why no Industrial Revolution in China?,Tyler Cowen,10
+2008/02/assorted-link-3,13836,2008-02-19T14:25:29Z,Assorted links,Tyler Cowen,1
+2008/02/who-said-englan,13835,2008-02-20T01:44:48Z,Who said England doesn't have serious deposit insurance?,Tyler Cowen,1
+2008/02/many-people-emb,13834,2008-02-20T02:16:16Z,Many people embarrass themselves over Fidel Castro,Tyler Cowen,34
+2008/02/my-favorite-thi,13833,2008-02-20T05:00:00Z,"My favorite things Spain, music",Tyler Cowen,21
+2008/02/getting-oneself,13832,2008-02-20T09:24:00Z,Getting oneself in hot water,Tyler Cowen,25
+2008/02/how-honeytrappe,13831,2008-02-20T14:36:00Z,How honeytrappers work,Tyler Cowen,15
+2008/02/cherrypicking-1,13829,2008-02-20T17:00:02Z,Cherrypicking health care anecdotes,Tyler Cowen,28
+2008/02/how-high-is-the,13828,2008-02-21T06:08:17Z,How high is the U.S. poverty rate?,Tyler Cowen,23
+2008/02/crunch-by-jared,13827,2008-02-21T06:17:00Z,"*Crunch*, by Jared Bernstein",Tyler Cowen,8
+2008/02/a-simple-idea-f,13825,2008-02-21T13:35:00Z,A simple idea for fighting global warming,Tyler Cowen,19
+2008/02/whats-new-and-e,13824,2008-02-21T16:13:53Z,What's new and exciting in economics?,Tyler Cowen,2
+2008/02/if-the-beatles,13823,2008-02-21T16:34:08Z,If the Beatles had sung Stairway to Heaven,Tyler Cowen,4
+2008/02/naughty-tourism,13822,2008-02-22T07:04:00Z,Naughty tourism,Tyler Cowen,12
+2008/02/the-detroit-pub,13821,2008-02-22T07:44:00Z,Library of Lost Dreams,Alex Tabarrok,23
+2008/02/payday-loans,13820,2008-02-22T12:23:00Z,Payday loans,Tyler Cowen,20
+2008/02/my-favorite-t-1,13818,2008-02-23T04:03:00Z,"My favorite things Spain, literature",Tyler Cowen,13
+2008/02/should-the-imf,13817,2008-02-23T05:27:00Z,Should the IMF behave like a Sovereign Wealth Fund?,Tyler Cowen,6
+2008/02/why-is-popcorn,13816,2008-02-24T03:19:30Z,Why is popcorn so expensive at the movie theater?,Tyler Cowen,25
+2008/02/further-thought,13815,2008-02-24T05:11:00Z,Further thoughts on a carbon tax,Tyler Cowen,30
+2008/02/the-personality,13814,2008-02-25T05:58:00Z,The personality traits of liberals and conservatives,Tyler Cowen,9
+2008/02/tim-harfords-ch,13813,2008-02-25T06:10:00Z,"Tim Harford's chapter eight, a contribution from Sahar Akhtar",Tyler Cowen,11
+2008/02/gun-buyback-mis,13812,2008-02-25T07:45:00Z,Gun Buyback Misfires,Alex Tabarrok,49
+2008/02/markets-in-ev-1,13811,2008-02-25T13:38:27Z,Markets in everything,Tyler Cowen,10
+2008/02/shout-it-from-t,13810,2008-02-26T02:31:55Z,Shout it from the Streets,Alex Tabarrok,5
+2008/02/how-poor-does-c,13809,2008-02-26T06:04:00Z,How poor does Cuba look?,Tyler Cowen,41
+2008/02/why-not-increas,13808,2008-02-26T06:38:00Z,Why not increase this penalty?,Tyler Cowen,12
+2008/02/barack-obamas-e,13807,2008-02-26T09:44:06Z,Barack Obama's economic advisors,Tyler Cowen,37
+2008/02/article-about-g,13806,2008-02-26T15:31:40Z,Article about GMU Economics,Tyler Cowen,13
+2008/02/moral-puzzles,13805,2008-02-27T05:57:00Z,Moral puzzles about collective action,Tyler Cowen,17
+2008/02/tyler-and-i-hav,13803,2008-02-27T07:45:00Z,Tyler and I Have a New Business,Alex Tabarrok,11
+2008/02/daylight-saving,13802,2008-02-27T10:37:05Z,Daylight savings time increases energy usage,Tyler Cowen,30
+2008/02/william-f-buckl,13801,2008-02-27T12:43:12Z,William F. Buckley has died,Tyler Cowen,16
+2008/02/new-roots-for-t,13800,2008-02-28T06:35:00Z,New roots for the Irish miracle?,Tyler Cowen,7
+2008/02/why-plurality-r,13799,2008-02-28T07:20:00Z,Why Plurality Rule is a Bad Voting System,Alex Tabarrok,15
+2008/02/which-20th-cent,13798,2008-02-28T07:42:00Z,Which 20th century classic of American conservative political thought has held up best?,Tyler Cowen,50
+2008/02/suicide-fact-of,13797,2008-02-28T11:23:58Z,Suicide fact of the day,Tyler Cowen,15
+2008/02/forward-markets,13796,2008-02-28T14:18:49Z,"Forward markets in everything, restaurant edition",Tyler Cowen,15
+2008/02/nazi-literature,13795,2008-02-29T06:16:00Z,Nazi Literature in the Americas,Tyler Cowen,6
+2008/02/who-hates-inequ,13794,2008-02-29T06:32:00Z,Who hates inequality?,Tyler Cowen,6
+2008/02/which-work-of-a,13792,2008-02-29T07:54:15Z,Which work of American liberal political thought has held up best?,Tyler Cowen,19
+2008/02/assorted-link-4,13791,2008-02-29T13:32:41Z,Assorted links,Tyler Cowen,7
+2008/03/why-i-am-not-a,13788,2008-03-01T06:20:00Z,Why I am not a Rawlsian,Tyler Cowen,19
+2008/03/the-real-estate,13787,2008-03-01T09:00:20Z,"The real estate bubble, local government style",Tyler Cowen,14
+2008/03/the-courageous,13786,2008-03-01T16:03:00Z,Ron Bailey,Tyler Cowen,15
+2008/03/paul-krugman-on,13785,2008-03-02T07:43:00Z,Paul Krugman on trade and wages,Tyler Cowen,12
+2008/03/are-there-count,13784,2008-03-02T08:17:24Z,Are there countercyclical cultural trends?,Tyler Cowen,11
+2008/03/is-federalism-u,13783,2008-03-02T13:43:00Z,Is federalism unfair to urbanites?,Tyler Cowen,18
+2008/03/21-accents,13782,2008-03-02T19:05:00Z,21 accents,Tyler Cowen,12
+2008/03/whats-the-real,13781,2008-03-03T06:59:00Z,What's the real European growth rate?,Tyler Cowen,11
+2008/03/spanking-and-se,13780,2008-03-03T07:44:00Z,Spanking and Sex,Alex Tabarrok,49
+2008/03/the-spanish-ide,13779,2008-03-03T12:59:00Z,The Spanish idea of the film canon,Tyler Cowen,10
+2008/03/the-case-for-fo,13778,2008-03-03T15:49:55Z,"The Case for Foreclosures, by Steven Landsburg",Tyler Cowen,19
+2008/03/cuban-jokes,13777,2008-03-03T20:30:10Z,Cuban jokes,Tyler Cowen,5
+2008/03/a-million-years,13776,2008-03-03T23:18:04Z,"A Million Years of Logic, the End of Economics, and the Sociological Future",Fabio Rojas,16
+2008/03/should-we-waive,13775,2008-03-04T07:03:00Z,Should we waive legal liability for FDA-approved drugs?,Tyler Cowen,22
+2008/03/odd-numbers-blo,13774,2008-03-04T07:23:00Z,"Odd Numbers blog, from Portfolio",Tyler Cowen,4
+2008/03/why-did-the-hou,13773,2008-03-04T12:03:00Z,Why did the Houston Rockets draft Yao Ming?,Tyler Cowen,17
+2008/03/aphorisms-by-ju,13772,2008-03-04T15:05:00Z,Aphorisms by Juan Ramon Jimenez,Tyler Cowen,2
+2008/03/what-if-we-elec,13771,2008-03-05T07:28:00Z,What if we elected a Muslim black nationalist?,Tyler Cowen,8
+2008/03/china-fact-of-t,13770,2008-03-05T07:51:20Z,China fact of the day,Tyler Cowen,10
+2008/03/kill-the-farm-b,13769,2008-03-05T08:13:47Z,Kill the Farm Bill,Alex Tabarrok,19
+2008/03/markets-in-ever,13768,2008-03-05T11:41:21Z,Markets in everything,Tyler Cowen,3
+2008/03/what-ive-been-r,13767,2008-03-05T15:37:00Z,What I've been reading,Tyler Cowen,12
+2008/03/nozicks-wilt-ch,13766,2008-03-06T07:08:00Z,Nozick's Wilt Chamberlain example,Tyler Cowen,54
+2008/03/can-brain-scann,13765,2008-03-06T10:03:10Z,Can brain scanners read your mind?,Tyler Cowen,8
+2008/03/what-books-shou,13764,2008-03-06T13:45:00Z,What books should you read on Africa?,Tyler Cowen,19
+2008/03/how-easy-would,13763,2008-03-06T14:10:53Z,How easy would it be to trade with aliens?,Tyler Cowen,23
+2008/03/totally-and-del,13762,2008-03-07T06:51:00Z,Deliberately derivative blogging,Tyler Cowen,11
+2008/03/the-economic-im,13761,2008-03-07T08:01:00Z,The economic impact of Arctic melt,Tyler Cowen,29
+2008/03/excellent-sente,13760,2008-03-07T11:26:09Z,Excellent sentences,Tyler Cowen,6
+2008/03/who-is-the-most,13759,2008-03-07T18:43:20Z,Who is the most powerful member of Congress?,Tyler Cowen,3
+2008/03/brain-twisters,13758,2008-03-08T06:52:00Z,Brain twisters,Tyler Cowen,10
+2008/03/is-haiti-safe-a,13757,2008-03-08T12:15:00Z,Is Haiti safe again?,Tyler Cowen,8
+2008/03/10000-bc,13756,2008-03-08T18:23:17Z,"10,000 B.C.",Tyler Cowen,10
+2008/03/whats-going-on,13755,2008-03-08T23:20:03Z,What's going on with the economy?,Tyler Cowen,34
+2008/03/an-educational,13754,2008-03-09T05:16:00Z,An educational experiment with higher salaries,Tyler Cowen,22
+2008/03/cai-guo-qiang-c,13753,2008-03-09T10:11:05Z,"Cai Guo-Qiang, critic of collectivism",Tyler Cowen,6
+2008/03/the-ongoing-dis,13752,2008-03-09T16:11:00Z,The ongoing dispute over file-sharing papers,Tyler Cowen,9
+2008/03/whos-your-city,13751,2008-03-10T07:26:00Z,Who's Your City?,Tyler Cowen,14
+2008/03/mad-men,13750,2008-03-10T07:47:00Z,Mad Men,Alex Tabarrok,33
+2008/03/what-is-the-agg,13749,2008-03-10T13:10:27Z,What is the aggregate cost of trying to beat the stock market?,Tyler Cowen,13
+2008/03/assorted-links,13748,2008-03-10T13:12:00Z,Assorted links,Tyler Cowen,3
+2008/03/why-politics-ca,13747,2008-03-10T16:55:58Z,"Why politics cannot be captured by the intelligent, installment #45,869",Tyler Cowen,15
+2008/03/4300,13746,2008-03-10T22:32:08Z,$4300,Tyler Cowen,7
+2008/03/how-to-respond,13745,2008-03-11T06:35:00Z,How to respond to Hillary Clinton,Tyler Cowen,7
+2008/03/department-of-u,13744,2008-03-11T06:57:00Z,Department of unpalatable results,Tyler Cowen,15
+2008/03/a-boy-named-sue,13743,2008-03-11T07:12:11Z,A Boy Named Sue,Tyler Cowen,24
+2008/03/bad-incentives,13742,2008-03-11T10:18:50Z,Bad Incentives?,Alex Tabarrok,16
+2008/03/those-who-do-no,13741,2008-03-11T12:55:25Z,Those who do not know history...,Tyler Cowen,5
+2008/03/the-theory-of-i,13740,2008-03-11T17:50:00Z,The theory of interstellar trade,Tyler Cowen,24
+2008/03/help-the-pros-s,13739,2008-03-12T06:07:00Z,Help Indian prostitutes save,Tyler Cowen,4
+2008/03/assorted-link-1,13738,2008-03-12T07:19:00Z,Assorted links,Tyler Cowen,10
+2008/03/why-is-revaluin,13737,2008-03-12T08:01:00Z,Why is revaluing the degree of liquidity so tough?,Tyler Cowen,6
+2008/03/blogger-joke-of,13736,2008-03-12T12:28:00Z,Blogger joke of the day,Tyler Cowen,6
+2008/03/department-of-1,13735,2008-03-12T12:55:00Z,Department of Hmmm...,Tyler Cowen,5
+2008/03/john-mccain-fac,13734,2008-03-12T14:35:26Z,John McCain fact of the day,Tyler Cowen,10
+2008/03/public-choice-o,13733,2008-03-12T23:12:32Z,"*Public Choice*, on the web",Tyler Cowen,8
+2008/03/markets-in-ev-1,13732,2008-03-13T07:26:00Z,Markets in Everything: Adam Smith's House,Alex Tabarrok,8
+2008/03/trade-offs,13731,2008-03-13T07:47:00Z,Trade-offs,Alex Tabarrok,20
+2008/03/cooked-books,13730,2008-03-13T08:11:01Z,Cooked books,Tyler Cowen,12
+2008/03/very-good-sente,13729,2008-03-13T09:59:44Z,Very good sentences,Tyler Cowen,8
+2008/03/legalizing-pros,13728,2008-03-13T14:12:00Z,Legalization of prostitution,Tyler Cowen,22
+2008/03/markets-in-ev-2,13727,2008-03-14T06:19:00Z,Markets in everything,Tyler Cowen,8
+2008/03/good-books-on-t,13726,2008-03-14T06:34:00Z,Good books on trade policies,Tyler Cowen,7
+2008/03/the-culture-tha,13725,2008-03-14T07:29:29Z,"The culture that is German, a continuing series",Tyler Cowen,22
+2008/03/assorted-link-2,13724,2008-03-14T11:25:00Z,Assorted links,Tyler Cowen,3
+2008/03/question-and-an,13723,2008-03-14T15:45:32Z,Question and answer,Tyler Cowen,12
+2008/03/the-prostitutio,13722,2008-03-15T06:44:00Z,"The prostitution ""crackdown"" in the Netherlands",Tyler Cowen,6
+2008/03/hedge-fund-wiza,13721,2008-03-15T06:55:00Z,Hedge fund wizards,Tyler Cowen,14
+2008/03/the-n-word,13720,2008-03-15T15:10:00Z,The N word,Tyler Cowen,12
+2008/03/how-many-books,13719,2008-03-16T07:50:00Z,How many books should be facing out?,Tyler Cowen,12
+2008/03/assorted-link-3,13718,2008-03-16T08:33:00Z,Assorted links,Tyler Cowen,2
+2008/03/cop-in-the-hood,13717,2008-03-16T13:58:00Z,Cop in the Hood,Tyler Cowen,19
+2008/03/game-theory,13716,2008-03-16T18:32:42Z,Chicken,Tyler Cowen,24
+2008/03/common-wealth-e,13715,2008-03-17T07:01:00Z,Common Wealth: Economics for a Crowded Planet,Tyler Cowen,5
+2008/03/always-low-pric,13714,2008-03-17T07:22:00Z,Always Low Prices,Tyler Cowen,4
+2008/03/surely-you-all,13713,2008-03-17T07:26:51Z,Surely you all wondered the same,Tyler Cowen,2
+2008/03/the-holiday-yea,13712,2008-03-17T07:35:00Z,The Holiday-Year Challenge,Alex Tabarrok,11
+2008/03/my-podcast-on-m,13711,2008-03-17T10:14:36Z,My podcast on macro and monetary policy,Tyler Cowen,16
+2008/03/alesund-my-drea,13710,2008-03-17T16:11:42Z,Forget your cares and dream about Alesund,Tyler Cowen,7
+2008/03/gdp-vs-gdp-per,13709,2008-03-18T05:37:00Z,gdp vs. gdp per capita,Tyler Cowen,6
+2008/03/claims-about-sp,13708,2008-03-18T06:20:00Z,Claims about Spanish banks,Tyler Cowen,1
+2008/03/fear,13707,2008-03-18T07:44:00Z,Fear,Alex Tabarrok,24
+2008/03/markets-in-ev-3,13706,2008-03-18T13:08:00Z,"Markets in *everything*, a continuing series",Tyler Cowen,3
+2008/03/ben-bernanke-an,13705,2008-03-18T16:41:00Z,How bad news can be good news,Tyler Cowen,6
+2008/03/bailouts,13704,2008-03-19T06:24:00Z,"The economics of ""bailouts""",Tyler Cowen,8
+2008/03/sherry-glieds-n,13703,2008-03-19T07:45:59Z,Sherry Glied's new health care paper,Tyler Cowen,10
+2008/03/the-realignment,13702,2008-03-19T08:27:47Z,The realignment of the regulatory powers,Tyler Cowen,6
+2008/03/on-the-way-to-t,13701,2008-03-19T12:57:22Z,On the way to the airport,Tyler Cowen,4
+2008/03/assorted-link-4,13700,2008-03-19T16:45:00Z,Assorted links,Tyler Cowen,4
+2008/03/liability-law-a,13699,2008-03-20T07:28:00Z,Liability Law and Firm Size,Alex Tabarrok,18
+2008/03/all-you-can-eat,13698,2008-03-20T07:47:00Z,All you can eat?,Tyler Cowen,3
+2008/03/why-have-burgla,13697,2008-03-20T10:23:24Z,Why have burglaries declined?,Tyler Cowen,19
+2008/03/why-are-commodi,13696,2008-03-20T15:22:00Z,Why are commodity prices rising so fast?,Tyler Cowen,10
+2008/03/the-permanent-t,13694,2008-03-21T06:22:00Z,The permanent tax revolt,Tyler Cowen,12
+2008/03/the-other-ex-an,13693,2008-03-21T06:46:00Z,The Other Ex-Ante Moral Hazard in Health: You are too Healthy,Tyler Cowen,5
+2008/03/assorted-link-5,13692,2008-03-21T10:22:03Z,Assorted links,Tyler Cowen,4
+2008/03/progress-on-dua,13691,2008-03-21T12:53:54Z,Progress on Dual Tracking?,Alex Tabarrok,1
+2008/03/the-best-senten,13690,2008-03-21T16:23:03Z,The best sentence I read today,Tyler Cowen,6
+2008/03/pollo-campero,13689,2008-03-22T07:17:00Z,Pollo Campero,Tyler Cowen,5
+2008/03/trading-in-spac,13688,2008-03-22T07:48:00Z,Trading in space,Tyler Cowen,11
+2008/03/scream-it-from,13687,2008-03-22T12:38:24Z,Scream it from the Rooftops,Tyler Cowen,3
+2008/03/ratemycopcom,13686,2008-03-22T17:53:00Z,RateMyCop.com,Tyler Cowen,9
+2008/03/henley-on-why-h,13685,2008-03-23T01:18:24Z,Hayek Doesn't Stop at the Water's Edge,Alex Tabarrok,17
+2008/03/what-went-wrong,13684,2008-03-23T07:41:56Z,What went wrong with the economy?,Tyler Cowen,16
+2008/03/bonk,13681,2008-03-23T18:36:00Z,Bonk (What I've been Reading),Tyler Cowen,8
+2008/03/japan-bleg,13680,2008-03-23T19:57:51Z,Japan bleg,Tyler Cowen,27
+2008/03/5x-whoops-sir-y,13679,2008-03-24T06:46:00Z,"Sir, you have quintuplets",Tyler Cowen,6
+2008/03/jeff-sachs,13678,2008-03-24T07:34:00Z,Jeff Sachs's Common Wealth,Tyler Cowen,18
+2008/03/government-ince,13677,2008-03-24T07:45:00Z,Government Incentives to Overcook Babies,Alex Tabarrok,13
+2008/03/the-citation-de,13676,2008-03-24T13:39:00Z,The citation death tax,Tyler Cowen,10
+2008/03/black-markets-i,13674,2008-03-24T15:45:24Z,Black markets in everything,Tyler Cowen,12
+2008/03/stuff-i-wouldnt,13673,2008-03-24T22:53:59Z,Stuff I wouldn't usually blog,Tyler Cowen,6
+2008/03/are-incentives,13672,2008-03-25T06:34:00Z,Are incentives more asymmetrical than they used to be?,Tyler Cowen,14
+2008/03/ive-never-done,13671,2008-03-25T07:21:00Z,I can't imagine doing this,Tyler Cowen,8
+2008/03/what-to-do,13670,2008-03-25T10:37:00Z,What to do,Tyler Cowen,11
+2008/03/why-anti-cassan,13669,2008-03-25T14:07:16Z,Why Anti-Cassandras Get the Media Attention,Alex Tabarrok,39
+2008/03/its-not-the-eco,13668,2008-03-26T06:51:00Z,"""It's not the economy, stupid""",Tyler Cowen,13
+2008/03/education-isnt,13667,2008-03-26T07:33:53Z,Education isn't mainly about signalling,Tyler Cowen,17
+2008/03/is-religion-for,13665,2008-03-26T10:13:00Z,Is religion for controlling men?,Tyler Cowen,5
+2008/03/jeff-sachs-on-w,13664,2008-03-26T15:56:00Z,Jeff Sachs on water policy,Tyler Cowen,10
+2008/03/the-cone-of-sil,13662,2008-03-27T07:10:00Z,The Cone of Silence,Alex Tabarrok,3
+2008/03/interpreting-ty,13661,2008-03-27T07:32:00Z,Interpreting Tylerian Science Fiction,Alex Tabarrok,8
+2008/03/my-favorite-thi,13660,2008-03-27T12:02:00Z,My favorite things Arizona,Tyler Cowen,25
+2008/03/todd-kendall-wi,13659,2008-03-27T18:16:00Z,Todd Kendall wishes to know,Tyler Cowen,22
+2008/03/pay-as-you-driv,13658,2008-03-28T04:03:00Z,Pay-As-You-Drive Car Insurance,Tyler Cowen,33
+2008/03/andreessen-on-t,13657,2008-03-28T07:35:00Z,Andreessen on The Psychology of Human Misjudgment,Alex Tabarrok,12
+2008/03/its-ok-to-live,13656,2008-03-28T11:26:00Z,It's OK to live together before marriage,Tyler Cowen,14
+2008/03/sentences-to-po,13655,2008-03-28T15:15:00Z,"Outsourcing, taken to extremes",Tyler Cowen,14
+2008/03/why-capital-con,13654,2008-03-29T04:49:00Z,Why capital controls are getting harder to enforce,Tyler Cowen,8
+2008/03/port-au-prince,13653,2008-03-29T07:58:00Z,Port-Au-Prince,Tyler Cowen,11
+2008/03/chandram,13652,2008-03-29T16:49:00Z,Sangam,Tyler Cowen,13
+2008/03/assorted-link-6,13651,2008-03-29T20:25:32Z,Assorted links,Tyler Cowen,13
+2008/03/how-to-choose-a,13649,2008-03-30T05:57:00Z,How to choose a mechanic,Tyler Cowen,25
+2008/03/retribution,13648,2008-03-30T13:53:00Z,"Retribution, by Max Hastings",Tyler Cowen,14
+2008/03/bottom-line,13647,2008-03-30T20:19:00Z,Bottom line,Tyler Cowen,9
+2008/03/gods-servants-d,13646,2008-03-31T07:31:00Z,God's Servants Do Play Dice,Alex Tabarrok,9
+2008/03/income-per-natu,13644,2008-03-31T09:53:58Z,Income per natural,Tyler Cowen,14
+2008/03/should-the-sec,13643,2008-03-31T15:46:00Z,Should the SEC and CFTC be consolidated?,Tyler Cowen,8
+2008/04/why-are-the-soc,13642,2008-04-01T05:53:00Z,Why are the social sciences backward?,Tyler Cowen,17
+2008/04/adverse-selecti,13641,2008-04-01T06:48:00Z,Adverse selection of slaves,Tyler Cowen,6
+2008/04/giving-the-fed,13640,2008-04-01T11:45:00Z,Giving the Fed more (less?) regulatory power,Tyler Cowen,6
+2008/04/assorted-links,13639,2008-04-01T16:38:00Z,Assorted links,Tyler Cowen,8
+2008/04/facebook-market,13638,2008-04-01T17:32:11Z,Facebook markets in everything,Tyler Cowen,7
+2008/04/kirkland-homoge,13637,2008-04-02T07:15:00Z,Kirkland Homogenized Milk,Tyler Cowen,19
+2008/04/foul-weather-au,13636,2008-04-02T07:43:00Z,Foul Weather Austrians,Alex Tabarrok,35
+2008/04/was-avner-greif,13635,2008-04-02T12:22:00Z,Was Avner Greif right about the Maghribi traders?,Tyler Cowen,10
+2008/04/what-ive-been-r,13634,2008-04-02T16:06:00Z,What I've Been Reading,Tyler Cowen,6
+2008/04/my-favorite-thi,13633,2008-04-03T04:35:00Z,My favorite things Utah,Tyler Cowen,24
+2008/04/part-of-the-pro,13632,2008-04-03T07:10:00Z,Part of the Problem,Alex Tabarrok,9
+2008/04/katrina-recomme,13631,2008-04-03T10:50:00Z,Katrina recommendations,Tyler Cowen,14
+2008/04/scarcity,13630,2008-04-03T14:15:10Z,Scarcity,Alex Tabarrok,12
+2008/04/the-future-of-e,13629,2008-04-03T15:30:00Z,The future of economics,Tyler Cowen,12
+2008/04/capital-require,13628,2008-04-04T05:50:00Z,Capital requirements smackdown watch,Tyler Cowen,20
+2008/04/predictions-abo,13627,2008-04-04T12:09:00Z,Predictions about 2008,Tyler Cowen,22
+2008/04/assorted-link-1,13626,2008-04-05T01:09:44Z,Assorted links,Tyler Cowen,5
+2008/04/why-economics-w,13625,2008-04-05T05:44:00Z,Why economics was late in starting,Tyler Cowen,16
+2008/04/car-patrol-vs-f,13624,2008-04-05T14:29:00Z,Car patrol vs. foot patrol,Tyler Cowen,22
+2008/04/jeff-sachs-on-b,13623,2008-04-06T05:36:00Z,Jeff Sachs on biodiversity,Tyler Cowen,37
+2008/04/the-erotics-of,13622,2008-04-06T13:13:00Z,The erotics of investing,Tyler Cowen,18
+2008/04/how-free-trade,13621,2008-04-07T05:44:00Z,"How free trade affects thievery, part II",Tyler Cowen,11
+2008/04/diversification,13620,2008-04-07T07:45:00Z,World Wide Losses are the Best Losses,Alex Tabarrok,13
+2008/04/larry-bartel-an,13619,2008-04-07T11:20:17Z,"Larry Bartels, and how Republican Presidents drive income inequality",Tyler Cowen,17
+2008/04/assorted-link-2,13618,2008-04-07T14:25:00Z,Assorted links,Tyler Cowen,8
+2008/04/haiti-fact-of-t,13617,2008-04-08T06:54:00Z,Haitian prison,Tyler Cowen,0
+2008/04/more-on-bartels,13616,2008-04-08T07:42:00Z,More on Bartels,Alex Tabarrok,15
+2008/04/headlines,13615,2008-04-08T10:17:25Z,Headlines,Tyler Cowen,6
+2008/04/why-is-monogamy,13614,2008-04-08T12:56:00Z,Why is monogamy associated with economic development?,Tyler Cowen,5
+2008/04/assorted-link-3,13613,2008-04-08T13:58:33Z,Assorted Links,Alex Tabarrok,9
+2008/04/the-burdens-of,13612,2008-04-08T20:01:37Z,The burdens of fame,Tyler Cowen,16
+2008/04/the-fall-was-a,13611,2008-04-09T06:54:00Z,Antiquity was richer than we think,Tyler Cowen,4
+2008/04/black-los-angel,13610,2008-04-09T07:16:00Z,Black Los Angeles in Jim Crow America,Tyler Cowen,27
+2008/04/it-wasnt-me,13609,2008-04-09T11:49:00Z,It Wasn't Me,Tyler Cowen,5
+2008/04/sebastian-malla,13608,2008-04-09T15:43:16Z,Sebastian Mallaby on hedge funds,Tyler Cowen,11
+2008/04/average-startin,13607,2008-04-09T15:51:20Z,Average starting salaries by major,Tyler Cowen,21
+2008/04/jacqueline-pass,13606,2008-04-09T21:57:59Z,Jacqueline Passey resumes blogging,Tyler Cowen,5
+2008/04/what-ive-been-1,13605,2008-04-10T06:32:00Z,What I've Been Reading,Tyler Cowen,3
+2008/04/incentives-are,13604,2008-04-10T07:10:00Z,Incentives are everywhere,Alex Tabarrok,13
+2008/04/the-infinitely,13603,2008-04-10T09:49:12Z,The infinitely bad sneeze,Tyler Cowen,22
+2008/04/whatever-happen,13602,2008-04-10T11:29:13Z,Whatever happened to markets in everything?,Tyler Cowen,28
+2008/04/iraq-update,13601,2008-04-10T17:05:01Z,Iraq update,Tyler Cowen,7
+2008/04/seriously,13600,2008-04-11T06:39:00Z,seriously,Tyler Cowen,14
+2008/04/why-are-there-s,13599,2008-04-11T07:01:00Z,Why are there so few eligible bachelors?,Tyler Cowen,30
+2008/04/wacky-patents,13598,2008-04-11T12:51:34Z,Wacky Patents,Alex Tabarrok,10
+2008/04/heads-in-the-sa,13597,2008-04-12T06:48:00Z,Heads in the Sand,Tyler Cowen,18
+2008/04/simple-sense-ab,13596,2008-04-12T12:54:00Z,Simple sense about discount rates,Tyler Cowen,14
+2008/04/guns-dont-kill,13595,2008-04-13T06:02:00Z,"""Guns don't kill people, trading guns does""",Tyler Cowen,15
+2008/04/assorted-link-4,13594,2008-04-13T09:52:00Z,Assorted links,Tyler Cowen,4
+2008/04/bitter,13593,2008-04-13T12:43:57Z,Bittergate,Tyler Cowen,47
+2008/04/the-economics-1,13592,2008-04-14T07:37:00Z,The economics of the male pill,Tyler Cowen,22
+2008/04/financial-compe,13591,2008-04-14T07:40:00Z,Financial Compensation for Organ Donors is Working,Alex Tabarrok,23
+2008/04/markets-in-ever,13590,2008-04-14T13:02:00Z,Markets in everything,Tyler Cowen,3
+2008/04/questions-that,13589,2008-04-14T17:34:00Z,Questions that are rarely asked,Tyler Cowen,10
+2008/04/the-world-isnt,13588,2008-04-14T19:04:57Z,"The world isn't flat, installment #736",Tyler Cowen,4
+2008/04/the-10-billion,13587,2008-04-15T05:50:00Z,The $10 billion Saudi university,Tyler Cowen,29
+2008/04/readsplat,13586,2008-04-15T07:18:00Z,Readsplat,Tyler Cowen,9
+2008/04/why-we-shouldnt,13585,2008-04-15T11:31:18Z,Why we shouldn't boycott the Olympics in any way,Tyler Cowen,31
+2008/04/very-small-coun,13584,2008-04-15T15:10:43Z,Very small countries,Tyler Cowen,13
+2008/04/the-pointer-is,13583,2008-04-16T06:45:00Z,The pointer is from Chris Masse,Tyler Cowen,9
+2008/04/kindle,13582,2008-04-16T07:02:00Z,Kindle,Tyler Cowen,15
+2008/04/the-mobi,13581,2008-04-16T09:27:16Z,The Mobi,Alex Tabarrok,15
+2008/04/assorted-link-5,13580,2008-04-16T12:21:00Z,Assorted links,Tyler Cowen,14
+2008/04/russ-roberts-as,13579,2008-04-16T18:28:00Z,Russ Roberts asks about Beethoven's slow movements,Tyler Cowen,15
+2008/04/good-paper-titl,13578,2008-04-16T19:58:54Z,Good paper titles,Tyler Cowen,4
+2008/04/sunspots-foreve,13577,2008-04-17T05:25:00Z,Sunspots forever,Tyler Cowen,5
+2008/04/the-safety-of-e,13576,2008-04-17T06:34:00Z,The safety of elevators,Tyler Cowen,12
+2008/04/india-fact-of-t,13575,2008-04-17T07:40:18Z,India fact of the day,Tyler Cowen,9
+2008/04/charles-darwin,13574,2008-04-17T11:25:00Z,Charles Darwin on-line,Tyler Cowen,3
+2008/04/netflix-pricing,13573,2008-04-17T13:06:10Z,Netflix pricing,Tyler Cowen,18
+2008/04/the-countercycl,13572,2008-04-17T22:47:01Z,The countercyclical asset,Tyler Cowen,14
+2008/04/climate-solutio,13571,2008-04-18T05:49:00Z,Climate solutions and carbon dividends,Tyler Cowen,15
+2008/04/the-horse-the-w,13570,2008-04-18T11:14:00Z,The Horse the Wheel and Language,Tyler Cowen,8
+2008/04/good-letter-wro,13569,2008-04-18T13:30:41Z,"Good Letter, Wrong Address",Alex Tabarrok,34
+2008/04/ontdek-je-inner,13568,2008-04-18T17:33:00Z,Ontdek je innerlijke econoom,Tyler Cowen,4
+2008/04/sentences-of-wi,13567,2008-04-18T21:51:51Z,Sentences of wisdom,Tyler Cowen,11
+2008/04/a-trip-to-el-bu,13566,2008-04-19T06:33:00Z,A trip to El Bulli,Tyler Cowen,1
+2008/04/why-are-gun-own,13565,2008-04-19T06:48:48Z,Why are gun owners so happy?,Tyler Cowen,51
+2008/04/non-profit-pred,13564,2008-04-19T15:29:00Z,Non-profit prediction markets,Tyler Cowen,9
+2008/04/aint-my-america,13563,2008-04-20T08:05:59Z,Ain't My America,Tyler Cowen,7
+2008/04/assorted-link-6,13562,2008-04-20T08:35:00Z,Assorted links,Tyler Cowen,12
+2008/04/the-future-of-t,13561,2008-04-20T10:15:45Z,The future of Toyota,Tyler Cowen,25
+2008/04/bad-money,13560,2008-04-21T06:58:00Z,Bad Money,Tyler Cowen,40
+2008/04/million-dollar,13559,2008-04-21T07:17:00Z,Million dollar blocks,Tyler Cowen,15
+2008/04/request-for-req,13558,2008-04-21T11:43:48Z,Request for requests,Tyler Cowen,69
+2008/04/tabarrok-on-npr,13557,2008-04-21T13:01:17Z,Tabarrok on NPR,Alex Tabarrok,1
+2008/04/answering-your,13556,2008-04-21T16:05:19Z,Answering your questions,Tyler Cowen,6
+2008/04/vs-naipaul,13555,2008-04-22T04:57:00Z,What I've Been Reading,Tyler Cowen,3
+2008/04/what-will-happe,13554,2008-04-22T06:11:00Z,What will happen with commodity prices?,Tyler Cowen,18
+2008/04/division-of-lab,13553,2008-04-22T11:31:00Z,Division of labor is limited by the extent of the market,Tyler Cowen,12
+2008/04/more-on-energy,13552,2008-04-22T13:33:00Z,More on energy pessimism,Tyler Cowen,50
+2008/04/from-the-commen,13551,2008-04-23T06:08:00Z,"From the comments: ""America the Beautiful""?",Tyler Cowen,46
+2008/04/demand-response,13550,2008-04-23T07:05:00Z,Demand Response,Alex Tabarrok,13
+2008/04/hendrik-houthak,13549,2008-04-23T07:44:59Z,Hendrik Houthakker dies at 83,Tyler Cowen,3
+2008/04/non-mainstream,13548,2008-04-23T11:56:00Z,Non-mainstream schools of thought,Tyler Cowen,7
+2008/04/europe-fact-of,13547,2008-04-23T13:21:00Z,Europe fact of the day,Tyler Cowen,14
+2008/04/nabokovs-last-w,13546,2008-04-23T19:28:25Z,Nabokov's last work will not be burned,Tyler Cowen,11
+2008/04/the-countercy-1,13545,2008-04-24T06:50:00Z,"The Countercyclical Asset, part II",Tyler Cowen,3
+2008/04/graduate-school,13544,2008-04-24T07:15:00Z,Graduate school advice,Tyler Cowen,18
+2008/04/is-richard-posn,13543,2008-04-24T11:31:46Z,Is Richard Posner right about air travel and its problems?,Tyler Cowen,25
+2008/04/stupid-box-tric,13542,2008-04-24T14:10:58Z,Stupid Box Tricks for Intellectuals,Alex Tabarrok,11
+2008/04/rating-ratemypr,13541,2008-04-25T07:18:40Z,Rating RateMyProfessors.com,Tyler Cowen,32
+2008/04/questions-tha-1,13540,2008-04-25T07:24:00Z,"Questions that are rarely asked, a continuing series",Tyler Cowen,7
+2008/04/seasteading,13539,2008-04-25T07:36:00Z,Seasteading,Alex Tabarrok,30
+2008/04/assorted-link-7,13538,2008-04-25T12:54:00Z,Assorted links,Tyler Cowen,4
+2008/04/trade-and-inequ,13537,2008-04-25T22:54:45Z,"Trade and inequality, revisited - Rooftops edition",Tyler Cowen,12
+2008/04/how-to-choose-a,13536,2008-04-26T07:39:51Z,How to choose an apartment,Tyler Cowen,23
+2008/04/can-we-learn-an,13535,2008-04-26T13:01:00Z,Can we learn anything from the Democratic spat?,Tyler Cowen,8
+2008/04/just-how-good-w,13534,2008-04-26T21:33:33Z,Just how good would drug legalization be?,Tyler Cowen,31
+2008/04/the-6yr-old-rep,13533,2008-04-27T00:04:38Z,The 6yr old Reports,Alex Tabarrok,4
+2008/04/freer-trade-cou,13532,2008-04-27T07:26:24Z,Freer trade could fill the world's rice bowl,Tyler Cowen,27
+2008/04/markets-in-ev-2,13531,2008-04-27T12:17:55Z,Markets in Everything: Want Ads for Hit Men,Alex Tabarrok,8
+2008/04/fried-rice,13530,2008-04-28T06:13:00Z,Fried Rice,Tyler Cowen,17
+2008/04/how-much-would,13529,2008-04-28T06:56:00Z,How good would the abolition of zoning in New York City be?,Tyler Cowen,28
+2008/04/markets-in-ev-1,13528,2008-04-28T13:08:00Z,Markets in everything: reverse prostitution edition,Tyler Cowen,11
+2008/04/peter-thiel-on,13527,2008-04-28T16:13:15Z,Peter Thiel on the Great Bubble,Tyler Cowen,12
+2008/04/collected-advic,13526,2008-04-28T21:19:46Z,Collected advice for young economists,Tyler Cowen,9
+2008/04/assorted-link-8,13524,2008-04-29T06:12:00Z,Assorted links,Tyler Cowen,6
+2008/04/markets-in-ev-3,13523,2008-04-29T06:59:00Z,"Markets in everything, China fact of the day edition",Tyler Cowen,4
+2008/04/back-of-the-env,13522,2008-04-29T10:21:00Z,Back of the envelope,Tyler Cowen,8
+2008/04/roger-ebert-is,13521,2008-04-29T14:39:57Z,Roger Ebert is blogging,Tyler Cowen,2
+2008/04/the-mccain-heal,13520,2008-04-29T20:37:42Z,The McCain health care plan,Tyler Cowen,22
+2008/04/whats-a-new-yor,13519,2008-04-30T07:12:00Z,What's a New York Times ad worth for a book?,Tyler Cowen,10
+2008/04/limited-liabili,13518,2008-04-30T07:41:00Z,Limited Liability,Alex Tabarrok,36
+2008/04/sentences-of-in,13517,2008-04-30T12:31:12Z,Sentences of interest,Tyler Cowen,25
+2008/04/markets-in-ev-4,13516,2008-04-30T17:01:00Z,Markets in everything,Tyler Cowen,2
+2008/05/how-to-behave-w,13515,2008-05-01T06:58:00Z,How to behave when you're old,Tyler Cowen,10
+2008/05/exporting-elect,13514,2008-05-01T07:35:00Z,Exporting Electrons,Alex Tabarrok,14
+2008/05/in-case-you-wer,13513,2008-05-01T09:40:48Z,In case you weren't paying attention...,Tyler Cowen,11
+2008/05/eminent-domain,13512,2008-05-01T13:15:00Z,Eminent Domain and Civil Rights,Alex Tabarrok,11
+2008/05/make-dentistry,13511,2008-05-01T14:06:59Z,Make dentistry cheaper,Tyler Cowen,22
+2008/05/charles-tilly-d,13510,2008-05-02T05:02:00Z,Charles Tilly dies at 78,Tyler Cowen,2
+2008/05/should-smart-me,13509,2008-05-02T05:56:00Z,Should smart men prefer the fiction of the past?,Tyler Cowen,12
+2008/05/markets-in-ever,13508,2008-05-02T06:19:00Z,"Markets in everything, Thorstein Veblen edition",Tyler Cowen,9
+2008/05/assorted-links,13507,2008-05-02T12:47:44Z,Assorted links,Tyler Cowen,3
+2008/05/carbon-tax-spla,13506,2008-05-02T15:56:52Z,Carbon tax splat,Tyler Cowen,9
+2008/05/an-interesting,13505,2008-05-03T06:20:00Z,An interesting view on bank regulation,Tyler Cowen,8
+2008/05/collier-on-the,13504,2008-05-03T07:05:00Z,Collier on the Food Crisis,Alex Tabarrok,20
+2008/05/who-owns-antiqu,13503,2008-05-03T15:17:00Z,Who Owns Antiquity?,Tyler Cowen,11
+2008/05/do-local-curren,13502,2008-05-04T06:18:00Z,Do local currencies do any good?,Tyler Cowen,9
+2008/05/economic-update,13501,2008-05-04T07:48:44Z,Economic update,Tyler Cowen,7
+2008/05/the-cowles-foun,13500,2008-05-04T11:31:00Z,The Cowles Foundation Monographs in Economics,Tyler Cowen,4
+2008/05/what-do-i-think,13499,2008-05-04T15:03:29Z,What do I think of the Cowles Commission?,Tyler Cowen,3
+2008/05/when-should-you,13498,2008-05-05T06:57:00Z,When should you take photographs?,Tyler Cowen,14
+2008/05/guesstimation-o,13497,2008-05-05T07:31:00Z,"Guesstimation, or The City in the Sky",Tyler Cowen,24
+2008/05/new-issue-of-ec,13496,2008-05-05T07:48:13Z,New issue of Econ Journal Watch,Tyler Cowen,7
+2008/05/indian-feel-goo,13495,2008-05-05T12:37:00Z,Two Indian success stories,Tyler Cowen,8
+2008/05/theorems,13494,2008-05-05T20:26:45Z,Theorems,Tyler Cowen,15
+2008/05/what-is-the-bes,13493,2008-05-06T06:40:00Z,What is the best country music?,Tyler Cowen,35
+2008/05/get-politically,13492,2008-05-06T07:10:00Z,Get politically uninvolved!,Alex Tabarrok,22
+2008/05/fragments-of-wi,13491,2008-05-06T09:30:36Z,Fragments of wisdom,Tyler Cowen,7
+2008/05/rappers-on-the,13490,2008-05-06T10:49:37Z,Rappers on *The Economist* magazine,Tyler Cowen,10
+2008/05/appeasing-the-g,13489,2008-05-06T13:03:23Z,Appeasing the Gods,Alex Tabarrok,8
+2008/05/assorted-link-1,13488,2008-05-06T19:00:41Z,Assorted links,Tyler Cowen,9
+2008/05/what-ive-been-r,13487,2008-05-07T06:14:00Z,What I've Been Reading,Tyler Cowen,4
+2008/05/a-public-choice,13486,2008-05-07T06:17:00Z,A Public Choice theory of Chinese food,Tyler Cowen,9
+2008/05/it-has-eloctrol,13485,2008-05-07T07:05:00Z,It has electrolytes!,Alex Tabarrok,6
+2008/05/does-the-cpi-un,13484,2008-05-07T10:46:47Z,Does the CPI understate inflation?,Tyler Cowen,20
+2008/05/in-case-you-had,13482,2008-05-07T16:14:50Z,In case you hadn't heard,Tyler Cowen,3
+2008/05/the-fermi-parad,13481,2008-05-08T06:40:00Z,The Fermi paradox revisited,Tyler Cowen,15
+2008/05/bryan-caplan-on,13480,2008-05-08T07:08:57Z,Bryan Caplan on the McCain/Clinton gas tax relief plan,Tyler Cowen,14
+2008/05/i-hate-perfume,13479,2008-05-08T12:59:00Z,I hate perfume,Tyler Cowen,11
+2008/05/russia-fact-of,13478,2008-05-08T13:31:58Z,Russia fact of the day,Tyler Cowen,4
+2008/05/assorted-link-2,13477,2008-05-08T18:02:00Z,Assorted links,Tyler Cowen,6
+2008/05/the-puzzles-of,13476,2008-05-09T07:04:00Z,Where do the kept women go?,Tyler Cowen,15
+2008/05/letter-to-the-n,13475,2008-05-09T07:43:00Z,Letter to the NEJM,Alex Tabarrok,10
+2008/05/the-man-who-lov,13474,2008-05-09T11:43:00Z,The Man Who Loved China,Tyler Cowen,2
+2008/05/what-are-the-be,13473,2008-05-09T15:23:59Z,What are the benefits of being full professor?,Tyler Cowen,13
+2008/05/department-of-u,13472,2008-05-10T06:10:00Z,Department of Uh-Oh,Tyler Cowen,1
+2008/05/the-best-senten,13471,2008-05-10T06:39:54Z,"The best sentence I read today, circa 6:36 a.m.",Tyler Cowen,4
+2008/05/ezra-klein-on-k,13470,2008-05-10T11:31:00Z,Ezra Klein on Kindle,Tyler Cowen,3
+2008/05/division-of-lab,13469,2008-05-10T16:50:00Z,Division of labor in the Babylonian Talmud,Tyler Cowen,4
+2008/05/its-not-just-tr,13468,2008-05-11T05:35:00Z,True beyond the shores of Harvard,Tyler Cowen,4
+2008/05/economists-who,13467,2008-05-11T06:29:00Z,Economists who have endorsed John McCain's economic plan,Tyler Cowen,18
+2008/05/why-arent-more,13466,2008-05-11T07:34:13Z,Why aren't more people going to college?,Tyler Cowen,26
+2008/05/as-a-child-pete,13465,2008-05-11T07:40:19Z,"""As a child, Peter Leeson was pirate-obsessed.""",Tyler Cowen,5
+2008/05/hail-emily-oste,13464,2008-05-12T06:44:00Z,Hail Emily Oster!,Tyler Cowen,10
+2008/05/the-post-americ,13463,2008-05-12T07:07:00Z,The Post-American World,Tyler Cowen,11
+2008/05/in-case-you-w-1,13462,2008-05-12T07:28:00Z,In case you were sleeping,Tyler Cowen,7
+2008/05/questions-for-l,13461,2008-05-12T11:33:25Z,Questions for liberals (and some libertarians),Tyler Cowen,21
+2008/05/hedge-funds-in,13460,2008-05-12T14:09:00Z,Hedge funds in everything,Tyler Cowen,4
+2008/05/does-the-high-o,13459,2008-05-13T05:47:00Z,Does the high oil price reflect a bubble?,Tyler Cowen,23
+2008/05/predictions-abo,13458,2008-05-13T06:39:26Z,Predictions about religion,Tyler Cowen,16
+2008/05/new-site-about,13457,2008-05-13T06:56:53Z,New site about prediction markets,Tyler Cowen,2
+2008/05/the-storm,13456,2008-05-13T07:30:00Z,The Storm,Alex Tabarrok,40
+2008/05/i-loved-this-qu,13455,2008-05-13T11:45:03Z,"I loved this question, and answer",Tyler Cowen,9
+2008/05/home-court-adva,13454,2008-05-13T13:50:00Z,Home court advantage in basketball,Tyler Cowen,16
+2008/05/the-100-best-ja,13453,2008-05-14T05:21:00Z,The 100 best jazz albums?,Tyler Cowen,15
+2008/05/claims-about-fo,13452,2008-05-14T06:16:00Z,Claims about food prices,Tyler Cowen,6
+2008/05/thoughts-to-pro,13451,2008-05-14T11:34:00Z,Is it patronizing theft to buy natural resources?,Tyler Cowen,19
+2008/05/does-the-simula,13450,2008-05-14T17:38:17Z,Does the simulation have an evil or indifferent designer?,Tyler Cowen,9
+2008/05/david-brooks-in,13449,2008-05-15T04:15:00Z,"David Brooks, in a nutshell?",Tyler Cowen,15
+2008/05/the-pixar-touch,13448,2008-05-15T05:04:00Z,The Pixar Touch,Tyler Cowen,2
+2008/05/new-assorted-li,13447,2008-05-15T09:31:32Z,New assorted links,Tyler Cowen,4
+2008/05/csi-on-trial,13446,2008-05-15T09:45:23Z,CSI on Trial,Alex Tabarrok,17
+2008/05/economicwomanco,13445,2008-05-15T12:17:00Z,Economicwoman.com,Tyler Cowen,3
+2008/05/brazil-facts-of,13444,2008-05-15T15:11:00Z,Brazil facts of the day,Tyler Cowen,15
+2008/05/retail-loyalty,13443,2008-05-16T04:11:00Z,Retail loyalty card programs,Tyler Cowen,24
+2008/05/bernankes-bubbl,13442,2008-05-16T12:14:37Z,Bernanke's bubble laboratory,Tyler Cowen,15
+2008/05/good-sense-on-f,13441,2008-05-16T12:33:29Z,Good sense on food prices,Tyler Cowen,2
+2008/05/wheat-prices-ar,13440,2008-05-16T15:03:36Z,Wheat Prices are Down,Alex Tabarrok,5
+2008/05/wuthering-heigh,13439,2008-05-16T17:06:00Z,Wuthering Heights,Tyler Cowen,4
+2008/05/no-this-is-neit,13438,2008-05-17T06:22:00Z,"No, this is neither Bryan Caplan nor Robin Hanson",Tyler Cowen,1
+2008/05/markets-in-ev-2,13437,2008-05-17T09:42:00Z,"Markets in everything, Japan edition",Tyler Cowen,2
+2008/05/hanson-on-bount,13436,2008-05-17T10:42:13Z,Hanson on Bounties,Alex Tabarrok,16
+2008/05/network-effect,13435,2008-05-18T05:28:00Z,Network Power,Tyler Cowen,8
+2008/05/links,13434,2008-05-18T06:21:00Z,Links,Tyler Cowen,12
+2008/05/local-bounties,13433,2008-05-18T09:49:18Z,Local Bounties,Alex Tabarrok,3
+2008/05/the-uncanny-val,13432,2008-05-18T13:23:00Z,The Uncanny Valley,Tyler Cowen,9
+2008/05/my-favorite-thi,13431,2008-05-19T05:39:00Z,"My favorite things Japan, cinema edition",Tyler Cowen,20
+2008/05/spot-the-contra,13430,2008-05-19T07:36:00Z,Spot the Contradiction,Alex Tabarrok,22
+2008/05/japan-impressio,13429,2008-05-19T13:38:00Z,Tokyo impressions,Tyler Cowen,10
+2008/05/why-do-ethicist,13428,2008-05-19T13:39:00Z,Why do ethicists write such long papers?,Tyler Cowen,20
+2008/05/outliers,13427,2008-05-19T20:37:58Z,Outliers,Tyler Cowen,7
+2008/05/the-afternoon-e,13426,2008-05-20T06:58:00Z,"The ""afternoon effect"" for artworks",Tyler Cowen,10
+2008/05/the-economics-1,13425,2008-05-20T08:49:00Z,The economics of vending machines,Tyler Cowen,24
+2008/05/economists-know,13424,2008-05-20T13:39:17Z,Economists Know the Price of Everything,Alex Tabarrok,11
+2008/05/had-i-mentioned,13423,2008-05-20T14:50:00Z,Had I mentioned...?,Tyler Cowen,18
+2008/05/how-happy-is-ic,13422,2008-05-21T06:15:00Z,How happy is Iceland?,Tyler Cowen,17
+2008/05/neat-business-c,13421,2008-05-21T07:31:29Z,Neat business card designs,Tyler Cowen,3
+2008/05/measuring-up,13420,2008-05-21T12:39:00Z,Measuring Up,Tyler Cowen,17
+2008/05/suzuki-house,13419,2008-05-21T16:57:00Z,Suzuki House,Tyler Cowen,6
+2008/05/the-secret-to-a,13418,2008-05-22T01:11:19Z,The secret to a happy marriage,Tyler Cowen,6
+2008/05/why-are-books-s,13417,2008-05-22T05:03:00Z,Why are books so outrageously expensive in Brazil?,Tyler Cowen,33
+2008/05/japanese-retail,13416,2008-05-22T05:17:00Z,Japanese retailing is more efficient than most people think,Tyler Cowen,11
+2008/05/not-from-the-on,13415,2008-05-22T08:41:18Z,Not From the Onion,Alex Tabarrok,1
+2008/05/taken-to-the-cl,13414,2008-05-22T12:29:21Z,"Taken to the Cleaners, Again",Alex Tabarrok,11
+2008/05/price-controls,13411,2008-05-22T16:32:00Z,Price controls by any other name,Tyler Cowen,16
+2008/05/how-to-find-new,13410,2008-05-23T05:26:00Z,How to find new books to read,Tyler Cowen,13
+2008/05/the-glasses-cle,13408,2008-05-23T09:11:00Z,The glasses-cleaning machine,Tyler Cowen,14
+2008/05/donald-c-lavoie,13407,2008-05-23T10:21:00Z,"Donald C, Lavoie, intellectual father of the econoblogosphere",Tyler Cowen,3
+2008/05/why-popcorn-cos,13406,2008-05-23T11:07:00Z,Why Popcorn Costs So Much at The Movies,Tyler Cowen,10
+2008/05/print-your-own,13405,2008-05-23T11:10:13Z,Print Your Own,Alex Tabarrok,6
+2008/05/assorted-link-4,13404,2008-05-23T19:02:16Z,Assorted links,Tyler Cowen,3
+2008/05/franco-purini-o,13403,2008-05-24T06:41:00Z,Franco Purini on Tokyo,Tyler Cowen,5
+2008/05/tuna-fish-query,13402,2008-05-24T10:03:00Z,Tuna fish query,Tyler Cowen,27
+2008/05/americans-drivi,13401,2008-05-25T00:03:19Z,Americans Driving Less,Alex Tabarrok,9
+2008/05/markets-in-ev-1,13400,2008-05-25T03:26:06Z,Markets in everything,Tyler Cowen,0
+2008/05/the-history-of,13399,2008-05-25T04:55:00Z,The history of Chinese food in Japan,Tyler Cowen,7
+2008/05/how-to-read-a-v,13398,2008-05-25T05:27:00Z,How to read a vita,Tyler Cowen,13
+2008/05/electing-judges,13397,2008-05-25T07:36:00Z,Electing Judges,Alex Tabarrok,15
+2008/05/growthology,13396,2008-05-25T16:59:00Z,Growthology,Tyler Cowen,1
+2008/05/my-favorite-t-1,13395,2008-05-26T05:26:00Z,"My favorite things Japan, literature edition",Tyler Cowen,11
+2008/05/the-ethanol-pro,13394,2008-05-26T08:23:00Z,The ethanol program is even worse than you think,Tyler Cowen,13
+2008/05/what-should-be,13393,2008-05-26T08:25:27Z,What should be an allowable non-profit?,Tyler Cowen,16
+2008/05/the-globalizati,13392,2008-05-26T14:39:00Z,The globalization of barbecue?,Tyler Cowen,9
+2008/05/podcast-with-ro,13391,2008-05-26T19:27:21Z,Podcast with Robin Hanson,Tyler Cowen,4
+2008/05/thousand-mile-s,13390,2008-05-27T00:45:00Z,Thousand Mile Song,Tyler Cowen,4
+2008/05/so-you-think-yo,13389,2008-05-27T07:33:00Z,So You Think You Can be President?  Revisited.,Alex Tabarrok,9
+2008/05/a-cowen-caplan,13388,2008-05-27T07:58:48Z,A Cowen-Caplan dialogue,Tyler Cowen,15
+2008/05/inner-economist,13387,2008-05-27T08:42:00Z,"Discover Your Inner Economist, paperback edition",Tyler Cowen,11
+2008/05/international-c,13386,2008-05-27T19:21:04Z,International capital movements,Tyler Cowen,7
+2008/05/japanese-coop-1,13385,2008-05-28T04:20:00Z,Japanese cooperation,Tyler Cowen,14
+2008/05/assorted-link-5,13384,2008-05-28T10:12:00Z,Assorted links,Tyler Cowen,4
+2008/05/questions-that,13383,2008-05-28T10:22:54Z,Questions that are rarely asked,Tyler Cowen,27
+2008/05/markets-in-ev-3,13382,2008-05-28T12:33:00Z,Markets in everything,Tyler Cowen,8
+2008/05/oil-for-blood,13381,2008-05-28T14:15:10Z,Oil for Blood,Alex Tabarrok,10
+2008/05/allocating-the,13380,2008-05-28T18:41:49Z,Allocating the Arctic,Tyler Cowen,7
+2008/05/how-do-markets,13378,2008-05-29T07:05:00Z,How do markets set the profit-maximizing level of air conditioning?,Tyler Cowen,28
+2008/05/the-education-e,13377,2008-05-29T07:25:00Z,The Education Transformation of China,Alex Tabarrok,16
+2008/05/assorted-link-3,13376,2008-05-29T12:34:00Z,Libertarian heresies,Tyler Cowen,22
+2008/05/horsemeat-sushi,13375,2008-05-29T16:01:00Z,Horsemeat sushi,Tyler Cowen,19
+2008/05/profile-of-larr,13374,2008-05-29T18:55:48Z,Profile of Larry Lessig,Tyler Cowen,12
+2008/05/complexity-theo,13373,2008-05-29T19:55:00Z,Complexity theory in economics,Tyler Cowen,5
+2008/05/department-of-n,13372,2008-05-30T07:14:00Z,Department of No Clue,Alex Tabarrok,15
+2008/05/free-banking-in,13371,2008-05-30T08:31:00Z,Free banking in Second Life,Tyler Cowen,11
+2008/05/who-should-be-b,13370,2008-05-30T09:35:00Z,Who should be bounced from The Great Books series?,Tyler Cowen,24
+2008/05/what-works-in-d,13369,2008-05-30T10:01:21Z,What works in development economics?,Tyler Cowen,3
+2008/05/the-best-sent-1,13367,2008-05-30T12:57:00Z,The best sentence I read today,Tyler Cowen,8
+2008/05/the-war-against,13366,2008-05-31T04:05:00Z,The war against cultural diversity,Tyler Cowen,14
+2008/05/the-singularity,13365,2008-05-31T07:30:00Z,The Singularity is Near,Alex Tabarrok,21
+2008/05/markets-in-ev-4,13364,2008-05-31T08:46:46Z,"Markets in everything, Yugoslavia edition",Tyler Cowen,2
+2008/05/why-did-they-bu,13363,2008-05-31T12:22:00Z,Why did they build expensive medieval churches?,Tyler Cowen,33
+2008/06/the-best-beef-i,13362,2008-06-01T06:12:00Z,The best beef in the world?,Tyler Cowen,19
+2008/06/my-favorite-thi,13361,2008-06-01T06:18:00Z,"My favorite things Japan, classical music edition",Tyler Cowen,7
+2008/06/the-culture-tha,13360,2008-06-01T14:44:00Z,The culture that is Japanese,Tyler Cowen,8
+2008/06/advice-for-visi,13359,2008-06-02T06:19:00Z,Advice for visiting a developing country,Tyler Cowen,31
+2008/06/the-economics-1,13358,2008-06-02T07:57:00Z,The Economics of Sawdust,Alex Tabarrok,27
+2008/06/ebook-sales-are,13357,2008-06-02T08:45:00Z,eBook sales are way up,Tyler Cowen,23
+2008/06/helicopter-drop,13356,2008-06-02T11:07:22Z,Helicopter drop,Tyler Cowen,6
+2008/06/what-your-funer,13355,2008-06-02T15:20:00Z,What your funeral music says about you,Tyler Cowen,24
+2008/06/assorted-links,13354,2008-06-02T17:59:43Z,Assorted links,Tyler Cowen,10
+2008/06/michael-stack-a,13353,2008-06-03T05:17:00Z,"Michael Stack, a loyal MR reader, asks",Tyler Cowen,15
+2008/06/hegel-or-depart,13352,2008-06-03T06:51:00Z,"Hegel, or Department of Yikes",Tyler Cowen,11
+2008/06/does-fast-food,13351,2008-06-03T09:21:29Z,Does fast food really make us fat?,Tyler Cowen,24
+2008/06/markets-in-ever,13350,2008-06-03T13:45:00Z,"Markets in everything, Japanese edition",Tyler Cowen,5
+2008/06/the-research-va,13349,2008-06-03T18:22:57Z,The research value of virtual worlds,Tyler Cowen,4
+2008/06/cap-and-trade-v,13348,2008-06-04T03:09:00Z,Cap and trade vs. carbon tax,Tyler Cowen,12
+2008/06/sentences-to-po,13347,2008-06-04T04:13:31Z,Sentences to ponder,Tyler Cowen,5
+2008/06/norman-borlaug,13346,2008-06-04T07:30:00Z,Norman Borlaug on the Food Crisis,Alex Tabarrok,43
+2008/06/japanese-gadget,13345,2008-06-04T10:40:00Z,Japanese gadget of the day,Tyler Cowen,10
+2008/06/where-pretty-li,13344,2008-06-04T12:26:00Z,Where Pretty Lies Perish,Tyler Cowen,70
+2008/06/cap-and-trade-1,13343,2008-06-04T18:18:48Z,Cap and trade vs. carbon taxes,Tyler Cowen,13
+2008/06/reader-request,13342,2008-06-04T19:07:00Z,Reader request for recent jazz CDs,Tyler Cowen,18
+2008/06/public-vs-priva,13340,2008-06-05T03:45:00Z,Public vs. private schools,Tyler Cowen,55
+2008/06/should-harvard,13339,2008-06-05T06:52:00Z,Should Harvard continue to accumulate an endowment?,Tyler Cowen,14
+2008/06/markets-in-ev-1,13338,2008-06-05T07:30:00Z,Markets in Everything: Pay to Stay,Alex Tabarrok,22
+2008/06/ross-douthat-de,13337,2008-06-05T13:33:00Z,Ross Douthat defines conservatism,Tyler Cowen,19
+2008/06/what-ive-been-r,13336,2008-06-05T17:14:00Z,What I've Been Reading,Tyler Cowen,1
+2008/06/notsneaky-on-re,13335,2008-06-06T06:34:00Z,NotSneaky on remittances,Tyler Cowen,11
+2008/06/the-incentives,13334,2008-06-06T07:14:00Z,The incentives for violence in hockey,Tyler Cowen,18
+2008/06/time-travel-bac,13333,2008-06-06T11:44:00Z,Time travel back to 1000 A.D.: Survival tips,Tyler Cowen,201
+2008/06/kudos-to-krugma,13332,2008-06-06T13:47:25Z,Kudos to Krugman,Alex Tabarrok,14
+2008/06/whats-wrong-wit,13331,2008-06-07T07:12:43Z,"""What's Wrong With You?""",Tyler Cowen,8
+2008/06/assorted-link-1,13330,2008-06-07T07:25:00Z,Assorted links,Tyler Cowen,8
+2008/06/why-oh-why-cant,13329,2008-06-07T10:49:00Z,Why oh why can't we have a better press corp?,Tyler Cowen,7
+2008/06/the-carbon-foot,13328,2008-06-07T14:57:00Z,The carbon footprint of food,Tyler Cowen,23
+2008/06/this-show-must,13327,2008-06-08T07:07:00Z,This Global Show Must Go On,Tyler Cowen,19
+2008/06/markets-in-ev-2,13326,2008-06-08T10:35:06Z,Markets in everything,Tyler Cowen,7
+2008/06/the-dumbing-dow,13325,2008-06-08T14:55:48Z,The dumbing down of Borders,Tyler Cowen,16
+2008/06/hail-will-wilki,13324,2008-06-09T05:40:00Z,Hail Will Wilkinson!,Tyler Cowen,7
+2008/06/transparency,13323,2008-06-09T06:22:00Z,Transparency,Tyler Cowen,3
+2008/06/the-wisdom-of-w,13322,2008-06-09T07:30:00Z,The Wisdom of Whores,Alex Tabarrok,17
+2008/06/how-long-should,13321,2008-06-09T13:53:00Z,How long should you wait for an elevator?,Tyler Cowen,22
+2008/06/buffetts-big-be,13320,2008-06-09T14:39:20Z,Buffett's Big Bet,Alex Tabarrok,22
+2008/06/what-ive-been-1,13319,2008-06-10T06:16:00Z,What I've Been Reading,Tyler Cowen,6
+2008/06/where-is-inequa,13318,2008-06-10T06:59:00Z,Where is inequality greater?,Tyler Cowen,33
+2008/06/food-fight,13317,2008-06-10T07:30:00Z,Food Fight,Alex Tabarrok,42
+2008/06/assorted-link-2,13316,2008-06-10T12:44:00Z,Assorted links,Tyler Cowen,6
+2008/06/traffic-why-we,13315,2008-06-10T14:21:00Z,Traffic: Why We Drive the Way We Do,Tyler Cowen,19
+2008/06/rodrik-on-forei,13314,2008-06-11T06:15:00Z,Rodrik on Foreigners,Alex Tabarrok,13
+2008/06/why-do-people-o,13313,2008-06-11T06:56:54Z,Why do people oppose globalization?,Tyler Cowen,31
+2008/06/markets-in-ev-3,13311,2008-06-11T09:39:49Z,"Markets in everything, Japanese edition",Tyler Cowen,1
+2008/06/the-awesome-chr,13310,2008-06-11T12:59:00Z,"Chris Scoggins, marginalist",Tyler Cowen,26
+2008/06/when-worlds-col,13309,2008-06-11T16:35:20Z,When worlds collide,Tyler Cowen,14
+2008/06/how-the-militar,13308,2008-06-12T07:10:00Z,How the military subsidizes is subsidized by private industry,Alex Tabarrok,12
+2008/06/the-roots-of-st,13307,2008-06-12T07:34:00Z,The roots of sticky prices,Tyler Cowen,11
+2008/06/the-citadel,13306,2008-06-12T09:33:00Z,"The Citadel, or development through tourism",Tyler Cowen,3
+2008/06/questions-which,13305,2008-06-12T12:48:00Z,How good can financial regulation become?,Tyler Cowen,9
+2008/06/which-candidate,13304,2008-06-12T14:41:35Z,Which candidate would Derek Parfit prefer?,Tyler Cowen,9
+2008/06/becker-spence-p,13303,2008-06-12T15:39:35Z,"Becker, Spence, Phelps, and Scholes",Tyler Cowen,3
+2008/06/is-the-nba-fixe,13302,2008-06-13T05:55:00Z,Is the NBA fixed?,Tyler Cowen,9
+2008/06/why-entertainme,13301,2008-06-13T07:14:12Z,Why *Entertainment Weekly* rules the world,Tyler Cowen,7
+2008/06/your-favorite-t,13300,2008-06-13T10:36:30Z,Your Favorite Things China?,Alex Tabarrok,26
+2008/06/krugman-gets-a,13299,2008-06-13T12:31:54Z,Krugman gets a Rotten Tomato,Alex Tabarrok,59
+2008/06/focal-points,13298,2008-06-13T17:38:00Z,Focal points,Tyler Cowen,3
+2008/06/what-ive-been-2,13297,2008-06-14T05:59:00Z,What I've been reading,Tyler Cowen,2
+2008/06/popcorn-fact-of,13296,2008-06-14T07:20:33Z,Popcorn fact of the day,Tyler Cowen,4
+2008/06/life-among-the,13295,2008-06-14T07:56:00Z,Life among the liquidity constrained,Tyler Cowen,12
+2008/06/my-talk-in-bost,13294,2008-06-14T17:06:11Z,My talk in Boston,Tyler Cowen,3
+2008/06/teaching,13293,2008-06-15T05:54:00Z,Teaching,Tyler Cowen,4
+2008/06/irish-thoughts,13292,2008-06-15T07:12:00Z,Irish thoughts,Tyler Cowen,24
+2008/06/google-bidding,13291,2008-06-15T14:58:00Z,Google bidding games - markets in everything?,Tyler Cowen,10
+2008/06/markets-in-ev-4,13290,2008-06-16T05:56:00Z,The War with Mexico,Tyler Cowen,9
+2008/06/overfeeding,13289,2008-06-16T06:27:00Z,Bottomfeeder,Tyler Cowen,7
+2008/06/who-are-the-agg,13288,2008-06-16T08:14:29Z,Who are the aggressive drivers?,Tyler Cowen,25
+2008/06/will-3-d-movies,13287,2008-06-16T13:40:21Z,Will 3-D movies succeed?,Tyler Cowen,29
+2008/06/what-to-read-on,13285,2008-06-16T14:11:20Z,What to read on a 28-hour plane trip,Tyler Cowen,12
+2008/06/as-goes-new-zea,13284,2008-06-17T06:50:50Z,"As goes New Zealand, so goes the world?",Tyler Cowen,6
+2008/06/the-decay-of-gr,13283,2008-06-17T07:01:30Z,The decay of gratitude,Tyler Cowen,4
+2008/06/china-op-ed-of,13282,2008-06-17T08:28:41Z,China Op-Ed of the day,Tyler Cowen,16
+2008/06/what-you-dont-k,13281,2008-06-17T10:18:00Z,What you don't know that you don't know,Tyler Cowen,11
+2008/06/best-economics,13280,2008-06-17T13:22:04Z,Best economics paper of 1958,Tyler Cowen,7
+2008/06/assorted-link-3,13279,2008-06-17T14:37:00Z,Assorted links,Tyler Cowen,9
+2008/06/very-good-sente,13278,2008-06-17T16:40:53Z,Very good sentences,Tyler Cowen,21
+2008/06/the-environment,13277,2008-06-18T06:57:00Z,The environmental cost of flying,Tyler Cowen,12
+2008/06/the-one-hundred,13276,2008-06-18T08:35:31Z,The one hundred item challenge,Tyler Cowen,15
+2008/06/o-economista-qu,13275,2008-06-18T09:49:00Z,O Economista Que Ha Em Si,Tyler Cowen,10
+2008/06/who-is-the-happ,13274,2008-06-18T10:17:17Z,Who is the happiest-looking economist?,Tyler Cowen,13
+2008/06/the-price-of-ev,13273,2008-06-18T13:59:00Z,The Price of Everything,Tyler Cowen,2
+2008/06/why-do-we-touch,13272,2008-06-18T21:45:00Z,Why do we touch our mouths so much?,Tyler Cowen,8
+2008/06/at-the-beijing,13271,2008-06-18T21:47:17Z,At the Beijing Airport,Alex Tabarrok,7
+2008/06/fly-to-tokyo-an,13270,2008-06-19T06:13:00Z,Fly to Japan and ease your environmental conscience,Tyler Cowen,4
+2008/06/who-is-the-grea,13269,2008-06-19T06:58:00Z,Who is the greatest modern-day thinker?,Tyler Cowen,31
+2008/06/size-matters,13268,2008-06-19T07:27:08Z,Size Matters,Alex Tabarrok,4
+2008/06/more-sex-is-saf,13267,2008-06-19T07:30:00Z,More Sex is Safer Sex,Alex Tabarrok,19
+2008/06/review-of-steve,13266,2008-06-19T12:15:33Z,Review of Stephen Marglin on economics and community,Tyler Cowen,11
+2008/06/podcast-of-my-c,13265,2008-06-19T14:20:00Z,Podcast of my cultural economics talk,Tyler Cowen,3
+2008/06/pay-for-it-radi,13264,2008-06-20T06:41:00Z,Pay For It: Radical Water Privatization for Poor Countries,Tyler Cowen,26
+2008/06/atmospheric-dis,13263,2008-06-20T07:18:00Z,Atmospheric Disturbances,Tyler Cowen,6
+2008/06/high-commodity,13262,2008-06-20T08:22:15Z,High commodity prices,Tyler Cowen,6
+2008/06/chinas-silver-l,13261,2008-06-20T10:20:19Z,China's Silver Lining,Alex Tabarrok,9
+2008/06/assorted-link-4,13260,2008-06-20T15:30:00Z,Assorted links,Tyler Cowen,5
+2008/06/is-microfinance,13259,2008-06-21T06:55:00Z,Is microfinance the new subprime?,Tyler Cowen,11
+2008/06/first-stop-in-t,13258,2008-06-21T07:46:48Z,First Stop in the New World,Tyler Cowen,10
+2008/06/what-does-campa,13257,2008-06-21T10:59:03Z,What does campaign finance do?,Tyler Cowen,36
+2008/06/wh-auden-on-ban,13256,2008-06-21T21:04:00Z,W.H. Auden on banking,Tyler Cowen,1
+2008/06/markets-in-ev-5,13255,2008-06-22T06:21:00Z,Markets in everything: lives for sale,Tyler Cowen,4
+2008/06/the-culture-t-1,13254,2008-06-22T06:51:00Z,The culture that is Dutch,Tyler Cowen,7
+2008/06/the-king-monopo,13253,2008-06-22T07:44:53Z,The King Monopolist,Alex Tabarrok,9
+2008/06/mongol,13252,2008-06-22T14:35:38Z,Mongol,Tyler Cowen,7
+2008/06/where-are-ameri,13251,2008-06-22T22:59:44Z,Where abroad do the most American citizens get arrested?,Tyler Cowen,8
+2008/06/china-fact-of-t,13250,2008-06-23T00:00:45Z,China Fact of the Day,Alex Tabarrok,6
+2008/06/how-much-has-gl,13249,2008-06-23T06:19:00Z,How much has globalization helped U.S. wine drinkers?,Tyler Cowen,8
+2008/06/so-there-and-bl,13248,2008-06-23T07:12:00Z,Tyler Cowen on Bloggingheads.tv,Tyler Cowen,12
+2008/06/katrina-lessons,13247,2008-06-23T09:48:29Z,Katrina lessons for Iowa,Tyler Cowen,8
+2008/06/assorted-link-5,13246,2008-06-23T13:18:00Z,Assorted links,Tyler Cowen,6
+2008/06/why-do-lefties,13245,2008-06-23T14:50:47Z,Why do lefties dominate Presidential politics?,Tyler Cowen,21
+2008/06/markets-in-ev-7,13244,2008-06-24T05:51:00Z,"Markets in everything, Ukrainian restaurant edition",Tyler Cowen,3
+2008/06/kevin-hassett-o,13243,2008-06-24T06:53:00Z,Kevin Hassett on whether NBA refs are crooked,Tyler Cowen,7
+2008/06/what-if-the-shy,13242,2008-06-24T07:13:00Z,What if the shyness drug boosts confidence?,Tyler Cowen,19
+2008/06/chinasyria-fact,13241,2008-06-24T08:18:45Z,China/Syria Fact of the Day,Alex Tabarrok,15
+2008/06/the-law-and-eco,13240,2008-06-24T13:08:00Z,The law and economics of surfing,Tyler Cowen,6
+2008/06/is-there-anythi,13239,2008-06-24T16:12:57Z,Is there anything new to say about Barack Obama?,Tyler Cowen,49
+2008/06/markets-in-ev-6,13238,2008-06-25T06:16:00Z,"Markets in everything, Japan edition (again)",Tyler Cowen,1
+2008/06/the-power-of-be,13237,2008-06-25T07:48:56Z,"The power of ""because""",Tyler Cowen,14
+2008/06/my-favorite-son,13236,2008-06-25T07:56:45Z,My favorite song,Tyler Cowen,13
+2008/06/exasperating-pa,13235,2008-06-25T12:35:27Z,Arnold Kling is exasperating Paul Krugman,Tyler Cowen,18
+2008/06/will-mankind-su,13234,2008-06-25T13:20:28Z,Will mankind survive the death of the sun?,Tyler Cowen,22
+2008/06/obamas-ipod,13233,2008-06-25T15:37:46Z,Obama's iPod,Tyler Cowen,29
+2008/06/grand-new-party,13232,2008-06-26T06:34:00Z,Grand New Party,Tyler Cowen,18
+2008/06/assorted-link-6,13231,2008-06-26T07:41:00Z,Assorted links,Tyler Cowen,5
+2008/06/rss-queries,13230,2008-06-26T07:43:00Z,RSS queries,Tyler Cowen,42
+2008/06/leonid-hurwicz,13229,2008-06-26T08:04:29Z,Leonid Hurwicz passes away at 90,Tyler Cowen,5
+2008/06/bryan-caplan-re,13228,2008-06-26T12:11:00Z,"Bryan Caplan, REPENT YOUR LOVE FOR THOMAS REID!",Tyler Cowen,16
+2008/06/x-prize-news,13227,2008-06-26T13:07:22Z,X Prize News,Alex Tabarrok,3
+2008/06/lots-of-economi,13226,2008-06-26T16:15:51Z,Lots of economic superstars on this blog,Tyler Cowen,11
+2008/06/oil-splat,13225,2008-06-27T06:50:00Z,Oil splat,Tyler Cowen,16
+2008/06/why-you-should,13224,2008-06-27T07:43:00Z,Why you should throw books out,Tyler Cowen,21
+2008/06/oil-and-the-fut,13223,2008-06-27T08:54:33Z,Oil and the Future,Alex Tabarrok,26
+2008/06/assorted-link-7,13222,2008-06-27T12:31:00Z,Assorted links,Tyler Cowen,12
+2008/06/wall-e,13221,2008-06-27T20:40:53Z,WALL-E,Tyler Cowen,43
+2008/06/how-to-bargain,13220,2008-06-28T06:47:00Z,How to bargain with aliens,Tyler Cowen,15
+2008/06/the-best-senten,13219,2008-06-28T07:21:21Z,The best sentence I read yesterday,Tyler Cowen,4
+2008/06/loanwords,13218,2008-06-28T08:54:03Z,Loanwords,Alex Tabarrok,41
+2008/06/ching-ching-des,13217,2008-06-29T06:42:35Z,Ching Ching Desserts,Alex Tabarrok,5
+2008/06/more-on-specula,13216,2008-06-29T07:03:37Z,More on speculation,Tyler Cowen,13
+2008/06/can-past-nuclea,13215,2008-06-29T07:18:00Z,Can past nuclear explosions advance art history?,Tyler Cowen,11
+2008/06/saudi-arabia-fa,13214,2008-06-29T07:57:02Z,Saudi Arabia fact of the day,Tyler Cowen,10
+2008/06/what-determines,13213,2008-06-29T16:17:16Z,What determines fertility?,Tyler Cowen,20
+2008/06/with-oil-at-140,13212,2008-06-30T06:18:00Z,"With oil at $140 a barrel, can you still love Julian Simon?",Tyler Cowen,35
+2008/06/markets-in-ev-8,13211,2008-06-30T08:09:45Z,"Markets in everything, cultural diplomacy edition",Tyler Cowen,7
+2008/06/very-good-sen-1,13210,2008-06-30T12:54:00Z,Very good sentences,Tyler Cowen,8
+2008/06/ebay-ordered-to,13209,2008-06-30T15:42:26Z,"""eBay ordered to pay damages in sale of fake goods""",Tyler Cowen,14
+2008/06/the-history-of,13208,2008-06-30T21:04:13Z,The history of America since 1980,Tyler Cowen,24
+2008/06/04-of-gdp,13207,2008-06-30T21:14:50Z,0.4% of gdp,Tyler Cowen,8
+2008/07/a-biological-mo,13206,2008-07-01T07:05:00Z,A Biological Model of Unions,Tyler Cowen,6
+2008/07/which-books-to,13205,2008-07-01T07:34:00Z,Which books to take to Africa?,Tyler Cowen,48
+2008/07/assorted-links,13204,2008-07-01T10:56:00Z,Assorted links,Tyler Cowen,6
+2008/07/new-york-talk-t,13203,2008-07-01T13:04:00Z,"New York City talk, Thursday night",Tyler Cowen,4
+2008/07/china-markets-i,13202,2008-07-01T14:19:00Z,China markets in everything fact of the day,Tyler Cowen,3
+2008/07/medieval-cities,13201,2008-07-02T05:17:00Z,Medieval cities: Europe vs. the Arabic world,Tyler Cowen,13
+2008/07/the-new-walmart,13200,2008-07-02T06:02:00Z,The new Walmart [sic] logo,Tyler Cowen,26
+2008/07/authoritarian-r,13199,2008-07-02T07:15:00Z,Authoritarian Regimes,Alex Tabarrok,33
+2008/07/will-sanctions,13198,2008-07-02T07:56:04Z,Will sanctions on the paper trade stop Zimbabwe?,Tyler Cowen,12
+2008/07/there-are-now-2,13196,2008-07-02T14:02:00Z,There are now 29 chess players rated over 2700,Tyler Cowen,10
+2008/07/the-eleven-best,13195,2008-07-02T17:44:16Z,The eleven best foods you aren't eating,Tyler Cowen,14
+2008/07/has-the-long-ta,13194,2008-07-03T07:18:00Z,"Has ""The Long Tail"" been refuted?",Tyler Cowen,7
+2008/07/why-chinese-pol,13193,2008-07-03T07:45:00Z,Why Chinese pollution is such a tough problem,Tyler Cowen,7
+2008/07/the-male-and-fe,13192,2008-07-03T08:35:16Z,The male and female privilege checklists,Tyler Cowen,26
+2008/07/why-not,13191,2008-07-03T10:03:25Z,Why Not?,Tyler Cowen,4
+2008/07/detroit-fact-of,13190,2008-07-03T15:37:32Z,Detroit fact of the day,Tyler Cowen,17
+2008/07/what-ive-been-r,13189,2008-07-04T06:19:00Z,What I've Been Reading,Tyler Cowen,3
+2008/07/how-much-do-bio,13188,2008-07-04T08:46:30Z,How much do biofuels drive up food prices?,Tyler Cowen,16
+2008/07/mental-activity,13187,2008-07-04T09:42:00Z,Mental activity halts some of your self-deception and hypocrisy,Tyler Cowen,7
+2008/07/the-secrets-of,13186,2008-07-04T15:34:00Z,"The secrets of *Lost*, revealed",Tyler Cowen,11
+2008/07/markets-in-ever,13185,2008-07-04T21:47:06Z,Markets in everything?,Tyler Cowen,3
+2008/07/how-are-wines-a,13184,2008-07-05T07:36:00Z,How are wines arranged in the store?,Tyler Cowen,8
+2008/07/sentences-to-po,13183,2008-07-05T07:40:00Z,Sentences to ponder,Tyler Cowen,11
+2008/07/the-new-palgrav,13182,2008-07-05T08:52:00Z,The New Palgrave Dictionary of Economics,Tyler Cowen,3
+2008/07/the-gridlock-ec,13181,2008-07-06T06:55:00Z,The Gridlock Economy,Tyler Cowen,20
+2008/07/very-excellent,13180,2008-07-06T07:15:10Z,Very excellent sentences,Tyler Cowen,8
+2008/07/squib,13179,2008-07-06T12:13:50Z,Squib,Tyler Cowen,13
+2008/07/free-riding,13178,2008-07-07T06:27:00Z,Free Riding,Tyler Cowen,9
+2008/07/how-to-bargain,13177,2008-07-07T07:08:00Z,Bargaining with your roommates,Tyler Cowen,33
+2008/07/stoking-the-fir,13176,2008-07-07T07:23:35Z,Stoking the fires,Tyler Cowen,2
+2008/07/robin-hanson-an,13175,2008-07-07T10:43:25Z,Robin Hanson and Will Wilkinson,Tyler Cowen,3
+2008/07/evidence-of-abs,13174,2008-07-07T12:37:35Z,Evidence of Absence,Alex Tabarrok,14
+2008/07/statement-of-30,13173,2008-07-07T16:49:26Z,Statement of 300 economists supporting John McCain,Tyler Cowen,25
+2008/07/the-young-and-s,13172,2008-07-08T06:28:00Z,The young and super-wealthy go to therapy,Tyler Cowen,3
+2008/07/onion-futures,13171,2008-07-08T07:14:00Z,Onion Futures,Alex Tabarrok,17
+2008/07/assorted-link-1,13169,2008-07-08T09:32:25Z,Assorted links,Tyler Cowen,8
+2008/07/what-is-mystery,13168,2008-07-08T13:32:29Z,What is mystery ingredient X?,Tyler Cowen,19
+2008/07/should-you-buy,13167,2008-07-08T13:38:42Z,Should you buy a used car to be carbon-friendly?,Tyler Cowen,19
+2008/07/markets-in-ev-1,13165,2008-07-09T06:58:00Z,Markets in *everything*,Tyler Cowen,5
+2008/07/way-station,13164,2008-07-09T06:59:00Z,I don't know how to title this post,Tyler Cowen,28
+2008/07/a-girl-named-fl,13163,2008-07-09T07:25:00Z,A Girl Named Florida,Alex Tabarrok,213
+2008/07/not-as-good-as,13162,2008-07-09T11:38:00Z,Competition for my ethnic dining guide,Tyler Cowen,4
+2008/07/china-fact-of-t,13161,2008-07-09T12:00:32Z,China fact of the day,Tyler Cowen,9
+2008/07/food-bleg,13160,2008-07-09T14:38:16Z,Food bleg,Tyler Cowen,10
+2008/07/assorted-link-2,13159,2008-07-09T23:26:00Z,Assorted links,Tyler Cowen,3
+2008/07/should-the-driv,13158,2008-07-10T06:40:00Z,Should the driving rules favor cars or bikers?,Tyler Cowen,43
+2008/07/geo-engineering,13157,2008-07-10T08:16:00Z,Geo-engineering to cure global warming?,Tyler Cowen,22
+2008/07/how-can-a-stuff,13156,2008-07-10T12:25:00Z,How can a stuffed shark be worth $12 million?,Tyler Cowen,10
+2008/07/stuffed-shark-r,13155,2008-07-10T16:02:27Z,Stuffed Shark review - the link,Tyler Cowen,2
+2008/07/supply-or-deman,13154,2008-07-10T16:36:00Z,Supply or demand?,Tyler Cowen,0
+2008/07/customer-only-b,13153,2008-07-11T05:18:00Z,"""Customer only"" bathrooms",Tyler Cowen,18
+2008/07/the-liberal-hou,13152,2008-07-11T06:31:00Z,The Liberal Hour,Tyler Cowen,8
+2008/07/all-tyler-all-t,13151,2008-07-11T07:10:00Z,"All Tyler, All the Time",Alex Tabarrok,10
+2008/07/china-fact-of-1,13150,2008-07-11T07:25:00Z,China Fact of the Day,Alex Tabarrok,13
+2008/07/seth-roberts-wr,13149,2008-07-11T12:54:00Z,Seth Roberts writes to me,Tyler Cowen,16
+2008/07/questions-which,13148,2008-07-12T06:16:00Z,Questions which are rarely asked,Tyler Cowen,35
+2008/07/markets-which-o,13147,2008-07-12T09:47:50Z,Markets which only look like an infinite regress,Tyler Cowen,5
+2008/07/sebastian-flyte,13146,2008-07-12T13:23:00Z,Sebastian Flyte rules,Tyler Cowen,15
+2008/07/what-if-the-can,13145,2008-07-12T19:17:56Z,What if the candidates pandered to economists?,Tyler Cowen,17
+2008/07/mr-fantastic,13144,2008-07-13T00:46:00Z,Mr Fantastic,Alex Tabarrok,5
+2008/07/hail-joseph-lan,13143,2008-07-13T06:52:00Z,Hail Joseph Lancaster!,Tyler Cowen,11
+2008/07/the-best-books,13142,2008-07-13T15:41:00Z,The best books with the worst titles,Tyler Cowen,35
+2008/07/parsing-paulson,13141,2008-07-14T00:39:32Z,Parsing Paulson,Tyler Cowen,6
+2008/07/who-wants-cryon,13140,2008-07-14T07:25:00Z,Who wants cryonics?,Tyler Cowen,30
+2008/07/taliban-v-coase,13139,2008-07-14T08:14:19Z,Taliban v. Coase,Alex Tabarrok,11
+2008/07/whatever-is-nee,13138,2008-07-14T09:18:58Z,"""Whatever is Needed""",Tyler Cowen,7
+2008/07/contrarian-thin,13137,2008-07-14T11:14:36Z,Contrarian thinking about the mortgage agencies,Tyler Cowen,12
+2008/07/hit-songs-are-g,13136,2008-07-14T16:54:40Z,Hit songs are getting wordier,Tyler Cowen,18
+2008/07/arthur-brooks-s,13135,2008-07-14T18:26:27Z,Arthur Brooks selected to be president of AEI,Tyler Cowen,2
+2008/07/some-simple-oug,13134,2008-07-15T06:56:00Z,Some simple Ricardian thoughts on the Helmsley bequest for dogs,Tyler Cowen,6
+2008/07/fannie-mae-fred,13133,2008-07-15T07:41:00Z,"Fannie Mae, Freddie Mac and the Peso Problem",Alex Tabarrok,12
+2008/07/dont-attack-the,13132,2008-07-15T09:31:00Z,Don't attack the shareholders,Tyler Cowen,6
+2008/07/assorted-link-3,13131,2008-07-15T13:54:00Z,Assorted links,Tyler Cowen,13
+2008/07/why-might-israe,13130,2008-07-15T20:48:19Z,Why might Israel attack Iran,Tyler Cowen,31
+2008/07/xxxxxxxxxxx,13129,2008-07-16T05:03:00Z,Should donors give to students rather than schools?,Tyler Cowen,9
+2008/07/what-should-gov,13128,2008-07-16T06:20:22Z,What should government do to stimulate the economy?,Tyler Cowen,36
+2008/07/robin-hanson-on,13127,2008-07-16T11:16:00Z,Robin Hanson on the belief in religion and government,Tyler Cowen,14
+2008/07/short-essays-by,13125,2008-07-16T14:55:00Z,Short essays by Angus Deaton,Tyler Cowen,2
+2008/07/hail-larry-summ,13124,2008-07-17T05:58:00Z,Larry Summers on the agencies,Tyler Cowen,8
+2008/07/do-not-buy-art,13123,2008-07-17T06:44:00Z,Do not buy art on cruise ships,Tyler Cowen,13
+2008/07/how-can-the-pri,13122,2008-07-17T07:09:28Z,How can the price of oil move so much in one day?,Tyler Cowen,18
+2008/07/spend-more-toda,13121,2008-07-17T07:20:00Z,Spend More Today,Alex Tabarrok,28
+2008/07/risk-free-no-lo,13120,2008-07-17T11:18:21Z,Risk Free No Longer,Alex Tabarrok,14
+2008/07/assorted-link-4,13119,2008-07-17T16:32:00Z,Assorted links,Tyler Cowen,6
+2008/07/in-defense-of-s,13118,2008-07-18T07:10:00Z,In Defense of Short-Selling,Alex Tabarrok,29
+2008/07/where-should-yo,13117,2008-07-18T07:13:48Z,Where should you cast your vote?,Tyler Cowen,10
+2008/07/trivial-but-neg,13116,2008-07-18T07:40:44Z,Trivial but neglected points,Tyler Cowen,6
+2008/07/tyrone-on-the-f,13115,2008-07-18T09:51:45Z,Tyrone on the fall in housing and asset prices,Tyler Cowen,25
+2008/07/beer-prices-vs,13114,2008-07-18T14:06:00Z,Beer prices vs. wine prices,Tyler Cowen,17
+2008/07/very-good-sente,13113,2008-07-18T14:56:18Z,Very good sentences,Tyler Cowen,6
+2008/07/nfl-player-iq-b,13112,2008-07-18T14:59:17Z,NFL Player IQ by Position Played,Alex Tabarrok,35
+2008/07/why-is-the-slow,13110,2008-07-19T09:51:00Z,Why is the slowdown not so bad,Tyler Cowen,7
+2008/07/markets-in-ev-2,13109,2008-07-19T19:17:24Z,Markets in everything: Gresham's Law inverted,Tyler Cowen,7
+2008/07/means-testing-f,13108,2008-07-20T07:22:00Z,Means testing for Medicare,Tyler Cowen,25
+2008/07/prediction-mark,13107,2008-07-20T11:36:00Z,"Prediction markets in everything, Brazilian soccer player edition",Tyler Cowen,8
+2008/07/assorted-link-5,13106,2008-07-20T22:11:00Z,Assorted links,Tyler Cowen,10
+2008/07/democrats-proud,13105,2008-07-21T07:41:00Z,Democrats Proudly Cut Medicare Benefits,Alex Tabarrok,32
+2008/07/more-evidence-a,13104,2008-07-21T10:55:00Z,More evidence against the lemons model,Tyler Cowen,12
+2008/07/what-ive-been-1,13103,2008-07-21T15:03:00Z,What I've Been Reading,Tyler Cowen,4
+2008/07/my-five-guiltie,13102,2008-07-21T20:09:00Z,My five guiltiest iTunes pleasures,Tyler Cowen,11
+2008/07/bad-news-good-n,13101,2008-07-22T07:05:00Z,"Bad News, Good News",Alex Tabarrok,10
+2008/07/health-savings,13100,2008-07-22T07:39:00Z,Health savings accounts,Tyler Cowen,15
+2008/07/happiness-inter,13099,2008-07-22T09:57:23Z,Happiness interview with Gretchen Rubin,Tyler Cowen,5
+2008/07/reading-the-oed,13098,2008-07-22T12:47:00Z,Reading the OED,Tyler Cowen,10
+2008/07/regulatory-arbi,13097,2008-07-22T14:43:00Z,Regulatory arbitrage,Tyler Cowen,10
+2008/07/more-on-means-t,13095,2008-07-23T07:47:30Z,Means testing by any other name,Tyler Cowen,22
+2008/07/my-talk-at-jane,13094,2008-07-23T07:49:00Z,My talk at Jane St. Capital,Tyler Cowen,17
+2008/07/the-eureka-hunt,13093,2008-07-23T13:38:00Z,The Eureka Hunt,Tyler Cowen,11
+2008/07/calorie-counts,13092,2008-07-23T15:08:00Z,Calorie counts on the menu,Tyler Cowen,13
+2008/07/group-theory-in,13091,2008-07-24T05:14:00Z,Group Theory in the Bedroom,Tyler Cowen,15
+2008/07/new-constitutio,13090,2008-07-24T07:34:00Z,New constitutional amendments?,Tyler Cowen,28
+2008/07/more-inflation,13089,2008-07-24T11:13:24Z,More Inflation,Alex Tabarrok,15
+2008/07/tyler-cowen-lec,13088,2008-07-24T12:45:00Z,Tyler Cowen lecturing on globalization and music,Tyler Cowen,3
+2008/07/immigration-and,13087,2008-07-24T13:06:00Z,Immigration and wages: the latest,Tyler Cowen,13
+2008/07/markets-in-ev-3,13086,2008-07-24T14:58:42Z,Markets in everything China fact of the day,Tyler Cowen,10
+2008/07/should-we-pay-d,13085,2008-07-25T05:19:00Z,Should we pay doctors to ignore patients?,Tyler Cowen,10
+2008/07/which-disciplin,13084,2008-07-25T07:25:02Z,Which disciplines are the most and least politically correct?,Tyler Cowen,44
+2008/07/which-prices-ar,13083,2008-07-25T08:03:00Z,Which prices are falling?,Tyler Cowen,8
+2008/07/assorted-link-6,13082,2008-07-25T12:43:00Z,Assorted links,Tyler Cowen,6
+2008/07/xxxxxxx,13080,2008-07-26T07:01:08Z,Move on - this isn't true here,Tyler Cowen,22
+2008/07/the-best-two-se,13079,2008-07-26T07:19:35Z,The best two sentences I read this morning,Tyler Cowen,5
+2008/07/play-jeopardy-a,13078,2008-07-26T14:45:00Z,Play *Jeopardy* at MarginalRevolution,Tyler Cowen,21
+2008/07/the-economics-1,13076,2008-07-27T02:56:00Z,The economics of newspapers,Tyler Cowen,5
+2008/07/why-dont-americ,13075,2008-07-27T04:38:00Z,Why don't Americans like foreign movies?,Tyler Cowen,23
+2008/07/c-a-sampling,13074,2008-07-27T13:16:00Z,"C, a sampling",Tyler Cowen,5
+2008/07/markets-in-ev-4,13073,2008-07-27T14:54:49Z,"Markets in everything, Japanese edition",Tyler Cowen,4
+2008/07/the-cost-of-mor,13071,2008-07-28T06:13:00Z,The cost of mortgage agency bailouts,Tyler Cowen,12
+2008/07/sherlock-holmes,13070,2008-07-28T06:58:35Z,Sherlock Holmes on prediction markets,Tyler Cowen,3
+2008/07/summers-vindica,13069,2008-07-28T07:44:00Z,Summers Vindicated (again),Alex Tabarrok,73
+2008/07/who-first-predi,13068,2008-07-28T17:04:57Z,Who first predicted the mortgage crisis?,Tyler Cowen,11
+2008/07/civil-society,13067,2008-07-28T23:40:34Z,Civil society,Tyler Cowen,4
+2008/07/are-books-overw,13066,2008-07-29T07:05:00Z,Are books overwritten?,Tyler Cowen,56
+2008/07/markets-in-ev-5,13065,2008-07-29T07:57:39Z,"""Markets"" in everything",Tyler Cowen,7
+2008/07/the-economics-2,13064,2008-07-29T11:32:00Z,The economics of vengeance,Tyler Cowen,6
+2008/07/artistic-disint,13063,2008-07-29T13:19:00Z,Artistic disintermediation,Tyler Cowen,7
+2008/07/why-isnt-asian,13061,2008-07-30T06:19:00Z,Why isn't Asian music more popular?,Tyler Cowen,22
+2008/07/markets-in-ev-6,13060,2008-07-30T07:17:00Z,"Markets in everything, the riches of Japan once again",Tyler Cowen,10
+2008/07/sentences-to-fe,13059,2008-07-30T08:11:11Z,Sentences to fear,Tyler Cowen,14
+2008/07/why-blogs-shoul,13058,2008-07-30T13:39:07Z,Why blogs should cover some topics randomly,Tyler Cowen,13
+2008/07/the-ancient-gre,13057,2008-07-30T14:18:06Z,The ancient Greek computational mechanism,Tyler Cowen,13
+2008/07/why-did-the-hmo,13055,2008-07-31T06:24:00Z,Why did the HMO revolution fail?,Tyler Cowen,26
+2008/07/david-r-henders,13054,2008-07-31T07:26:47Z,David R. Henderson asks,Tyler Cowen,15
+2008/07/john-cochrane-o,13053,2008-07-31T09:42:00Z,John Cochrane on the Milton Friedman protest letter,Tyler Cowen,37
+2008/07/getting-serious,13052,2008-07-31T13:36:00Z,Getting serious,Tyler Cowen,18
+2008/08/what-i-havent-b,13051,2008-08-01T06:48:57Z,What I Haven't Been Reading,Tyler Cowen,4
+2008/08/my-favorite-thi,13050,2008-08-01T06:58:00Z,My favorite things Ohio,Tyler Cowen,41
+2008/08/freedom-fries-u,13049,2008-08-01T07:10:00Z,Freedom Fries Under Attack,Alex Tabarrok,33
+2008/08/assorted-links,13048,2008-08-01T15:41:00Z,Assorted links,Tyler Cowen,13
+2008/08/the-language-ta,13047,2008-08-02T06:20:00Z,The language tax,Tyler Cowen,8
+2008/08/silly-questions,13046,2008-08-02T06:51:00Z,Silly questions to bug people with,Tyler Cowen,15
+2008/08/why-the-falling,13045,2008-08-02T13:44:20Z,Hypergamy is the word of the day.,Tyler Cowen,52
+2008/08/how-many-kindle,13044,2008-08-02T16:04:18Z,How many Kindles has Amazon sold?,Tyler Cowen,13
+2008/08/theory-of-moral,13043,2008-08-03T04:11:00Z,"Theory of Moral Sentiments, standing on one foot",Tyler Cowen,4
+2008/08/sometimes-i-fav,13042,2008-08-03T05:49:00Z,Sometimes I favor nationalization,Tyler Cowen,8
+2008/08/sentence-of-the,13041,2008-08-03T08:03:04Z,Sentence of the Day,Alex Tabarrok,4
+2008/08/aleksandr-solzh,13040,2008-08-03T19:41:54Z,Aleksandr Solzhenitsyn dies at 89,Tyler Cowen,10
+2008/08/liberty-fund,13039,2008-08-04T06:59:00Z,Cleveland,Tyler Cowen,7
+2008/08/the-blind-men-a,13038,2008-08-04T07:37:02Z,The blind men and the elephant?,Tyler Cowen,7
+2008/08/ramsey-rules,13037,2008-08-04T07:47:06Z,Ramsey Rules,Tyler Cowen,9
+2008/08/portrait-of-dav,13036,2008-08-04T12:16:00Z,Portrait of David Galenson,Tyler Cowen,12
+2008/08/wills-theorem,13035,2008-08-04T21:27:02Z,Will's theorem,Tyler Cowen,24
+2008/08/the-nature-of-a,13034,2008-08-05T05:49:00Z,The nature of ability bias,Tyler Cowen,6
+2008/08/the-power-of-op,13033,2008-08-05T06:58:00Z,The Power of Oprah to help Obama,Tyler Cowen,16
+2008/08/how-an-economis,13032,2008-08-05T07:05:00Z,How an Economist Thinks,Alex Tabarrok,34
+2008/08/scream-it-from,13031,2008-08-05T10:40:54Z,Scream it from the rooftops: happiness inequality is declining,Tyler Cowen,17
+2008/08/assorted-link-1,13030,2008-08-05T13:18:00Z,Assorted links,Tyler Cowen,13
+2008/08/a-readers-query,13029,2008-08-06T06:18:00Z,A reader's query about energy markets,Tyler Cowen,16
+2008/08/street-porter,13028,2008-08-06T07:17:00Z,The Street Porter and the Philosopher,Tyler Cowen,3
+2008/08/trade-offs,13027,2008-08-06T08:28:17Z,Trade-offs,Tyler Cowen,32
+2008/08/hillels-new-mr,13026,2008-08-06T11:28:14Z,Hillel's new MR-based song about publishing,Tyler Cowen,2
+2008/08/the-best-senten,13025,2008-08-06T12:43:00Z,The best sentence I read this morning,Tyler Cowen,3
+2008/08/are-lead-papers,13024,2008-08-07T06:09:00Z,Are lead papers in a journal of higher quality?,Tyler Cowen,3
+2008/08/the-most-obnoxi,13023,2008-08-07T07:21:00Z,The most obnoxious blogger in the world,Tyler Cowen,113
+2008/08/santiago-bleg,13022,2008-08-07T07:39:56Z,Santiago bleg,Tyler Cowen,15
+2008/08/feldstein-on-fi,13021,2008-08-07T08:58:08Z,Feldstein on Fiscal Policy,Alex Tabarrok,18
+2008/08/pure-signaling,13019,2008-08-07T13:15:00Z,Pure signaling,Tyler Cowen,7
+2008/08/assorted-link-2,13018,2008-08-07T16:55:00Z,Assorted links,Tyler Cowen,16
+2008/08/why-are-some-co,13017,2008-08-08T05:53:00Z,Why are some countries free and others not?,Tyler Cowen,15
+2008/08/trade-is-good,13016,2008-08-08T07:21:11Z,Trade is good: settle your lawsuit,Tyler Cowen,18
+2008/08/celebrity-and-p,13015,2008-08-08T09:24:51Z,Celebrity and politics,Tyler Cowen,7
+2008/08/google-street-v,13014,2008-08-08T13:01:00Z,Google Street View is not popular in Japan,Tyler Cowen,12
+2008/08/the-pledge-of-a,13013,2008-08-08T13:03:13Z,The Pledge of Allegiance,Alex Tabarrok,21
+2008/08/whats-the-oppos,13012,2008-08-08T17:17:44Z,What's the opposite of antitrust policy?,Tyler Cowen,9
+2008/08/markets-in-ever,13011,2008-08-08T17:21:15Z,Markets in everything,Tyler Cowen,3
+2008/08/regulation-and,13010,2008-08-09T06:46:00Z,Regulation and Distrust,Tyler Cowen,5
+2008/08/man-on-wire,13009,2008-08-09T07:15:00Z,Man on Wire,Tyler Cowen,4
+2008/08/for-eseade,13008,2008-08-09T11:56:35Z,For ESEADE,Tyler Cowen,3
+2008/08/good-quotations,13007,2008-08-09T13:54:42Z,Good quotations about India,Tyler Cowen,4
+2008/08/seven-days-in-t,13006,2008-08-10T05:10:00Z,Seven Days in the Art World,Tyler Cowen,2
+2008/08/topsy-turvy,13005,2008-08-10T07:01:00Z,Topsy-Turvy,Alex Tabarrok,4
+2008/08/which-states-ha,13004,2008-08-10T12:37:00Z,Which states have the highest carbon dioxide emissions?,Tyler Cowen,24
+2008/08/ceo-compensatio,13003,2008-08-11T06:37:00Z,CEO compensation: the latest results,Tyler Cowen,11
+2008/08/auto-buybacks-w,13002,2008-08-11T07:10:00Z,Auto buybacks backfire,Alex Tabarrok,13
+2008/08/how-much-is-a-p,13001,2008-08-11T07:20:43Z,How much is a professor subsidized?,Tyler Cowen,10
+2008/08/someone-once-as,13000,2008-08-11T12:59:00Z,Someone once asked me what I thought of Slavoj Zizek,Tyler Cowen,16
+2008/08/assorted-link-3,12999,2008-08-11T17:02:00Z,Assorted links,Tyler Cowen,5
+2008/08/please-solve-fo,12998,2008-08-12T04:04:00Z,Please solve for the equilibrium,Tyler Cowen,5
+2008/08/as-good-a-time,12997,2008-08-12T05:36:00Z,As good a time as any,Tyler Cowen,42
+2008/08/against-intelle,12996,2008-08-12T07:46:00Z,Against Intellectual Monopoly,Alex Tabarrok,25
+2008/08/what-are-the-be,12995,2008-08-12T13:28:00Z,What are the best games?,Tyler Cowen,26
+2008/08/my-favorite-t-1,12994,2008-08-13T05:48:00Z,My favorite things Chile,Tyler Cowen,18
+2008/08/the-median-vote,12993,2008-08-13T07:56:11Z,The Obama tax plan,Tyler Cowen,46
+2008/08/china-fact-of-t,12992,2008-08-13T09:13:18Z,China fact of the day,Tyler Cowen,3
+2008/08/bold-claims-abo,12991,2008-08-13T11:20:00Z,Bold claims about time asymmetry,Tyler Cowen,7
+2008/08/assorted-link-4,12990,2008-08-13T14:10:00Z,Assorted links,Tyler Cowen,12
+2008/08/the-flight-to-t,12989,2008-08-14T05:07:00Z,The new flight to the suburbs,Tyler Cowen,7
+2008/08/the-economics-o,12988,2008-08-14T06:58:00Z,The economics of tipping,Tyler Cowen,25
+2008/08/vending-machine,12987,2008-08-14T07:53:09Z,Vending machine markets in everything,Tyler Cowen,5
+2008/08/three-indicator,12986,2008-08-14T12:28:00Z,Three indicators of cultural success,Tyler Cowen,21
+2008/08/assorted-link-5,12985,2008-08-14T16:29:00Z,Assorted links,Tyler Cowen,10
+2008/08/a-reform-propos,12984,2008-08-15T04:26:00Z,A reform proposal for Zimbabwean inflation,Tyler Cowen,9
+2008/08/john-mccains-ta,12983,2008-08-15T05:54:00Z,John McCain's proposed tax hike,Tyler Cowen,10
+2008/08/designing-monop,12982,2008-08-15T07:46:00Z,Designing Monopoly,Alex Tabarrok,24
+2008/08/china-fact-of-1,12981,2008-08-15T13:14:25Z,China fact of the day,Tyler Cowen,14
+2008/08/nationalism-ver,12980,2008-08-15T14:27:46Z,Nationalism versus Peace,Alex Tabarrok,13
+2008/08/chile-impressio,12979,2008-08-16T06:34:00Z,Chile impressions,Tyler Cowen,8
+2008/08/why-does-india,12978,2008-08-16T06:43:00Z,Why does India win so few Olympic medals?,Tyler Cowen,53
+2008/08/good-sentences,12977,2008-08-16T18:00:22Z,Good sentences,Tyler Cowen,3
+2008/08/obama-insecurit,12976,2008-08-17T05:43:00Z,Obama insecurity,Tyler Cowen,51
+2008/08/us-fact-of-the,12975,2008-08-17T08:26:38Z,U.S. fact of the day,Tyler Cowen,12
+2008/08/portrait-of-nou,12974,2008-08-17T08:38:09Z,Portrait of Nouriel Roubini,Tyler Cowen,4
+2008/08/dsquared-asks-z,12973,2008-08-17T14:07:00Z,"DSquared asks, Zimbabwe listens",Tyler Cowen,3
+2008/08/tipping-is-hard,12972,2008-08-17T18:24:00Z,Tipping is hard,Tyler Cowen,10
+2008/08/the-power-of-co,12971,2008-08-18T03:38:00Z,"The power of competition, or should there by library fines?",Tyler Cowen,22
+2008/08/real-business-c,12970,2008-08-18T05:04:00Z,Real business cycle theory is not dead,Tyler Cowen,5
+2008/08/i-dirt,12969,2008-08-18T07:19:00Z,"I, Dirt",Alex Tabarrok,5
+2008/08/two-links-from,12968,2008-08-18T12:28:52Z,"Two links, from the Atacama desert",Tyler Cowen,17
+2008/08/markets-in-ev-1,12967,2008-08-18T15:33:00Z,Markets in everything,Tyler Cowen,11
+2008/08/fallacies-about,12966,2008-08-19T06:21:00Z,Fallacies about sovereign wealth funds,Tyler Cowen,1
+2008/08/why-is-lobster,12965,2008-08-19T06:36:00Z,Why is lobster getting cheaper?,Tyler Cowen,6
+2008/08/the-rule-of-law,12964,2008-08-19T09:07:15Z,"The rule of law, a quick primer from Argentina",Tyler Cowen,2
+2008/08/assorted-link-6,12963,2008-08-19T11:22:00Z,Assorted links,Tyler Cowen,4
+2008/08/milton-friedman,12962,2008-08-19T12:28:00Z,Milton Friedman is Responsible for Scarcity,Alex Tabarrok,30
+2008/08/two-more-links,12961,2008-08-19T16:43:00Z,Three more links from Atacama,Tyler Cowen,3
+2008/08/the-drink-ice-c,12960,2008-08-20T04:39:00Z,The drink-ice cube ratio,Tyler Cowen,19
+2008/08/different-ways,12959,2008-08-20T06:01:00Z,Different Ways to Know the Mind of God,Alex Tabarrok,9
+2008/08/request-for-req,12958,2008-08-20T09:30:00Z,Request for requests,Tyler Cowen,77
+2008/08/markets-in-ev-2,12957,2008-08-20T13:06:00Z,Markets in everything,Tyler Cowen,14
+2008/08/assorted-link-7,12956,2008-08-20T15:17:07Z,Assorted links,Tyler Cowen,8
+2008/08/eric-posner-is,12955,2008-08-20T17:16:38Z,Eric Posner is now blogging at The Volokh Conspiracy,Tyler Cowen,5
+2008/08/top-economic-mi,12954,2008-08-21T04:17:00Z,Top economic misconceptions of the lay people you wish you could correct?,Tyler Cowen,19
+2008/08/the-atacama-des,12953,2008-08-21T05:52:00Z,The Atacama desert,Tyler Cowen,5
+2008/08/why-oh-why-etc,12952,2008-08-21T09:19:34Z,"Why oh why, etc.",Tyler Cowen,8
+2008/08/the-worst-idea,12951,2008-08-21T11:07:42Z,The Worst Idea I have Heard Today,Alex Tabarrok,20
+2008/08/assorted-links1,12950,2008-08-21T13:08:00Z,Assorted links,Tyler Cowen,17
+2008/08/netherlands-fac,12949,2008-08-21T14:17:00Z,The culture that is Dutch,Tyler Cowen,11
+2008/08/reexamining-the,12948,2008-08-22T04:40:00Z,Reexamining the benefits of free trade,Tyler Cowen,5
+2008/08/do-self-help-bo,12947,2008-08-22T05:38:00Z,Do self-help books make us happier?,Tyler Cowen,6
+2008/08/assorted-link-8,12946,2008-08-22T07:46:00Z,Assorted links,Tyler Cowen,7
+2008/08/library-fines-p,12945,2008-08-22T11:47:27Z,"Library fines, part II",Tyler Cowen,13
+2008/08/go-mason,12944,2008-08-22T15:18:00Z,Go Mason!,Alex Tabarrok,9
+2008/08/walter-benjamin,12943,2008-08-23T05:25:00Z,Walter Benjamin's tips for writing,Tyler Cowen,16
+2008/08/joseph-biden,12942,2008-08-23T08:18:05Z,The economics of Joseph Biden,Tyler Cowen,13
+2008/08/rules-for-eatin,12941,2008-08-23T18:53:13Z,Rules for eating in Chilean restaurants,Tyler Cowen,3
+2008/08/the-wisdom-of-t,12940,2008-08-23T19:23:23Z,The wisdom of Tim Harford,Tyler Cowen,9
+2008/08/top-chef,12939,2008-08-24T04:21:00Z,Top Chef,Tyler Cowen,6
+2008/08/why-this-recess,12938,2008-08-24T07:31:00Z,Why this recession might last a while,Tyler Cowen,23
+2008/08/ways-that-sheep,12937,2008-08-24T16:57:00Z,Ways that sheep can die,Tyler Cowen,8
+2008/08/the-five-best-r,12936,2008-08-25T05:23:00Z,Are there reasons to be dogmatic?,Tyler Cowen,7
+2008/08/the-return-of-t,12935,2008-08-25T07:01:00Z,The Return of the Zombie,Alex Tabarrok,8
+2008/08/if-i-believed-i,12933,2008-08-25T10:01:00Z,"If I Believed in Austrian Business Cycle Theory, part II",Tyler Cowen,17
+2008/08/does-grandpa-ma,12932,2008-08-25T13:22:00Z,Does grandpa matter?,Tyler Cowen,7
+2008/08/markets-in-ev-3,12931,2008-08-25T13:30:09Z,Markets in Everything: Panhandling,Alex Tabarrok,13
+2008/08/randomized-nash,12930,2008-08-26T06:37:00Z,Another example of randomized Nash equilibrium,Tyler Cowen,7
+2008/08/the-new-chicago,12929,2008-08-26T07:03:00Z,"The new ""Chicago Boys""",Tyler Cowen,4
+2008/08/economic-philat,12928,2008-08-26T07:14:00Z,Economic Philately,Alex Tabarrok,1
+2008/08/very-good-sen-1,12927,2008-08-26T10:51:42Z,Very good sentences,Tyler Cowen,4
+2008/08/the-myth-in-pap,12926,2008-08-26T12:18:37Z,The Myth in Paperback,Alex Tabarrok,11
+2008/08/fake-following,12925,2008-08-26T17:13:00Z,"Zero-price Markets in everything: ""Fake following""",Tyler Cowen,4
+2008/08/the-best-two-pa,12924,2008-08-26T21:31:00Z,The best two paragraphs I read today,Tyler Cowen,32
+2008/08/the-return-of-p,12923,2008-08-27T05:07:00Z,The return of physiognomy,Tyler Cowen,5
+2008/08/moral-luck-and,12922,2008-08-27T06:35:00Z,Moral luck and Rawlsian biography,Tyler Cowen,5
+2008/08/which-body-part,12921,2008-08-27T06:48:00Z,Which body parts are sung about the most?,Tyler Cowen,16
+2008/08/assorted-link-9,12920,2008-08-27T12:33:00Z,Assorted links,Tyler Cowen,5
+2008/08/my-io-reading-1,12919,2008-08-27T13:43:42Z,My IO reading list,Tyler Cowen,6
+2008/08/markets-in-ev-4,12918,2008-08-27T18:04:08Z,Markets in everything,Tyler Cowen,3
+2008/08/kay-bailey-hutc,12917,2008-08-27T21:04:36Z,Kay Bailey Hutchison on economics,Tyler Cowen,16
+2008/08/the-case-for-bi,12916,2008-08-28T06:35:00Z,The Case for Big Government,Tyler Cowen,6
+2008/08/lowering-the-dr,12915,2008-08-28T06:59:00Z,Lowering the drinking age,Tyler Cowen,37
+2008/08/eating-local,12914,2008-08-28T11:31:00Z,Eating local,Tyler Cowen,17
+2008/08/what-is-worth-i,12913,2008-08-28T13:13:00Z,What is worth its weight in gold?,Tyler Cowen,17
+2008/08/the-roots-of-be,12912,2008-08-29T06:42:00Z,The roots of Beatlemania - egomania?,Tyler Cowen,2
+2008/08/mean-and-lowly,12911,2008-08-29T06:51:00Z,Mean and Lowly Things,Tyler Cowen,3
+2008/08/what-is-your-dr,12910,2008-08-29T08:01:41Z,What is your dream book?,Tyler Cowen,64
+2008/08/sarah-palin,12909,2008-08-29T09:04:15Z,Sarah Palin,Tyler Cowen,947
+2008/08/cowen-hanson-bl,12908,2008-08-29T13:10:26Z,Cowen-Hanson Bloggingheads topics,Tyler Cowen,16
+2008/08/voters-trust-ex,12907,2008-08-29T15:29:39Z,Voters trust good-looking extremists,Tyler Cowen,9
+2008/08/the-experience,12906,2008-08-29T16:56:13Z,The experience trap,Tyler Cowen,58
+2008/08/the-intergenera,12905,2008-08-30T07:25:00Z,The intergenerational transmission of IQ,Tyler Cowen,7
+2008/08/are-climate-mod,12904,2008-08-30T08:37:20Z,Are climate models like economics models?,Tyler Cowen,37
+2008/08/powerful-women,12903,2008-08-30T10:33:20Z,Powerful Women: Does Exposure Reduce Bias?,Alex Tabarrok,9
+2008/08/is-sarah-palin,12902,2008-08-30T13:37:00Z,Is Sarah Palin the female Ross Perot?,Tyler Cowen,67
+2008/08/the-ten-most-un,12901,2008-08-31T07:27:00Z,The ten most underrated science fiction movies,Tyler Cowen,43
+2008/08/what-is-sold-on,12900,2008-08-31T08:16:15Z,What is sold on Indian roads,Tyler Cowen,5
+2008/08/assorted-lin-10,12899,2008-08-31T11:57:00Z,Assorted links,Tyler Cowen,6
+2008/08/levee-calculati,12898,2008-08-31T12:32:51Z,Levee calculations,Tyler Cowen,15
+2008/09/my-favorite-thi,12897,2008-09-01T07:06:00Z,My Favorite Things Alaska,Tyler Cowen,18
+2008/09/the-minnesota-s,12896,2008-09-01T07:32:00Z,The Minnesota Somali autism puzzle,Tyler Cowen,20
+2008/09/sorry-people-i,12895,2008-09-01T15:00:19Z,"Sorry people, I can't resist",Tyler Cowen,68
+2008/09/assorted-links,12894,2008-09-01T18:23:00Z,Assorted links,Tyler Cowen,7
+2008/09/econometrics-of,12893,2008-09-01T19:22:49Z,Econometrics of Bigfoot and UFOs,Alex Tabarrok,8
+2008/09/dealing-with-da,12892,2008-09-02T06:10:00Z,Dealing with Darwin,Tyler Cowen,4
+2008/09/mirrors-as-a-me,12891,2008-09-02T06:50:00Z,Mirrors as a means of reducing (increasing?) bias,Tyler Cowen,5
+2008/09/good-money,12890,2008-09-02T07:44:00Z,Good Money,Alex Tabarrok,12
+2008/09/in-case-you-had,12889,2008-09-02T12:57:46Z,You can stop worrying,Tyler Cowen,19
+2008/09/questions-that,12888,2008-09-02T14:55:20Z,Questions that are rarely asked,Tyler Cowen,6
+2008/09/markets-in-self,12887,2008-09-02T15:29:23Z,"Markets in self-constraint, a continuing series",Tyler Cowen,17
+2008/09/nationalism,12886,2008-09-03T06:45:00Z,Nationalism,Alex Tabarrok,13
+2008/09/anglo-files,12885,2008-09-03T07:51:00Z,The Anglo Files,Tyler Cowen,19
+2008/09/tips-for-panhan,12884,2008-09-03T08:24:00Z,"Tips for panhandlers, from panhandlers",Tyler Cowen,26
+2008/09/the-economic-co,12883,2008-09-03T10:58:08Z,The economic consequences of unwed motherhood,Tyler Cowen,11
+2008/09/does-this-count,12882,2008-09-03T13:12:00Z,Does this count as an event study?,Tyler Cowen,2
+2008/09/assorted-link-1,12881,2008-09-03T14:46:00Z,Assorted links,Tyler Cowen,3
+2008/09/what-is-the-cla,12880,2008-09-03T18:42:55Z,What is the classic book of the 80s and 90s?,Tyler Cowen,41
+2008/09/my-im-chat-with,12879,2008-09-04T07:09:35Z,My IM chat with Ross Douthat,Tyler Cowen,11
+2008/09/on-decay,12878,2008-09-04T07:10:00Z,On decay,Tyler Cowen,3
+2008/09/the-economics-o,12877,2008-09-04T07:22:00Z,The economics of secession,Tyler Cowen,34
+2008/09/tabarrok-in-var,12876,2008-09-04T11:23:17Z,Tabarrok in Variety,Alex Tabarrok,5
+2008/09/my-im-dialogue,12875,2008-09-04T21:03:42Z,My IM dialogue with Ezra Klein,Tyler Cowen,4
+2008/09/drill-drill-dri,12874,2008-09-04T23:31:29Z,"Drill, drill, drill?: the economics of drilling",Tyler Cowen,36
+2008/09/silly-me,12873,2008-09-05T07:31:52Z,Silly me,Tyler Cowen,24
+2008/09/why-so-many-chu,12872,2008-09-05T07:43:00Z,Why so many churches in Las Vegas?,Tyler Cowen,20
+2008/09/assorted-link-2,12871,2008-09-05T13:37:00Z,Assorted links,Tyler Cowen,4
+2008/09/magnus-1,12870,2008-09-05T15:39:08Z,Magnus #1?,Tyler Cowen,17
+2008/09/hail-giacomo-po,12869,2008-09-05T17:03:29Z,Hail Giacomo Ponzetto!,Tyler Cowen,7
+2008/09/department-of-u,12868,2008-09-05T22:39:04Z,"Department of Uh-Oh, The End of the Mortgage Agencies",Tyler Cowen,14
+2008/09/do-economists-t,12867,2008-09-06T06:34:00Z,Do economists think TV is good for you?,Tyler Cowen,7
+2008/09/why-are-governo,12866,2008-09-06T07:34:00Z,Why are governors in small states so popular?,Tyler Cowen,16
+2008/09/is-this-a-susta,12865,2008-09-06T07:53:00Z,Is this a sustainable business model?,Tyler Cowen,6
+2008/09/rational-spelli,12864,2008-09-06T12:52:42Z,Rational Spelling,Alex Tabarrok,17
+2008/09/you-first,12863,2008-09-06T18:57:00Z,You first,Tyler Cowen,8
+2008/09/big-mac-attack,12862,2008-09-07T06:43:00Z,Big Mac Attack,Alex Tabarrok,11
+2008/09/what-ive-been-r,12861,2008-09-07T07:41:00Z,What I've been reading,Tyler Cowen,6
+2008/09/the-plan,12860,2008-09-07T08:17:32Z,Conservatorship for the mortgage agencies,Tyler Cowen,9
+2008/09/could-you-clari,12859,2008-09-07T13:53:00Z,What if we didn't bail out the creditors?,Tyler Cowen,24
+2008/09/worlds-biggest,12858,2008-09-07T19:40:37Z,World's biggest bail-out: update,Tyler Cowen,10
+2008/09/the-median-vote,12857,2008-09-07T22:09:14Z,The median voter theorem,Tyler Cowen,3
+2008/09/the-fall-season,12856,2008-09-08T04:07:00Z,The Fall Season,Tyler Cowen,8
+2008/09/alaskan-state-p,12855,2008-09-08T04:56:00Z,"Alaskan state politics, circa 1976",Tyler Cowen,8
+2008/09/the-paradox-of,12854,2008-09-08T11:10:36Z,The paradox of deleveraging,Tyler Cowen,13
+2008/09/china-incentive,12852,2008-09-08T13:21:41Z,China incentive of the day,Tyler Cowen,7
+2008/09/markets-in-ever,12851,2008-09-08T22:45:18Z,"Markets in everything, China edition",Tyler Cowen,3
+2008/09/sports-figures,12850,2008-09-09T06:55:59Z,Sports figures favor Republicans,Tyler Cowen,16
+2008/09/why-libertarian,12849,2008-09-09T07:41:00Z,Why Libertarians Should Vote for Obama (1),Alex Tabarrok,111
+2008/09/sentences-of-in,12848,2008-09-09T13:43:37Z,Sentences of interest,Tyler Cowen,4
+2008/09/insect-politics,12847,2008-09-09T17:54:42Z,Insect politics,Tyler Cowen,6
+2008/09/anathem,12846,2008-09-09T21:53:00Z,"Anathem, by Neil Stephenson",Tyler Cowen,13
+2008/09/ptax-hike-mccai,12845,2008-09-10T07:01:00Z,P(tax hike / McCain) = 0.74,Alex Tabarrok,11
+2008/09/the-benefits-of,12844,2008-09-10T07:08:00Z,The benefits of a winning sports team?,Tyler Cowen,16
+2008/09/brazil-fact-of,12843,2008-09-10T08:27:00Z,Brazil fact of the day,Tyler Cowen,4
+2008/09/assorted-link-3,12842,2008-09-10T10:57:00Z,Assorted links,Tyler Cowen,10
+2008/09/wal-mart-and-ob,12841,2008-09-10T13:15:00Z,Wal-Mart and obesity,Tyler Cowen,16
+2008/09/did-we-really-n,12840,2008-09-10T16:27:53Z,Did we *really* need that bail-out?,Tyler Cowen,47
+2008/09/glen-whitman-up,12839,2008-09-10T16:36:54Z,Glen Whitman update,Tyler Cowen,2
+2008/09/what-are-our-en,12838,2008-09-11T06:38:00Z,What are our personal obligations toward the environment?,Tyler Cowen,32
+2008/09/customer-relati,12837,2008-09-11T07:12:07Z,Customer relations,Tyler Cowen,11
+2008/09/new-rankings-of,12836,2008-09-11T10:44:51Z,New rankings of economics blogs,Tyler Cowen,11
+2008/09/sentences-to-po,12834,2008-09-11T12:04:07Z,Sentences to ponder,Tyler Cowen,6
+2008/09/katha-pollit-ha,12833,2008-09-11T14:20:58Z,Katha Pollit has some questions for Sarah Palin,Tyler Cowen,48
+2008/09/p-03,12832,2008-09-11T22:03:10Z,The economics of the two Koreas,Tyler Cowen,16
+2008/09/sentences-to-sc,12831,2008-09-11T22:12:39Z,Sentences to scare you,Tyler Cowen,8
+2008/09/id-and-evolutio,12830,2008-09-12T07:05:00Z,Intelligent Design and Evolution,Alex Tabarrok,58
+2008/09/sentence-of-the,12828,2008-09-12T07:39:00Z,Sentence of the Day,Alex Tabarrok,11
+2008/09/assorted-link-4,12827,2008-09-12T10:42:04Z,Assorted links,Tyler Cowen,15
+2008/09/will-the-inform,12826,2008-09-12T18:49:00Z,Will the informal sector drive third world growth?,Tyler Cowen,5
+2008/09/the-bottom-line,12825,2008-09-13T07:12:00Z,The bottom line,Tyler Cowen,28
+2008/09/can-you-trust-a,12824,2008-09-13T08:14:10Z,Can you trust a man who doesn't trust his wife?,Tyler Cowen,12
+2008/09/real-exchange-r,12822,2008-09-13T16:00:00Z,Growth and the real exchange rate,Tyler Cowen,4
+2008/09/response-to-my,12821,2008-09-14T06:50:00Z,Response to my Mother,Alex Tabarrok,21
+2008/09/what-was-the-pr,12820,2008-09-14T07:49:47Z,What was the problem with financial regulation?,Tyler Cowen,12
+2008/09/a-theory-of-the,12819,2008-09-14T15:37:00Z,A theory of question supply,Tyler Cowen,18
+2008/09/which-us-states,12818,2008-09-14T21:15:31Z,Which U.S. states are most populated by neurotics?,Tyler Cowen,8
+2008/09/i-dont-mean-to,12817,2008-09-14T21:43:40Z,"I don't mean to overwhelm you with posts, but...",Tyler Cowen,11
+2008/09/the-gorgon-in-t,12816,2008-09-15T03:08:00Z,The Gorgon in the room,Tyler Cowen,24
+2008/09/derivates-contr,12815,2008-09-15T04:58:00Z,Derivatives contracts are exempt from normal bankruptcy law,Tyler Cowen,7
+2008/09/the-worst-case,12814,2008-09-15T08:09:25Z,The worst case scenario?,Tyler Cowen,5
+2008/09/the-wisdom-of-b,12813,2008-09-15T08:58:36Z,The Wisdom of Bailouts,Alex Tabarrok,19
+2008/09/econ-journal-wa,12812,2008-09-15T12:23:00Z,Econ Journal Watch,Tyler Cowen,3
+2008/09/the-glass-steag,12811,2008-09-15T15:35:05Z,The Glass-Steagall Act: A History of Thought,Tyler Cowen,15
+2008/09/incentives-matt,12810,2008-09-15T22:43:18Z,Incentives matter,Tyler Cowen,8
+2008/09/chinese-wailing,12809,2008-09-16T07:29:51Z,"China wailing market of the day, a continuing series",Tyler Cowen,8
+2008/09/the-countercycl,12808,2008-09-16T08:08:31Z,"The countercyclical asset, a continuing series",Tyler Cowen,3
+2008/09/public-librarie,12807,2008-09-16T08:14:00Z,Public libraries for tools?,Tyler Cowen,25
+2008/09/dilberts-poll-o,12806,2008-09-16T10:56:06Z,Dilbert's poll of economists on Obama vs. McCain,Tyler Cowen,24
+2008/09/small-thoughts,12805,2008-09-16T12:05:49Z,"Small thoughts, from the little people",Tyler Cowen,10
+2008/09/aig-is-toast,12804,2008-09-16T13:53:54Z,AIG is Toast,Alex Tabarrok,13
+2008/09/russia-suspends,12803,2008-09-16T14:40:43Z,There is more toast,Tyler Cowen,11
+2008/09/the-sad-saga-of,12802,2008-09-16T20:07:12Z,The sad saga of Almaz Moges,Tyler Cowen,2
+2008/09/the-federal-res,12801,2008-09-16T22:22:58Z,The Federal Reserve now has commercials,Tyler Cowen,19
+2008/09/google-heads-to,12800,2008-09-17T07:04:00Z,"Google Heads to Sea, Will You?",Alex Tabarrok,6
+2008/09/are-doomed-to-r,12799,2008-09-17T07:38:21Z,...are doomed to repeat it,Tyler Cowen,11
+2008/09/the-legal-statu,12798,2008-09-17T08:08:11Z,The legal status of the takeover,Tyler Cowen,6
+2008/09/is-central-bank,12797,2008-09-17T10:52:08Z,Is central bank independence gone?,Tyler Cowen,9
+2008/09/the-good-news,12796,2008-09-17T13:32:03Z,The good news,Tyler Cowen,19
+2008/09/ive-always-want,12795,2008-09-18T07:03:00Z,"The culture that is French, a continuing series",Tyler Cowen,19
+2008/09/should-we-worry,12794,2008-09-18T07:15:00Z,Should we worry about liquidity traps?,Tyler Cowen,6
+2008/09/sarah-palin-on,12793,2008-09-18T09:50:08Z,Sarah Palin and John McCain on AIG,Tyler Cowen,26
+2008/09/at-least-someon,12792,2008-09-18T11:16:21Z,Links to cheer you up,Tyler Cowen,9
+2008/09/tim-groseclose,12791,2008-09-18T16:03:26Z,Tim Groseclose tells me,Tyler Cowen,8
+2008/09/the-end-of-cent,12790,2008-09-18T19:08:13Z,"The end of central bank independence, a continuing saga",Tyler Cowen,11
+2008/09/financial-links,12789,2008-09-19T06:41:17Z,Financial links,Tyler Cowen,6
+2008/09/did-the-gramm-l,12788,2008-09-19T06:48:00Z,Did the Gramm-Leach-Bliley Act cause the housing bubble?,Tyler Cowen,24
+2008/09/glass-steagall,12787,2008-09-19T07:24:46Z,Glass Steagall: The Real History,Alex Tabarrok,41
+2008/09/where-we-are-at,12786,2008-09-19T11:04:16Z,Where we are at,Tyler Cowen,4
+2008/09/luigi-zingales,12785,2008-09-19T21:39:20Z,Luigi Zingales on the Paulson bailout - Kazow!,Tyler Cowen,16
+2008/09/mindles-dreck-i,12784,2008-09-20T06:24:00Z,Mindles Dreck is the Dreck of my dreams,Tyler Cowen,9
+2008/09/markets-in-ev-1,12782,2008-09-20T13:16:48Z,"Markets in everything, literary world edition",Tyler Cowen,3
+2008/09/international-p,12781,2008-09-20T16:29:16Z,International public goods?  Public bads?,Tyler Cowen,8
+2008/09/facts-about-ban,12780,2008-09-20T19:32:03Z,Facts about banks,Tyler Cowen,11
+2008/09/how-big-was-the,12779,2008-09-21T06:10:00Z,How big was the Nazi premium?,Tyler Cowen,2
+2008/09/and-now-for-som,12778,2008-09-21T07:05:00Z,And Now for Something Completely Different,Alex Tabarrok,4
+2008/09/matt-yglesias-d,12777,2008-09-21T11:21:56Z,"Matt Yglesias, drunk",Tyler Cowen,33
+2008/09/assorted-link-5,12776,2008-09-21T17:25:00Z,Assorted links,Tyler Cowen,4
+2008/09/a-defence-of-th,12775,2008-09-21T22:49:13Z,A defence of the Paulson plan,Tyler Cowen,10
+2008/09/the-regulation,12774,2008-09-22T06:14:00Z,The regulation of derivatives,Tyler Cowen,17
+2008/09/wont-get-fooled,12773,2008-09-22T07:05:00Z,Won't Get Fooled Again,Alex Tabarrok,21
+2008/09/markets-in-ev-2,12772,2008-09-22T14:09:00Z,"Markets in everything, India electoral fact of the day edition",Tyler Cowen,3
+2008/09/paul-krugman-on,12771,2008-09-22T14:56:00Z,Paul Krugman on why the liquidity trap really matters,Tyler Cowen,6
+2008/09/arnold-klings-a,12770,2008-09-22T15:49:43Z,Arnold Kling's alternative: lower capital requirements,Tyler Cowen,10
+2008/09/ike-brannon-whe,12769,2008-09-22T22:30:13Z,"Ike Brannon, where is my talk?",Tyler Cowen,2
+2008/09/credit-default,12768,2008-09-23T05:08:00Z,Credit default swap fact of the day,Tyler Cowen,9
+2008/09/the-demand-for,12767,2008-09-23T05:50:00Z,The Lehman gift that keeps on giving,Tyler Cowen,4
+2008/09/fairfax-county,12766,2008-09-23T06:28:50Z,Fairfax County fact of the day,Tyler Cowen,18
+2008/09/in-case-you-h-1,12765,2008-09-23T14:01:00Z,In case you had forgotten,Tyler Cowen,7
+2008/09/how-does-status,12764,2008-09-23T16:25:00Z,How does socioeconomic status cause health?,Tyler Cowen,14
+2008/09/economists-spea,12763,2008-09-23T16:42:55Z,Economists Speak,Alex Tabarrok,21
+2008/09/paulson-plan-vs,12762,2008-09-24T07:16:00Z,Paulson plan vs. Dodd plan: my email to Eric Posner,Tyler Cowen,9
+2008/09/where-is-the-cr,12761,2008-09-24T07:37:00Z,Where is the Credit Crunch?,Alex Tabarrok,28
+2008/09/can-the-subsidy,12760,2008-09-24T12:38:00Z,Can the subsidy be redirected?,Tyler Cowen,28
+2008/09/jeffrey-elys-pr,12759,2008-09-24T15:03:15Z,Jeffrey Ely's mortgage proposal,Tyler Cowen,27
+2008/09/markets-in-ev-3,12758,2008-09-24T21:47:09Z,Betting markets in everything,Tyler Cowen,7
+2008/09/interest-rate-1,12757,2008-09-25T06:40:00Z,Interest rate swaps,Tyler Cowen,11
+2008/09/questions-tha-1,12756,2008-09-25T07:29:00Z,Questions that are rarely asked,Tyler Cowen,10
+2008/09/a-supply-side-a,12755,2008-09-25T07:33:35Z,A Supply Side Approach to the Crisis,Alex Tabarrok,36
+2008/09/new-york-times,12754,2008-09-25T08:16:01Z,New York Times economics blog,Tyler Cowen,6
+2008/09/quotable-quotes,12753,2008-09-25T13:20:49Z,Quotable quotes,Tyler Cowen,6
+2008/09/wamu-fact-of-th,12752,2008-09-25T14:12:41Z,WaMu fact of the day,Tyler Cowen,7
+2008/09/greg-mankiw-def,12751,2008-09-25T15:12:02Z,Greg Mankiw defends the Paulson plan (from a distance),Tyler Cowen,27
+2008/09/who-should-make,12750,2008-09-25T19:33:41Z,Who should make this decision come January 20?,Tyler Cowen,14
+2008/09/what-really-cau,12749,2008-09-26T06:05:00Z,What really caused the financial crisis?,Tyler Cowen,16
+2008/09/another-modest,12748,2008-09-26T06:43:00Z,Another modest proposal,Tyler Cowen,11
+2008/09/what-do-the-rep,12747,2008-09-26T06:57:23Z,What do the Republicans want?,Tyler Cowen,12
+2008/09/its-a-bird-its,12746,2008-09-26T13:06:04Z,"It's a bird, it's a plane, it's Jetman",Alex Tabarrok,7
+2008/09/the-wamu-speed,12744,2008-09-26T19:34:55Z,The WaMu Speed Bankruptcy,Alex Tabarrok,19
+2008/09/is-a-potential,12743,2008-09-27T07:14:00Z,Is a Potential Bailout Making Things Worse?,Alex Tabarrok,10
+2008/09/substitute-brid,12742,2008-09-27T07:36:00Z,Substitute Bridges,Alex Tabarrok,22
+2008/09/what-are-the-re,12741,2008-09-27T10:55:00Z,What are the remaining pressure points?,Tyler Cowen,6
+2008/09/regulatory-acco,12740,2008-09-27T14:54:15Z,Regulatory accountability,Tyler Cowen,10
+2008/09/not-from-the-on,12739,2008-09-28T04:46:39Z,Not from The Onion: The Teenage Put,Alex Tabarrok,16
+2008/09/labor-market-ou,12738,2008-09-28T07:41:00Z,Labor market outcomes for transgendered individuals,Tyler Cowen,7
+2008/09/vulture-capitol,12737,2008-09-28T13:52:43Z,Vulture Capitol,Tyler Cowen,4
+2008/09/casey-mulligan,12736,2008-09-28T14:03:36Z,Casey Mulligan is now blogging,Tyler Cowen,14
+2008/09/a-new-insurance,12735,2008-09-28T17:15:03Z,A new insurance proposal,Tyler Cowen,13
+2008/09/tradeoffs-dont,12734,2008-09-29T07:05:00Z,Tradeoffs Don't Exist,Alex Tabarrok,15
+2008/09/the-workhouse-t,12733,2008-09-29T07:25:00Z,The Workhouse Test,Alex Tabarrok,11
+2008/09/is-the-sweden-p,12732,2008-09-29T07:47:00Z,Is the Sweden plan so much better?,Tyler Cowen,17
+2008/09/the-ride-is-get,12731,2008-09-29T12:50:10Z,The ride is getting bumpier,Tyler Cowen,3
+2008/09/michaels-bleg-b,12730,2008-09-29T13:51:33Z,Michael's bleg beg,Tyler Cowen,22
+2008/09/bailout-plan-fa,12729,2008-09-29T13:57:33Z,Bailout plan fails in the House,Tyler Cowen,28
+2008/09/words-of-wisdom,12727,2008-09-29T16:20:28Z,Words of wisdom from K. Harris,Tyler Cowen,12
+2008/09/why-not-nationa,12726,2008-09-30T04:45:00Z,Why not nationalize?,Tyler Cowen,7
+2008/09/the-best-and-wo,12725,2008-09-30T06:00:00Z,The best and worst case scenarios,Tyler Cowen,18
+2008/09/mexico-fact-of,12724,2008-09-30T07:55:34Z,Mexico fact of the day,Tyler Cowen,4
+2008/09/should-the-fed,12723,2008-09-30T08:29:00Z,Should the Fed pay interest on deposits?,Tyler Cowen,3
+2008/09/the-problem-is,12722,2008-09-30T10:17:38Z,The problem is that both of you are right,Tyler Cowen,16
+2008/09/did-minority-le,12721,2008-09-30T11:25:01Z,"Did ""minority lending"" drive the crisis?",Tyler Cowen,59
+2008/09/is-sanity-on-it,12720,2008-09-30T13:08:19Z,Is sanity on its way?,Tyler Cowen,7
+2008/09/who-is-greener,12719,2008-09-30T14:23:00Z,Who is Greener?,Tyler Cowen,9
+2008/09/from-the-hill,12718,2008-09-30T17:51:53Z,From the Hill,Tyler Cowen,23
+2008/10/the-countercycl,12716,2008-10-01T06:58:00Z,"The countercyclical asset, a continuing series, revisited",Tyler Cowen,13
+2008/10/my-views-on-the,12715,2008-10-01T07:21:00Z,My views on the crisis - a summary statement,Tyler Cowen,45
+2008/10/the-snowball,12714,2008-10-01T07:51:32Z,The Snowball,Tyler Cowen,11
+2008/10/heard-in-the-ha,12713,2008-10-01T12:58:31Z,Heard in the Halls at GMU,Alex Tabarrok,12
+2008/10/the-best-parent,12712,2008-10-01T13:12:00Z,The best parenthetical statement I read today,Tyler Cowen,5
+2008/10/roger-congleton,12711,2008-10-01T15:30:57Z,Roger Congleton's notes on the credit crisis,Tyler Cowen,13
+2008/10/plans-plans-pla,12710,2008-10-02T06:10:00Z,"Plans, plans, plans",Tyler Cowen,7
+2008/10/what-will-happe,12709,2008-10-02T06:24:00Z,What will happen with the dollar?,Tyler Cowen,18
+2008/10/net-worth-certi,12708,2008-10-02T08:13:37Z,"Net worth certificates, from the FDIC",Tyler Cowen,8
+2008/10/the-economic-or,12707,2008-10-02T12:04:27Z,The Economic Organization of a Prison,Alex Tabarrok,13
+2008/10/assorted-links,12706,2008-10-02T12:11:00Z,Assorted links,Tyler Cowen,9
+2008/10/sentences-to-po,12705,2008-10-02T15:17:19Z,Sentences to ponder,Tyler Cowen,9
+2008/10/how-did-the-cre,12704,2008-10-03T05:50:00Z,How did the credit rating agencies misfire?,Tyler Cowen,8
+2008/10/concise-encyclo,12703,2008-10-03T06:14:00Z,Concise Encyclopedia of Economics,Tyler Cowen,5
+2008/10/the-consensus-v,12702,2008-10-03T07:10:00Z,The Economic Consensus v. Politics,Alex Tabarrok,25
+2008/10/prophets-of-acc,12701,2008-10-03T15:58:00Z,Prophets of Accountancy,Tyler Cowen,20
+2008/10/markets-in-ever,12700,2008-10-03T21:55:36Z,Markets in everything,Tyler Cowen,2
+2008/10/the-countercy-1,12699,2008-10-04T07:19:00Z,"The countercyclical asset, a continuing series",Tyler Cowen,14
+2008/10/no-no-no,12698,2008-10-04T07:21:00Z,"No, No, No!",Alex Tabarrok,34
+2008/10/the-money-meltd,12697,2008-10-04T14:11:00Z,The Money Meltdown,Tyler Cowen,4
+2008/10/the-sting-of-ca,12696,2008-10-04T17:58:51Z,The sting of capital market segmentation,Tyler Cowen,13
+2008/10/are-you-brian-d,12695,2008-10-04T21:28:47Z,Are you Brian Donnelly?,Tyler Cowen,5
+2008/10/regulation-a-di,12694,2008-10-05T05:46:00Z,"Regulation, a dialogue with Warren Buffett",Tyler Cowen,16
+2008/10/wikipedia-on-re,12693,2008-10-05T06:42:00Z,Wikipedia on reverse auctions,Tyler Cowen,6
+2008/10/the-european-co,12692,2008-10-05T13:54:00Z,The European collective response,Tyler Cowen,16
+2008/10/what-caused-the,12691,2008-10-06T06:23:00Z,What caused the financial crisis?,Tyler Cowen,29
+2008/10/why-is-the-fed,12690,2008-10-06T10:19:43Z,Why is the Fed Paying Interest on Excess Reserves?,Alex Tabarrok,6
+2008/10/does-the-free-m,12689,2008-10-06T10:32:00Z,Does the free market erode moral character?,Tyler Cowen,19
+2008/10/assorted-link-1,12688,2008-10-06T14:43:00Z,Assorted links,Tyler Cowen,10
+2008/10/how-to-tell-if,12687,2008-10-06T15:38:49Z,How to tell if things are going very badly,Tyler Cowen,9
+2008/10/bad-news-but-go,12686,2008-10-06T22:42:47Z,"Bad news, but good news too",Tyler Cowen,2
+2008/10/why-exactly-are,12685,2008-10-07T07:49:00Z,Why exactly are those mortgage-backed securities so hard to trade?,Tyler Cowen,15
+2008/10/the-roots-of-ch,12682,2008-10-07T08:39:39Z,The roots of Chinese pollution,Tyler Cowen,8
+2008/10/is-there-a-posi,12681,2008-10-07T09:48:11Z,Is there a positive spin to this?,Tyler Cowen,22
+2008/10/reverse-aucti-1,12680,2008-10-07T13:31:00Z,Reverse auctions: a defense,Tyler Cowen,7
+2008/10/conundrums-to-p,12679,2008-10-07T14:08:29Z,"Russian foreign aid, circa 2008",Tyler Cowen,6
+2008/10/david-murphy-ma,12678,2008-10-07T19:51:56Z,David Murphy makes me weep,Tyler Cowen,10
+2008/10/paragraphs-to-p,12677,2008-10-08T07:24:33Z,Paragraphs to ponder,Tyler Cowen,8
+2008/10/what-ever-happe,12676,2008-10-08T07:37:45Z,What happened to the carry trade?,Tyler Cowen,5
+2008/10/the-partnership,12675,2008-10-08T07:51:59Z,The Partnership,Tyler Cowen,2
+2008/10/assorted-link-2,12674,2008-10-08T11:06:00Z,Assorted links,Tyler Cowen,9
+2008/10/libertarian-per,12673,2008-10-08T13:12:07Z,Libertarian perspectives on the bail-out,Tyler Cowen,27
+2008/10/tyler-cowen-on,12672,2008-10-08T19:07:00Z,Tyler Cowen on ethnic dining,Tyler Cowen,10
+2008/10/what-ive-been-r,12671,2008-10-09T05:18:00Z,What I've been reading,Tyler Cowen,2
+2008/10/ive-never-trave,12670,2008-10-09T07:02:11Z,I've never traveled with Alex before,Tyler Cowen,8
+2008/10/caplan-1010-at,12669,2008-10-09T07:10:00Z,Caplan: 10/10 at 10 on 20/20,Alex Tabarrok,4
+2008/10/houses-for-sale,12668,2008-10-09T07:15:00Z,Houses for Sale!  Houses for Sale!,Alex Tabarrok,24
+2008/10/nobel-predictio,12667,2008-10-09T09:17:00Z,Nobel predictions,Tyler Cowen,26
+2008/10/the-countercy-2,12666,2008-10-09T12:22:30Z,"The countercyclical asset, a continuing series",Tyler Cowen,6
+2008/10/how-will-partia,12665,2008-10-09T13:05:19Z,How will partially nationalized banks behave?,Tyler Cowen,15
+2008/10/please-splain-t,12664,2008-10-10T02:55:00Z,How will a capitalization plan actually work?,Tyler Cowen,4
+2008/10/top-ten-blogs-t,12663,2008-10-10T03:03:18Z,Top ten blogs to read during the banking crisis,Tyler Cowen,10
+2008/10/a-little-good-n,12662,2008-10-10T06:09:20Z,A little good news,Alex Tabarrok,5
+2008/10/humpty-dumpty-t,12661,2008-10-10T09:31:00Z,Humpty-Dumpty theories,Tyler Cowen,21
+2008/10/hypotheses-wh-1,12660,2008-10-10T13:33:51Z,Hypotheses which are too simple to be true as stated,Tyler Cowen,23
+2008/10/do-researchers,12659,2008-10-10T17:07:48Z,Do researchers suffer from winner's curse?,Tyler Cowen,21
+2008/10/plan-b-from-lui,12658,2008-10-11T03:33:35Z,"Plan B, from Luigi Zingales",Tyler Cowen,8
+2008/10/george-halverso,12657,2008-10-11T05:00:00Z,George Halverson on health care reform,Tyler Cowen,9
+2008/10/unintended-cons,12656,2008-10-11T08:38:00Z,Unintended consequences,Tyler Cowen,7
+2008/10/is-there-any-sc,12655,2008-10-11T15:18:00Z,Is there any scenario for a break-up of the Euro zone?,Tyler Cowen,6
+2008/10/nobel-prize-odd,12654,2008-10-11T16:45:57Z,Nobel prize odds,Tyler Cowen,13
+2008/10/still-more-coun,12653,2008-10-11T17:45:00Z,Still more countercyclical assets,Tyler Cowen,2
+2008/10/sept23,12652,2008-10-12T01:46:33Z,Sept.23,Tyler Cowen,5
+2008/10/fruitless-fall,12651,2008-10-12T06:25:00Z,Fruitless Fall,Tyler Cowen,3
+2008/10/publication-bia,12650,2008-10-12T10:21:00Z,Facts about publication bias,Tyler Cowen,17
+2008/10/the-secret-scri,12649,2008-10-12T18:45:48Z,The Secret Scripture,Tyler Cowen,4
+2008/10/what-is-a-bank,12648,2008-10-12T19:03:05Z,What is a bank?,Tyler Cowen,12
+2008/10/paul-krugman-wi,12647,2008-10-13T07:13:40Z,Paul Krugman wins the Nobel Prize,Tyler Cowen,88
+2008/10/what-is-new-tra,12646,2008-10-13T10:33:08Z,What is New Trade Theory?,Alex Tabarrok,26
+2008/10/did-the-world-e,12645,2008-10-13T13:29:40Z,Did the world end today?,Tyler Cowen,13
+2008/10/the-deal,12644,2008-10-13T20:52:04Z,The Deal,Tyler Cowen,31
+2008/10/paul-krugman-on,12643,2008-10-14T06:41:00Z,Paul Krugman on Austrian trade cycle theory,Tyler Cowen,26
+2008/10/paragraphs-to-1,12642,2008-10-14T07:38:59Z,Paragraphs to ponder,Tyler Cowen,3
+2008/10/the-icelandic-s,12641,2008-10-14T07:56:22Z,"""The Icelandic Stock Exchange fell by 76% in early trading as it re-opened after closing for two days last week.""",Tyler Cowen,10
+2008/10/ireland-forces,12640,2008-10-14T10:25:17Z,"Ireland forces Europe, Europe forces the United States",Tyler Cowen,10
+2008/10/iceland-fact-of,12639,2008-10-14T12:52:09Z,Iceland fact of the day,Tyler Cowen,6
+2008/10/the-new-obama-e,12638,2008-10-14T13:39:00Z,The new Obama economic plans,Tyler Cowen,29
+2008/10/the-singularity,12637,2008-10-14T13:56:43Z,The Singularity is Near,Alex Tabarrok,10
+2008/10/indian-phone-ca,12636,2008-10-15T05:28:00Z,Indian phone call of the day,Tyler Cowen,10
+2008/10/these-days-ther,12635,2008-10-15T06:52:00Z,These days there are so many sentences to ponder,Tyler Cowen,3
+2008/10/the-prospects-f,12634,2008-10-15T08:05:15Z,The prospects for credit market revitalization,Tyler Cowen,15
+2008/10/power-vs-knowle,12633,2008-10-15T09:53:27Z,Power vs. knowledge,Tyler Cowen,14
+2008/10/assorted-link-3,12632,2008-10-15T12:38:34Z,Assorted links,Tyler Cowen,9
+2008/10/what-are-econom,12631,2008-10-15T13:58:59Z,What are economics blogs good for?,Tyler Cowen,6
+2008/10/facts-about-occ,12630,2008-10-15T15:48:00Z,Facts about occupational licensing,Tyler Cowen,8
+2008/10/paul-krugman-su,12629,2008-10-16T05:49:00Z,Paul Krugman summarizes Paul Krugman,Tyler Cowen,5
+2008/10/the-playmate-in,12628,2008-10-16T07:06:00Z,The Playmate Indicator,Alex Tabarrok,21
+2008/10/kenneth-arrow-g,12627,2008-10-16T07:29:00Z,Kenneth Arrow gets a sentence,Tyler Cowen,8
+2008/10/the-big-necessi,12626,2008-10-16T10:47:58Z,The Big Necessity,Tyler Cowen,10
+2008/10/what-do-you-do,12625,2008-10-16T12:52:28Z,What do you do to stay sane?,Tyler Cowen,101
+2008/10/best-sentence-i,12624,2008-10-16T15:37:04Z,Best Sentence I Read Today,Alex Tabarrok,18
+2008/10/joe-the-illegal,12623,2008-10-16T22:53:02Z,Joe the Illegal Plumber,Tyler Cowen,72
+2008/10/assorted-link-4,12622,2008-10-17T06:33:00Z,Assorted links,Tyler Cowen,7
+2008/10/my-dream,12621,2008-10-17T06:45:42Z,My dream,Tyler Cowen,12
+2008/10/questions-that,12619,2008-10-17T07:11:45Z,Questions that are no longer rarely asked,Tyler Cowen,4
+2008/10/james-surowieck,12617,2008-10-17T09:37:27Z,James Surowiecki has a blog!,Tyler Cowen,10
+2008/10/jokes-about-the,12616,2008-10-17T11:01:11Z,Jokes about the financial crisis,Tyler Cowen,17
+2008/10/scattered-thoug,12615,2008-10-17T16:24:16Z,Scattered thoughts,Tyler Cowen,14
+2008/10/financial-laiss,12614,2008-10-18T06:27:00Z,USA regulates USA - whoops!,Tyler Cowen,5
+2008/10/manipulation-of,12613,2008-10-18T07:41:00Z,Manipulation of Prediction Markets,Alex Tabarrok,30
+2008/10/assorted-link-5,12612,2008-10-18T13:21:00Z,Assorted links,Tyler Cowen,7
+2008/10/markets-in-ev-1,12611,2008-10-18T20:40:00Z,Markets in everything?: Mexico edition,Tyler Cowen,8
+2008/10/what-caused,12610,2008-10-19T08:00:00Z,What caused the financial crisis?,Tyler Cowen,23
+2008/10/will-the-price,12609,2008-10-19T14:00:43Z,Will the price of risk be too high or too low?,Tyler Cowen,13
+2008/10/brokers-with-ha,12608,2008-10-19T18:13:30Z,Brokers with Hands on Their Faces,Alex Tabarrok,5
+2008/10/markets-in-ev-2,12607,2008-10-19T18:41:04Z,"Markets in everything, Jamaican edition",Tyler Cowen,2
+2008/10/what-econ-major,12606,2008-10-20T06:50:00Z,What econ majors think of their major,Tyler Cowen,15
+2008/10/anna-schwartz-o,12605,2008-10-20T09:49:00Z,Anna Schwartz on the crisis,Tyler Cowen,20
+2008/10/china-policy-pr,12604,2008-10-20T12:49:29Z,China policy proposal of the day,Tyler Cowen,15
+2008/10/the-ice-thaws-i,12603,2008-10-20T13:20:00Z,The ice thaws in credit markets,Tyler Cowen,4
+2008/10/do-not-trust-ve,12602,2008-10-20T22:29:45Z,Bulgarian corruption markets in everything,Tyler Cowen,4
+2008/10/is-the-low-fed,12601,2008-10-21T06:21:00Z,Is the low Fed Funds rate to blame?,Tyler Cowen,23
+2008/10/who-are-the-bes,12600,2008-10-21T06:40:00Z,Who are the best satirists?,Tyler Cowen,35
+2008/10/let-me-guess-th,12599,2008-10-21T11:52:15Z,"Let me guess, The Heckman Institute?",Alex Tabarrok,15
+2008/10/assorted-link-6,12598,2008-10-21T13:25:00Z,Assorted links,Tyler Cowen,5
+2008/10/the-best-critic,12597,2008-10-21T16:36:43Z,The best criticism of me I read today,Tyler Cowen,34
+2008/10/how-are-the-cay,12595,2008-10-22T07:00:00Z,How are Cayman Island banks faring?,Tyler Cowen,5
+2008/10/where-is-the-cr,12594,2008-10-22T07:41:00Z,Where is the Credit Crunch? III,Alex Tabarrok,25
+2008/10/markets-in-ev-3,12593,2008-10-22T11:56:31Z,Markets in everything Iceland fact of the day,Tyler Cowen,8
+2008/10/sentence-fragme,12592,2008-10-22T13:40:26Z,Sentence Fragment of the Day,Alex Tabarrok,11
+2008/10/i-believe-will,12591,2008-10-22T15:50:00Z,Will Wilkinson is upset,Tyler Cowen,10
+2008/10/how-to-read-pop,12589,2008-10-23T06:09:00Z,How to read popular non-fiction better,Tyler Cowen,7
+2008/10/capitalism-with,12588,2008-10-23T07:00:00Z,Capitalism with Chinese Characteristics,Tyler Cowen,3
+2008/10/is-there-a-cred,12587,2008-10-23T07:36:14Z,Is there a credit crunch?,Tyler Cowen,5
+2008/10/four-myths-of-t,12586,2008-10-23T09:05:04Z,"Four Myths of the Credit Crisis, Again",Alex Tabarrok,24
+2008/10/godwit-fact-of,12585,2008-10-23T12:47:00Z,Godwit fact of the day,Tyler Cowen,11
+2008/10/credit-as-an-op,12584,2008-10-24T07:53:20Z,Credit as an option,Tyler Cowen,8
+2008/10/how-to-get-peop,12583,2008-10-24T08:21:22Z,How to get people to vote,Tyler Cowen,23
+2008/10/some-consensus,12582,2008-10-24T08:41:02Z,Some consensus,Alex Tabarrok,16
+2008/10/economic-notes,12581,2008-10-24T13:30:38Z,Economic notes from underground,Tyler Cowen,5
+2008/10/perspective,12580,2008-10-24T14:36:39Z,The Long Term Perspective on the TED Spread,Alex Tabarrok,26
+2008/10/department-of-c,12579,2008-10-25T06:18:00Z,Five weeks,Tyler Cowen,5
+2008/10/what-did-alan-g,12578,2008-10-25T07:54:19Z,What did Alan Greenspan concede?,Tyler Cowen,14
+2008/10/do-not-listen-t,12577,2008-10-25T14:38:00Z,The credit crunch: I still cannot agree with Alex and Bryan,Tyler Cowen,26
+2008/10/assorted-link-7,12576,2008-10-26T06:55:00Z,Assorted links,Tyler Cowen,4
+2008/10/marcia-stigums,12575,2008-10-26T08:35:51Z,Marcia Stigum's *The Money Market*,Tyler Cowen,9
+2008/10/why-vote,12574,2008-10-26T11:03:06Z,Why vote?,Alex Tabarrok,42
+2008/10/mark-to-market,12573,2008-10-26T15:53:00Z,Mark to market for Social Security?,Tyler Cowen,9
+2008/10/why-the-market,12572,2008-10-27T05:59:00Z,Why the market has been down on the Euro and European banks,Tyler Cowen,5
+2008/10/credit-demand-a,12571,2008-10-27T07:01:00Z,"Credit demand and credit supply, response",Tyler Cowen,7
+2008/10/credit-panic-ag,12570,2008-10-27T07:05:00Z,Credit Demand and Credit Supply,Alex Tabarrok,23
+2008/10/deflationary-ex,12569,2008-10-27T08:59:11Z,Deflationary expectations,Tyler Cowen,19
+2008/10/comment-delay,12568,2008-10-27T11:16:27Z,Comment Delay,Alex Tabarrok,11
+2008/10/assorted-link-8,12567,2008-10-27T13:36:00Z,Assorted links,Tyler Cowen,9
+2008/10/markets-in-ev-4,12566,2008-10-27T22:54:02Z,"Markets in everything, death edition",Tyler Cowen,19
+2008/10/botox-makes-us,12565,2008-10-28T07:02:00Z,Botox makes us happy,Alex Tabarrok,9
+2008/10/interest-rates,12564,2008-10-28T07:46:00Z,High interest rates,Tyler Cowen,14
+2008/10/porsche-and-vol,12563,2008-10-28T09:24:50Z,Porsche and Volkswagen,Tyler Cowen,20
+2008/10/what-does-a-cre,12562,2008-10-28T13:15:27Z,What does a credit crunch look like?,Tyler Cowen,16
+2008/10/department-of-w,12561,2008-10-28T16:26:09Z,Department of Whatever,Tyler Cowen,11
+2008/10/sentences-of-pe,12560,2008-10-29T06:09:00Z,Sentences of persuasion,Tyler Cowen,10
+2008/10/can-the-fed-in,12559,2008-10-29T06:44:00Z,Can the Fed in fact pop bubbles?,Tyler Cowen,13
+2008/10/assorted-link-9,12558,2008-10-29T09:45:00Z,Assorted links,Tyler Cowen,3
+2008/10/macgyver-scienc,12557,2008-10-29T11:24:35Z,MacGyver Science,Alex Tabarrok,11
+2008/10/against-multipl,12556,2008-10-29T14:50:00Z,Against multiple choice exams,Tyler Cowen,20
+2008/10/econ-bloggers-g,12555,2008-10-29T15:35:09Z,Econ bloggers gain clout in financial crisis,Tyler Cowen,9
+2008/10/assorted-lin-10,12554,2008-10-30T03:40:00Z,Assorted links,Tyler Cowen,3
+2008/10/iceland-what-do,12553,2008-10-30T05:55:00Z,Iceland: what does the endgame look like?,Tyler Cowen,42
+2008/10/sentences-writt,12552,2008-10-30T10:07:00Z,Sentences written by me,Tyler Cowen,12
+2008/10/economics-video,12551,2008-10-30T12:40:27Z,Economics Videos from Marketplace,Alex Tabarrok,6
+2008/10/the-rise-of-mut,12550,2008-10-30T15:31:00Z,The Rise of Mutual Funds,Tyler Cowen,2
+2008/10/the-business-cy,12549,2008-10-30T20:58:00Z,The library regulators also missed the boat,Tyler Cowen,16
+2008/10/i-want-my-felix,12548,2008-10-30T22:06:33Z,I want my Felix Salmon,Tyler Cowen,9
+2008/10/roubini-on-stru,12547,2008-10-31T07:05:00Z,Roubini on Structural Problems in the World Economy,Alex Tabarrok,15
+2008/10/abstinence-pled,12546,2008-10-31T07:30:00Z,Abstinence pledges,Tyler Cowen,19
+2008/10/prsarah-palinpr,12545,2008-10-31T07:42:00Z,Pr(Sarah Palin=President)>Pr(John McCain=President)?,Alex Tabarrok,63
+2008/10/africa-military,12544,2008-10-31T12:06:00Z,Africa military recruitment fact of the day,Tyler Cowen,7
+2008/11/cow-vache,12543,2008-11-01T08:10:47Z,Cow [Vache],Tyler Cowen,6
+2008/11/hungary-fact-of,12542,2008-11-01T08:14:18Z,Hungary fact of the day,Tyler Cowen,3
+2008/11/when-should-con,12541,2008-11-01T10:56:11Z,*When* should consumers cut their spending?,Tyler Cowen,20
+2008/11/book-splat,12540,2008-11-01T18:39:00Z,Book splat,Tyler Cowen,3
+2008/11/petard-own-hois,12539,2008-11-02T06:35:00Z,Petards,Tyler Cowen,2
+2008/11/not-from-the-on,12538,2008-11-02T07:02:00Z,Not from the Onion,Alex Tabarrok,11
+2008/11/john-smith-hasn,12537,2008-11-02T07:23:00Z,John Smith hasn't made up his mind yet,Tyler Cowen,23
+2008/11/assorted-links,12536,2008-11-02T17:03:07Z,Assorted links,Tyler Cowen,8
+2008/11/which-countries,12535,2008-11-03T06:36:00Z,Which countries does the NYT cover?,Tyler Cowen,5
+2008/11/how-will-the-fi,12534,2008-11-03T07:53:00Z,How will the financial crisis affect the economics profession?,Tyler Cowen,23
+2008/11/voting-videos,12533,2008-11-03T10:20:13Z,Voting Videos,Alex Tabarrok,23
+2008/11/the-story-of-ga,12532,2008-11-03T12:30:00Z,The story of Gary Gorton and AIG,Tyler Cowen,4
+2008/11/is-google-happy,12531,2008-11-03T17:55:41Z,Is Google happy with its book-scanning deal?,Tyler Cowen,11
+2008/11/china-worry-of,12530,2008-11-04T06:56:29Z,China Worry of the Day,Alex Tabarrok,5
+2008/11/china-tax-of-th,12529,2008-11-04T07:28:11Z,China tax of the day,Tyler Cowen,4
+2008/11/new-models-of-v,12528,2008-11-04T07:35:00Z,New models of voting,Tyler Cowen,1
+2008/11/my-simple-thoug,12527,2008-11-04T08:50:12Z,My simple thought on voting,Tyler Cowen,41
+2008/11/i-voted,12526,2008-11-04T09:27:57Z,I voted,Alex Tabarrok,58
+2008/11/distraction,12525,2008-11-04T18:22:42Z,Distraction,Tyler Cowen,11
+2008/11/the-thought-of,12524,2008-11-04T22:50:12Z,The thought of Ezra Klein,Tyler Cowen,16
+2008/11/avoiding-winner,12523,2008-11-05T03:56:00Z,Avoiding winner's curse,Tyler Cowen,6
+2008/11/true-or-false,12522,2008-11-05T06:27:00Z,True or false?,Tyler Cowen,25
+2008/11/the-ipod-nano-i,12521,2008-11-05T08:12:00Z,The iPod Nano index,Tyler Cowen,5
+2008/11/the-election-wh,12520,2008-11-05T14:46:07Z,The election: what really happened,Tyler Cowen,24
+2008/11/love-and-hate,12519,2008-11-05T14:50:06Z,Love and hate,Tyler Cowen,4
+2008/11/andrew-samwicks,12518,2008-11-06T07:12:00Z,The easiest path toward universal health care coverage,Tyler Cowen,16
+2008/11/europe-between,12517,2008-11-06T07:22:08Z,Europe Between the Oceans,Tyler Cowen,10
+2008/11/assorted-link-1,12516,2008-11-06T10:40:00Z,Assorted links,Tyler Cowen,5
+2008/11/robin-hanson-to,12515,2008-11-06T15:13:00Z,Robin Hanson tonic of the day,Tyler Cowen,25
+2008/11/dani-rodriks-di,12514,2008-11-07T06:43:00Z,Dani Rodrik's dilemma,Tyler Cowen,7
+2008/11/heroes-and-cowa,12513,2008-11-07T07:12:44Z,Heroes and Cowards: The Social Face of War,Tyler Cowen,6
+2008/11/betting-markets,12512,2008-11-07T07:27:10Z,Betting markets in everything,Tyler Cowen,8
+2008/11/unemployment-du,12511,2008-11-07T07:41:00Z,Unemployment During the Great Depression,Alex Tabarrok,48
+2008/11/china-market-of,12510,2008-11-07T14:07:00Z,China market of the day,Tyler Cowen,13
+2008/11/heroes-and-co-1,12509,2008-11-08T07:59:13Z,"Heroes and Cowards, part II",Tyler Cowen,5
+2008/11/ben-bernanke-on,12508,2008-11-08T08:24:32Z,Ben Bernanke on the New Deal,Tyler Cowen,18
+2008/11/sentences-to-po,12507,2008-11-08T14:29:24Z,AIG sentences to ponder,Tyler Cowen,5
+2008/11/mankiw-to-the-p,12506,2008-11-08T19:26:38Z,Mankiw to the President-Elect,Alex Tabarrok,26
+2008/11/wealth-shock,12505,2008-11-09T07:20:00Z,Wealth Shock,Alex Tabarrok,9
+2008/11/restore-confide,12504,2008-11-09T07:29:00Z,Restore confidence first,Tyler Cowen,21
+2008/11/2666,12503,2008-11-09T13:21:00Z,2666,Tyler Cowen,5
+2008/11/the-chinese-eco,12502,2008-11-09T18:06:08Z,The Chinese economic stimulus package,Tyler Cowen,12
+2008/11/march-of-the-me,12501,2008-11-10T06:56:00Z,"The meta-lists, this time for classical music",Tyler Cowen,3
+2008/11/understanding-f,12500,2008-11-10T07:45:00Z,Understanding Fiscal Policy During the Great Depression,Alex Tabarrok,34
+2008/11/a-simple-theory,12499,2008-11-10T13:25:53Z,A simple theory of which economists cultivate Ph.d. students,Tyler Cowen,5
+2008/11/assorted-link-2,12498,2008-11-10T16:30:00Z,Assorted links,Tyler Cowen,4
+2008/11/what-ended-the,12497,2008-11-11T07:14:08Z,What ended the Great Depression?,Tyler Cowen,28
+2008/11/a-simple-model,12496,2008-11-11T07:22:00Z,A simple model of China's model of China,Tyler Cowen,6
+2008/11/the-ten-most-ir,12495,2008-11-11T11:21:51Z,The ten most irritating phrases?,Tyler Cowen,90
+2008/11/sentences-of-wi,12494,2008-11-11T13:45:31Z,Sentences of wisdom,Tyler Cowen,8
+2008/11/the-word-of-the,12493,2008-11-11T16:41:44Z,The word of the year,Tyler Cowen,5
+2008/11/profile-of-malc,12492,2008-11-11T19:46:21Z,Profile of Malcolm Gladwell and *Outliers*,Tyler Cowen,18
+2008/11/against-team-pl,12491,2008-11-12T06:37:00Z,Against team players,Tyler Cowen,27
+2008/11/spin-free-econo,12490,2008-11-12T07:52:47Z,Spin-Free Economics,Tyler Cowen,5
+2008/11/an-update-on-th,12489,2008-11-12T10:35:47Z,An update on the bailout,Tyler Cowen,16
+2008/11/should-we-encou,12488,2008-11-12T13:15:00Z,Should the federal government encourage more credit card borrowing?,Tyler Cowen,4
+2008/11/credit-card-cru,12487,2008-11-12T14:50:27Z,Credit Card Crunch?,Alex Tabarrok,21
+2008/11/the-tonic-again,12486,2008-11-13T06:21:00Z,"The tonic, again",Tyler Cowen,10
+2008/11/now-is-the-time,12485,2008-11-13T07:41:00Z,Now is the Time for the Buffalo Commons,Alex Tabarrok,49
+2008/11/assorted-link-3,12483,2008-11-13T12:50:00Z,Assorted links,Tyler Cowen,13
+2008/11/mexican-alchemy,12482,2008-11-13T14:31:21Z,Mexican alchemy?,Tyler Cowen,10
+2008/11/what-should-we,12481,2008-11-14T06:33:00Z,What should we now think about the bailout?,Tyler Cowen,11
+2008/11/headlines-from,12480,2008-11-14T07:31:00Z,Headlines from *The Art Newspaper*,Tyler Cowen,5
+2008/11/china-fact-of-t,12479,2008-11-14T08:22:51Z,China fact of the day,Tyler Cowen,9
+2008/11/book-medley,12478,2008-11-14T14:41:00Z,Book medley,Tyler Cowen,8
+2008/11/can-libertarian,12476,2008-11-15T06:17:00Z,Can libertarianism limit corporate statism?,Tyler Cowen,25
+2008/11/markets-in-ever,12475,2008-11-15T09:02:41Z,Markets in everything,Tyler Cowen,3
+2008/11/the-economics-o,12474,2008-11-15T13:28:00Z,The economics of spam,Tyler Cowen,11
+2008/11/father-time,12473,2008-11-15T18:07:28Z,Father Time,Tyler Cowen,8
+2008/11/where-has-all-t,12472,2008-11-16T06:24:00Z,Where has all the income gone?,Tyler Cowen,13
+2008/11/claims-about-af,12471,2008-11-16T06:44:00Z,Claims about Africa,Tyler Cowen,15
+2008/11/bill-easterly-r,12470,2008-11-16T08:56:49Z,Bill Easterly reviews Paul Collier,Tyler Cowen,3
+2008/11/the-wisdom-of-b,12469,2008-11-16T21:07:00Z,The wisdom of Bruce Bartlett,Tyler Cowen,22
+2008/11/can-one-be-a-li,12468,2008-11-17T06:25:00Z,Can one be a liquidity trap denialist?,Tyler Cowen,9
+2008/11/meta-list-of-th,12467,2008-11-17T07:09:00Z,"Meta-list of the ""best of"" books of the year",Tyler Cowen,6
+2008/11/fighting-the-li,12466,2008-11-17T11:02:37Z,Fighting the liquidity trap,Tyler Cowen,25
+2008/11/the-economics-p,12465,2008-11-17T13:37:00Z,Assorted links,Tyler Cowen,10
+2008/11/the-obama-trans,12464,2008-11-18T07:16:01Z,The Obama transition: science and the arts,Tyler Cowen,3
+2008/11/investment-in-t,12463,2008-11-18T07:25:00Z,Investment in the Great Depression,Tyler Cowen,14
+2008/11/the-wisdom-of-g,12462,2008-11-18T08:28:03Z,"The wisdom of Gordon Tullock, part II",Tyler Cowen,11
+2008/11/facts-about-aut,12461,2008-11-18T12:27:00Z,Facts about automakers,Tyler Cowen,42
+2008/11/markets-in-ev-1,12460,2008-11-18T14:16:23Z,"Markets in everything: Cupzzas, a pizza baked in cupcake form",Tyler Cowen,6
+2008/11/peter-orszag,12459,2008-11-18T21:17:54Z,Peter Orszag for OMB?,Tyler Cowen,6
+2008/11/outliers,12458,2008-11-19T06:29:00Z,Outliers,Tyler Cowen,18
+2008/11/singapore-to-pa,12457,2008-11-19T07:35:00Z,Singapore to Pay Organ Donors,Alex Tabarrok,11
+2008/11/infrastructure,12456,2008-11-19T13:13:00Z,Infrastructure fact of the day,Tyler Cowen,14
+2008/11/assorted-link-4,12455,2008-11-19T14:59:00Z,Assorted links,Tyler Cowen,22
+2008/11/china,12454,2008-11-20T06:38:00Z,Facts about China,Tyler Cowen,5
+2008/11/a-frightening-f,12453,2008-11-20T07:05:00Z,A frightening figure,Alex Tabarrok,18
+2008/11/markets-in-ev-2,12452,2008-11-20T09:16:26Z,Markets in everything?,Tyler Cowen,23
+2008/11/imagining-the-b,12451,2008-11-20T12:23:09Z,Imagining the button,Tyler Cowen,47
+2008/11/economics-posit,12450,2008-11-20T13:40:44Z,Economics positions: who Obama should appoint and why,Tyler Cowen,16
+2008/11/how-to-give-dir,12448,2008-11-21T07:01:00Z,How to give directions,Tyler Cowen,26
+2008/11/xxxxxxxx,12447,2008-11-21T07:37:00Z,Eddy Elfenbein informs me,Tyler Cowen,2
+2008/11/more-book-award,12446,2008-11-21T07:40:00Z,More book awards: high standards in Iran,Tyler Cowen,3
+2008/11/cea-rumors,12445,2008-11-21T08:20:46Z,CEA rumors,Tyler Cowen,8
+2008/11/good-news-good,12444,2008-11-21T17:30:18Z,"Good news, good news, bad news",Tyler Cowen,16
+2008/11/larry-summers-i,12443,2008-11-21T23:20:33Z,Larry Summers in the White House,Tyler Cowen,5
+2008/11/the-price-of-ev,12442,2008-11-22T07:01:00Z,The Price of Everything,Alex Tabarrok,3
+2008/11/what-are-the-le,12441,2008-11-22T07:40:34Z,What are the lessons from the New Deal?,Tyler Cowen,22
+2008/11/assorted-link-5,12440,2008-11-22T12:11:00Z,Assorted links,Tyler Cowen,2
+2008/11/the-worlds-best,12439,2008-11-22T21:47:44Z,The world's best symphony orchestras?,Tyler Cowen,12
+2008/11/why-are-music-r,12438,2008-11-23T07:13:00Z,Why are music reviews so positive?,Tyler Cowen,18
+2008/11/the-myth-of-the,12437,2008-11-23T07:36:39Z,The Myth of the Rational Elected Official,Tyler Cowen,29
+2008/11/iowa-city-fact,12436,2008-11-23T09:13:00Z,Iowa City fact of the day,Tyler Cowen,2
+2008/11/assorted-link-6,12435,2008-11-23T14:54:00Z,Assorted links,Tyler Cowen,2
+2008/11/whoops-back-to,12434,2008-11-23T17:50:02Z,Whoops!  Back to TARP after all...,Tyler Cowen,8
+2008/11/what-a-massive,12433,2008-11-24T05:31:00Z,What a massive fiscal boost can and cannot accomplish,Tyler Cowen,12
+2008/11/why-obama-picke,12432,2008-11-24T06:23:00Z,Why did Obama pick Hillary Clinton?,Tyler Cowen,16
+2008/11/the-citigroup-b,12431,2008-11-24T07:37:51Z,The Citigroup bailout,Tyler Cowen,14
+2008/11/christina-romer,12430,2008-11-24T09:52:45Z,Christina Romer to chair the CEA,Tyler Cowen,15
+2008/11/assorted-link-7,12429,2008-11-24T15:16:00Z,Assorted links,Tyler Cowen,6
+2008/11/big-think-inter,12428,2008-11-25T05:39:00Z,Big Think interview with me,Tyler Cowen,7
+2008/11/what-will-we-ge,12427,2008-11-25T06:43:00Z,What will we get from the stimulus?,Tyler Cowen,10
+2008/11/wind-farming,12426,2008-11-25T07:35:00Z,Wind Farming,Alex Tabarrok,50
+2008/11/assorted-link-8,12425,2008-11-25T12:36:00Z,Assorted links,Tyler Cowen,9
+2008/11/million-dollar,12424,2008-11-25T13:19:49Z,Million Dollar Arm,Tyler Cowen,13
+2008/11/truce,12423,2008-11-25T16:48:29Z,Truce?,Tyler Cowen,90
+2008/11/superorganism,12422,2008-11-26T07:38:46Z,The Superorganism,Tyler Cowen,0
+2008/11/volcker-and-goolsbee,12421,2008-11-26T08:22:02Z,Volcker and Goolsbee,Tyler Cowen,0
+2008/11/more-krugmanbush-captions,12420,2008-11-26T09:02:16Z,More Krugman-Bush captions,Tyler Cowen,2
+2008/11/atlas-shrugged,12419,2008-11-26T11:01:43Z,Atlas Shrugged - Updated,Alex Tabarrok,10
+2008/11/i-am-sorry-that-comments-are-down-for-some-posts,12418,2008-11-26T16:30:47Z,I am sorry that comments are down for some posts,Tyler Cowen,0
+2008/11/justin-wolfers-throws-down-the-gauntlet-paul-krugman-will-judge,12417,2008-11-26T17:29:27Z,Justin Wolfers throws down the gauntlet - Paul Krugman will judge,Tyler Cowen,0
+2008/11/the-mumbai-attacks,12416,2008-11-26T22:49:39Z,The Mumbai attacks,Tyler Cowen,0
+2008/11/happy-thanksgiv,12415,2008-11-27T07:02:00Z,Happy Thanksgiving,Alex Tabarrok,3
+2008/11/comments-on-pre,12414,2008-11-27T08:26:00Z,Comments on Prebisch and other matters of the day,Alex Tabarrok,7
+2008/11/the-life-and-times-of-raul-prebisch-19011986,12413,2008-11-27T08:37:00Z,The Life and Times of Raul Prebisch 1901-1986,Tyler Cowen,1
+2008/11/facts-about-the,12412,2008-11-27T12:47:06Z,Facts about the Chinese slowdown,Tyler Cowen,5
+2008/11/betting-marke-1,12411,2008-11-27T14:28:12Z,Betting markets in everything,Tyler Cowen,9
+2008/11/assorted-link-9,12410,2008-11-28T07:14:00Z,Assorted links,Tyler Cowen,10
+2008/11/how-many-obamas,12409,2008-11-28T07:50:54Z,How many Obamas are there?,Tyler Cowen,6
+2008/11/questions-that,12407,2008-11-28T15:13:11Z,Questions that are rarely asked,Tyler Cowen,15
+2008/11/one-very-bad-ec,12406,2008-11-28T18:26:44Z,One very bad economic indicator,Tyler Cowen,23
+2008/11/no-way-would-i,12405,2008-11-29T06:58:00Z,No way would I go bungee jumping,Tyler Cowen,14
+2008/11/assorted-lin-10,12404,2008-11-29T07:46:00Z,Assorted links,Tyler Cowen,13
+2008/11/fiscal-policy-p,12403,2008-11-29T11:27:26Z,Fiscal policy poll,Tyler Cowen,21
+2008/11/the-need-for-re,12402,2008-11-29T16:20:45Z,The need for reliable information,Tyler Cowen,24
+2008/11/market-design-b,12401,2008-11-29T17:55:11Z,Market Design blog,Tyler Cowen,8
+2008/11/law-and-literat,12400,2008-11-30T06:47:00Z,"Law and Literature reading list, Spring 2009",Tyler Cowen,14
+2008/11/the-cassandra-h,12399,2008-11-30T08:42:00Z,The Cassandra Hunt,Tyler Cowen,27
+2008/11/new-mr-book-clu,12398,2008-11-30T12:38:00Z,New MR book club - Keynes's *General Theory*,Tyler Cowen,35
+2008/12/interpreting-th,12397,2008-12-01T07:41:00Z,Interpreting the Monetary Base Under the New Monetary Regime,Alex Tabarrok,17
+2008/12/nyu-austrian-ec,12395,2008-12-01T10:36:14Z,NYU Austrian economics blog,Tyler Cowen,1
+2008/12/assorted-links,12394,2008-12-01T14:08:00Z,Assorted links,Tyler Cowen,10
+2008/12/its-official,12393,2008-12-01T16:07:45Z,It's official.,Alex Tabarrok,16
+2008/12/the-next-crisis,12392,2008-12-02T07:02:00Z,The Next Crisis,Alex Tabarrok,10
+2008/12/changes-in-money-wages,12391,2008-12-02T07:41:03Z,Changes in money wages,Tyler Cowen,1
+2008/12/leave-your-comm,12390,2008-12-02T07:44:13Z,Leave your comments here on Keynes and money wages,Alex Tabarrok,20
+2008/12/greg-mankiw-wri,12388,2008-12-02T08:17:28Z,Greg Mankiw writes my post for me,Tyler Cowen,18
+2008/12/writing-to-pete,12387,2008-12-02T13:26:00Z,Writing to Peter Singer about Down syndrome,Tyler Cowen,20
+2008/12/advertising-mar,12386,2008-12-02T16:24:55Z,Advertising markets in everything,Tyler Cowen,17
+2008/12/hail-garrett-jo,12385,2008-12-03T06:26:00Z,Hail Garett Jones!,Tyler Cowen,4
+2008/12/the-capital-str,12384,2008-12-03T07:05:00Z,The Capital Strike,Alex Tabarrok,11
+2008/12/joe-the-plumber,12383,2008-12-03T07:31:00Z,Joe the Plumber and his favorite books,Tyler Cowen,26
+2008/12/insurance-marke,12382,2008-12-03T10:02:27Z,Insurance markets in everything,Tyler Cowen,12
+2008/12/economists-have,12381,2008-12-03T12:40:18Z,Economists Have Abandoned Principle,Alex Tabarrok,11
+2008/12/assorted-link-1,12380,2008-12-03T18:20:00Z,Assorted links,Tyler Cowen,12
+2008/12/markets-in-ever,12379,2008-12-04T06:41:00Z,Markets in everything,Tyler Cowen,4
+2008/12/the-ad-as-model,12378,2008-12-04T07:13:00Z,The AD-AS model with a vertical AD curve,Tyler Cowen,10
+2008/12/a-lot-to-lose,12377,2008-12-04T07:40:00Z,A Lot to Lose,Alex Tabarrok,17
+2008/12/why-do-so-many,12376,2008-12-04T12:51:00Z,Why do so many more women study abroad?,Tyler Cowen,40
+2008/12/assorted-link-2,12375,2008-12-04T16:24:00Z,Assorted links,Tyler Cowen,4
+2008/12/what-makes-you,12374,2008-12-04T21:09:19Z,What makes you happy?,Tyler Cowen,6
+2008/12/fiscal-policy-1,12373,2008-12-05T07:04:00Z,Fiscal policy and the fetishization of measured gdp,Tyler Cowen,19
+2008/12/natashas-questi,12372,2008-12-05T07:14:00Z,Natasha's question,Tyler Cowen,33
+2008/12/their-weird-o-1,12371,2008-12-05T11:00:00Z,Their weird obsession,Tyler Cowen,18
+2008/12/market-failure,12370,2008-12-05T15:16:12Z,Banana redux,Tyler Cowen,23
+2008/12/more-appointmen,12369,2008-12-05T15:41:52Z,More economic appointments,Tyler Cowen,16
+2008/12/grinding-and-be,12368,2008-12-06T05:20:00Z,Grinding and belching the choking gritty smoke,Tyler Cowen,16
+2008/12/assorted-link-3,12367,2008-12-06T06:48:00Z,Assorted links,Tyler Cowen,4
+2008/12/reasons-not-to,12366,2008-12-06T12:26:00Z,Reasons not to own a pet,Tyler Cowen,8
+2008/12/is-micro-credit,12365,2008-12-06T17:25:49Z,Is micro-credit really working?,Tyler Cowen,8
+2008/12/what-ive-been-r,12364,2008-12-07T06:18:00Z,What I've Been Reading,Tyler Cowen,3
+2008/12/obamas-fiscal-s,12363,2008-12-07T07:57:00Z,Obama's fiscal stimulus: some details,Tyler Cowen,43
+2008/12/inside-the-influential-new-world-of-econoblogging,12360,2008-12-07T13:40:00Z,"""Inside the influential new world of econoblogging""",Tyler Cowen,0
+2008/12/non-sequitur-of,12359,2008-12-07T17:33:32Z,Non-Sequitur of the Day,Alex Tabarrok,12
+2008/12/apologies-for-t,12357,2008-12-08T06:45:00Z,Apologies for the double post,Tyler Cowen,2
+2008/12/general-theory,12356,2008-12-08T06:53:32Z,"General Theory, chapters one and two",Tyler Cowen,17
+2008/12/portable-fiscal,12355,2008-12-08T07:06:13Z,Portable fiscal policy question multi-pak,Tyler Cowen,30
+2008/12/todays-nyt,12354,2008-12-08T07:24:42Z,Today's New York Times,Tyler Cowen,7
+2008/12/paul-krugmans-nobel-lecture-and-slides,12352,2008-12-08T08:12:55Z,Paul Krugman's Nobel lecture and slides,Tyler Cowen,0
+2008/12/brad-delong-on,12351,2008-12-08T11:46:11Z,Brad DeLong on Larry White,Tyler Cowen,15
+2008/12/assorted-link-4,12350,2008-12-08T18:10:00Z,Assorted links,Tyler Cowen,3
+2008/12/where-have-the,12349,2008-12-09T05:58:00Z,Where have the graduate students gone?,Tyler Cowen,31
+2008/12/infrastructure,12348,2008-12-09T07:35:00Z,Infrastructure: Roads and The Smart Grid,Alex Tabarrok,21
+2008/12/sentences-to-po,12347,2008-12-09T10:22:33Z,Sentences to ponder,Tyler Cowen,6
+2008/12/game-theory-and,12346,2008-12-09T13:34:00Z,Game theory and auto subsidies,Tyler Cowen,18
+2008/12/sometimes-it-is,12345,2008-12-09T15:54:58Z,Sometimes it is enough to reproduce the headline,Tyler Cowen,1
+2008/12/assorted-link-5,12343,2008-12-09T18:31:41Z,Assorted links,Tyler Cowen,7
+2008/12/the-best-review,12342,2008-12-10T06:43:00Z,The year in music,Tyler Cowen,7
+2008/12/my-sentence-on,12341,2008-12-10T07:19:50Z,My sentence on time management,Tyler Cowen,12
+2008/12/paul-krugmans-n,12340,2008-12-10T07:31:25Z,Paul Krugman's Nobel Prize lecture,Tyler Cowen,15
+2008/12/why-an-auto-bai,12339,2008-12-10T10:33:38Z,Why an auto bailout won't work,Tyler Cowen,17
+2008/12/whats-a-senate,12338,2008-12-10T13:30:00Z,What's a Senate seat worth?,Tyler Cowen,13
+2008/12/good-paragraph,12337,2008-12-10T17:36:00Z,"Good paragraph, bad paragraph",Tyler Cowen,14
+2008/12/stock-markets-b,12336,2008-12-11T07:05:00Z,"Stock markets, bubbles, and dividend growth",Alex Tabarrok,8
+2008/12/a-remarkable-qu,12335,2008-12-11T07:10:00Z,A Remarkable Question,Alex Tabarrok,18
+2008/12/keyness-general,12334,2008-12-11T07:36:00Z,"Keynes's General Theory, chapter three",Tyler Cowen,10
+2008/12/keyness-gener-1,12333,2008-12-11T07:46:00Z,"Keynes's General Theory, chapter four, *The Choice of Units*",Tyler Cowen,26
+2008/12/the-multiplier,12332,2008-12-11T08:00:00Z,"The multiplier is ""one""",Tyler Cowen,10
+2008/12/financial-innov,12331,2008-12-11T12:32:00Z,"Financial innovation hasn't stopped, it's just being done by the government",Tyler Cowen,11
+2008/12/elliott-carter,12330,2008-12-11T17:17:00Z,Elliott Carter turns 100 today,Tyler Cowen,10
+2008/12/is-february-10t,12329,2008-12-12T06:16:00Z,Is February 10th National Bankruptcy Day?,Tyler Cowen,7
+2008/12/rich-vs-poor-br,12328,2008-12-12T06:55:00Z,Rich brains vs. poor brains in childhood,Tyler Cowen,14
+2008/12/markets-in-ev-1,12327,2008-12-12T08:01:19Z,Markets in everything,Tyler Cowen,3
+2008/12/assorted-link-6,12326,2008-12-12T10:38:00Z,Assorted links,Tyler Cowen,6
+2008/12/prudie-on-husba,12325,2008-12-12T14:03:42Z,Prudie on husbands who write books,Tyler Cowen,25
+2008/12/law-and-economi,12324,2008-12-12T15:34:02Z,Law and Economics 2.0,Alex Tabarrok,0
+2008/12/markets-in-ev-2,12323,2008-12-12T21:10:42Z,Markets in everything,Tyler Cowen,4
+2008/12/how-to-spend-th,12322,2008-12-13T07:04:00Z,How to spend the stimulus,Tyler Cowen,8
+2008/12/progress-agains,12321,2008-12-13T07:40:00Z,Progress against Economicitis?,Alex Tabarrok,13
+2008/12/how-to-run-a-po,12320,2008-12-13T07:51:12Z,How to run a Ponzi scheme,Tyler Cowen,29
+2008/12/fords-uaw-contr,12319,2008-12-13T16:42:00Z,The rule of law?,Tyler Cowen,14
+2008/12/tips-for-scorin,12318,2008-12-13T18:39:07Z,Tips for scoring with the opposite sex,Tyler Cowen,14
+2008/12/markets-in-noth,12317,2008-12-14T06:09:00Z,Markets in hardly anything any more?,Tyler Cowen,12
+2008/12/washington-exam,12316,2008-12-14T07:23:19Z,Washington Examiner profile of me,Tyler Cowen,7
+2008/12/the-countercycl,12315,2008-12-14T12:33:50Z,"The countercyclical asset, a continuing series",Tyler Cowen,4
+2008/12/profitable-unti,12314,2008-12-14T14:30:00Z,"""Profitable until deemed illegal""",Tyler Cowen,18
+2008/12/why-is-the-new,12313,2008-12-15T07:10:00Z,Why is the New Springsteen Album Coming out in January?,Alex Tabarrok,11
+2008/12/keyness-gener-2,12312,2008-12-15T07:22:00Z,"Keynes's General Theory, chapter five",Tyler Cowen,8
+2008/12/the-best-senten,12311,2008-12-15T09:24:00Z,The best sentence I read yesterday,Tyler Cowen,18
+2008/12/very-good-sentences,12310,2008-12-15T12:02:43Z,Very good sentences,Tyler Cowen,0
+2008/12/assorted-link-8,12309,2008-12-15T14:28:09Z,Assorted links,Tyler Cowen,5
+2008/12/discover-your-i,12308,2008-12-15T15:28:00Z,"Discover your Inner Economist, Italian edition",Tyler Cowen,5
+2008/12/keyness-gener-3,12307,2008-12-15T23:05:00Z,"Keynes's General Theory, chapter six",Tyler Cowen,5
+2008/12/what-is-the-bes,12306,2008-12-16T06:49:00Z,What is the best kind of fiscal policy shock?,Tyler Cowen,13
+2008/12/markets-in-ev-3,12305,2008-12-16T07:55:37Z,"Markets in everything, Xmas edition",Tyler Cowen,4
+2008/12/markets-in-ev-4,12304,2008-12-16T10:24:00Z,Markets in everything China fact of the day,Tyler Cowen,4
+2008/12/paying-interest,12303,2008-12-16T16:48:00Z,"S.C. Tsiang, prophet",Tyler Cowen,7
+2008/12/assorted-link-9,12302,2008-12-16T20:39:00Z,Assorted links,Tyler Cowen,6
+2008/12/tyrone-runs-mon,12301,2008-12-17T07:04:49Z,Tyrone runs monetary policy,Tyler Cowen,10
+2008/12/how-did-nazi-fi,12300,2008-12-17T07:08:00Z,How did Nazi fiscal policy work?,Tyler Cowen,16
+2008/12/this-one-goes-t,12299,2008-12-17T07:10:00Z,This one Goes to Eleven,Alex Tabarrok,19
+2008/12/markets-in-ev-5,12298,2008-12-17T11:45:28Z,Markets in everything: Boxing Day edition,Tyler Cowen,6
+2008/12/assorted-link-7,12297,2008-12-17T13:54:00Z,Assorted links,Tyler Cowen,6
+2008/12/a-simple-model,12296,2008-12-18T05:42:00Z,"The economic crisis, the calculation debate, and stability theory",Tyler Cowen,9
+2008/12/a-public-good,12295,2008-12-18T07:03:00Z,The Point of Tipping?,Alex Tabarrok,21
+2008/12/safest-and-most,12294,2008-12-18T09:48:28Z,Safest and most dangerous U.S. cities,Tyler Cowen,29
+2008/12/fiscal-policy-a,12293,2008-12-18T12:52:00Z,Fiscal policy and the burden of proof,Tyler Cowen,30
+2008/12/daniel-tarullo,12292,2008-12-18T19:15:26Z,Daniel Tarullo,Tyler Cowen,2
+2008/12/tyler-cowen-pos,12290,2008-12-18T21:39:17Z,Tyler Cowen poses two questions to Paul Krugman,Tyler Cowen,4
+2008/12/imagine-this-pi,12289,2008-12-19T06:24:00Z,Pre-stimulus picture,Tyler Cowen,8
+2008/12/words-of-wisdom,12288,2008-12-19T07:28:00Z,Is Basel II to blame?,Tyler Cowen,10
+2008/12/the-future-of-3,12287,2008-12-19T09:27:42Z,The future of investment banking,Tyler Cowen,5
+2008/12/assorted-lin-10,12286,2008-12-19T13:01:03Z,Assorted links,Tyler Cowen,9
+2008/12/markets-in-ev-6,12285,2008-12-19T13:43:23Z,"Markets in everything, at first I thought this was a joke edition",Tyler Cowen,7
+2008/12/the-weirdest-se,12284,2008-12-19T15:21:17Z,The weirdest sentence that John de Palma read today,Tyler Cowen,6
+2008/12/i-dont-know-wha,12283,2008-12-19T22:55:33Z,I don't know what to think of this,Tyler Cowen,10
+2008/12/basel-capital-a,12282,2008-12-20T06:51:00Z,The Basel capital agreements,Tyler Cowen,2
+2008/12/does-santa-have,12281,2008-12-20T06:59:17Z,Does Santa have MFN status?,Tyler Cowen,5
+2008/12/column-in-money,12280,2008-12-20T10:47:47Z,"Column in *Money* magazine, January 2009",Tyler Cowen,4
+2008/12/markets-in-ev-7,12279,2008-12-20T12:29:06Z,Markets in Everything: Hurling Shoes,Alex Tabarrok,4
+2008/12/japanese-fiscal,12278,2008-12-21T07:07:00Z,Japanese fiscal policy in the 1990s,Tyler Cowen,19
+2008/12/assorted-lin-11,12277,2008-12-21T08:34:00Z,Assorted links,Tyler Cowen,8
+2008/12/world-music,12276,2008-12-21T15:48:00Z,My favorite world music recordings of 2008,Tyler Cowen,10
+2008/12/priorities-for,12275,2008-12-22T07:10:00Z,Priorities for the New FDA Commissioner,Alex Tabarrok,9
+2008/12/lords-of-financ,12274,2008-12-22T07:32:29Z,Lords of Finance,Tyler Cowen,5
+2008/12/does-this-pass,12273,2008-12-22T08:56:00Z,Are men or women more tolerant of inappropriate gifts?,Tyler Cowen,17
+2008/12/very-good-sente,12272,2008-12-22T11:34:03Z,Very good sentences,Tyler Cowen,17
+2008/12/interest-on-res,12271,2008-12-22T14:53:30Z,"Interest on reserves, continued",Tyler Cowen,7
+2008/12/will-he-still-b,12270,2008-12-23T07:06:00Z,Will he usher in a reign of futarchy?,Tyler Cowen,16
+2008/12/the-edge-of-the,12269,2008-12-23T07:40:47Z,The edge of the knife,Tyler Cowen,5
+2008/12/gold-fact-of-th,12268,2008-12-23T08:29:00Z,Gold fact of the day,Tyler Cowen,14
+2008/12/markets-in-ev-8,12267,2008-12-23T11:38:54Z,Markets in everything China fact of the day,Tyler Cowen,8
+2008/12/this-made-perfe,12266,2008-12-23T13:46:00Z,This made perfect sense to me,Tyler Cowen,6
+2008/12/the-latest-from,12265,2008-12-23T20:55:50Z,The latest from Harvard,Tyler Cowen,13
+2008/12/bagehot-beware,12263,2008-12-24T06:50:39Z,Bagehot: Beware the busy banker,Tyler Cowen,2
+2008/12/the-twelve-days,12262,2008-12-24T06:59:00Z,The Twelve Days of Christmas,Tyler Cowen,3
+2008/12/updates,12261,2008-12-24T07:08:14Z,Updates,Tyler Cowen,7
+2008/12/gm-fact-of-the,12260,2008-12-24T11:16:28Z,GM fact of the day,Tyler Cowen,18
+2008/12/merry-christmas,12259,2008-12-24T18:59:24Z,"Merry Christmas, here is your gift",Tyler Cowen,8
+2008/12/the-guardian-tr,12258,2008-12-24T19:19:40Z,The Guardian Trust Company of Detroit - the good ol' days,Tyler Cowen,2
+2008/12/christmas-in-ic,12257,2008-12-25T06:45:00Z,Christmas in Iceland,Tyler Cowen,5
+2008/12/merry-christm-1,12256,2008-12-25T07:05:00Z,Merry Christmas to All,Alex Tabarrok,3
+2008/12/brad-delong-o-1,12255,2008-12-25T20:02:00Z,Brad DeLong on fiscal policy,Tyler Cowen,15
+2008/12/does-paying-for,12254,2008-12-26T05:34:00Z,Does paying for grades work?,Tyler Cowen,8
+2008/12/my-christmas-pr,12253,2008-12-26T06:50:00Z,My Christmas present,Tyler Cowen,3
+2008/12/toys-that-reall,12252,2008-12-26T13:49:05Z,Toys that Really Work!,Alex Tabarrok,3
+2008/12/what-ive-been-1,12251,2008-12-26T15:40:54Z,What I've Been Reading,Tyler Cowen,8
+2008/12/the-wisdom-of-d,12250,2008-12-26T21:06:59Z,The wisdom of David Backus,Tyler Cowen,6
+2008/12/the-spirit,12249,2008-12-27T00:13:22Z,The Spirit,Alex Tabarrok,4
+2008/12/nazi-privatizat,12248,2008-12-27T06:12:00Z,Nazi privatization,Tyler Cowen,9
+2008/12/the-countercy-1,12247,2008-12-27T08:05:00Z,"The countercyclical asset, a continuing series",Tyler Cowen,3
+2008/12/was-bailing-out,12246,2008-12-27T10:14:53Z,Was bailing out Long-Term Capital Management a good idea?,Tyler Cowen,17
+2008/12/i-am-initiated,12245,2008-12-28T08:16:10Z,More niggling on fiscal stimulus,Tyler Cowen,28
+2008/12/gift-card-rescu,12244,2008-12-28T08:21:00Z,Gift card rescue: bid-ask spreads,Tyler Cowen,10
+2008/12/assorted-lin-12,12243,2008-12-28T12:21:00Z,Assorted links,Tyler Cowen,6
+2008/12/research-by-acc,12242,2008-12-28T20:40:27Z,Research by accident,Tyler Cowen,12
+2008/12/reverse-negativ,12241,2008-12-29T06:59:00Z,What arbitrage would look like if destruction were the goal,Tyler Cowen,7
+2008/12/macroeconomics,12240,2008-12-29T07:35:00Z,Macroeconomics without Supply,Alex Tabarrok,30
+2008/12/markets-in-ev-9,12239,2008-12-29T11:08:00Z,"Markets in everything, but out of stock",Tyler Cowen,6
+2008/12/one-ray-of-ligh,12238,2008-12-29T12:55:18Z,"One ray of light, one bolt of gloom",Tyler Cowen,17
+2008/12/request-for-req,12237,2008-12-29T17:15:19Z,Request for requests,Tyler Cowen,49
+2008/12/russian-metapho,12236,2008-12-29T22:24:23Z,Russian metaphor of the day,Tyler Cowen,7
+2008/12/intelligent-age,12235,2008-12-30T05:59:00Z,Intelligent agent modeling in economics,Tyler Cowen,18
+2008/12/why-havent-i-be,12234,2008-12-30T06:43:00Z,Why haven't I been to Portugal yet?,Tyler Cowen,10
+2008/12/why-not-oppose,12233,2008-12-30T12:22:00Z,Why not oppose TARP?,Tyler Cowen,19
+2008/12/should-the-gove,12232,2008-12-30T16:26:47Z,Should the government peg the S&P 500?,Tyler Cowen,27
+2008/12/intelligent-a-1,12230,2008-12-31T07:39:00Z,Intelligent agent modeling,Alex Tabarrok,8
+2008/12/chess-is-a-youn,12229,2008-12-31T07:43:53Z,Chess is now a young man's game,Tyler Cowen,17
+2008/12/assorted-lin-13,12228,2008-12-31T10:14:31Z,Assorted links,Tyler Cowen,5
+2008/12/exotic-ethiopia,12227,2008-12-31T16:30:13Z,Exotic Ethiopian Cooking,Tyler Cowen,9
 2009/01/how-to-keep-awa,12226,2009-01-01T06:27:00Z,How to keep away inflation in the future,Tyler Cowen,17
 2009/01/a-new-day,12225,2009-01-01T10:03:02Z,A *New Day*,Tyler Cowen,7
 2009/01/what-will-chang,12224,2009-01-01T13:21:46Z,What will change *everything*?,Tyler Cowen,17

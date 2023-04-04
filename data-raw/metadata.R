@@ -30,6 +30,7 @@ replace_non_ascii = function(x) {
     subfun('ç', 'c') %>%
     subfun('ð', 'd') %>%
     subfun('c̶', 'c') %>%
+    subfun('Ãª', 'e') %>%
     subfun('é', 'e') %>%
     subfun('é', 'e') %>%
     subfun('è', 'e') %>%
@@ -92,7 +93,7 @@ for (year_dir in year_dirs) {
       # Create table
       dat = tibble(file = files) %>%
         mutate(path = sub(paste0(POSTS_DIR, '/(.*)/metadata.csv'), '\\1', file),
-               res = map(file, vroom, show_col_types = F)) %>%
+               res = map(file, vroom, col_types = 'nTccn')) %>%
         select(-file) %>%
         unnest('res') %>%
         arrange(time)
