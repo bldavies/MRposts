@@ -16,6 +16,7 @@ library(vroom)
 source('data-raw/globals.R')
 
 # Import data collected manually
+categories_broken = read_csv('data-raw/manual/categories_broken.csv')
 categories_duplicated = read_csv('data-raw/manual/categories_duplicated.csv')
 
 # Import metadata
@@ -59,6 +60,7 @@ for (year_dir in year_dirs) {
 cache_files = list.files(cache_dir, full.names = T)
 categories = cache_files %>%
   vroom(show_col_types = F) %>%
+  bind_rows(categories_broken) %>%
   bind_rows(categories_duplicated) %>%
   arrange(id) %>%
   semi_join(metadata, by = 'id')

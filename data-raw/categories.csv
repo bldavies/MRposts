@@ -1423,6 +1423,7 @@ id,category
 8569,Political Science
 8570,Economics
 8571,Web/Tech
+8572,Economics
 8573,Current Affairs
 8573,Economics
 8574,Music
@@ -1547,6 +1548,8 @@ id,category
 8639,Economics
 8639,Food and Drink
 8640,Web/Tech
+8641,Data Source
+8641,Economics
 8642,Economics
 8642,Games
 8642,Law
@@ -3065,6 +3068,9 @@ id,category
 9510,Food and Drink
 9511,Books
 9512,Economics
+9513,Books
+9513,Philosophy
+9513,Political Science
 9514,Web/Tech
 9515,Books
 9515,Science
@@ -3727,6 +3733,8 @@ id,category
 9908,Web/Tech
 9909,Current Affairs
 9909,Economics
+9910,Economics
+9910,Education
 9911,Data Source
 9911,Education
 9912,Books
@@ -3798,6 +3806,8 @@ id,category
 9952,Television
 9954,Economics
 9955,Current Affairs
+9956,Current Affairs
+9956,Travel
 9957,Current Affairs
 9957,Data Source
 9957,Economics
@@ -3926,6 +3936,8 @@ id,category
 10026,Philosophy
 10027,Books
 10027,Web/Tech
+10028,Current Affairs
+10028,Food and Drink
 10029,Web/Tech
 10030,Books
 10030,Data Source
@@ -5697,6 +5709,9 @@ id,category
 11442,Weblogs
 11443,Weblogs
 11444,Web/Tech
+11445,Economics
+11445,Education
+11445,Medicine
 11446,Economics
 11447,Economics
 11448,Books
@@ -5732,6 +5747,9 @@ id,category
 11473,Web/Tech
 11474,Games
 11475,Economics
+11476,Books
+11476,History
+11476,The Arts
 11477,Economics
 11478,Web/Tech
 11479,Weblogs
@@ -5839,6 +5857,7 @@ id,category
 11557,Political Science
 11558,Food and Drink
 11559,Economics
+11560,Food and Drink
 11561,Web/Tech
 11562,Books
 11562,Economics
@@ -6733,6 +6752,7 @@ id,category
 12406,Current Affairs
 12407,Books
 12407,Film
+12408,Economics
 12409,Political Science
 12410,Web/Tech
 12411,Economics
@@ -6778,6 +6798,7 @@ id,category
 12446,Books
 12447,Economics
 12448,Education
+12449,Economics
 12450,Current Affairs
 12451,Philosophy
 12452,History
@@ -6814,6 +6835,7 @@ id,category
 12481,Economics
 12482,Food and Drink
 12483,Web/Tech
+12484,History
 12485,Economics
 12485,History
 12485,Science
@@ -6937,6 +6959,7 @@ id,category
 12588,Economics
 12588,History
 12589,Books
+12590,Economics
 12591,Political Science
 12592,Economics
 12593,Economics
@@ -7089,6 +7112,7 @@ id,category
 12743,Current Affairs
 12743,Economics
 12744,Current Affairs
+12745,History
 12746,Travels
 12747,Sports
 12748,Economics
@@ -7132,6 +7156,7 @@ id,category
 12780,Data Source
 12781,Current Affairs
 12782,Books
+12783,Current Affairs
 12784,Economics
 12785,Economics
 12786,Current Affairs
@@ -7440,6 +7465,7 @@ id,category
 13078,Political Science
 13079,Economics
 13080,Political Science
+13081,Data Source
 13082,Web/Tech
 13083,Data Source
 13084,Education
@@ -7468,6 +7494,7 @@ id,category
 13108,Medicine
 13109,Economics
 13110,Economics
+13111,Philosophy
 13112,Sports
 13113,Education
 13114,Food and Drink
@@ -7482,6 +7509,7 @@ id,category
 13123,The Arts
 13124,Economics
 13125,Economics
+13126,Data Source
 13127,Political Science
 13127,Religion
 13128,Economics
@@ -7524,6 +7552,7 @@ id,category
 13163,Science
 13164,Economics
 13165,Current Affairs
+13166,Economics
 13167,Economics
 13168,Education
 13169,Web/Tech
@@ -7855,6 +7884,7 @@ id,category
 13481,Science
 13482,Current Affairs
 13482,Law
+13483,Current Affairs
 13484,Data Source
 13485,Film
 13486,Food and Drink
@@ -8024,6 +8054,7 @@ id,category
 13642,Science
 13643,Economics
 13644,Data Source
+13645,Political Science
 13646,Economics
 13647,Economics
 13648,Books
@@ -8336,6 +8367,7 @@ id,category
 13955,Sports
 13956,Law
 13956,Political Science
+13957,Web/Tech
 13958,Books
 13959,Economics
 13960,Law
@@ -8360,6 +8392,7 @@ id,category
 13978,Film
 13979,Web/Tech
 13980,Economics
+13981,Books
 13982,Science
 13983,Economics
 13984,Economics
@@ -8575,6 +8608,7 @@ id,category
 14185,Books
 14186,Education
 14187,Travels
+14188,Economics
 14190,Books
 14191,The Arts
 14192,Data Source
@@ -9010,6 +9044,7 @@ id,category
 14592,Economics
 14593,Economics
 14594,Web/Tech
+14595,Medicine
 14596,Economics
 14597,Economics
 14598,Economics
