@@ -36,6 +36,7 @@ replace_non_ascii = function(x) {
     subfun('Ãª', 'e') %>%
     subfun('é', 'e') %>%
     subfun('é', 'e') %>%
+    subfun('Ã¨', 'e') %>%
     subfun('è', 'e') %>%
     subfun('ë', 'e') %>%
     subfun('İ', 'I') %>%
@@ -68,7 +69,8 @@ replace_non_ascii = function(x) {
     subfun('¡', '') %>%
     subfun('×', 'x') %>%
     subfun('ﬁ', 'fi') %>%
-    subfun('™', '')
+    subfun('™', '') %>%
+    subfun('Ð¶ÐµÑ\u0081Ñ‚ÐºÐ¸Ð¹', '???????')  # жесткий ?
 }
 
 # Initialize cache directory
