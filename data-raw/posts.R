@@ -95,6 +95,9 @@ for (i in 1:nrow(posts)) {
       if (post_id == 9061) {
         post_title = 'Confusions about the multiplier < 1 (me defending fiscal policy, sort of)'
       }
+      if (post_id == 18949) {
+        post_comments = 0
+      }
       if (post_id == 77456) {
         post_title = 'Big Data+Small Bias << Small Data+Zero Bias'
       }
