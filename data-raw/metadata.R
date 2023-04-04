@@ -64,6 +64,7 @@ replace_non_ascii = function(x) {
     subfun('’', '\'') %>%
     subfun('“', '"') %>%
     subfun('”', '"') %>%
+    subfun('†\u009d', '"') %>%
     subfun('‐', '-') %>%
     subfun('–', '-') %>%
     subfun('—', '-') %>%
