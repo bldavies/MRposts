@@ -18,8 +18,8 @@ source('data-raw/globals.R')
 # Import sitemap
 sitemap = read_csv('data-raw/sitemap.csv')
 
-# Import list of duplicated paths
-duplicated_paths = read_csv('data-raw/duplicated-paths.csv')
+# Import metadata on posts with duplicated paths
+metadata_duplicated = read_csv('data-raw/manual/metadata_duplicated.csv')
 
 # Import list of errant paths
 errant_paths = read_csv('data-raw/errant-paths.csv')
@@ -28,7 +28,7 @@ errant_paths = read_csv('data-raw/errant-paths.csv')
 posts = sitemap %>%
   mutate(month = as_date(paste0(substr(path, 1, 8), '01'))) %>%
   filter(month %in% unique(floor_date(DATE_RANGE, 'months'))) %>%
-  anti_join(duplicated_paths, by = 'path') %>%
+  anti_join(metadata_duplicated, by = 'path') %>%
   anti_join(errant_paths, by = 'path')
 
 # Iterate over posts in date range

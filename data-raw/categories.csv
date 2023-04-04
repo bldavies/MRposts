@@ -268,6 +268,7 @@ id,category
 7943,Books
 7944,Economics
 7944,Education
+7945,Web/Tech
 7946,Books
 7946,Economics
 7946,History
@@ -461,6 +462,7 @@ id,category
 8047,Books
 8047,Education
 8047,Music
+8048,Web/Tech
 8049,Economics
 8049,Science
 8050,Economics
@@ -501,6 +503,7 @@ id,category
 8069,Science
 8070,Economics
 8070,The Arts
+8071,Web/Tech
 8072,Economics
 8073,Books
 8073,Current Affairs
@@ -1140,6 +1143,7 @@ id,category
 8417,Economics
 8417,History
 8417,Political Science
+8418,Web/Tech
 8419,Education
 8419,Film
 8419,History
@@ -1437,6 +1441,7 @@ id,category
 8581,Economics
 8582,Books
 8582,Philosophy
+8583,Web/Tech
 8584,Economics
 8584,Political Science
 8585,Web/Tech
@@ -1639,6 +1644,8 @@ id,category
 8695,Philosophy
 8696,Web/Tech
 8697,Political Science
+8698,Current Affairs
+8698,Economics
 8699,Economics
 8700,Economics
 8702,Economics
@@ -1675,6 +1682,7 @@ id,category
 8720,Philosophy
 8721,Web/Tech
 8722,Education
+8723,Economics
 8724,Books
 8724,History
 8724,Political Science
@@ -1957,6 +1965,7 @@ id,category
 8870,Education
 8871,Science
 8871,The Arts
+8872,Books
 8873,Economics
 8873,Political Science
 8874,Current Affairs
@@ -2038,6 +2047,7 @@ id,category
 8917,Economics
 8918,Economics
 8919,Web/Tech
+8920,Books
 8921,Education
 8921,Philosophy
 8922,Current Affairs
@@ -4326,6 +4336,7 @@ id,category
 10297,Law
 10298,Current Affairs
 10298,Economics
+10299,Web/Tech
 10300,Medicine
 10301,Economics
 10302,Data Source
@@ -4570,6 +4581,7 @@ id,category
 10467,History
 10468,Books
 10468,Music
+10469,Web/Tech
 10471,Food and Drink
 10472,Current Affairs
 10473,Food and Drink
@@ -4738,6 +4750,7 @@ id,category
 10588,Philosophy
 10589,Economics
 10590,Science
+10592,Web/Tech
 10594,Economics
 10595,Food and Drink
 10596,Economics
@@ -4829,6 +4842,7 @@ id,category
 10665,Economics
 10665,Education
 10666,Weblogs
+10667,Web/Tech
 10668,Economics
 10669,Economics
 10671,Books
@@ -8848,6 +8862,7 @@ id,category
 14455,Economics
 14456,Political Science
 14457,Economics
+14458,Web/Tech
 14461,Economics
 14461,Sports
 14462,History
@@ -8875,6 +8890,7 @@ id,category
 14481,Education
 14482,Economics
 14483,Data Source
+14484,Web/Tech
 14485,Economics
 14486,Books
 14487,Current Affairs

@@ -18,6 +18,9 @@ library(vroom)
 # Import globals
 source('data-raw/globals.R')
 
+# Import data collected manually
+metadata_duplicated = read_csv('data-raw/manual/metadata_duplicated.csv')
+
 # Define function for replacing non-ASCII characters with ASCII equivalents
 replace_non_ascii = function(x) {
   subfun = function(x, pattern, y) gsub(pattern, y, x)
@@ -109,7 +112,9 @@ for (year_dir in year_dirs) {
 cache_files = list.files(cache_dir, full.names = T)
 metadata = cache_files %>%
   vroom(show_col_types = F) %>%
+  bind_rows(metadata_duplicated) %>%
   filter(date(time) %in% DATE_RANGE) %>%
+  arrange(time) %>%
   mutate(title = replace_non_ascii(title))
 
 # Assert IDs are unique
