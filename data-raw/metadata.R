@@ -124,7 +124,8 @@ metadata = cache_files %>%
   bind_rows(metadata_duplicated) %>%
   filter(date(time) %in% DATE_RANGE) %>%
   arrange(time) %>%
-  mutate(title = replace_non_ascii(title))
+  mutate(title = replace_non_ascii(title),
+         title = trimws(gsub('\\s+', ' ', title)))
 
 # Assert IDs are unique
 if (max(count(metadata, id)$n) > 1) {
