@@ -1,4 +1,638 @@
 path,id,time,title,author,comments
+2003/08/the_lunar_men,20942,2003-08-21T15:07:10Z,The Lunar Men,Alex Tabarrok,0
+2003/08/how_different_i,20941,2003-08-23T18:58:36Z,How different is Canada?,Tyler Cowen,0
+2003/08/larry_summers_i,20940,2003-08-24T09:09:57Z,Larry Summers in The New York Times,Tyler Cowen,0
+2003/08/a_contradiction,20939,2003-08-24T22:56:45Z,A contradiction in my (previous) views,Tyler Cowen,0
+2003/08/how_high_are_tr,20938,2003-08-25T21:49:27Z,How high are transportation costs?,Tyler Cowen,0
+2003/08/more_on_larry_s,20937,2003-08-25T21:56:20Z,More on Larry Summers,Tyler Cowen,0
+2003/08/four_percent_of,20936,2003-08-25T22:23:38Z,Four percent of gdp...,Tyler Cowen,0
+2003/08/chinas_trade_de,20935,2003-08-26T08:09:45Z,China's trade deficit,Tyler Cowen,0
+2003/08/even_the_christ,20934,2003-08-26T09:48:08Z,Even the Christians Can't Agree,Alex Tabarrok,0
+2003/08/virtual_economi,20933,2003-08-26T16:08:07Z,Virtual economies,Tyler Cowen,0
+2003/08/is_alan_greensp,20932,2003-08-26T21:33:56Z,Is Alan Greenspan underpaid?,Tyler Cowen,0
+2003/08/a_good_source_o,20931,2003-08-27T07:26:56Z,A good source of cross-sectional data across nations,Tyler Cowen,0
+2003/08/african_food_sc,20930,2003-08-28T08:25:00Z,African food scandal,Tyler Cowen,0
+2003/08/nathaniel_brand,20929,2003-08-28T08:36:45Z,Nathaniel Branden and Ayn Rand on Alan Greenspan,Tyler Cowen,0
+2003/08/road_pricing_ta,20928,2003-08-29T07:45:28Z,"Road pricing, taken to an extreme",Tyler Cowen,0
+2003/08/the_psychology_,20927,2003-08-29T15:55:45Z,The psychology of defeat - hope for Iraqi reconstruction?,Tyler Cowen,0
+2003/08/endowment_effec,20926,2003-08-30T08:11:02Z,Endowment effects and trader experience,Tyler Cowen,0
+2003/08/our_shrinking_a,20925,2003-08-31T09:02:16Z,Our shrinking arms industry?,Tyler Cowen,0
+2003/08/there_aint_no_s,20924,2003-08-31T09:14:58Z,The Cost of a Sibling,Tyler Cowen,0
+2003/08/_a_familiar_sou,20923,2003-08-31T17:02:08Z,For the fanatic,Tyler Cowen,0
+2003/08/galbraith_ii,20922,2003-08-31T22:39:14Z,Galbraith II,Alex Tabarrok,0
+2003/09/game_theory_in_,20921,2003-09-01T11:07:33Z,Game theory in popular culture,Tyler Cowen,0
+2003/09/what_will_a_vou,20920,2003-09-02T06:58:49Z,What will a voucher buy?,Tyler Cowen,0
+2003/09/virginia_postre,20919,2003-09-02T07:19:25Z,Virginia Postrel,Tyler Cowen,0
+2003/09/a_response_to_c,20918,2003-09-02T08:34:58Z,A response to Charles Murray,Tyler Cowen,0
+2003/09/step_gingerly,20917,2003-09-02T12:05:52Z,Step Gingerly,Alex Tabarrok,0
+2003/09/education_vouch,20916,2003-09-02T22:04:34Z,Education Vouchers: The Lessons from Housing,Alex Tabarrok,0
+2003/09/when_is_word_of,20915,2003-09-03T06:49:59Z,When is word of mouth important?,Tyler Cowen,0
+2003/09/sowell_and_schw,20914,2003-09-03T07:34:32Z,Sowell and Schwarzenegger,Tyler Cowen,0
+2003/09/russian_rebound,20913,2003-09-03T08:09:21Z,Russian rebound,Tyler Cowen,0
+2003/09/make_your_kids_,20912,2003-09-03T10:48:09Z,Make your kids taller,Tyler Cowen,0
+2003/09/blame_sarbaneso,20911,2003-09-03T14:39:11Z,"""Blame Sarbanes-Oxley""",Tyler Cowen,0
+2003/09/kiwi_watch_can_,20910,2003-09-04T07:35:55Z,Kiwi watch: Can New Zealand fly again?,Tyler Cowen,0
+2003/09/how_rich_are_yo,20909,2003-09-04T07:43:58Z,"How rich are you, globally?",Tyler Cowen,0
+2003/09/why_i_worry_abo,20908,2003-09-04T15:29:49Z,Why I worry about vouchers,Tyler Cowen,0
+2003/09/being_a_collect,20907,2003-09-05T07:41:43Z,Being a collector is cheaper than you think,Tyler Cowen,0
+2003/09/can_you_find_a_,20906,2003-09-05T08:02:21Z,Can you find a Republican on the MIT faculty?,Tyler Cowen,0
+2003/09/long_live_the_m,20905,2003-09-05T20:13:37Z,Long Live the Marginal Revolution!,Alex Tabarrok,0
+2003/09/will_vouchers_s,20904,2003-09-05T23:08:29Z,Will Vouchers Split the Democratic Party?,Alex Tabarrok,0
+2003/09/induced_innovat,20903,2003-09-06T07:18:29Z,Induced innovation in prisons,Tyler Cowen,0
+2003/09/blogging_for_pr,20902,2003-09-06T07:24:43Z,Blogging for profit?,Tyler Cowen,0
+2003/09/restaurant_econ,20901,2003-09-07T07:58:34Z,Restaurant economics,Tyler Cowen,0
+2003/09/the_mind_of_pau,20900,2003-09-07T08:18:39Z,The mind of Paul Krugman,Tyler Cowen,0
+2003/09/do_you_know_wha,20899,2003-09-07T18:02:48Z,Do you know what makes you happy?,Tyler Cowen,0
+2003/09/happiness_ii,20898,2003-09-07T20:45:31Z,Do scientists know what makes you happy?,Alex Tabarrok,0
+2003/09/global_warming_,20897,2003-09-08T07:03:57Z,Global warming update,Tyler Cowen,0
+2003/09/are_student_eva,20896,2003-09-08T13:15:08Z,Are student evaluations a good idea?,Tyler Cowen,0
+2003/09/who_are_the_mos,20895,2003-09-08T18:34:12Z,Who are the most partisan columnists?,Tyler Cowen,0
+2003/09/does_the_wto_ma,20894,2003-09-08T18:58:52Z,Does the WTO matter?,Tyler Cowen,0
+2003/09/against_agricul,20893,2003-09-09T07:38:37Z,Against agricultural subsidies,Tyler Cowen,0
+2003/09/if_shemekia_wer,20892,2003-09-09T15:01:00Z,If Shemekia were Sally would she earn more?,Alex Tabarrok,0
+2003/09/do_you_know_wha_1,20891,2003-09-09T16:35:00Z,Do you know what made you happy?,Tyler Cowen,0
+2003/09/dead_languages,20890,2003-09-09T21:15:25Z,Dead languages?,Tyler Cowen,0
+2003/09/global_warming__1,20889,2003-09-10T03:04:00Z,Mars in the Balance?,Alex Tabarrok,0
+2003/09/bhagwhati_criti,20888,2003-09-10T06:12:19Z,Bhagwati criticizes the WTO,Tyler Cowen,0
+2003/09/why_do_intellec,20887,2003-09-10T06:58:55Z,Why do intellectuals oppose capitalism?,Tyler Cowen,0
+2003/09/productivity_pu,20886,2003-09-10T13:36:06Z,"Productivity puzzles, or are we seeing a miracle?",Tyler Cowen,0
+2003/09/the_new_and_exc,20885,2003-09-10T17:22:19Z,Movies for entrepreneurs,Tyler Cowen,0
+2003/09/the_next_fed_ch,20884,2003-09-10T22:15:34Z,The next Fed chairman?,Tyler Cowen,0
+2003/09/in_memoriam,20883,2003-09-10T22:23:15Z,In Memoriam,Tyler Cowen,0
+2003/09/surprise_fox_is,20882,2003-09-11T02:05:00Z,Surprise! Fox News is Fair and Balanced!,Alex Tabarrok,0
+2003/09/are_book_review,20881,2003-09-11T07:15:57Z,Are book reviewers honest?,Tyler Cowen,0
+2003/09/how_many_heat_d,20880,2003-09-11T14:55:19Z,How many heat deaths?,Tyler Cowen,0
+2003/09/paul_krugmans_l,20879,2003-09-11T21:36:41Z,Paul Krugman's latest,Tyler Cowen,0
+2003/09/two_interesting,20878,2003-09-11T21:49:46Z,Two interesting blogs,Tyler Cowen,0
+2003/09/the_poor_love_g,20877,2003-09-12T06:52:56Z,The poor love globalization,Tyler Cowen,0
+2003/09/why_do_ticket_s,20876,2003-09-12T07:11:46Z,Why do ticket sellers allow scalping?,Tyler Cowen,0
+2003/09/did_mussolini_m,20875,2003-09-12T10:00:40Z,Did Mussolini make the trains run on time?,Tyler Cowen,0
+2003/09/littleknown_lit,20874,2003-09-12T16:54:51Z,Little-known literary gatekeepers,Tyler Cowen,0
+2003/09/an_argument_why,20873,2003-09-12T17:31:28Z,An argument why micropayments for Internet content will never work,Tyler Cowen,0
+2003/09/thoughts_on_blo,20872,2003-09-13T07:33:52Z,Thoughts on blogging,Tyler Cowen,0
+2003/09/liberalization_,20871,2003-09-13T08:08:15Z,Liberalization of capital markets,Tyler Cowen,0
+2003/09/medieval_techno,20870,2003-09-13T08:45:11Z,Medieval technology was better than you would think,Tyler Cowen,0
+2003/09/darwinian_polit,20869,2003-09-14T07:54:31Z,Darwinian politics,Tyler Cowen,0
+2003/09/an_interview_wi,20868,2003-09-14T09:02:01Z,"An interview with me, on cultural globalization",Tyler Cowen,0
+2003/09/fabio_joins_the,20867,2003-09-14T18:21:17Z,Fabio joins the Marginal Revolution!,Alex Tabarrok,0
+2003/09/sweden_rejects_,20866,2003-09-14T19:47:15Z,Sweden rejects the Euro,Tyler Cowen,0
+2003/09/islamic_banking,20865,2003-09-14T23:12:23Z,Islamic Banking,Fabio Rojas,0
+2003/09/httpwwwdaviddfr,20864,2003-09-15T02:00:00Z,The Demise of Crypto Anarchy,Alex Tabarrok,0
+2003/09/more_on_student,20863,2003-09-15T06:26:45Z,More on student evaluations of professors,Tyler Cowen,0
+2003/09/should_we_be_su,20862,2003-09-15T06:57:12Z,Should we be surprised that the Cancun WTO talks failed?,Tyler Cowen,0
+2003/09/art_careers,20861,2003-09-15T11:48:05Z,Art careers,Fabio Rojas,0
+2003/09/california_reca,20860,2003-09-15T15:26:32Z,California Recall Postponed,Fabio Rojas,0
+2003/09/who_is_leo_stra,20859,2003-09-15T15:33:31Z,Who is Leo Strauss?,Tyler Cowen,0
+2003/09/the_cato_instit,20858,2003-09-15T15:43:55Z,Globalization and poverty: a debate,Tyler Cowen,0
+2003/09/the_democrats_h,20857,2003-09-15T17:43:15Z,The Democrats have the rich Senators,Tyler Cowen,0
+2003/09/the_beast_isnt_,20856,2003-09-15T18:50:05Z,The beast isn't starving,Alex Tabarrok,0
+2003/09/which_philosoph,20855,2003-09-16T07:14:57Z,Which philosophers will last the ages?,Tyler Cowen,0
+2003/09/the_economics_o,20854,2003-09-16T07:28:02Z,The economics of diets,Tyler Cowen,0
+2003/09/the_value_of_a_,20853,2003-09-16T08:11:49Z,The value of a lone dissenter,Tyler Cowen,0
+2003/09/cannabis_emptor,20852,2003-09-16T10:23:10Z,Cannabis Emptor,Alex Tabarrok,0
+2003/09/why_the_eu_wont,20851,2003-09-16T14:20:18Z,Why the EU won't become a federal government,Tyler Cowen,0
+2003/09/tortured_justic,20850,2003-09-16T17:23:00Z,Tortured Justice,Alex Tabarrok,0
+2003/09/textbooks_wars,20849,2003-09-16T18:48:32Z,Textbook Wars,Fabio Rojas,0
+2003/09/arguments_again,20848,2003-09-16T21:46:13Z,Arguments against micropayments,Tyler Cowen,0
+2003/09/the_power_of_qu,20847,2003-09-16T21:59:15Z,The power of quality certification,Tyler Cowen,0
+2003/09/a_recent_milton,20846,2003-09-16T22:22:48Z,A recent Milton Friedman interview,Tyler Cowen,0
+2003/09/style_and_virgi,20845,2003-09-17T07:21:52Z,Style and Virginia Postrel,Tyler Cowen,0
+2003/09/the_costliest_h,20844,2003-09-17T08:00:37Z,The costliest hurricanes,Tyler Cowen,0
+2003/09/iraq_and_the_ma,20843,2003-09-17T11:14:55Z,Iraq and the Marshall Plan,Tyler Cowen,0
+2003/09/history_of_the_,20842,2003-09-17T14:42:21Z,History of the California Recall,Fabio Rojas,0
+2003/09/why_does_the_mi,20841,2003-09-17T16:52:18Z,Why does the middle class feel so poor?,Tyler Cowen,0
+2003/09/the_stigma_of_b,20840,2003-09-17T17:20:44Z,The stigma of bankruptcy,Tyler Cowen,0
+2003/09/sue_me_sue_you_,20839,2003-09-17T19:14:36Z,"Sue me, sue you blues",Tyler Cowen,0
+2003/09/the_economics_o_1,20838,2003-09-18T07:27:27Z,The Economics of Child Labor,Tyler Cowen,0
+2003/09/frankenfoods_an,20837,2003-09-18T07:43:20Z,Frankenfoods and the environment,Tyler Cowen,0
+2003/09/are_cell_phones,20836,2003-09-18T07:54:12Z,Are cell phones killing off ghost stories?,Tyler Cowen,0
+2003/09/general_wesley_,20835,2003-09-18T08:08:50Z,General Wesley Clark and progressive taxation,Tyler Cowen,0
+2003/09/executive_pay,20834,2003-09-18T09:32:13Z,Executive Pay,Fabio Rojas,0
+2003/09/advice_for_budd,20833,2003-09-18T13:55:27Z,Advice for budding bloggers,Tyler Cowen,0
+2003/09/how_state_gover,20832,2003-09-18T14:49:07Z,How state government works,Tyler Cowen,0
+2003/09/panic_at_the_io,20831,2003-09-18T15:01:20Z,Panic at the Iowa Electronic Market?,Fabio Rojas,0
+2003/09/storming_the_ma,20830,2003-09-18T15:54:51Z,Storming the MarginalRevolution,Tyler Cowen,0
+2003/09/monkey_see_monk,20829,2003-09-19T07:47:21Z,"Monkey see, monkey do?",Tyler Cowen,0
+2003/09/the_cost_of_tv_,20828,2003-09-19T07:53:28Z,The cost of TV advertisements,Tyler Cowen,0
+2003/09/the_trade_defic,20827,2003-09-19T08:10:40Z,The trade deficit and the dollar,Tyler Cowen,0
+2003/09/you_can_always_,20826,2003-09-19T08:25:58Z,You can always resell it,Tyler Cowen,0
+2003/09/the_amazon_was_,20825,2003-09-19T08:50:17Z,Early Amazon civilization discovered,Tyler Cowen,0
+2003/09/john_lott_and_g,20824,2003-09-19T19:48:00Z,John Lott and gun control,Tyler Cowen,0
+2003/09/will_life_exten,20823,2003-09-19T20:06:09Z,Will life extension increase risk aversion?,Tyler Cowen,0
+2003/09/class_size_does,20822,2003-09-19T20:18:57Z,Class size doesn't matter much,Tyler Cowen,0
+2003/09/new_chief_econo,20821,2003-09-19T20:31:59Z,New Chief Economist at the IMF,Tyler Cowen,0
+2003/09/did_iraqis_own_,20820,2003-09-20T09:46:08Z,NY Times Wrong on Iraqi Gun Ownership,Alex Tabarrok,0
+2003/09/will_bush_back_,20819,2003-09-20T11:48:50Z,Will Bush back away from steel tariffs?,Tyler Cowen,0
+2003/09/stalin_shakespe,20818,2003-09-20T12:00:34Z,"Stalin, Shakespeare, and Tarzan",Tyler Cowen,0
+2003/09/google_the_revo,20817,2003-09-21T02:51:48Z,Google the Revolution!,Alex Tabarrok,0
+2003/09/where_do_people,20816,2003-09-21T08:08:40Z,Where do people marry close relatives?,Tyler Cowen,0
+2003/09/will_those_anno,20815,2003-09-21T08:20:15Z,Will those annoying calls go away?,Tyler Cowen,0
+2003/09/amateur_book_re,20814,2003-09-21T08:27:06Z,Amateur reviewers are conformists,Tyler Cowen,0
+2003/09/elephants_all_t,20813,2003-09-21T08:29:32Z,Elephants all the way down,Tyler Cowen,0
+2003/09/tragedy_of_the_,20812,2003-09-21T08:41:13Z,Tragedy of the tragedy of the commons,Tyler Cowen,0
+2003/09/the_best_way_to,20811,2003-09-21T09:55:14Z,The best way to get a cell phone for use abroad,Tyler Cowen,0
+2003/09/never_miss_a_da,20810,2003-09-21T11:32:12Z,Never miss a day of the revolution!,Alex Tabarrok,0
+2003/09/reagan_letters_,20809,2003-09-21T12:12:57Z,Reagan Letters Published,Fabio Rojas,0
+2003/09/the_eric_rasmus,20808,2003-09-21T16:09:47Z,The Eric Rasmusen controversy,Tyler Cowen,0
+2003/09/what_have_we_le,20807,2003-09-21T18:53:55Z,What have we learned about income distribution?,Tyler Cowen,0
+2003/09/things_i_had_no,20806,2003-09-21T19:12:06Z,Things I had not known about taxonomy,Tyler Cowen,0
+2003/09/sleep_and_perso,20805,2003-09-22T00:04:16Z,Sleep and Personality,Fabio Rojas,0
+2003/09/the_economics_j,20804,2003-09-22T07:03:26Z,The economics job market,Tyler Cowen,0
+2003/09/is_larry_summer,20803,2003-09-22T08:00:18Z,Is Larry Summers reshaping Harvard?,Tyler Cowen,0
+2003/09/why_its_good_to,20802,2003-09-22T09:34:00Z,Why executives should be paid more than they deserve,Alex Tabarrok,0
+2003/09/is_love_predict,20801,2003-09-22T16:58:27Z,Is love predictable?,Tyler Cowen,0
+2003/09/presidential_vo,20800,2003-09-22T17:12:53Z,Presidential Voices and Electoral Victory,Fabio Rojas,0
+2003/09/herd_behavior_a,20799,2003-09-22T17:15:44Z,Herd behavior and dominant strategies for mice,Tyler Cowen,0
+2003/09/the_new_robert_,20798,2003-09-22T21:42:20Z,The new Robert Putnam book,Tyler Cowen,0
+2003/09/one_mans_vice,20797,2003-09-23T06:09:43Z,One man's vice...,Tyler Cowen,0
+2003/09/smuggling_among,20796,2003-09-23T06:15:40Z,Smuggling amongst the Amish,Tyler Cowen,0
+2003/09/file_sharing_he,20795,2003-09-23T06:20:21Z,File sharing helps some music labels,Tyler Cowen,0
+2003/09/race_crime_and_,20794,2003-09-23T09:28:27Z,"Race, Crime and Job Discrimination",Fabio Rojas,0
+2003/09/tom_peters_wher,20793,2003-09-23T10:08:12Z,Tom Peters where are you?,Tyler Cowen,0
+2003/09/recall_schedule,20792,2003-09-23T13:55:17Z,Recall Scheduled for Oct. 7,Fabio Rojas,0
+2003/09/what_liberal_me,20791,2003-09-23T14:34:05Z,What liberal media?,Tyler Cowen,0
+2003/09/why_dont_we_see,20790,2003-09-23T15:07:21Z,Why don't we see more price gouging?,Tyler Cowen,0
+2003/09/an_even_shorter,20789,2003-09-23T22:22:00Z,An even shorter introduction to intelligence,Alex Tabarrok,0
+2003/09/a_good_deal_for,20788,2003-09-24T06:45:15Z,A good deal for me,Tyler Cowen,0
+2003/09/capitalism_and_,20787,2003-09-24T06:50:59Z,Capitalism and the musical,Tyler Cowen,0
+2003/09/more_on_price_g,20786,2003-09-24T07:23:52Z,More on price gouging,Tyler Cowen,0
+2003/09/are_stock_trade,20785,2003-09-24T08:01:03Z,Are stock traders just random?,Tyler Cowen,0
+2003/09/what_caused_the,20784,2003-09-24T08:55:23Z,What caused the London power blackout?,Tyler Cowen,0
+2003/09/smart_credit_ca,20783,2003-09-24T16:36:18Z,Smart credit cards: markets in self-constraint,Tyler Cowen,0
+2003/09/opec_iraq_and_t,20782,2003-09-24T20:42:24Z,"OPEC, Iraq and Taxes",Alex Tabarrok,0
+2003/09/talking_down_th,20781,2003-09-24T21:36:51Z,Talking down the dollar,Tyler Cowen,0
+2003/09/small_medium_la,20780,2003-09-24T22:33:48Z,"Small, Medium, Large",Alex Tabarrok,0
+2003/09/how_have_newspa,20779,2003-09-25T07:15:17Z,How have newspapers changed since the early 1960s?,Tyler Cowen,0
+2003/09/mom_works_child,20778,2003-09-25T07:22:49Z,"Mom works, child eats",Tyler Cowen,0
+2003/09/problems_facing,20777,2003-09-25T07:31:14Z,Problems facing the Euro,Tyler Cowen,0
+2003/09/not_all_the_new,20776,2003-09-25T07:43:31Z,Not all the news is bad,Tyler Cowen,0
+2003/09/nuclear_prolife,20775,2003-09-25T07:59:32Z,Nuclear proliferation and game theory,Tyler Cowen,0
+2003/09/joseph_stiglitz,20774,2003-09-25T08:30:02Z,Joseph Stiglitz interview,Tyler Cowen,0
+2003/09/more_confusion_,20773,2003-09-25T09:52:27Z,More confusion at the Iowa Electronic Market?,Fabio Rojas,0
+2003/09/the_higher_the_,20772,2003-09-25T17:52:40Z,"The higher the bill, the lower your tip percentage",Tyler Cowen,0
+2003/09/penny_facts_and,20771,2003-09-26T07:02:38Z,Penny facts and optimal denominations,Tyler Cowen,0
+2003/09/how_good_is_the,20770,2003-09-26T07:25:37Z,How good is the Dutch social welfare miracle?,Tyler Cowen,0
+2003/09/sad_news_franco,20769,2003-09-26T07:41:43Z,Sad news: Franco Modigliani dies,Tyler Cowen,0
+2003/09/capitalism_come,20768,2003-09-26T09:11:43Z,Capitalism comes to Iraq,Alex Tabarrok,0
+2003/09/chess_and_mixed,20767,2003-09-26T11:59:01Z,Chess and mixed strategies,Tyler Cowen,0
+2003/09/why_did_it_take,20766,2003-09-26T20:25:56Z,Why did it take so long to integrate baseball?,Tyler Cowen,0
+2003/09/spamonomics,20765,2003-09-26T21:30:25Z,Spam-onomics,Fabio Rojas,0
+2003/09/the_jobless_rec,20764,2003-09-27T07:17:35Z,The jobless recovery?,Tyler Cowen,0
+2003/09/doctors_are_ver,20763,2003-09-27T07:28:58Z,Doctors are very ignorant of statistics,Tyler Cowen,0
+2003/09/this_reminded_m,20762,2003-09-27T07:35:27Z,This reminded me of Gordon Tullock,Tyler Cowen,0
+2003/09/gamblers_are_fi,20761,2003-09-27T07:47:20Z,Gamblers are financially conservative,Tyler Cowen,0
+2003/09/who_is_stingy,20760,2003-09-27T17:17:00Z,Who is stingy?,Tyler Cowen,0
+2003/09/capital_stock_d,20759,2003-09-28T08:14:26Z,Capital stock depreciation,Tyler Cowen,0
+2003/09/tomorrows_bathr,20758,2003-09-28T08:30:46Z,Tomorrow's bathroom?,Tyler Cowen,0
+2003/09/walmart_facts,20757,2003-09-28T08:50:37Z,Wal-Mart Facts,Tyler Cowen,0
+2003/09/kissing_cousins,20756,2003-09-28T11:53:14Z,Kissing Cousins (More),Alex Tabarrok,0
+2003/09/thanks_fabio,20755,2003-09-28T16:21:29Z,Thanks Fabio!,Alex Tabarrok,0
+2003/09/vernon_smith,20754,2003-09-28T16:50:45Z,Vernon Smith,Tyler Cowen,0
+2003/09/facts_about_pro,20753,2003-09-28T20:45:51Z,Facts about Prohibition,Tyler Cowen,0
+2003/09/how_to_improve_,20752,2003-09-29T07:50:09Z,How to improve our schools,Tyler Cowen,0
+2003/09/does_milton_fri,20751,2003-09-29T08:05:03Z,Does Milton Friedman believe in free will?,Tyler Cowen,0
+2003/09/brazil_accepts_,20750,2003-09-29T10:32:35Z,Brazil accepts genetically modified foods,Tyler Cowen,0
+2003/09/the_dumbing_dow,20749,2003-09-29T10:54:51Z,The Dumbing Down of Safety,Alex Tabarrok,0
+2003/09/how_well_can_we,20748,2003-09-29T13:06:39Z,How well can we measure performance?,Tyler Cowen,0
+2003/09/the_curse_of_oi,20747,2003-09-30T07:45:00Z,All Oil to the People!,Alex Tabarrok,0
+2003/09/how_to_spread_t,20746,2003-09-30T07:47:05Z,How to spread the wealth,Tyler Cowen,0
+2003/09/what_is_a_dance,20745,2003-09-30T08:06:45Z,What is a dance worth?,Tyler Cowen,0
+2003/09/a_movie_in_your,20744,2003-09-30T08:10:28Z,A movie in your book,Tyler Cowen,0
+2003/09/economic_freedo,20743,2003-09-30T14:34:34Z,Economic freedom indices,Tyler Cowen,0
+2003/09/neuroeconomics_,20742,2003-09-30T15:34:48Z,Neuroeconomics and trust,Tyler Cowen,0
+2003/10/eating_apes,20741,2003-10-01T06:56:50Z,Eating Apes,Tyler Cowen,0
+2003/10/how_much_homewo,20740,2003-10-01T07:35:46Z,How much homework does a child do?,Tyler Cowen,0
+2003/10/is_the_academy_,20739,2003-10-01T07:42:50Z,Is the academy biased against conservatives?,Tyler Cowen,0
+2003/10/httpwwwocpathin,20738,2003-10-01T08:15:00Z,The Politician and the Mechanic Conspire to Rip Me Off,Alex Tabarrok,0
+2003/10/big_objects_in_,20737,2003-10-01T09:47:52Z,Big objects in two places at once,Tyler Cowen,0
+2003/10/will_the_curren,20736,2003-10-01T13:38:10Z,Will the current lawsuits against file-sharers work?,Tyler Cowen,0
+2003/10/javabased_id_ca,20735,2003-10-02T07:07:00Z,Java-based ID cards in Taiwan,Tyler Cowen,0
+2003/10/economics_and_l,20734,2003-10-02T08:03:05Z,Economics and literature,Tyler Cowen,0
+2003/10/selfdeception_c,20733,2003-10-02T08:05:00Z,Self-deception conference,Tyler Cowen,0
+2003/10/new_economic_po,20732,2003-10-02T11:29:02Z,New economic policy blog from England,Tyler Cowen,0
+2003/10/robin_hansons_l,20731,2003-10-02T11:57:37Z,Shutting up talkers,Tyler Cowen,0
+2003/10/do_girls_cause_,20730,2003-10-02T12:58:33Z,Do girls cause divorce?,Tyler Cowen,0
+2003/10/prediction_mark,20729,2003-10-02T17:51:58Z,Prediction Markets,Alex Tabarrok,0
+2003/10/how_and_why_doe,20728,2003-10-02T21:51:32Z,How and why does democracy matter?,Tyler Cowen,0
+2003/10/jim_crow_in_pro,20727,2003-10-03T06:15:01Z,Jim Crow in professional sports,Tyler Cowen,0
+2003/10/does_hollywood_,20726,2003-10-03T06:23:27Z,Does Hollywood like the free market?,Tyler Cowen,0
+2003/10/this_link_will_,20725,2003-10-03T06:37:50Z,This link will keep you busy for a long time,Tyler Cowen,0
+2003/10/is_dollar_pessi,20724,2003-10-03T18:07:00Z,"Is ""dollar pessimism"" justified?",Tyler Cowen,0
+2003/10/franco_modiglia,20723,2003-10-03T18:16:27Z,"Franco Modigliani, in memory",Tyler Cowen,0
+2003/10/manufacturing_f,20722,2003-10-04T08:15:00Z,Manufacturing fallacies,Alex Tabarrok,0
+2003/10/should_libertar,20721,2003-10-04T08:17:00Z,Should libertarian economists vote Democrat?,Alex Tabarrok,0
+2003/10/organ_trafficki,20720,2003-10-04T15:17:58Z,Organ trafficking,Tyler Cowen,0
+2003/10/what_goes_aroun,20719,2003-10-05T07:34:28Z,"What goes around, comes around",Tyler Cowen,0
+2003/10/the_15_greatest,20718,2003-10-05T07:46:32Z,The 15 Greatest Jazz Albums?,Tyler Cowen,0
+2003/10/the_economic_im,20717,2003-10-05T08:27:18Z,The economic importance of glass,Tyler Cowen,0
+2003/10/muzak,20716,2003-10-05T17:05:23Z,Muzak,Alex Tabarrok,0
+2003/10/most_amish_kids,20715,2003-10-06T07:31:17Z,Most Amish kids have cell phones,Tyler Cowen,0
+2003/10/the_economics_o,20714,2003-10-06T07:52:43Z,The economics of classical music,Tyler Cowen,0
+2003/10/torts_and_crime,20713,2003-10-06T08:15:00Z,Torts and Crimes in Mississippi,Alex Tabarrok,0
+2003/10/doomsday_scenar,20712,2003-10-06T14:24:21Z,Doomsday scenarios collide!,Tyler Cowen,0
+2003/10/are_conservativ,20711,2003-10-06T14:43:05Z,Are conservatives happier than liberals?,Tyler Cowen,0
+2003/10/the_new_stiglit,20710,2003-10-07T08:11:33Z,The new Stiglitz book,Tyler Cowen,0
+2003/10/where_are_all_t,20709,2003-10-07T08:14:00Z,Where are all the new drugs?,Alex Tabarrok,0
+2003/10/getting_off_the,20708,2003-10-07T08:28:40Z,Getting off the grid,Tyler Cowen,0
+2003/10/facts_about_tra,20707,2003-10-07T13:11:23Z,Facts about trade,Tyler Cowen,0
+2003/10/french_cultural,20706,2003-10-07T15:40:04Z,French cultural protectionism,Tyler Cowen,0
+2003/10/digital_tv_in_b,20705,2003-10-08T07:31:18Z,Digital TV in Berlin,Tyler Cowen,0
+2003/10/a_new_proposal_,20704,2003-10-08T07:46:27Z,A New Proposal for Cleaner Air,Tyler Cowen,0
+2003/10/discounted_econ,20703,2003-10-08T07:55:45Z,Discounted economics books for sale,Tyler Cowen,0
+2003/10/hearing_mozart_,20702,2003-10-08T08:22:06Z,Hearing Mozart makes you feel rich,Tyler Cowen,0
+2003/10/new_nobel_prize,20701,2003-10-08T10:40:22Z,New Nobel Prize,Tyler Cowen,0
+2003/10/how_easy_is_it_,20700,2003-10-08T21:28:00Z,How Easy is it to Evaluate a Lawyer?,Tyler Cowen,0
+2003/10/changes_in_stra,20699,2003-10-08T22:57:16Z,Changes in Strange Beliefs,Tyler Cowen,0
+2003/10/ghetto_version_,20698,2003-10-09T07:24:27Z,Ghetto version of Monopoly causes outrage,Tyler Cowen,0
+2003/10/vote_us_the_bes,20697,2003-10-09T07:32:05Z,Forbes poll on the best blogs,Tyler Cowen,0
+2003/10/canadian_loopho,20696,2003-10-09T08:03:12Z,Canadian loopholes for file-sharing?,Tyler Cowen,0
+2003/10/dollars_for_don,20695,2003-10-09T08:14:00Z,Dollars for Donors,Alex Tabarrok,0
+2003/10/russian_bonds_n,20694,2003-10-09T13:35:25Z,Russian bonds now investment grade,Tyler Cowen,0
+2003/10/honest_finland,20693,2003-10-09T13:42:37Z,Honest Finland,Tyler Cowen,0
+2003/10/do_we_need_gove,20692,2003-10-09T19:58:12Z,Do We Need Government Science Advisors?,Tyler Cowen,0
+2003/10/how_word_of_mou,20691,2003-10-09T21:02:55Z,How Word of Mouth Works,Tyler Cowen,0
+2003/10/look_out_for_th,20690,2003-10-09T21:13:25Z,"Look Out for the Big, Messy Countries",Tyler Cowen,0
+2003/10/stressed_popula,20689,2003-10-10T07:49:08Z,Stressed populations yield fewer males?,Tyler Cowen,0
+2003/10/fingers,20688,2003-10-10T08:14:00Z,Fingers,Alex Tabarrok,0
+2003/10/an_insight_on_t,20687,2003-10-10T12:45:28Z,An insight on the Kyoto treaty,Tyler Cowen,0
+2003/10/how_do_religiou,20686,2003-10-10T13:39:50Z,How do religious people vote?,Tyler Cowen,0
+2003/10/two_things_i_le,20685,2003-10-11T07:48:43Z,Two things I learned about sleep,Tyler Cowen,0
+2003/10/will_web_tv_des,20684,2003-10-11T08:13:12Z,Will Web TV destroy global culture?,Tyler Cowen,0
+2003/10/why_botswana,20683,2003-10-11T08:39:33Z,Why Botswana?,Tyler Cowen,0
+2003/10/democrats_are_m,20682,2003-10-11T08:44:37Z,Democrats are more likely to have tattoos,Tyler Cowen,0
+2003/10/are_focus_group,20681,2003-10-11T16:03:00Z,Are focus groups any good?,Tyler Cowen,0
+2003/10/movies_and_capi,20680,2003-10-11T22:57:02Z,Movies and capitalism,Tyler Cowen,0
+2003/10/is_it_cheap_cor,20679,2003-10-11T23:22:52Z,Is it cheap corn that makes Americans fat?,Tyler Cowen,0
+2003/10/here_is_a_resul,20678,2003-10-12T08:49:09Z,Here is a result I do not believe,Tyler Cowen,0
+2003/10/the_new_nobel_p,20677,2003-10-12T08:58:58Z,The new Nobel Prize,Tyler Cowen,0
+2003/10/the_fate_of_cob,20676,2003-10-12T09:06:20Z,The fate of co-blogger Alex,Tyler Cowen,0
+2003/10/the_power_of_su,20675,2003-10-12T22:32:19Z,The power of suggestion,Tyler Cowen,0
+2003/10/chilean_voucher,20674,2003-10-13T07:52:16Z,Chilean vouchers,Tyler Cowen,0
+2003/10/blogs_fashion_a,20673,2003-10-13T08:03:33Z,Blogs and the private production of public goods,Tyler Cowen,0
+2003/10/understanding_f,20672,2003-10-13T08:14:43Z,Understanding fashion,Tyler Cowen,0
+2003/10/happy_birthday,20671,2003-10-13T08:15:00Z,Happy Birthday,Alex Tabarrok,0
+2003/10/mr_grant_and_mr,20670,2003-10-13T08:56:13Z,Mr. Grant and Mr. Stalin,Tyler Cowen,0
+2003/10/chris_mooney_on,20669,2003-10-13T10:54:39Z,Chris Mooney on John Lott,Tyler Cowen,0
+2003/10/defining_the_pl,20668,2003-10-13T12:01:24Z,Defining the Placebo Effect Carefully,Alex Tabarrok,0
+2003/10/education_and_e,20667,2003-10-13T14:09:33Z,Education and economic dynamism,Tyler Cowen,0
+2003/10/more_on_placebo,20666,2003-10-13T17:15:34Z,More on placebos,Tyler Cowen,0
+2003/10/the_value_of_a_,20665,2003-10-14T07:41:20Z,The value of a meteorite,Tyler Cowen,0
+2003/10/all_music,20664,2003-10-14T07:55:51Z,All Music,Tyler Cowen,0
+2003/10/bounty_hunters_,20663,2003-10-14T08:14:00Z,Bounty Hunters,Alex Tabarrok,0
+2003/10/latino_assimila,20662,2003-10-14T08:25:28Z,Latino assimilation,Tyler Cowen,0
+2003/10/nocebos,20661,2003-10-14T22:31:29Z,Nocebos,Tyler Cowen,0
+2003/10/carpets_for_sal,20660,2003-10-14T22:52:56Z,Carpets for sale,Tyler Cowen,0
+2003/10/threesomes,20659,2003-10-15T08:10:00Z,Threesomes,Alex Tabarrok,0
+2003/10/vouchers_in_chi,20658,2003-10-15T08:15:00Z,Vouchers in Chile and Colombia,Alex Tabarrok,0
+2003/10/get_your_mit_ed,20657,2003-10-15T21:09:13Z,Get your MIT education,Tyler Cowen,0
+2003/10/more_telemarket,20656,2003-10-15T21:26:03Z,More telemarketing facts,Tyler Cowen,0
+2003/10/do_parents_pref,20655,2003-10-15T21:41:14Z,Do parents prefer sons?,Tyler Cowen,0
+2003/10/hypotheses_abou,20654,2003-10-15T21:55:32Z,Hypotheses about envy,Tyler Cowen,0
+2003/10/more_on_student,20653,2003-10-16T11:05:17Z,More on student evaluations,Tyler Cowen,0
+2003/10/more_on_sales,20652,2003-10-16T11:53:03Z,More on sales,Tyler Cowen,0
+2003/10/top_wildlife_im,20651,2003-10-16T19:04:19Z,Top wildlife images,Tyler Cowen,0
+2003/10/facts_about_boo,20650,2003-10-16T21:04:39Z,Facts about books,Tyler Cowen,0
+2003/10/dont_forget_to_,20649,2003-10-16T21:12:24Z,Don't forget to say please,Tyler Cowen,0
+2003/10/bickering_with_,20648,2003-10-17T07:51:03Z,Bickering with Alex over vouchers,Tyler Cowen,0
+2003/10/parents_really_,20647,2003-10-17T07:55:17Z,Parents really do prefer boys,Tyler Cowen,0
+2003/10/the_new_tallest,20646,2003-10-17T08:03:45Z,The new tallest building in the world,Tyler Cowen,0
+2003/10/what_is_in_a_vo,20645,2003-10-17T08:15:00Z,What is in a voter's self-interest?,Alex Tabarrok,0
+2003/10/tightening_the_,20644,2003-10-17T17:05:44Z,Tightening the border?,Tyler Cowen,0
+2003/10/the_doctor_drai,20642,2003-10-17T18:29:30Z,The doctor drain from Canada,Tyler Cowen,0
+2003/10/siberian_facts,20641,2003-10-17T18:41:21Z,Siberian facts,Tyler Cowen,0
+2003/10/business_regula,20640,2003-10-18T08:10:00Z,Business Regulation,Alex Tabarrok,0
+2003/10/how_did_hitler_,20639,2003-10-18T08:10:00Z,How did Hitler entertain guests?,Tyler Cowen,0
+2003/10/more_bickering,20638,2003-10-18T08:12:00Z,More Bickering,Alex Tabarrok,0
+2003/10/ghettos_on_the_,20637,2003-10-18T15:33:00Z,Ghettos on the move,Tyler Cowen,0
+2003/10/behavioral_econ,20636,2003-10-18T16:19:27Z,Behavioral economics,Tyler Cowen,0
+2003/10/is_austrian_bus,20635,2003-10-19T08:10:00Z,Is Austrian Business Cycle Theory Back?,Alex Tabarrok,0
+2003/10/im_moving_to_sw,20634,2003-10-19T08:20:00Z,I'm moving to Switzerland!,Alex Tabarrok,0
+2003/10/lloyd_cohen_to_,20633,2003-10-19T17:24:12Z,Lloyd Cohen to Guest Blog at MR,Alex Tabarrok,0
+2003/10/climate_change_,20632,2003-10-20T08:10:00Z,Climate Change Change,Alex Tabarrok,0
+2003/10/is_health_care_,20631,2003-10-20T08:10:00Z,Is health care good for you?,Tyler Cowen,0
+2003/10/cream_skimming,20630,2003-10-20T08:16:00Z,Cream Skimming,Alex Tabarrok,0
+2003/10/wining_about_ta,20629,2003-10-20T11:11:38Z,Wining about Taxes,Alex Tabarrok,0
+2003/10/a_taxonomy_of_m,20628,2003-10-20T13:23:26Z,A Taxonomy of Methods for Discriminating,Lloyd Cohen,0
+2003/10/more_on_canadia,20627,2003-10-20T15:53:03Z,More on Canadian medicine,Tyler Cowen,0
+2003/10/our_stalled_ene,20626,2003-10-20T18:54:00Z,Our stalled energy bill,Tyler Cowen,0
+2003/10/not_as_bad_as_i,20625,2003-10-21T07:41:39Z,Not as bad as it sounds,Tyler Cowen,0
+2003/10/how_much_is_hei,20624,2003-10-21T07:46:04Z,How much is height worth?,Tyler Cowen,0
+2003/10/time_for_geneti,20623,2003-10-21T11:16:41Z,Time for Genetic Insurance,Alex Tabarrok,0
+2003/10/it_is_not_just_,20622,2003-10-21T11:42:13Z,It is not just prescription drugs,Tyler Cowen,0
+2003/10/disagreement_wi,20621,2003-10-21T13:58:32Z,Disagreement With Alex Over A Market in Bad Gene Insurance,Lloyd Cohen,0
+2003/10/why_not,20620,2003-10-21T20:58:28Z,Why not?,Tyler Cowen,0
+2003/10/the_wonders_of_,20619,2003-10-21T21:30:10Z,The wonders of money,Tyler Cowen,0
+2003/10/in_a_previous_p,20618,2003-10-22T08:14:12Z,The case for health care spending,Tyler Cowen,0
+2003/10/reviews_of_the_,20617,2003-10-22T09:43:07Z,Reviews of the new Stiglitz book,Tyler Cowen,0
+2003/10/notes_on_geneti,20616,2003-10-22T11:35:55Z,Notes on Genetic Insurance,Alex Tabarrok,0
+2003/10/genetic_insuran,20615,2003-10-22T22:00:15Z,Genetic insurance,Tyler Cowen,0
+2003/10/government_subs,20614,2003-10-22T22:23:02Z,Government subsidies for witches,Tyler Cowen,0
+2003/10/the_mysterious_,20613,2003-10-22T23:05:16Z,The mysterious Tyler Cowen,Alex Tabarrok,0
+2003/10/privacy_dilemma,20612,2003-10-23T08:01:00Z,Privacy dilemmas,Tyler Cowen,0
+2003/10/we_should_spend,20611,2003-10-23T08:15:00Z,We should spend More on Health Care,Alex Tabarrok,0
+2003/10/dalkon_shield_s,20610,2003-10-23T10:28:48Z,"Dalkon Shield, Silicone Breast Implants, Fen-Phen",Alex Tabarrok,0
+2003/10/on_whether_to_r,20609,2003-10-23T19:01:47Z,On Whether To Rebuild Iraq and Whether to Pay for It,Lloyd Cohen,0
+2003/10/milton_friedman,20608,2003-10-23T22:42:07Z,Milton Friedman tribute,Tyler Cowen,0
+2003/10/what_we_buy_fro,20607,2003-10-23T22:50:08Z,What we buy from China,Tyler Cowen,0
+2003/10/drinking_errors,20606,2003-10-23T23:08:06Z,Drinking errors,Tyler Cowen,0
+2003/10/persuasion,20605,2003-10-24T08:01:00Z,Persuasion,Tyler Cowen,0
+2003/10/the_effect_of_p,20604,2003-10-24T11:22:50Z,The Effect of Police on Crime,Alex Tabarrok,0
+2003/10/why_dont_the_fr,20603,2003-10-25T07:57:42Z,Why don't the French work more?,Tyler Cowen,0
+2003/10/why_do_women_li,20602,2003-10-25T08:20:44Z,Why do women like cads?,Tyler Cowen,0
+2003/10/reforming_the_c,20601,2003-10-25T08:26:41Z,Reforming the corporate income tax,Tyler Cowen,0
+2003/10/blogs_make_medi,20600,2003-10-25T22:26:24Z,Blogs make media more personal,Tyler Cowen,0
+2003/10/the_future_of_b,20599,2003-10-25T22:38:45Z,"The future of blogs, more",Tyler Cowen,0
+2003/10/russia_arrests_,20598,2003-10-25T23:17:40Z,Russia arrests its wealthiest man,Tyler Cowen,0
+2003/10/kidnapping_fact_1,20597,2003-10-26T16:18:36Z,Kidnapping facts,Tyler Cowen,0
+2003/10/the_cost_of_rad,20596,2003-10-27T07:53:19Z,The cost of radio time,Tyler Cowen,0
+2003/10/remittance_fact,20595,2003-10-27T08:32:34Z,How generous is the United States?,Tyler Cowen,0
+2003/10/thanks_lloyd,20594,2003-10-27T10:57:41Z,Thanks Lloyd!,Alex Tabarrok,0
+2003/10/the_twenty_best,20593,2003-10-27T13:50:08Z,The twenty best movies ever?,Tyler Cowen,0
+2003/10/watch_out_for_d,20592,2003-10-27T15:57:05Z,Watch out for Dad,Tyler Cowen,0
+2003/10/once_burned_twi,20591,2003-10-28T07:43:33Z,"Once burned, twice shy?",Tyler Cowen,0
+2003/10/the_cruelest_mo,20590,2003-10-28T07:55:44Z,The cruelest month...,Tyler Cowen,0
+2003/10/why_wait,20589,2003-10-28T08:01:43Z,Why wait?,Tyler Cowen,0
+2003/10/what_books_have,20588,2003-10-28T14:13:32Z,What books have influenced right-wing bloggers?,Tyler Cowen,0
+2003/10/how_to_advertis,20587,2003-10-28T14:44:57Z,How to advertise money,Tyler Cowen,0
+2003/10/tunedin_tots,20586,2003-10-29T07:38:33Z,Tuned-in tots,Tyler Cowen,0
+2003/10/does_motherhood,20585,2003-10-29T08:02:36Z,Does Motherhood Change the Brain?,Tyler Cowen,0
+2003/10/has_google_peak,20584,2003-10-29T12:00:10Z,Has Google peaked?,Tyler Cowen,0
+2003/10/thank_you_all_f,20583,2003-10-29T20:59:13Z,Thank you all for reading,Tyler Cowen,0
+2003/10/can_suicide_att,20582,2003-10-29T21:18:39Z,Can suicide attempts be rational?,Tyler Cowen,0
+2003/10/why_does_unempl,20581,2003-10-29T21:30:26Z,Why does unemployment remain high?,Tyler Cowen,0
+2003/10/technology_and_,20580,2003-10-30T07:51:40Z,Technology and the environment,Tyler Cowen,0
+2003/10/marginal_revolu,20579,2003-10-30T08:12:00Z,Marginal Revolution Milestone,Alex Tabarrok,0
+2003/10/cell_phone_swit,20578,2003-10-30T08:14:00Z,Cell phone switching costs,Alex Tabarrok,0
+2003/10/athletes_will_b,20577,2003-10-30T08:15:00Z,Athletes will be the first,Alex Tabarrok,0
+2003/10/more_on_remitta,20576,2003-10-30T10:21:15Z,More on remittances,Tyler Cowen,0
+2003/10/update_on_econo,20575,2003-10-30T14:05:25Z,Update on economic prospects,Tyler Cowen,0
+2003/10/how_much_do_adv,20574,2003-10-31T07:56:36Z,How much do advertisements save you?,Tyler Cowen,0
+2003/10/lynne_kiesling_,20573,2003-10-31T08:06:29Z,Lynne Kiesling has moved house,Tyler Cowen,0
+2003/10/suicide_and_mul,20572,2003-10-31T08:15:00Z,Suicide and multiple equilibria,Alex Tabarrok,0
+2003/10/what_do_scandin,20571,2003-10-31T08:15:57Z,What do Scandinavians export?,Tyler Cowen,0
+2003/10/i_dont_make_mac,20570,2003-10-31T15:01:49Z,I don't make macroeconomic predictions myself,Tyler Cowen,0
+2003/11/musical_evening,20569,2003-11-01T08:17:57Z,"Musical evening, based on trade",Tyler Cowen,0
+2003/11/drug_reimportat,20568,2003-11-01T08:45:50Z,Drug reimportation,Tyler Cowen,0
+2003/11/newspapers_in_s,20567,2003-11-01T08:58:59Z,Newspapers in small countries,Tyler Cowen,0
+2003/11/radar_improves_,20566,2003-11-01T15:34:00Z,Radar improves the quality of wine,Tyler Cowen,0
+2003/11/choice_theory_a,20565,2003-11-01T16:44:57Z,Choice theory and the devil: a puzzle,Tyler Cowen,0
+2003/11/russia_returns_,20564,2003-11-01T23:04:31Z,Crony Statism,Alex Tabarrok,0
+2003/11/hey_wait_a_minu,20563,2003-11-03T08:01:00Z,"Hey, wait a minute...",Tyler Cowen,0
+2003/11/the_alternative,20562,2003-11-03T08:08:00Z,The alternative minimum tax,Tyler Cowen,0
+2003/11/us_sperm_export,20561,2003-11-03T08:10:00Z,US Sperm Exports Explode; Canadians Upset,Alex Tabarrok,0
+2003/11/policies_toward,20560,2003-11-03T12:15:21Z,Policies toward wildfires,Tyler Cowen,0
+2003/11/bad_news_about_,20559,2003-11-04T07:55:49Z,Bad news about trade policy,Tyler Cowen,0
+2003/11/and_you_think_w,20558,2003-11-04T08:03:00Z,And you think we economists are tough...,Tyler Cowen,0
+2003/11/rating_the_agen,20557,2003-11-04T08:08:54Z,Rating the agencies and departments,Tyler Cowen,0
+2003/11/the_problem_wit,20556,2003-11-04T08:14:00Z,The problem with democracy,Alex Tabarrok,0
+2003/11/our_corporate_i,20555,2003-11-04T11:25:30Z,Our corporate income tax,Tyler Cowen,0
+2003/11/hail_to_the_fur,20554,2003-11-05T06:55:28Z,Hail to the further decline of big media,Tyler Cowen,0
+2003/11/abuses_at_mutua,20553,2003-11-05T07:14:28Z,Abuses at mutual funds,Tyler Cowen,0
+2003/11/the_economics_o,20552,2003-11-05T07:29:25Z,"The economics of sneakers, and LeBron James",Tyler Cowen,0
+2003/11/dont_stop_at_go,20551,2003-11-05T11:02:13Z,Don't stop at Google,Tyler Cowen,0
+2003/11/post,20550,2003-11-05T12:46:18Z,The origins of human freedom,Tyler Cowen,0
+2003/11/the_eric_rasmus,20549,2003-11-06T07:34:53Z,The Eric Rasmusen controversy,Tyler Cowen,0
+2003/11/how_to_change_s,20548,2003-11-06T10:35:00Z,Trying to make people punctual,Tyler Cowen,0
+2003/11/can_more_rain_m,20547,2003-11-06T10:38:00Z,Can more rain make the road safer?,Tyler Cowen,0
+2003/11/matrix_revoluti,20546,2003-11-06T12:37:58Z,Matrix: Revolutions,Alex Tabarrok,0
+2003/11/the_future_of_e,20545,2003-11-07T07:37:25Z,The future of energy,Tyler Cowen,0
+2003/11/new_music_merge,20544,2003-11-07T07:59:00Z,New music merger?,Tyler Cowen,0
+2003/11/who_should_get_,20543,2003-11-07T08:10:00Z,Who should get prizes?,Tyler Cowen,0
+2003/11/capitalist_eggs,20542,2003-11-07T09:12:21Z,Capitalist Eggs,Alex Tabarrok,0
+2003/11/is_there_a_cost,20541,2003-11-07T10:18:00Z,"Is there a cost-disease?, or Mozart by computer",Tyler Cowen,0
+2003/11/an_incentive_pr,20540,2003-11-07T14:18:22Z,An incentive program to catch terrorists?,Tyler Cowen,0
+2003/11/breaking_news_r,20539,2003-11-07T17:00:00Z,"Breaking news, rosy news, unemployment down",Tyler Cowen,0
+2003/11/fires_and_insur,20538,2003-11-08T01:05:00Z,Fires and insurance,Tyler Cowen,0
+2003/11/how_to_commissi,20537,2003-11-08T07:10:00Z,How to commission music,Tyler Cowen,0
+2003/11/greenhouse_effe,20536,2003-11-08T07:30:00Z,Greenhouse effect skeptics,Tyler Cowen,0
+2003/11/microsoft_hires,20535,2003-11-08T08:15:00Z,Microsoft hires bounty hunters,Alex Tabarrok,0
+2003/11/fdr_revisionism,20534,2003-11-08T08:16:00Z,Roosevelt and the Great Depression,Alex Tabarrok,0
+2003/11/dont_forget_to_,20533,2003-11-09T07:01:00Z,Don't forget to say thanks,Tyler Cowen,0
+2003/11/underground_din,20532,2003-11-09T08:01:00Z,Underground dining,Tyler Cowen,0
+2003/11/you_would_think,20531,2003-11-10T07:13:00Z,Gasoline and market power,Tyler Cowen,0
+2003/11/oenophiles_love,20530,2003-11-10T08:07:00Z,Oenophiles love global warming?,Alex Tabarrok,0
+2003/11/man_vs_machine,20529,2003-11-10T08:10:00Z,Man vs. machine,Tyler Cowen,0
+2003/11/shoes_made_in_c,20528,2003-11-10T14:41:59Z,Shoes: Made in China,Alex Tabarrok,0
+2003/11/free_martha,20527,2003-11-10T23:41:41Z,Free Martha!,Alex Tabarrok,0
+2003/11/secondary_conse,20526,2003-11-11T07:20:22Z,Secondary consequences,Tyler Cowen,0
+2003/11/industrial_orga,20525,2003-11-11T07:33:24Z,Industrial Organization Puzzle,Alex Tabarrok,0
+2003/11/christmas_gifts,20524,2003-11-11T07:42:21Z,Christmas gifts,Tyler Cowen,0
+2003/11/who_are_the_big,20523,2003-11-11T07:55:16Z,Who are the big nationalizers?,Tyler Cowen,0
+2003/11/question_of_the,20522,2003-11-11T08:13:49Z,Question of the day,Tyler Cowen,0
+2003/11/man_vs_machine_,20521,2003-11-11T10:38:15Z,Man vs Machine II,Alex Tabarrok,0
+2003/11/game_i_man_vs_m,20520,2003-11-11T21:35:12Z,"Game I, man vs. machine",Tyler Cowen,0
+2003/11/a_monocausal_th,20519,2003-11-12T07:39:43Z,A monocausal theory of the aggregate divorce rate?,Tyler Cowen,0
+2003/11/henny_youngman_,20518,2003-11-12T07:52:40Z,Henny Youngman once said:,Tyler Cowen,0
+2003/11/this_growth_rat,20517,2003-11-12T08:25:12Z,This growth rate deserves publicity too,Tyler Cowen,0
+2003/11/the_economic_be,20516,2003-11-12T10:55:00Z,The economic behavior of children,Tyler Cowen,0
+2003/11/you_cant_always,20515,2003-11-12T12:02:00Z,You can't always trust the dictionary,Tyler Cowen,0
+2003/11/no_ice,20514,2003-11-12T23:53:54Z,No Ice,Alex Tabarrok,0
+2003/11/why_dont_we_hav,20513,2003-11-13T07:41:18Z,Why don't we have congestion pricing for roads?,Tyler Cowen,0
+2003/11/the_colombian_p,20512,2003-11-13T07:57:58Z,The Colombian paradox,Tyler Cowen,0
+2003/11/campaign_financ,20511,2003-11-13T08:12:00Z,Deficit Disorder to get Attention?,Alex Tabarrok,0
+2003/11/what_is_love,20510,2003-11-13T09:55:00Z,What is love?,Tyler Cowen,0
+2003/11/dim_sum_for_the,20509,2003-11-13T12:45:36Z,Dim Sum for the Mind,Alex Tabarrok,0
+2003/11/man_vs_machine__1,20508,2003-11-13T16:50:39Z,"Man vs machine, game II",Tyler Cowen,0
+2003/11/the_new_chief_e,20507,2003-11-13T17:36:50Z,The new chief economist at the World Bank,Tyler Cowen,0
+2003/11/what_does_the_m,20506,2003-11-13T18:12:36Z,What does the mutual fund scandal cost?,Tyler Cowen,0
+2003/11/ways_in_which_m,20505,2003-11-13T20:53:23Z,"Ways in which movies assume away, or do not assume away, scarcity",Tyler Cowen,0
+2003/11/congestion_pric,20504,2003-11-14T08:05:00Z,Congestion Pricing II,Alex Tabarrok,0
+2003/11/bickering_with_,20503,2003-11-14T11:57:38Z,"Bickering with Alex, again",Tyler Cowen,0
+2003/11/a_good_mom_shou,20502,2003-11-14T13:12:13Z,A good mom should be sociable,Tyler Cowen,0
+2003/11/congestion_pric_1,20501,2003-11-14T21:35:13Z,Congestion Pricing III,Alex Tabarrok,0
+2003/11/movies,20500,2003-11-15T06:58:00Z,Movies,Tyler Cowen,0
+2003/11/aphorisms,20499,2003-11-15T07:39:47Z,Aphorisms,Tyler Cowen,0
+2003/11/which_states_do,20498,2003-11-15T07:49:40Z,Which states donate the most money?,Tyler Cowen,0
+2003/11/milton_friedman,20497,2003-11-16T07:55:20Z,Milton Friedman's early life,Tyler Cowen,0
+2003/11/price_discrimin,20496,2003-11-16T08:10:00Z,Price Discrimination at Light Speed,Alex Tabarrok,0
+2003/11/who_are_the_top,20495,2003-11-16T08:25:27Z,Who are the top Marxists?,Tyler Cowen,0
+2003/11/score_one_for_h,20494,2003-11-16T17:46:05Z,Score one for humanity,Tyler Cowen,0
+2003/11/worrying_survey,20493,2003-11-17T08:05:00Z,Worrying Survey on Democracy,Alex Tabarrok,0
+2003/11/vuelos_baratos,20492,2003-11-17T08:10:00Z,Vuelos Baratos,Alex Tabarrok,0
+2003/11/everything_you_,20491,2003-11-17T09:51:00Z,Everything you always wanted to know about currency boards...,Tyler Cowen,0
+2003/11/what_is_the_rea,20490,2003-11-17T10:45:00Z,What is the real mutual fund scandal?,Tyler Cowen,0
+2003/11/looking_for_a_n,20489,2003-11-17T10:55:52Z,Looking for a new job?,Tyler Cowen,0
+2003/11/road_pricing,20488,2003-11-17T15:14:11Z,Road Pricing,Alex Tabarrok,0
+2003/11/terrorism_futur,20487,2003-11-17T20:14:12Z,Terrorism futures are back,Tyler Cowen,0
+2003/11/end_phase_3,20486,2003-11-18T08:07:00Z,End Phase 3,Alex Tabarrok,0
+2003/11/the_mutual_fund,20485,2003-11-18T08:14:00Z,The Mutual Fund Scandal - much ado about nothinig,Alex Tabarrok,0
+2003/11/being_a_bigot_i,20484,2003-11-18T09:21:00Z,"Being a bigot is exhausting, and makes you stupider",Tyler Cowen,0
+2003/11/people_hate_fle,20483,2003-11-18T10:51:00Z,People hate flexible prices,Tyler Cowen,0
+2003/11/the_new_beatles,20482,2003-11-18T14:55:39Z,The new Beatles album,Tyler Cowen,0
+2003/11/when_is_the_rem,20481,2003-11-18T14:59:05Z,When is the rematch?,Tyler Cowen,0
+2003/11/private_schooli,20480,2003-11-19T08:15:00Z,Private Schooling in India,Alex Tabarrok,0
+2003/11/tax_incentives_,20479,2003-11-19T08:16:00Z,Tax Incentives for Organ Donation,Alex Tabarrok,0
+2003/11/dinner_companio,20478,2003-11-19T10:56:00Z,Glenn Hubbard's consistency test,Tyler Cowen,0
+2003/11/blood_supply_an,20477,2003-11-19T11:28:00Z,Blood supply and the FDA,Tyler Cowen,0
+2003/11/howard_dean_dis,20476,2003-11-19T12:52:13Z,Howard Dean disappoints me,Tyler Cowen,0
+2003/11/the_forthcoming,20475,2003-11-20T07:32:01Z,The forthcoming energy bill,Tyler Cowen,0
+2003/11/erin_brockovich,20474,2003-11-20T08:16:00Z,Sleazeball lawyer in a low-cut dress,Alex Tabarrok,0
+2003/11/are_web_tunes_p,20473,2003-11-20T09:42:00Z,Are web tunes profitable?,Tyler Cowen,0
+2003/11/the_new_replace,20472,2003-11-20T10:08:00Z,The new replacement for Google?,Tyler Cowen,0
+2003/11/what_is_the_fai,20471,2003-11-20T16:28:43Z,What is the fair use doctrine?,Tyler Cowen,0
+2003/11/joe_lieberman_v,20470,2003-11-21T07:20:00Z,Joe Lieberman vs. Howard Dean,Tyler Cowen,0
+2003/11/what_is_the_hot,20469,2003-11-21T07:45:00Z,What is the hot Christmas toy this year?,Tyler Cowen,0
+2003/11/what_arnie_want,20468,2003-11-21T08:08:00Z,What Arnie wants for Hollywood,Tyler Cowen,0
+2003/11/movie_ipos,20467,2003-11-21T08:15:00Z,Movie IPOs,Alex Tabarrok,0
+2003/11/hollywood_heavi,20466,2003-11-21T08:16:09Z,Hollywood Heavies,Alex Tabarrok,0
+2003/11/keep_your_finge,20465,2003-11-21T13:47:21Z,Keep your fingers crossed,Tyler Cowen,0
+2003/11/the_best_new_id,20464,2003-11-22T07:10:00Z,The best new ideas in applied science,Tyler Cowen,0
+2003/11/problems_with_a,20463,2003-11-22T08:29:59Z,Problems with Austrian business cycle theory,Tyler Cowen,0
+2003/11/is_alex_an_orga,20462,2003-11-22T08:57:00Z,Is Alex an organ protectionist?  Should he be?,Tyler Cowen,0
+2003/11/cadaveric_vs_li,20461,2003-11-22T13:46:17Z,Cadaveric vs Live Organ Donation,Alex Tabarrok,0
+2003/11/how_to_outfox_t,20460,2003-11-23T07:30:00Z,How to outfox terrorists and other pursuers,Tyler Cowen,0
+2003/11/why_are_we_fasc,20459,2003-11-23T07:45:00Z,Why are we fascinated by celebrities?,Tyler Cowen,0
+2003/11/the_new_medicar,20458,2003-11-23T20:59:13Z,The new medicare bill,Tyler Cowen,0
+2003/11/which_party_is_,20457,2003-11-23T21:39:52Z,Which party is better for the stock market?,Tyler Cowen,0
+2003/11/the_economics_o_1,20456,2003-11-24T08:03:30Z,The economics of on-line dating,Tyler Cowen,0
+2003/11/subgame_perfect,20455,2003-11-24T08:15:00Z,Subgame perfect equilibrium,Alex Tabarrok,0
+2003/11/more_on_private,20454,2003-11-24T10:49:56Z,More on Private Schooling in India,Alex Tabarrok,0
+2003/11/50_things_youre,20453,2003-11-25T07:33:20Z,50 Things You're Not Supposed to Know,Tyler Cowen,0
+2003/11/buy_eye_in_the_,20452,2003-11-25T08:14:00Z,"Buy, Eye in the Sky",Alex Tabarrok,0
+2003/11/equality_within,20451,2003-11-25T11:51:26Z,Equality within black communities,Tyler Cowen,0
+2003/11/more_on_the_med,20450,2003-11-25T12:43:12Z,The Medicare bill,Tyler Cowen,0
+2003/11/medicare_contin,20449,2003-11-25T21:56:18Z,"Medicare, continued",Tyler Cowen,0
+2003/11/food_safety_tip,20448,2003-11-26T07:55:43Z,Food safety tips for turkey,Tyler Cowen,0
+2003/11/get_your_flu_sh,20447,2003-11-26T08:10:00Z,Get your Flu Shot!,Alex Tabarrok,0
+2003/11/african_america,20446,2003-11-26T08:15:00Z,African Americans and Government,Alex Tabarrok,0
+2003/11/in_defense_of_s,20445,2003-11-27T07:19:00Z,In defense of short sellers,Tyler Cowen,0
+2003/11/the_benefits_of,20444,2003-11-27T07:35:38Z,The benefits of free trade,Tyler Cowen,0
+2003/11/caviar_facts,20443,2003-11-27T07:53:44Z,Caviar facts,Tyler Cowen,0
+2003/11/thanksgiving_th,20442,2003-11-27T15:32:05Z,Thanksgiving thoughts,Tyler Cowen,0
+2003/11/corporations_an,20441,2003-11-28T08:02:00Z,Corporations and cheeses,Tyler Cowen,0
+2003/11/quotation_of_th,20440,2003-11-28T08:05:00Z,Quotation of the day,Tyler Cowen,0
+2003/11/why_is_housing_,20439,2003-11-28T09:26:48Z,Why is housing so expensive in Manhattan?,Tyler Cowen,0
+2003/11/update_on_medic,20438,2003-11-28T20:50:54Z,Update on Medicare reform,Tyler Cowen,0
+2003/11/metarational_an,20437,2003-11-29T08:35:00Z,Meta-rational animals,Tyler Cowen,0
+2003/11/does_evolutiona,20436,2003-11-29T08:41:39Z,Does evolutionary biology weaken left-liberal views?,Tyler Cowen,0
+2003/11/fact_of_the_day,20435,2003-11-29T11:45:00Z,Fact of the day,Tyler Cowen,0
+2003/11/progress_agains,20434,2003-11-29T22:03:29Z,Progress against AIDS?,Tyler Cowen,0
+2003/11/dreaming_of_a_w,20433,2003-11-29T22:07:44Z,Dreaming of a White Christmas?,Tyler Cowen,0
+2003/11/france_and_germ,20432,2003-11-30T07:40:07Z,France and Germany break the rules,Tyler Cowen,0
+2003/11/graduate_study_,20431,2003-11-30T21:30:53Z,Graduate study in economics,Tyler Cowen,0
+2003/11/most_of_these_a,20430,2003-11-30T21:33:40Z,Most of these are neither funny nor clever,Tyler Cowen,0
+2003/12/our_growing_mob,20429,2003-12-01T02:56:00Z,Our growing mobility,Tyler Cowen,0
+2003/12/will_the_fcc_re,20428,2003-12-01T07:27:30Z,Will the FCC regulate Internet phone calls?,Tyler Cowen,0
+2003/12/bush_to_drop_mo,20427,2003-12-01T07:45:08Z,Bush to drop most steel tariffs,Tyler Cowen,0
+2003/12/dont_let_the_be,20426,2003-12-01T08:05:00Z,Don't let the bed bugs bite,Alex Tabarrok,0
+2003/12/government_regu,20425,2003-12-01T13:54:48Z,"Government regulation, again",Tyler Cowen,0
+2003/12/who_buys_fictio,20424,2003-12-02T07:34:40Z,Who buys fiction?,Tyler Cowen,0
+2003/12/credit_cards_un,20423,2003-12-02T07:56:27Z,Credit cards under your skin,Tyler Cowen,0
+2003/12/which_economist,20422,2003-12-02T08:08:51Z,Which economists is Howard Dean listening to?,Tyler Cowen,0
+2003/12/society_without,20421,2003-12-02T08:15:00Z,Society without a State,Alex Tabarrok,0
+2003/12/two_things_that,20420,2003-12-02T17:45:22Z,Two things that you don't want to see made,Alex Tabarrok,0
+2003/12/2_raised_to_the,20419,2003-12-02T22:17:14Z,"2, raised to the 20,996,011, minus 1.",Tyler Cowen,0
+2003/12/why_do_women_re,20418,2003-12-03T09:44:00Z,Why do women read more fiction?,Tyler Cowen,0
+2003/12/what_do_public_,20417,2003-12-03T09:59:00Z,What do public choice economists believe?,Tyler Cowen,0
+2003/12/flu_shots_again,20416,2003-12-03T14:05:15Z,Flu Shots II,Alex Tabarrok,0
+2003/12/productivity_ga,20415,2003-12-04T00:57:00Z,Productivity gains: Can you top this?,Tyler Cowen,0
+2003/12/who_are_the_uni,20414,2003-12-04T07:55:15Z,Who are the uninsured?,Tyler Cowen,0
+2003/12/paying_for_disa,20413,2003-12-04T08:07:00Z,Paying for Disability,Alex Tabarrok,0
+2003/12/a_romanian_liab,20412,2003-12-04T19:06:02Z,A Romanian liability crisis?,Tyler Cowen,0
+2003/12/the_economics_o,20411,2003-12-05T06:51:00Z,The economics of cheese,Tyler Cowen,0
+2003/12/banned_glofish,20410,2003-12-05T07:54:30Z,Banned GloFish,Tyler Cowen,0
+2003/12/a_bit_of_talmud,20409,2003-12-05T08:01:00Z,A Bit of Talmudic Commentary,Alex Tabarrok,0
+2003/12/the_commanding_,20408,2003-12-05T08:10:00Z,The Commanding Heights,Alex Tabarrok,0
+2003/12/there_is_plenty,20407,2003-12-05T15:51:11Z,There is Plenty of Room at the Trough Also,Alex Tabarrok,0
+2003/12/what_does_the_a,20406,2003-12-05T15:55:26Z,What does the American public believe?,Tyler Cowen,0
+2003/12/the_blogosphere,20405,2003-12-05T20:17:59Z,The blogosphere as a spontaneous order,Tyler Cowen,0
+2003/12/against_screen_,20404,2003-12-06T08:47:00Z,Against screen quotas,Tyler Cowen,0
+2003/12/regulation_by_l,20403,2003-12-06T10:49:01Z,Regulation by Litigation,Alex Tabarrok,0
+2003/12/medicare_and_pe,20402,2003-12-06T15:14:35Z,Medicare and Perverse Incentives,Tyler Cowen,0
+2003/12/i_smell_a_rat,20401,2003-12-07T08:28:00Z,I smell a rat?,Tyler Cowen,0
+2003/12/private_provisi,20400,2003-12-07T09:39:00Z,A good idea for my university,Tyler Cowen,0
+2003/12/walmart_in_mexi,20399,2003-12-07T14:30:15Z,Wal-Mart in Mexico,Tyler Cowen,0
+2003/12/what_does_a_sig,20398,2003-12-07T15:26:07Z,What does a signed Beethoven score cost?,Tyler Cowen,0
+2003/12/queer_eye_and_t,20397,2003-12-08T08:05:00Z,Queer Eye and the Future of Television,Alex Tabarrok,0
+2003/12/what_would_it_c,20396,2003-12-08T08:10:00Z,What would it cost to send a man to the moon?,Tyler Cowen,0
+2003/12/media_concentra,20395,2003-12-08T08:50:00Z,Media concentration,Tyler Cowen,0
+2003/12/our_new_medicar,20394,2003-12-08T16:04:28Z,Our new Medicare bill,Tyler Cowen,0
+2003/12/lawyers_are_no_,20393,2003-12-08T21:01:41Z,Lawyers are no fun,Alex Tabarrok,0
+2003/12/should_we_priva,20392,2003-12-09T07:51:26Z,Should we privatize the National Zoo?,Tyler Cowen,0
+2003/12/advise_to_a_lib,20391,2003-12-09T08:10:00Z,Advice to a liberal-arts major,Alex Tabarrok,0
+2003/12/google_spoofing,20390,2003-12-09T09:29:34Z,Google Spoofing,Alex Tabarrok,0
+2003/12/ths_secret_of_s,20389,2003-12-09T10:06:00Z,Ths secret of Stradivarius?,Tyler Cowen,0
+2003/12/best_books_of_t,20388,2003-12-09T14:58:14Z,Best books of the year?,Tyler Cowen,0
+2003/12/putting_things_,20387,2003-12-09T20:15:12Z,Putting things in perspective,Tyler Cowen,0
+2003/12/should_we_renor,20386,2003-12-10T08:12:00Z,Should we renorm IQ tests?,Tyler Cowen,0
+2003/12/the_race_to_spa,20385,2003-12-10T09:23:00Z,The race to space,Tyler Cowen,0
+2003/12/beautiful_women,20384,2003-12-10T12:07:00Z,Beautiful women and rational thought,Tyler Cowen,0
+2003/12/fairfax_endorse,20383,2003-12-11T06:05:00Z,Fairfax endorses Tolls,Alex Tabarrok,0
+2003/12/beware_xrays,20382,2003-12-11T07:50:34Z,Beware X-Rays,Tyler Cowen,0
+2003/12/three_oreo_cook,20381,2003-12-11T08:08:00Z,Three Oreo Cookies,Alex Tabarrok,0
+2003/12/what_does_a_top,20380,2003-12-11T10:23:00Z,What does a top British artist earn?,Tyler Cowen,0
+2003/12/how_to_conserve,20379,2003-12-11T11:02:00Z,How to conserve flu vaccine,Tyler Cowen,0
+2003/12/the_secondary_c,20378,2003-12-12T06:38:00Z,The secondary consequences of car alarms,Tyler Cowen,0
+2003/12/ralph_nader_and,20377,2003-12-12T06:39:00Z,Ralph Nader and the regulation of neuroscience,Tyler Cowen,0
+2003/12/inefficiency_wa,20376,2003-12-12T08:10:00Z,Inefficiency wages,Alex Tabarrok,0
+2003/12/impressing_a_wo,20375,2003-12-12T22:26:00Z,Impressing a woman vs. impressing a man,Tyler Cowen,0
+2003/12/the_future_of_d,20374,2003-12-13T07:30:00Z,The future of dieting,Tyler Cowen,0
+2003/12/water_privatiza,20373,2003-12-13T08:01:00Z,Water privatization,Tyler Cowen,0
+2003/12/truth_is_strang,20372,2003-12-13T08:15:00Z,Truth is Stranger...,Alex Tabarrok,0
+2003/12/behaving_like_a,20371,2003-12-13T22:06:12Z,Behaving like an economist,Alex Tabarrok,0
+2003/12/full_disclosure,20370,2003-12-14T07:30:00Z,Full disclosure of commercials?,Tyler Cowen,0
+2003/12/why_is_there_a_,20369,2003-12-14T07:45:00Z,Why is there a shortage of flu vaccine?,Tyler Cowen,0
+2003/12/when_a_silly_do,20368,2003-12-15T07:45:00Z,When a silly dog meets a smart economist,Alex Tabarrok,0
+2003/12/the_new_medicar,20367,2003-12-15T08:01:00Z,The new Medicare bill,Tyler Cowen,0
+2003/12/my_turn_on_the_,20366,2003-12-15T08:04:00Z,Price Controls and the Medicare Bill,Alex Tabarrok,0
+2003/12/parisian_puzzle,20365,2003-12-16T07:45:00Z,Parisian puzzles,Tyler Cowen,0
+2003/12/this_externalit,20364,2003-12-16T08:01:00Z,Dangerous Rice,Tyler Cowen,0
+2003/12/going_too_far_i,20363,2003-12-16T08:02:00Z,Going too far in Italy,Tyler Cowen,0
+2003/12/bad_science_poi,20362,2003-12-16T08:05:00Z,Bad Science Poisons Our Children's Brains,Alex Tabarrok,0
+2003/12/friedman_prize_,20361,2003-12-17T07:45:00Z,Friedman Prize for Advancing Liberty,Alex Tabarrok,0
+2003/12/the_return_of_p,20360,2003-12-17T07:46:00Z,The return of piracy,Tyler Cowen,0
+2003/12/cultural_divers,20359,2003-12-17T07:47:00Z,Cultural diversity in France,Tyler Cowen,0
+2003/12/facts_about_dog,20358,2003-12-17T07:54:00Z,Facts about dogs in Paris,Tyler Cowen,0
+2003/12/the_wright_stuf,20357,2003-12-17T12:28:53Z,The Wright Stuff,Alex Tabarrok,0
+2003/12/read_jacob_levy,20356,2003-12-18T03:26:07Z,Do the French favor diversity?,Tyler Cowen,0
+2003/12/earthlike_plane,20355,2003-12-18T07:40:00Z,Earthlike planets may be common in the universe,Tyler Cowen,0
+2003/12/france_and_work,20354,2003-12-18T07:45:00Z,French strikers hard at work,Tyler Cowen,0
+2003/12/are_professors_,20353,2003-12-18T08:02:00Z,Are Professors Obsolete?,Alex Tabarrok,0
+2003/12/more_of_the_wri,20352,2003-12-18T23:03:55Z,More of the Wright Stuff,Alex Tabarrok,0
+2003/12/saddams_seizure,20351,2003-12-19T03:02:48Z,Saddam's seizure and good news about the dinar,Tyler Cowen,0
+2003/12/more_on_obsolet,20350,2003-12-19T07:30:00Z,More on obsolete professors,Alex Tabarrok,0
+2003/12/if_you_cant_pri,20349,2003-12-19T07:35:00Z,If you can't price the roads...,Tyler Cowen,0
+2003/12/the_soul_of_cla,20348,2003-12-19T08:10:00Z,The soul of classical liberalism,Tyler Cowen,0
+2003/12/is_filesharing_,20347,2003-12-19T13:43:21Z,Is file-sharing dead?,Tyler Cowen,0
+2003/12/french_cheese_g,20346,2003-12-20T03:45:31Z,French cheese goes a long way,Tyler Cowen,0
+2003/12/just_the_cash_p,20345,2003-12-20T08:01:00Z,Just the cash please,Tyler Cowen,0
+2003/12/the_best_argume,20344,2003-12-20T08:01:00Z,The best argument for spam I have yet heard,Tyler Cowen,0
+2003/12/evolution,20343,2003-12-20T08:05:00Z,Evolution,Tyler Cowen,0
+2003/12/the_return_of_t,20342,2003-12-20T14:04:39Z,"The Return of the King, French style",Tyler Cowen,0
+2003/12/new_numismatics,20341,2003-12-21T08:01:00Z,New numismatics blog,Tyler Cowen,0
+2003/12/the_commissar_v,20340,2003-12-21T08:10:00Z,"The commissar vanishes, Beatles style",Tyler Cowen,0
+2003/12/a_readers_dilem,20339,2003-12-21T18:50:46Z,A Reader's Dilemma,Alex Tabarrok,0
+2003/12/letters_of_reco,20338,2003-12-21T23:19:00Z,Letters of recommendation,Tyler Cowen,0
+2003/12/why_not_more_pr,20337,2003-12-22T00:32:00Z,Why not more price discrimination for medicine?,Tyler Cowen,0
+2003/12/the_economics_o_1,20336,2003-12-22T06:10:27Z,The economics of capturing Saddam,Tyler Cowen,0
+2003/12/what_are_the_be,20335,2003-12-22T07:02:54Z,What are the best Christmas gifts?,Tyler Cowen,0
+2003/12/quality_moonshi,20334,2003-12-22T07:50:00Z,Quality Moonshine,Alex Tabarrok,0
+2003/12/vernon_smith_on,20333,2003-12-23T07:50:00Z,Vernon Smith on Iraq,Alex Tabarrok,0
+2003/12/liability_and_f,20332,2003-12-23T12:23:00Z,Liability and flu vaccine,Tyler Cowen,0
+2003/12/the_millennium_,20331,2003-12-23T12:24:00Z,The Millennium Challenge Account,Tyler Cowen,0
+2003/12/brad_delong_see,20330,2003-12-23T16:37:46Z,Brad DeLong sees the light (almost),Alex Tabarrok,0
+2003/12/should_you_wait_1,20328,2003-12-23T17:42:10Z,Should you wait or go?,Tyler Cowen,0
+2003/12/luck_and_entrep,20327,2003-12-24T05:57:00Z,Luck and entrepreneurship,Tyler Cowen,0
+2003/12/calendar_facts,20326,2003-12-24T06:15:00Z,Calendar facts,Tyler Cowen,0
+2003/12/frankincense_4_,20325,2003-12-25T06:01:00Z,What wise men know,Alex Tabarrok,0
+2003/12/the_ten_greates,20324,2003-12-26T05:16:00Z,The ten greatest business movies,Tyler Cowen,0
+2003/12/against_sunset_,20323,2003-12-26T07:01:00Z,Against sunset laws,Tyler Cowen,0
+2003/12/fountain_of_you,20322,2003-12-26T08:12:18Z,Fountain of youth?,Tyler Cowen,0
+2003/12/coase_and_chris,20321,2003-12-26T19:59:34Z,Coase and Christmas,Alex Tabarrok,0
+2003/12/laughter,20320,2003-12-27T12:30:00Z,Laughter,Tyler Cowen,0
+2003/12/video_games,20319,2003-12-28T00:01:00Z,Video games,Alex Tabarrok,0
+2003/12/the_importance_,20318,2003-12-28T07:01:00Z,The importance of status in business,Tyler Cowen,0
+2003/12/marriage_broker,20317,2003-12-28T20:11:45Z,Marriage Brokers,Fabio Rojas,0
+2003/12/how_much_do_fre,20316,2003-12-29T00:04:00Z,How much do Freddie and Fannie Mae save homeowners?,Tyler Cowen,0
+2003/12/the_frying_pan_,20315,2003-12-29T11:30:30Z,The Frying Pan Mystery,Alex Tabarrok,0
+2003/12/holiday_guests,20314,2003-12-29T20:32:17Z,Holiday guests,Alex Tabarrok,0
+2003/12/10th_anniversar,20313,2003-12-30T00:04:00Z,10th anniversary for NAFTA,Tyler Cowen,0
+2003/12/do_we_overvalue,20311,2003-12-30T10:30:00Z,Do we overvalue the difficult?,Tyler Cowen,0
+2003/12/competition_ign,20310,2003-12-30T11:48:58Z,"Competition, Ignorance and Football",Fabio Rojas,0
+2003/12/my_new_years_re,20309,2003-12-31T00:01:00Z,My New Year's resolutions,Tyler Cowen,0
+2003/12/the_new_german_,20308,2003-12-31T00:05:00Z,The new German economic reforms,Tyler Cowen,0
+2003/12/are_there_liber,20307,2003-12-31T06:03:53Z,Are there libertarian heroes?,Tyler Cowen,0
+2003/12/productivity_an,20306,2003-12-31T13:13:00Z,Productivity and unemployment,Alex Tabarrok,0
 2004/01/mexican_tax_ref,20305,2004-01-01T09:05:00Z,Mexican tax reform fails,Tyler Cowen,0
 2004/01/house_of_sand_a,20304,2004-01-01T21:41:06Z,House of Sand and Fog and Preferred Children,Fabio Rojas,0
 2004/01/possible_good_n,20303,2004-01-02T07:30:00Z,Possible good news about global warming,Tyler Cowen,0
