@@ -40,6 +40,7 @@ replace_non_ascii = function(x) {
     subfun('è', 'e') %>%
     subfun('ë', 'e') %>%
     subfun('İ', 'I') %>%
+    subfun('Ã­', 'i') %>%
     subfun('í', 'i') %>%
     subfun('L̶', 'L') %>%
     subfun('ł', 'l') %>%
@@ -58,6 +59,7 @@ replace_non_ascii = function(x) {
     subfun('Ž', 'Z') %>%
     subfun('ž', 'z') %>%
     subfun('ʼ', '\'') %>%
+    subfun('´', '\'') %>%
     subfun('‘', '\'') %>%
     subfun('’', '\'') %>%
     subfun('“', '"') %>%
