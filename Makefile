@@ -1,4 +1,4 @@
-all: data
+all: data package
 
 data: sitemap posts metadata categories
 
@@ -14,4 +14,7 @@ metadata:
 categories:
 	Rscript data-raw/categories.R
 
-.PHONY: all data sitemap posts metadata categories
+package:
+	Rscript -e "devtools::install()"
+
+.PHONY: all data sitemap posts metadata categories package
