@@ -9,6 +9,8 @@ Authors@R:
          role = c("aut", "cre"),
          comment = c(ORCID = "0000-0002-1749-4567"))
 Description: Data on Marginal Revolution blog posts.
+URL: https://github.com/bldavies/MRposts
+BugReports: https://github.com/bldavies/MRposts/issues
 Depends: R (>= 2.10)
 Suggests: dplyr
 License: CC0
