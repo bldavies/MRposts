@@ -54189,6 +54189,8 @@ id,category
 85519,Web/Tech
 85522,Economics
 85522,Philosophy
+85523,Data Source
+85523,Economics
 85525,Books
 85525,Data Source
 85525,Economics
@@ -54201,6 +54203,8 @@ id,category
 85534,Travel
 85536,Current Affairs
 85536,Economics
+85538,Economics
+85538,Law
 85539,Current Affairs
 85539,Economics
 85539,Law
@@ -54220,6 +54224,7 @@ id,category
 85551,Travels
 85552,Law
 85555,Current Affairs
+85560,Economics
 85563,Books
 85563,Philosophy
 85563,Science
@@ -54243,13 +54248,19 @@ id,category
 85572,Political Science
 85579,Current Affairs
 85579,Food and Drink
+85583,Books
+85583,The Arts
+85583,Travel
 85584,Games
+85585,Data Source
+85585,Economics
 85587,Science
 85587,Web/Tech
 85590,Current Affairs
 85590,Economics
 85591,Economics
 85591,Law
+85594,Web/Tech
 85595,Sports
 85596,Current Affairs
 85596,Medicine
@@ -54273,6 +54284,199 @@ id,category
 85606,Economics
 85606,History
 85606,Law
+85608,Economics
+85608,History
+85608,Law
+85608,Medicine
 85609,Web/Tech
 85613,Books
 85614,The Arts
+85618,Books
+85622,Books
+85622,History
+85622,Law
+85622,Web/Tech
+85623,Economics
+85624,History
+85628,Books
+85628,Current Affairs
+85628,Economics
+85630,Economics
+85634,Web/Tech
+85635,Political Science
+85635,Science
+85635,Web/Tech
+85639,Web/Tech
+85640,Data Source
+85640,Economics
+85642,Data Source
+85642,Economics
+85644,Current Affairs
+85644,Economics
+85644,Education
+85651,Data Source
+85651,Science
+85655,Education
+85655,History
+85655,Science
+85655,The Arts
+85656,Books
+85656,History
+85656,Science
+85657,Current Affairs
+85657,Data Source
+85657,Media
+85658,Film
+85658,Travel
+85658,Travels
+85659,Data Source
+85661,Film
+85661,Television
+85662,History
+85662,Political Science
+85662,Web/Tech
+85665,Economics
+85668,Games
+85669,Weblogs
+85674,Economics
+85674,Education
+85674,Film
+85677,Science
+85677,Web/Tech
+85679,Law
+85679,Medicine
+85680,Current Affairs
+85680,Economics
+85680,History
+85680,Law
+85682,Medicine
+85685,Science
+85685,Web/Tech
+85691,Economics
+85691,Medicine
+85694,Science
+85694,Web/Tech
+85696,Current Affairs
+85696,Economics
+85696,Science
+85699,Web/Tech
+85703,History
+85704,Education
+85704,Science
+85705,History
+85706,Economics
+85708,Travels
+85710,Economics
+85710,Web/Tech
+85711,Law
+85713,Food and Drink
+85715,Current Affairs
+85715,Economics
+85715,Law
+85718,Web/Tech
+85720,Economics
+85724,Data Source
+85724,Economics
+85724,Education
+85725,Data Source
+85725,Economics
+85725,Science
+85726,Economics
+85728,Current Affairs
+85728,Economics
+85729,Current Affairs
+85729,Political Science
+85729,Web/Tech
+85730,Current Affairs
+85730,Economics
+85730,History
+85731,Economics
+85731,Web/Tech
+85733,Current Affairs
+85733,Law
+85734,Law
+85734,Web/Tech
+85737,Books
+85737,Data Source
+85737,Economics
+85738,Books
+85738,History
+85738,Political Science
+85738,Religion
+85738,The Arts
+85739,Economics
+85739,Science
+85744,Travel
+85749,Books
+85749,Economics
+85749,Weblogs
+85752,Economics
+85752,Law
+85753,Economics
+85753,Law
+85753,Political Science
+85754,Law
+85754,Web/Tech
+85756,Economics
+85756,Web/Tech
+85759,Books
+85759,History
+85759,Religion
+85763,Current Affairs
+85763,Medicine
+85764,Books
+85764,Economics
+85765,Data Source
+85765,Economics
+85766,Education
+85769,Data Source
+85769,Economics
+85769,Web/Tech
+85771,Books
+85771,Medicine
+85771,Web/Tech
+85772,Data Source
+85772,Economics
+85772,Education
+85772,Law
+85773,Television
+85774,Music
+85776,Economics
+85776,Music
+85776,Philosophy
+85776,Religion
+85777,Political Science
+85777,Web/Tech
+85778,Economics
+85778,Law
+85781,Current Affairs
+85781,Science
+85782,Books
+85782,Economics
+85782,History
+85784,Film
+85784,Television
+85786,Science
+85787,Philosophy
+85787,Political Science
+85788,Books
+85788,Web/Tech
+85789,Economics
+85790,Economics
+85791,Education
+85791,Philosophy
+85791,Political Science
+85794,Current Affairs
+85795,History
+85795,Music
+85796,Economics
+85796,Web/Tech
+85798,Books
+85798,Political Science
+85803,Books
+85803,History
+85803,Science
+85805,Philosophy
+85805,Religion
+85805,Science
+85806,Current Affairs
