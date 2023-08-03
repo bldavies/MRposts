@@ -54849,6 +54849,7 @@ id,category
 86171,Data Source
 86171,Medicine
 86172,Books
+86173,Books
 86174,Current Affairs
 86174,Economics
 86174,History
@@ -54878,6 +54879,8 @@ id,category
 86200,Philosophy
 86200,Political Science
 86204,Political Science
+86205,Books
+86205,History
 86206,Games
 86207,Web/Tech
 86213,Food and Drink
@@ -54896,4 +54899,201 @@ id,category
 86217,Education
 86220,Economics
 86221,Philosophy
+86222,Education
 86223,Data Source
+86226,Books
+86226,Education
+86226,History
+86227,Current Affairs
+86227,Economics
+86227,Political Science
+86228,Web/Tech
+86234,Economics
+86237,Science
+86237,Web/Tech
+86238,History
+86238,Political Science
+86240,History
+86241,Books
+86241,Religion
+86242,Books
+86242,Food and Drink
+86246,Religion
+86247,Current Affairs
+86250,Economics
+86251,Data Source
+86251,Law
+86252,Books
+86252,History
+86252,Science
+86253,Current Affairs
+86254,Current Affairs
+86254,Law
+86255,Current Affairs
+86255,Film
+86255,History
+86256,Current Affairs
+86256,Economics
+86259,Web/Tech
+86263,Current Affairs
+86263,Economics
+86265,Economics
+86267,Education
+86267,Philosophy
+86273,Economics
+86273,The Arts
+86274,Web/Tech
+86276,Web/Tech
+86277,Economics
+86277,Education
+86278,Current Affairs
+86278,Economics
+86279,Sports
+86281,Political Science
+86283,Economics
+86283,Medicine
+86287,Law
+86288,Books
+86289,Current Affairs
+86289,Economics
+86289,Education
+86290,Economics
+86290,Education
+86291,Economics
+86291,Law
+86293,Economics
+86293,Education
+86293,Web/Tech
+86294,Economics
+86296,Data Source
+86296,Medicine
+86297,Education
+86298,Data Source
+86298,Law
+86298,Medicine
+86299,Medicine
+86299,Web/Tech
+86301,Law
+86301,Web/Tech
+86305,Data Source
+86305,Education
+86306,Current Affairs
+86306,Economics
+86307,Books
+86307,History
+86307,Music
+86307,Philosophy
+86307,Political Science
+86307,Religion
+86307,The Arts
+86309,Political Science
+86310,Economics
+86311,Economics
+86313,Economics
+86315,Economics
+86317,Law
+86318,Education
+86318,Web/Tech
+86319,Economics
+86321,Data Source
+86321,Political Science
+86324,Economics
+86324,Sports
+86326,Law
+86327,Current Affairs
+86327,Economics
+86328,Current Affairs
+86328,Political Science
+86330,Economics
+86330,Science
+86331,Current Affairs
+86331,Data Source
+86331,Law
+86332,Film
+86334,Current Affairs
+86334,Economics
+86334,Medicine
+86336,Sports
+86337,Political Science
+86339,Education
+86340,Data Source
+86340,Economics
+86340,Education
+86340,Medicine
+86341,Current Affairs
+86341,Economics
+86342,Web/Tech
+86345,Economics
+86353,Books
+86353,Education
+86353,Philosophy
+86357,Web/Tech
+86358,Data Source
+86359,Books
+86359,History
+86359,Philosophy
+86359,Religion
+86361,Film
+86362,Current Affairs
+86362,Education
+86362,Media
+86362,Music
+86362,Philosophy
+86362,The Arts
+86363,Philosophy
+86363,Science
+86367,Film
+86368,Current Affairs
+86368,Film
+86368,Television
+86368,The Arts
+86368,Web/Tech
+86371,Books
+86371,Current Affairs
+86371,Science
+86374,Current Affairs
+86374,Data Source
+86375,Data Source
+86375,Education
+86377,Medicine
+86378,Current Affairs
+86378,Economics
+86378,Education
+86378,Food and Drink
+86381,Data Source
+86383,Data Source
+86383,Education
+86383,Weblogs
+86384,Books
+86384,Medicine
+86387,Data Source
+86389,Economics
+86389,Law
+86391,Economics
+86391,History
+86391,Law
+86395,Books
+86395,Television
+86397,Science
+86400,Music
+86400,Religion
+86400,The Arts
+86402,Economics
+86402,Film
+86403,Current Affairs
+86403,Travel
+86403,Travels
+86409,Political Science
+86409,Web/Tech
+86414,Current Affairs
+86414,Economics
+86414,Law
+86418,Food and Drink
+86418,Travels
+86420,Economics
+86420,Sports
+86422,Economics
+86423,Data Source
+86424,Books
+86424,Travel
+86427,Weblogs
